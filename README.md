@@ -1,7 +1,7 @@
 # awesome-testflight
 Collect Public Testflight app URL
 
-## Microsoft
+## App List
 
 | Name | Url | Available |
 |--|--|--|
