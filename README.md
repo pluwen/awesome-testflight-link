@@ -208,6 +208,7 @@ Collect Public Testflight app URL
 | Microcosm – AR Voxel Drawing | [https://testflight.apple.com/join/PIojYHhU](https://testflight.apple.com/join/PIojYHhU) |
 | Microsoft Edge | [https://testflight.apple.com/join/VtDI7uRL](https://testflight.apple.com/join/VtDI7uRL) | Full |
 | Microsoft Excel | [https://testflight.apple.com/join/3lIiz1eZ](https://testflight.apple.com/join/3lIiz1eZ) | Yes |
+| Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | Yes |
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | Full |
 | Microsoft OneNote | [https://testflight.apple.com/join/uDgoqfGS](https://testflight.apple.com/join/uDgoqfGS) | Yes |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | Full |
