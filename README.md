@@ -215,6 +215,7 @@ Collect Public Testflight app URL
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | Full |
 | Microsoft To-Do | [https://testflight.apple.com/join/JSq3UkAz](https://testflight.apple.com/join/JSq3UkAz) | Yes |
 | Microsoft Whiteboard | [https://testflight.apple.com/join/HSWkbCxV](https://testflight.apple.com/join/HSWkbCxV) | Yes |
+| Microsoft Word | [https://testflight.apple.com/join/hw76phYi](https://testflight.apple.com/join/hw76phYi) | Full |
 | Mixing Station | [https://testflight.apple.com/join/lsd9mugy](https://testflight.apple.com/join/lsd9mugy) |
 | MK播放器 | [https://testflight.apple.com/join/qUEu2p3L](https://testflight.apple.com/join/qUEu2p3L) | No |
 | Mojo - Create Video Stories | [https://testflight.apple.com/join/AJlrDMao](https://testflight.apple.com/join/AJlrDMao) |
