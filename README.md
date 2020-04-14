@@ -299,6 +299,7 @@ Collect Public Testflight app URL
 | Pushover Notifications | [https://testflight.apple.com/join/vkwfdWM0](https://testflight.apple.com/join/vkwfdWM0) |
 | Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur](https://testflight.apple.com/join/qDkBu2ur) | Full |
 | Pyto-Python IDE | [https://testflight.apple.com/join/Kts3HqEj](https://testflight.apple.com/join/Kts3HqEj) |
+| QQ | [https://testflight.apple.com/join/zfOK5Q1Q](https://testflight.apple.com/join/zfOK5Q1Q) |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) | Yes |
 | QQ音乐 | [https://testflight.apple.com/join/s5wwLCur](https://testflight.apple.com/join/s5wwLCur) | No |
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | Full |
