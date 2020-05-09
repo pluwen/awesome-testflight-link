@@ -482,7 +482,7 @@ Collect Public Testflight app URL
 | 票夹 | [https://testflight.apple.com/join/sPJTq8Ff](https://testflight.apple.com/join/sPJTq8Ff) |
 | 简书 | [https://testflight.apple.com/join/qlNiqNNA](https://testflight.apple.com/join/qlNiqNNA) | Yes |
 | 网易云音乐 | [https://testflight.apple.com/join/iNbrKSVg](https://testflight.apple.com/join/iNbrKSVg) | No |
-| 网易云音乐 | [https://testflight.apple.com/join/xEgeKx1L](https://testflight.apple.com/join/xEgeKx1L) |
+| 网易云音乐 | [https://testflight.apple.com/join/xEgeKx1L](https://testflight.apple.com/join/xEgeKx1L) | No |
 | 网盘搜索-资源搜索神器 | [https://testflight.apple.com/join/k02d3pgQ](https://testflight.apple.com/join/k02d3pgQ) | Yes |
 | 讯飞输入法 | [https://testflight.apple.com/join/P7p592l7](https://testflight.apple.com/join/P7p592l7) | Yes |
 | 豌豆多多 | [https://testflight.apple.com/join/gbcprIXM](https://testflight.apple.com/join/gbcprIXM) | No |
