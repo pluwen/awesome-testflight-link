@@ -507,7 +507,7 @@ Collect Public Testflight app URL
 | 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) | Yes |
 | 寒梅 | [https://testflight.apple.com/join/7U4YKpl2](https://testflight.apple.com/join/7U4YKpl2) |
 | 小記 | [https://testflight.apple.com/join/aqoXcoG3](https://testflight.apple.com/join/aqoXcoG3) |
-| 微信 | [https://testflight.apple.com/join/N9VUwtqZ](https://testflight.apple.com/join/N9VUwtqZ) | No |
+| 微信 | [https://testflight.apple.com/join/vYK18GtL](https://testflight.apple.com/join/vYK18GtL) | No |
 | 捷径社区 | [https://testflight.apple.com/join/LeuKqKYX](https://testflight.apple.com/join/LeuKqKYX) | Full |
 | 易有云 | [https://testflight.apple.com/join/Pl4jm65I](https://testflight.apple.com/join/Pl4jm65I) |
 | 期待 | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) |
