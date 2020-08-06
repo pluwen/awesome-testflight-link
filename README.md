@@ -520,38 +520,39 @@ Collect Public Testflight app URL
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) |
 | QQ音乐 | [https://testflight.apple.com/join/s5wwLCur](https://testflight.apple.com/join/s5wwLCur) |
 | TIM | [https://task.qq.com/index.php/ios/inviteDownload/com.tencent.tim/3.1.0.48](https://task.qq.com/index.php/ios/inviteDownload/com.tencent.tim/3.1.0.48) |
-| 七猫小说 | [https://testflight.apple.com/join/UaD5Pl6t](https://testflight.apple.com/join/UaD5Pl6t) |
-| 京东 | [https://testflight.apple.com/join/geAtB7Mp ](https://testflight.apple.com/join/geAtB7Mp) |
-| 今日头条 | [https://testflight.apple.com/join/eiVccFIZ](https://testflight.apple.com/join/eiVccFIZ) |
-| 企鹅电竞 | [https://testflight.apple.com/join/yjtogTGe](https://testflight.apple.com/join/yjtogTGe) |
-| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) |
-| 哔哩哔哩 HD | [https://testflight.apple.com/join/Fwa9TCKU](https://testflight.apple.com/join/Fwa9TCKU) |
-| 哔哩哔哩通用版 | [https://testflight.apple.com/join/1n6x5V4w](https://testflight.apple.com/join/1n6x5V4w) |
-| 寒梅 | [https://testflight.apple.com/join/7U4YKpl2](https://testflight.apple.com/join/7U4YKpl2) |
-| 小記 | [https://testflight.apple.com/join/aqoXcoG3](https://testflight.apple.com/join/aqoXcoG3) |
 | 微信 | [https://testflight.apple.com/join/vYK18GtL](https://testflight.apple.com/join/vYK18GtL) |
-| 捷径社区 | [https://testflight.apple.com/join/LeuKqKYX](https://testflight.apple.com/join/LeuKqKYX) | Full |
-| 易有云 | [https://testflight.apple.com/join/Pl4jm65I](https://testflight.apple.com/join/Pl4jm65I) |
-| 期待 | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) |
-| 树洞(sudo) | [https://testflight.apple.com/join/dNThSezF](https://testflight.apple.com/join/dNThSezF) |
-| 泼辣修图出品视频编辑应用 24fps | [https://testflight.apple.com/join/aY3y9aOM](https://testflight.apple.com/join/aY3y9aOM) |
 | 淘宝 | [https://testflight.apple.com/join/6RkZilhO](https://testflight.apple.com/join/6RkZilhO) |
-| 滴答清单 TickTick | [https://testflight.apple.com/join/lCgZjMit](https://testflight.apple.com/join/lCgZjMit) |
-| 爱阅书香 | [https://testflight.apple.com/join/23FPuktF](https://testflight.apple.com/join/23FPuktF) |
-| 番组计划 | [https://testflight.apple.com/join/N0bwYmVR](https://testflight.apple.com/join/N0bwYmVR) |
-| 百度网盘 HD | [https://testflight.apple.com/join/A0HM2av9](https://testflight.apple.com/join/A0HM2av9) |
 | 知乎 | [https://testflight.apple.com/join/TX83Mn7J ](https://testflight.apple.com/join/TX83Mn7J) |
-| 石头阅读 | [https://testflight.apple.com/join/0x2bROvq](https://testflight.apple.com/join/0x2bROvq) |
-| 票夹 | [https://testflight.apple.com/join/sPJTq8Ff](https://testflight.apple.com/join/sPJTq8Ff) |
+| 京东 | [https://testflight.apple.com/join/geAtB7Mp ](https://testflight.apple.com/join/geAtB7Mp) |
 | 简书 | [https://testflight.apple.com/join/qlNiqNNA](https://testflight.apple.com/join/qlNiqNNA) |
 | 网易云音乐 | [https://testflight.apple.com/join/iNbrKSVg](https://testflight.apple.com/join/iNbrKSVg) |
+| 高德地图 | [https://testflight.apple.com/join/b3SoyP3z](https://testflight.apple.com/join/b3SoyP3z) |
 | 网易云音乐 | [https://testflight.apple.com/join/xEgeKx1L](https://testflight.apple.com/join/xEgeKx1L) |
 | 网易云音乐 HD | [https://testflight.apple.com/join/G08IwVFs](https://testflight.apple.com/join/G08IwVFs) |
-| 网盘搜索-资源搜索神器 | [https://testflight.apple.com/join/k02d3pgQ](https://testflight.apple.com/join/k02d3pgQ) |
+| 百度网盘 HD | [https://testflight.apple.com/join/A0HM2av9](https://testflight.apple.com/join/A0HM2av9) |
 | 讯飞输入法 | [https://testflight.apple.com/join/P7p592l7](https://testflight.apple.com/join/P7p592l7) |
-| 豌豆多多 | [https://testflight.apple.com/join/gbcprIXM](https://testflight.apple.com/join/gbcprIXM) |
+| 今日头条 | [https://testflight.apple.com/join/eiVccFIZ](https://testflight.apple.com/join/eiVccFIZ) |
+| 滴答清单 TickTick | [https://testflight.apple.com/join/lCgZjMit](https://testflight.apple.com/join/lCgZjMit) |
+| 哔哩哔哩 HD | [https://testflight.apple.com/join/Fwa9TCKU](https://testflight.apple.com/join/Fwa9TCKU) |
+| 哔哩哔哩通用版 | [https://testflight.apple.com/join/1n6x5V4w](https://testflight.apple.com/join/1n6x5V4w) |
+| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) |
 | 酷安 - 发现科技新生活 | [https://testflight.apple.com/join/9ennNtu2](https://testflight.apple.com/join/9ennNtu2) |
+| 捷径社区 | [https://testflight.apple.com/join/LeuKqKYX](https://testflight.apple.com/join/LeuKqKYX) | Full |
+| 树洞(sudo) | [https://testflight.apple.com/join/dNThSezF](https://testflight.apple.com/join/dNThSezF) |
+| 泼辣修图出品视频编辑应用 24fps | [https://testflight.apple.com/join/aY3y9aOM](https://testflight.apple.com/join/aY3y9aOM) |
+| 石头阅读 | [https://testflight.apple.com/join/0x2bROvq](https://testflight.apple.com/join/0x2bROvq) |
+| 豌豆多多 | [https://testflight.apple.com/join/gbcprIXM](https://testflight.apple.com/join/gbcprIXM) |
+| 票夹 | [https://testflight.apple.com/join/sPJTq8Ff](https://testflight.apple.com/join/sPJTq8Ff) |
 | 阅读清单 | [https://testflight.apple.com/join/kBS5mVao](https://testflight.apple.com/join/kBS5mVao) |
+| 番组计划 | [https://testflight.apple.com/join/N0bwYmVR](https://testflight.apple.com/join/N0bwYmVR) |
+| 小記 | [https://testflight.apple.com/join/aqoXcoG3](https://testflight.apple.com/join/aqoXcoG3) |
+| 七猫小说 | [https://testflight.apple.com/join/UaD5Pl6t](https://testflight.apple.com/join/UaD5Pl6t) |
+| 网盘搜索 | [https://testflight.apple.com/join/k02d3pgQ](https://testflight.apple.com/join/k02d3pgQ) |
+| 企鹅电竞 | [https://testflight.apple.com/join/yjtogTGe](https://testflight.apple.com/join/yjtogTGe) |
+| 寒梅 | [https://testflight.apple.com/join/7U4YKpl2](https://testflight.apple.com/join/7U4YKpl2) |
+| 易有云 | [https://testflight.apple.com/join/Pl4jm65I](https://testflight.apple.com/join/Pl4jm65I) |
+| 期待 | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) |
+| 爱阅书香 | [https://testflight.apple.com/join/23FPuktF](https://testflight.apple.com/join/23FPuktF) |
 | 黑匣子 Player | [https://testflight.apple.com/join/uCsUGsvN](https://testflight.apple.com/join/uCsUGsvN) |
 
 ## Signup Links
