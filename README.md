@@ -4,7 +4,7 @@ Collect Public Testflight app URL
 ## App List
 
 | Name | Url |
-|--|--|--|
+|--|--|
 | 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/Sl7m9yyz](https://testflight.apple.com/join/Sl7m9yyz) |
 | 1Blocker X | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) |
 | 1Password - Password Manager| [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) |
@@ -515,7 +515,7 @@ Collect Public Testflight app URL
 ## Chinese App
 
 | Name | Url |
-|--|--|--|
+|--|--|
 | QQ | [https://testflight.apple.com/join/4TWQm1VZ](https://testflight.apple.com/join/4TWQm1VZ) |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) |
 | QQ音乐 | [https://testflight.apple.com/join/s5wwLCur](https://testflight.apple.com/join/s5wwLCur) |
@@ -557,7 +557,7 @@ Collect Public Testflight app URL
 ## Signup Links
 
 | Name | Url |
-|--|--|--|
+|--|--|
 | AdGuard | [https://surveys.adguard.com/beta\_testing\_program/form.html](https://surveys.adguard.com/beta_testing_program/form.html) |
 | BlackBerry Messenger (BBM) | [https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform) |
 | Deezer | [https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i\_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1) |
