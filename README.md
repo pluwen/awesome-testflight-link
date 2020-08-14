@@ -525,6 +525,7 @@ Collect Public Testflight app URL
 | 淘宝 | [https://testflight.apple.com/join/6RkZilhO](https://testflight.apple.com/join/6RkZilhO) |
 | 知乎 | [https://testflight.apple.com/join/TX83Mn7J ](https://testflight.apple.com/join/TX83Mn7J) |
 | 京东 | [https://testflight.apple.com/join/geAtB7Mp ](https://testflight.apple.com/join/geAtB7Mp) |
+| 陌陌 | [https://testflight.apple.com/join/Dyl1Po6h ](https://testflight.apple.com/join/Dyl1Po6h) |
 | 简书 | [https://testflight.apple.com/join/qlNiqNNA](https://testflight.apple.com/join/qlNiqNNA) |
 | 网易云音乐 | [https://testflight.apple.com/join/iNbrKSVg](https://testflight.apple.com/join/iNbrKSVg) |
 | 高德地图 | [https://testflight.apple.com/join/b3SoyP3z](https://testflight.apple.com/join/b3SoyP3z) |
