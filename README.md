@@ -518,7 +518,7 @@ Collect Public Testflight app URL
 
 | Name | Url |
 |--|--|
-| QQ | [https://testflight.apple.com/join/KopG7yK2](https://testflight.apple.com/join/KopG7yK2) |
+| QQ | [https://testflight.apple.com/join/YFA8lzZA](https://testflight.apple.com/join/YFA8lzZA) |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) |
 | QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) |
 | TIM | [https://task.qq.com/index.php/ios/inviteDownload/com.tencent.tim/3.1.0.48](https://task.qq.com/index.php/ios/inviteDownload/com.tencent.tim/3.1.0.48) |
