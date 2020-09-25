@@ -542,6 +542,7 @@ Collect Public Testflight app URL
 | 哔哩哔哩 HD | [https://testflight.apple.com/join/Fwa9TCKU](https://testflight.apple.com/join/Fwa9TCKU) |
 | 哔哩哔哩通用版 | [https://testflight.apple.com/join/1n6x5V4w](https://testflight.apple.com/join/1n6x5V4w) |
 | 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) |
+| 酷狗音乐 HD | [https://testflight.apple.com/join/Smx1hhM8](https://testflight.apple.com/join/Smx1hhM8) |
 | 酷安 - 发现科技新生活 | [https://testflight.apple.com/join/9ennNtu2](https://testflight.apple.com/join/9ennNtu2) |
 | 捷径社区 | [https://testflight.apple.com/join/LeuKqKYX](https://testflight.apple.com/join/LeuKqKYX) | Full |
 | 树洞(sudo) | [https://testflight.apple.com/join/dNThSezF](https://testflight.apple.com/join/dNThSezF) |
