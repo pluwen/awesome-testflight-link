@@ -389,6 +389,7 @@ Collect Public Testflight app URL
 | SocialBuzz-Social Network | [https://testflight.apple.com/join/HEZbtISZ](https://testflight.apple.com/join/HEZbtISZ) |
 | Sous Vide °Celsius | [https://testflight.apple.com/join/pglwyYBC](https://testflight.apple.com/join/pglwyYBC) |
 | Space Browser | [https://testflight.apple.com/join/UZCCWbHA](https://testflight.apple.com/join/UZCCWbHA) |
+| Spark Mail - Email by Readdle | [https://testflight.apple.com/join/O2wj7i0x](https://testflight.apple.com/join/O2wj7i0x) |
 | Spartan Runner X | [https://testflight.apple.com/join/mFLqaDY5](https://testflight.apple.com/join/mFLqaDY5) |
 | Speck - Web Playground | [https://testflight.apple.com/join/r6kZKMzv](https://testflight.apple.com/join/r6kZKMzv) |
 | SpeedCN - 海外VPN网络加速器 | [https://testflight.apple.com/join/Ks9a8MlH](https://testflight.apple.com/join/Ks9a8MlH) |
@@ -527,6 +528,7 @@ Collect Public Testflight app URL
 | 微信 | [https://testflight.apple.com/join/0SRg1tsd](https://testflight.apple.com/join/0SRg1tsd) |
 | 微信读书 | [https://testflight.apple.com/join/Xh6WTh0P](https://testflight.apple.com/join/Xh6WTh0P) |
 | 淘宝 | [https://testflight.apple.com/join/6RkZilhO](https://testflight.apple.com/join/6RkZilhO) |
+| 豆瓣 | [https://testflight.apple.com/join/OXkZhrB3](https://testflight.apple.com/join/OXkZhrB3) |
 | 知乎 | [https://testflight.apple.com/join/TX83Mn7J ](https://testflight.apple.com/join/TX83Mn7J) |
 | 京东 | [https://testflight.apple.com/join/geAtB7Mp ](https://testflight.apple.com/join/geAtB7Mp) |
 | 陌陌 | [https://testflight.apple.com/join/Dyl1Po6h ](https://testflight.apple.com/join/Dyl1Po6h) |
@@ -572,7 +574,7 @@ Collect Public Testflight app URL
 | Deezer | [https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i\_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1) |
 | Firefox | [https://www.mozilla.org/en-US/firefox/ios/testflight/](https://www.mozilla.org/en-US/firefox/ios/testflight/) |
 | Google Apps (ALL) | [https://previewapps.withgoogle.com/](https://previewapps.withgoogle.com/) |
-| Google Chrome Beta | [https://www.google.com/chrome/beta/](https://www.google.com/chrome/beta/) |
+| Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) |
 | IFTTT | [https://docs.google.com/forms/d/e/1FAIpQLSdXzjY\_hv8F8UMa58IIEmqAyZ\_ixAbxxltiuwQAWa\_9uyYEMQ/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLSdXzjY_hv8F8UMa58IIEmqAyZ_ixAbxxltiuwQAWa_9uyYEMQ/viewform?c=0&w=1) |
 | Microsoft Excel | [https://aka.ms/iOSInsiderExcel](https://aka.ms/iOSInsiderExcel) |
 | Microsoft OneNote | [https://aka.ms/iOSInsiderOneNote](https://aka.ms/iOSInsiderOneNote) |
