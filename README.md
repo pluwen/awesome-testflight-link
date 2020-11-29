@@ -525,8 +525,9 @@ Collect Public Testflight app URL
 | QQ | [https://testflight.apple.com/join/p6EogtFu](https://testflight.apple.com/join/p6EogtFu) |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) |
 | QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) |
+| QQ邮箱 | [https://testflight.apple.com/join/4CQiAI4w](https://testflight.apple.com/join/4CQiAI4w) |
 | TIM | [https://task.qq.com/index.php/ios/inviteDownload/com.tencent.tim/3.1.0.48](https://task.qq.com/index.php/ios/inviteDownload/com.tencent.tim/3.1.0.48) |
-| 微信 | [https://testflight.apple.com/join/0SRg1tsd](https://testflight.apple.com/join/0SRg1tsd) |
+| 微信 | [https://testflight.apple.com/join/1gg1s96V](https://testflight.apple.com/join/1gg1s96V) |
 | 微信读书 | [https://testflight.apple.com/join/Xh6WTh0P](https://testflight.apple.com/join/Xh6WTh0P) |
 | 淘宝 | [https://testflight.apple.com/join/6RkZilhO](https://testflight.apple.com/join/6RkZilhO) |
 | 豆瓣 | [https://testflight.apple.com/join/OXkZhrB3](https://testflight.apple.com/join/OXkZhrB3) |
@@ -535,6 +536,7 @@ Collect Public Testflight app URL
 | 陌陌 | [https://testflight.apple.com/join/Dyl1Po6h ](https://testflight.apple.com/join/Dyl1Po6h) |
 | 简书 | [https://testflight.apple.com/join/qlNiqNNA](https://testflight.apple.com/join/qlNiqNNA) |
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) |
+| 百度贴吧 | [https://testflight.apple.com/join/BKRIVf2f](https://testflight.apple.com/join/BKRIVf2f) |
 | 网易云音乐 | [https://testflight.apple.com/join/iNbrKSVg](https://testflight.apple.com/join/iNbrKSVg) |
 | 高德地图 | [https://testflight.apple.com/join/b3SoyP3z](https://testflight.apple.com/join/b3SoyP3z) |
 | 网易云音乐 | [https://testflight.apple.com/join/xEgeKx1L](https://testflight.apple.com/join/xEgeKx1L) |
