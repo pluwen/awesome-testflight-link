@@ -540,7 +540,7 @@ Collect Public Testflight app URL
 | 百度贴吧 | [https://testflight.apple.com/join/BKRIVf2f](https://testflight.apple.com/join/BKRIVf2f) |
 | 网易云音乐 | [https://testflight.apple.com/join/iNbrKSVg](https://testflight.apple.com/join/iNbrKSVg) |
 | 高德地图 | [https://testflight.apple.com/join/b3SoyP3z](https://testflight.apple.com/join/b3SoyP3z) |
-| 网易云音乐 | [https://testflight.apple.com/join/xEgeKx1L](https://testflight.apple.com/join/xEgeKx1L) |
+| 网易云音乐 | [https://testflight.apple.com/join/QcbhHINF](https://testflight.apple.com/join/QcbhHINF) |
 | 网易云音乐 HD | [https://testflight.apple.com/join/G08IwVFs](https://testflight.apple.com/join/G08IwVFs) |
 | 百度网盘 HD | [https://testflight.apple.com/join/A0HM2av9](https://testflight.apple.com/join/A0HM2av9) |
 | 讯飞输入法 | [https://testflight.apple.com/join/P7p592l7](https://testflight.apple.com/join/P7p592l7) |
