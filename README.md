@@ -523,7 +523,7 @@ Collect Public Testflight app URL
 
 | Name | Url |
 |--|--|
-| QQ | [https://testflight.apple.com/join/p6EogtFu](https://testflight.apple.com/join/p6EogtFu) |
+| QQ | [https://testflight.apple.com/join/OvLVLetT](https://testflight.apple.com/join/OvLVLetT) |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) |
 | QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) |
 | QQ邮箱 | [https://testflight.apple.com/join/4CQiAI4w](https://testflight.apple.com/join/4CQiAI4w) |
