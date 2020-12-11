@@ -541,6 +541,7 @@ Collect Public Testflight app URL
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) |
 | 熊猫吃短信 | [https://testflight.apple.com/join/qMCQlMiZ](https://testflight.apple.com/join/qMCQlMiZ) |
 | 百度贴吧 | [https://testflight.apple.com/join/BKRIVf2f](https://testflight.apple.com/join/BKRIVf2f) |
+| 百度地图 | [https://testflight.apple.com/join/N2EkNkn3](https://testflight.apple.com/join/N2EkNkn3) |
 | 网易云音乐 | [https://testflight.apple.com/join/iNbrKSVg](https://testflight.apple.com/join/iNbrKSVg) |
 | 高德地图 | [https://testflight.apple.com/join/b3SoyP3z](https://testflight.apple.com/join/b3SoyP3z) |
 | 网易云音乐 | [https://testflight.apple.com/join/QcbhHINF](https://testflight.apple.com/join/QcbhHINF) |
