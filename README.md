@@ -13,6 +13,7 @@ Collect Public Testflight app URL
 | 9GAG: Best LOL Pics & GIFs | [https://testflight.apple.com/join/S2q4mD2b](https://testflight.apple.com/join/S2q4mD2b) |
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) |
 | A2IPNS | [https://testflight.apple.com/join/cbUVu5XI](https://testflight.apple.com/join/cbUVu5XI) |
+| AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) |
 | Aerivo | [https://testflight.apple.com/join/NXxMcB4Y](https://testflight.apple.com/join/NXxMcB4Y) |
 | Aethyn Physics | [https://testflight.apple.com/join/fKa07bUP](https://testflight.apple.com/join/fKa07bUP) |
 | Airchat for AirPods | [https://testflight.apple.com/join/wL0ZRXln](https://testflight.apple.com/join/wL0ZRXln) |
@@ -459,7 +460,7 @@ Collect Public Testflight app URL
 | TV Time – #1 Show Tracker | [https://testflight.apple.com/join/hjKkDsc4](https://testflight.apple.com/join/hjKkDsc4) |
 | Twitch Beta | [https://testflight.apple.com/join/8vRKFAiY](https://testflight.apple.com/join/8vRKFAiY) |
 | Twitterrific: Tweet Your Way beta | [https://testflight.apple.com/join/1G3zEeId](https://testflight.apple.com/join/1G3zEeId) |
-| Ulysses | [https://testflight.apple.com/join/RXVdMPW1](https://testflight.apple.com/join/RXVdMPW1) |
+| Ulysses | [https://testflight.apple.com/join/WIO0xuYY](https://testflight.apple.com/join/WIO0xuYY) |
 | Unicode Keyboard | [https://testflight.apple.com/join/YKH3kGpt](https://testflight.apple.com/join/YKH3kGpt) |
 | Unionistas CF | [https://testflight.apple.com/join/Z4GkEGfR](https://testflight.apple.com/join/Z4GkEGfR) |
 | UniversalCoin | [https://testflight.apple.com/join/7Kvdt0E9](https://testflight.apple.com/join/7Kvdt0E9) |
@@ -538,8 +539,10 @@ Collect Public Testflight app URL
 | 微信读书 | [https://testflight.apple.com/join/Xh6WTh0P](https://testflight.apple.com/join/Xh6WTh0P) |
 | 淘宝 | [https://testflight.apple.com/join/6RkZilhO](https://testflight.apple.com/join/6RkZilhO) |
 | 豆瓣 | [https://testflight.apple.com/join/OXkZhrB3](https://testflight.apple.com/join/OXkZhrB3) |
-| 知乎 | [https://testflight.apple.com/join/TX83Mn7J ](https://testflight.apple.com/join/TX83Mn7J) |
-| 京东 | [https://testflight.apple.com/join/geAtB7Mp ](https://testflight.apple.com/join/geAtB7Mp) |
+| 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) |
+| 千牛 | [https://testflight.apple.com/join/lk3b4aCF](https://testflight.apple.com/join/lk3b4aCF) |
+| 京东 | [https://testflight.apple.com/join/geAtB7Mp](https://testflight.apple.com/join/geAtB7Mp) |
+| 阿里云盘 | [https://testflight.apple.com/join/yi8oG8bi](https://testflight.apple.com/join/yi8oG8bi) |
 | 陌陌 | [https://testflight.apple.com/join/Dyl1Po6h ](https://testflight.apple.com/join/Dyl1Po6h) |
 | 简书 | [https://testflight.apple.com/join/qlNiqNNA](https://testflight.apple.com/join/qlNiqNNA) |
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) |
@@ -555,7 +558,7 @@ Collect Public Testflight app URL
 | 今日头条 | [https://testflight.apple.com/join/eiVccFIZ](https://testflight.apple.com/join/eiVccFIZ) |
 | 滴答清单 TickTick | [https://testflight.apple.com/join/lCgZjMit](https://testflight.apple.com/join/lCgZjMit) |
 | 哔哩哔哩 HD | [https://testflight.apple.com/join/Fwa9TCKU](https://testflight.apple.com/join/Fwa9TCKU) |
-| 哔哩哔哩通用版 | [https://testflight.apple.com/join/1n6x5V4w](https://testflight.apple.com/join/1n6x5V4w) |
+| 哔哩哔哩 | [https://testflight.apple.com/join/K4pM1kHu](https://testflight.apple.com/join/K4pM1kHu) |
 | 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) |
 | 酷狗音乐 HD | [https://testflight.apple.com/join/Smx1hhM8](https://testflight.apple.com/join/Smx1hhM8) |
 | 酷安 - 发现科技新生活 | [https://testflight.apple.com/join/9ennNtu2](https://testflight.apple.com/join/9ennNtu2) |
@@ -581,7 +584,6 @@ Collect Public Testflight app URL
 
 | Name | Url |
 |--|--|
-| AdGuard | [https://surveys.adguard.com/beta\_testing\_program/form.html](https://surveys.adguard.com/beta_testing_program/form.html) |
 | BlackBerry Messenger (BBM) | [https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform) |
 | Deezer | [https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i\_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1) |
 | Firefox | [https://www.mozilla.org/en-US/firefox/ios/testflight/](https://www.mozilla.org/en-US/firefox/ios/testflight/) |
