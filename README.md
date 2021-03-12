@@ -243,16 +243,17 @@ Collect Public Testflight app URL
 | Microsoft Bing Search | [https://testflight.apple.com/join/fB7gBKGr](https://testflight.apple.com/join/fB7gBKGr) | Full |
 | Microsoft Cortana | [https://testflight.apple.com/join/4IHpEYnz](https://testflight.apple.com/join/4IHpEYnz) |
 | Microsoft Edge | [https://testflight.apple.com/join/VtDI7uRL](https://testflight.apple.com/join/VtDI7uRL) | Full |
+| Microsoft Excel | [https://aka.ms/iOSInsiderExcel](https://aka.ms/iOSInsiderExcel) |
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) |
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | Full |
-| Microsoft OneNote | [https://testflight.apple.com/join/uDgoqfGS](https://testflight.apple.com/join/uDgoqfGS) |
-| Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | Full |
-| Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) |
+| Microsoft OneNote | [https://aka.ms/iOSInsiderOneNote](https://aka.ms/iOSInsiderOneNote) |
+| Microsoft Outlook | [https://aka.ms/iOSInsiderOutlook](https://aka.ms/iOSInsiderOutlook) |
+| Microsoft PowerPoint | [https://aka.ms/iOSInsiderPowerPoint](https://aka.ms/iOSInsiderPowerPoint) |
 | Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) |
 | Microsoft SwiftKey Keyboard | [https://testflight.apple.com/join/yhIhAvjp](https://testflight.apple.com/join/yhIhAvjp) |
 | Microsoft To-Do | [https://testflight.apple.com/join/JSq3UkAz](https://testflight.apple.com/join/JSq3UkAz) |
 | Microsoft Whiteboard | [https://testflight.apple.com/join/HSWkbCxV](https://testflight.apple.com/join/HSWkbCxV) |
-| Microsoft Word | [https://testflight.apple.com/join/hw76phYi](https://testflight.apple.com/join/hw76phYi) | Full |
+| Microsoft Word | [https://aka.ms/iOSInsiderWord](https://aka.ms/iOSInsiderWord) |
 | Mixing Station | [https://testflight.apple.com/join/lsd9mugy](https://testflight.apple.com/join/lsd9mugy) |
 | MK播放器 | [https://testflight.apple.com/join/qUEu2p3L](https://testflight.apple.com/join/qUEu2p3L) |
 | Mojo - Create Video Stories | [https://testflight.apple.com/join/AJlrDMao](https://testflight.apple.com/join/AJlrDMao) |
@@ -385,7 +386,6 @@ Collect Public Testflight app URL
 | Skype For iPhone | [https://testflight.apple.com/join/fB5IkJT7](https://testflight.apple.com/join/fB5IkJT7) |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) |
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) |
-| Slide for Reddit | [https://testflight.apple.com/join/NpnhNwID](https://testflight.apple.com/join/NpnhNwID) |
 | SM.MS | [https://testflight.apple.com/join/bQz911w3](https://testflight.apple.com/join/bQz911w3) |
 | Smooz Browser | [https://testflight.apple.com/join/53f970RC](https://testflight.apple.com/join/53f970RC) |
 | Snapchat | [https://testflight.apple.com/join/crlFhtQy](https://testflight.apple.com/join/crlFhtQy) |
@@ -586,15 +586,8 @@ Collect Public Testflight app URL
 |--|--|
 | BlackBerry Messenger (BBM) | [https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform) |
 | Deezer | [https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i\_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1) |
-| Firefox | [https://www.mozilla.org/en-US/firefox/ios/testflight/](https://www.mozilla.org/en-US/firefox/ios/testflight/) |
 | Google Apps (ALL) | [https://previewapps.withgoogle.com/](https://previewapps.withgoogle.com/) |
-| Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) |
 | IFTTT | [https://docs.google.com/forms/d/e/1FAIpQLSdXzjY\_hv8F8UMa58IIEmqAyZ\_ixAbxxltiuwQAWa\_9uyYEMQ/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLSdXzjY_hv8F8UMa58IIEmqAyZ_ixAbxxltiuwQAWa_9uyYEMQ/viewform?c=0&w=1) |
-| Microsoft Excel | [https://aka.ms/iOSInsiderExcel](https://aka.ms/iOSInsiderExcel) |
-| Microsoft OneNote | [https://aka.ms/iOSInsiderOneNote](https://aka.ms/iOSInsiderOneNote) |
-| Microsoft Outlook | [https://aka.ms/iOSInsiderOutlook](https://aka.ms/iOSInsiderOutlook) |
-| Microsoft PowerPoint | [https://aka.ms/iOSInsiderPowerPoint](https://aka.ms/iOSInsiderPowerPoint) |
-| Microsoft Word | [https://aka.ms/iOSInsiderWord](https://aka.ms/iOSInsiderWord) |
 | Notability | [https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-](https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-) |
 | Reddit | [https://docs.google.com/forms/d/e/1FAIpQLSeLqxowkVPOenOPx5PISXK4dnXAW7FJ3mw434UX\_IDeIMTXzQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeLqxowkVPOenOPx5PISXK4dnXAW7FJ3mw434UX_IDeIMTXzQ/viewform) |
 | Slack | [https://slack.com/intl/en-en/beta/ios](https://slack.com/intl/en-en/beta/ios) |
