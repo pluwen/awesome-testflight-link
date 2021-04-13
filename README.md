@@ -55,6 +55,7 @@ Collect Public Testflight app URL
 | BlueWallet-Bitcoin wallet | [https://testflight.apple.com/join/8KtgcwC6](https://testflight.apple.com/join/8KtgcwC6) |
 | Bonga KE | [https://testflight.apple.com/join/I15FOWfa](https://testflight.apple.com/join/I15FOWfa) |
 | Booklover | [https://testflight.apple.com/join/Wq7G1vFL](https://testflight.apple.com/join/Wq7G1vFL) |
+| Brave | [https://testflight.apple.com/join/Trcbh1o3](https://testflight.apple.com/join/Trcbh1o3) |
 | Budget-Your Money | [https://testflight.apple.com/join/WEwS789J](https://testflight.apple.com/join/WEwS789J) |
 | Buffer: Social Media Manager | [https://testflight.apple.com/join/DOpMcusn](https://testflight.apple.com/join/DOpMcusn) |
 | BULVRD | [https://testflight.apple.com/join/tQxoMlir](https://testflight.apple.com/join/tQxoMlir) |
@@ -482,6 +483,7 @@ Collect Public Testflight app URL
 | TunSafe VPN | [https://testflight.apple.com/join/9gbYAJLB](https://testflight.apple.com/join/9gbYAJLB) |
 | TV Time – #1 Show Tracker | [https://testflight.apple.com/join/hjKkDsc4](https://testflight.apple.com/join/hjKkDsc4) |
 | Twitch Beta | [https://testflight.apple.com/join/8vRKFAiY](https://testflight.apple.com/join/8vRKFAiY) |
+| Twitter | [https://testflight.apple.com/join/3EsotSOl](https://testflight.apple.com/join/3EsotSOl) |
 | Twitterrific: Tweet Your Way beta | [https://testflight.apple.com/join/1G3zEeId](https://testflight.apple.com/join/1G3zEeId) |
 | Ulysses | [https://testflight.apple.com/join/WIO0xuYY](https://testflight.apple.com/join/WIO0xuYY) |
 | Unicode Keyboard | [https://testflight.apple.com/join/YKH3kGpt](https://testflight.apple.com/join/YKH3kGpt) |
@@ -562,7 +564,7 @@ Collect Public Testflight app URL
 | 支付宝 | [https://testflight.apple.com/join/AGmpZfit](https://testflight.apple.com/join/AGmpZfit) |
 | 天猫 | [https://testflight.apple.com/join/ShoYW2yH](https://testflight.apple.com/join/ShoYW2yH) |
 | 微信读书 | [https://testflight.apple.com/join/Xh6WTh0P](https://testflight.apple.com/join/Xh6WTh0P) |
-| 淘宝 | [https://testflight.apple.com/join/6RkZilhO](https://testflight.apple.com/join/6RkZilhO) |
+| 淘宝 | [https://testflight.apple.com/join/TThGL9RX](https://testflight.apple.com/join/TThGL9RX) |
 | 豆瓣 | [https://testflight.apple.com/join/OXkZhrB3](https://testflight.apple.com/join/OXkZhrB3) |
 | 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) |
 | 千牛 | [https://testflight.apple.com/join/lk3b4aCF](https://testflight.apple.com/join/lk3b4aCF) |
