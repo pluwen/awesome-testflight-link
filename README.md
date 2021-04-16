@@ -17,6 +17,7 @@ Collect Public Testflight app URL
 | Aerivo | [https://testflight.apple.com/join/NXxMcB4Y](https://testflight.apple.com/join/NXxMcB4Y) |
 | Aethyn Physics | [https://testflight.apple.com/join/fKa07bUP](https://testflight.apple.com/join/fKa07bUP) |
 | Affinity Photo Beta | [https://testflight.apple.com/join/upWelHF7](https://testflight.apple.com/join/upWelHF7) |
+| Affinity Photo Beta beta | [https://testflight.apple.com/join/upWelHF7](https://testflight.apple.com/join/upWelHF7) |
 | Airchat for AirPods | [https://testflight.apple.com/join/wL0ZRXln](https://testflight.apple.com/join/wL0ZRXln) |
 | Airmail - Your Mail With You | [https://testflight.apple.com/join/wRiLlWPE](https://testflight.apple.com/join/wRiLlWPE) |
 | AirPlay 便捷切换工具 | [https://testflight.apple.com/join/E7U0UsBs](https://testflight.apple.com/join/E7U0UsBs) |
