@@ -258,7 +258,7 @@ Collect Public Testflight app URL
 | Microsoft Authenticator | [https://testflight.apple.com/join/Coqmmppd](https://testflight.apple.com/join/Coqmmppd) |
 | Microsoft Bing Search | [https://testflight.apple.com/join/fB7gBKGr](https://testflight.apple.com/join/fB7gBKGr) | Full |
 | Microsoft Cortana | [https://testflight.apple.com/join/4IHpEYnz](https://testflight.apple.com/join/4IHpEYnz) |
-| Microsoft Edge | [https://testflight.apple.com/join/VtDI7uRL](https://testflight.apple.com/join/VtDI7uRL) | Full |
+| Microsoft Edge | [https://testflight.apple.com/join/PTxVw82a](https://testflight.apple.com/join/PTxVw82a) | Full |
 | Microsoft Excel | [https://aka.ms/iOSInsiderExcel](https://aka.ms/iOSInsiderExcel) |
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) |
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | Full |
