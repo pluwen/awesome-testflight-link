@@ -558,7 +558,7 @@ Collect Public Testflight app URL
 | Name | Url |
 |--|--|
 | DAMA| [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) |
-| QQ | [https://testflight.apple.com/join/t3F86ocw](https://testflight.apple.com/join/t3F86ocw) |
+| QQ | [https://testflight.apple.com/join/33LNiif3](https://testflight.apple.com/join/33LNiif3) |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) |
 | QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) |
