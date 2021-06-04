@@ -611,6 +611,7 @@ Collect Public Testflight app URL
 | 期待 | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) |
 | 爱阅书香 | [https://testflight.apple.com/join/23FPuktF](https://testflight.apple.com/join/23FPuktF) |
 | 黑匣子 Player | [https://testflight.apple.com/join/uCsUGsvN](https://testflight.apple.com/join/uCsUGsvN) |
+| 招商银行 | [https://testflight.apple.com/join/E4PbSU5R](https://testflight.apple.com/join/E4PbSU5R) |
 
 ## Signup Links
 
