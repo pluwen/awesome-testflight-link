@@ -427,7 +427,6 @@ Collect Public Testflight app URL
 | Spendee Budget Money Tracker | [https://testflight.apple.com/join/qsfCtbEy](https://testflight.apple.com/join/qsfCtbEy) |
 | Spendy | [https://testflight.apple.com/join/hgN6jGHY](https://testflight.apple.com/join/hgN6jGHY) |
 | Spider Solitaire Card Game | [https://testflight.apple.com/join/ygPhVWba](https://testflight.apple.com/join/ygPhVWba) |
-| Spotify Music | [https://testflight.apple.com/join/1SyedSId](https://testflight.apple.com/join/1SyedSId) | Full |
 | Spotify Music | [https://testflight.apple.com/join/7lt2tesn](https://testflight.apple.com/join/7lt2tesn) |
 | SSRVPN | [https://testflight.apple.com/join/EeNKSIBZ](https://testflight.apple.com/join/EeNKSIBZ) |
 | Stadtfahrt | [https://testflight.apple.com/join/5WU4HTVy](https://testflight.apple.com/join/5WU4HTVy) |
