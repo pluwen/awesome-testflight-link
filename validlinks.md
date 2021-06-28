@@ -135,3 +135,4 @@
 | 后续 - 有记忆的新闻                    | https://testflight.apple.com/join/KyZUvXYo |
 | Reading List - Book Tracker    | https://testflight.apple.com/join/kBS5mVao |
 | 期待                             | https://testflight.apple.com/join/i37NXl07 |
+|  battle fruit | https://testflight.apple.com/join/Q7KRct77
