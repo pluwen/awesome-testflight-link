@@ -1,10 +1,8 @@
 # awesome-testflight
-Collect Public Testflight app URL
-
+Collect Public Testflight app URL's
 ## App List
-
 | Name | Url |
-|--|--|
+| battle fruit | https://testflight.apple.com/join/Q7KRct77
 | 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/Sl7m9yyz](https://testflight.apple.com/join/Sl7m9yyz) |
 | 1Blocker X | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) |
 | 1Password - Password Manager| [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) |
@@ -623,7 +621,6 @@ Collect Public Testflight app URL
 | AVM FRITZ!Apps | [https://avm.de/fritz-labor/fritzapp-labor-fuer-ios/](https://avm.de/fritz-labor/fritzapp-labor-fuer-ios/) |
 | BlackBerry Messenger (BBM) | [https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform) |
 | Deezer | [https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i\_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1) |
-| Google Apps (ALL) | [https://previewapps.withgoogle.com/](https://previewapps.withgoogle.com/) |
 | IFTTT | [https://docs.google.com/forms/d/e/1FAIpQLSdXzjY\_hv8F8UMa58IIEmqAyZ\_ixAbxxltiuwQAWa\_9uyYEMQ/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLSdXzjY_hv8F8UMa58IIEmqAyZ_ixAbxxltiuwQAWa_9uyYEMQ/viewform?c=0&w=1) |
 | Notability | [https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-](https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-) |
 | Reddit | [https://docs.google.com/forms/d/e/1FAIpQLSeLqxowkVPOenOPx5PISXK4dnXAW7FJ3mw434UX\_IDeIMTXzQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeLqxowkVPOenOPx5PISXK4dnXAW7FJ3mw434UX_IDeIMTXzQ/viewform) |
@@ -632,4 +629,4 @@ Collect Public Testflight app URL
 | Twitter | [https://survey.twitterfeedback.com/survey/selfserve/53b/190114#](https://survey.twitterfeedback.com/survey/selfserve/53b/190114#) |
 | Waze | [https://waze.centercode.com/key/TM87VS0B372NFT1W](https://waze.centercode.com/key/TM87VS0B372NFT1W) |
 | Xbox Game Pass | [https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c5fGl9AhlIoNmo\_MXb95dUMzE2UzM2OFU2S09QUFg4RjQ0Uks3ODA3SS4u](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c5fGl9AhlIoNmo_MXb95dUMzE2UzM2OFU2S09QUFg4RjQ0Uks3ODA3SS4u) |
-| YouTube | [https://docs.google.com/forms/d/e/1FAIpQLScXSPpWexJvxII3iE4wHfwusIccCDnv82eEjw\_7FcO84KMEJw/viewform](https://docs.google.com/forms/d/e/1FAIpQLScXSPpWexJvxII3iE4wHfwusIccCDnv82eEjw_7FcO84KMEJw/viewform) |
+| YouTube | [https://docs.google.com/forms/d/e/1FAIpQLScXSPpWexJvxII3iE4wHfwusIccCDnv82eEjw\_7FcO84KMEJw/viewform](https://docs.google.com/forms/d/e/1FAIpQLScXSPpWexJvxII3iE4wHfwusIccCDnv82eEjw_7FcO84KMEJw/viewform) | 
