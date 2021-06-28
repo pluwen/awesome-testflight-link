@@ -2,6 +2,7 @@
 Collect Public Testflight app URL's
 ## App List
 | Name | Url |
+| dystopia for reddit |https://testflight.apple.com/join/4MJtN4FB
 | battle fruit | https://testflight.apple.com/join/Q7KRct77
 | 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/Sl7m9yyz](https://testflight.apple.com/join/Sl7m9yyz) |
 | 1Blocker X | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) |
