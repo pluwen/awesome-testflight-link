@@ -310,6 +310,7 @@ Collect Public Testflight app URL's
 | NotePlan - Markdown Calendar | [https://testflight.apple.com/join/mrSbc937](https://testflight.apple.com/join/mrSbc937) |
 | Notes Plus | [https://testflight.apple.com/join/DHJexhQq](https://testflight.apple.com/join/DHJexhQq) |
 | NoteStorm | [https://testflight.apple.com/join/PaoEJuBG](https://testflight.apple.com/join/PaoEJuBG) |
+| Note To Self Mail | [https://testflight.apple.com/join/dYMPAThh](https://testflight.apple.com/join/dYMPAThh) |
 | NSScreencast | [https://testflight.apple.com/join/zNLNVYtN](https://testflight.apple.com/join/zNLNVYtN) |
 | ntv Nachrichten | [https://testflight.apple.com/join/n65TDvGb](https://testflight.apple.com/join/n65TDvGb) | 
 | Nubank | [https://testflight.apple.com/join/v3SGNpM5](https://testflight.apple.com/join/v3SGNpM5) |
