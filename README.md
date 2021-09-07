@@ -275,7 +275,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | Full |
 | Microsoft OneNote | [https://aka.ms/iOSInsiderOneNote](https://aka.ms/iOSInsiderOneNote) |
 | Microsoft Outlook | [https://aka.ms/iOSInsiderOutlook](https://aka.ms/iOSInsiderOutlook) |
-| Microsoft PowerPoint | [https://aka.ms/iOSInsiderPowerPoint](https://aka.ms/iOSInsiderPowerPoint) |
+| Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) |
 | Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) |
 | Microsoft SwiftKey Keyboard | [https://testflight.apple.com/join/yhIhAvjp](https://testflight.apple.com/join/yhIhAvjp) |
 | Microsoft To-Do | [https://testflight.apple.com/join/JSq3UkAz](https://testflight.apple.com/join/JSq3UkAz) |
