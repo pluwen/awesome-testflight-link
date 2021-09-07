@@ -80,7 +80,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 | ChargeDesk | [https://testflight.apple.com/join/CO4pDu2I](https://testflight.apple.com/join/CO4pDu2I) |
 | ChastiKey | [https://testflight.apple.com/join/0pHRZcVD](https://testflight.apple.com/join/0pHRZcVD) |
 | Cheatsheet | [https://testflight.apple.com/join/E7AnyPlA](https://testflight.apple.com/join/E7AnyPlA) |
-| Chirp for Twitter | [https://testflight.apple.com/join/K120Muoy](https://testflight.apple.com/join/K120Muoy) |
+| Chirp for  | [https://testflight.apple.com/join/K120Muoy](https://testflight.apple.com/join/K120Muoy) |
 | CHUNE | [https://testflight.apple.com/join/7gH8i3pN](https://testflight.apple.com/join/7gH8i3pN) |
 | Cinema Time | [https://testflight.apple.com/join/wcY5wC6H](https://testflight.apple.com/join/wcY5wC6H) |
 | Classic Euchre | [https://testflight.apple.com/join/0Ip6r1tw](https://testflight.apple.com/join/0Ip6r1tw) |
@@ -154,7 +154,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 | Feedly | [https://testflight.apple.com/join/03ER1aUo](https://testflight.apple.com/join/03ER1aUo) |
 | Feedly Lab | [https://testflight.apple.com/join/DcxRQdP9](https://testflight.apple.com/join/DcxRQdP9) |
 | Feeds - All the Web, One Feed | [https://testflight.apple.com/join/YBFNq1bw](https://testflight.apple.com/join/YBFNq1bw) |
-| Fenix for Twitter | [https://testflight.apple.com/join/poQA1Iml](https://testflight.apple.com/join/poQA1Iml) |
+| Fenix for  | [https://testflight.apple.com/join/poQA1Iml](https://testflight.apple.com/join/poQA1Iml) |
 | Feud | [https://testflight.apple.com/join/xPGpKq8Z](https://testflight.apple.com/join/xPGpKq8Z) |
 | FIFA: Gameplay First Look | [https://testflight.apple.com/join/B0QRLciS](https://testflight.apple.com/join/B0QRLciS) |
 | Fight Back to the 80's Match 3 | [https://testflight.apple.com/join/xt9cIUk1](https://testflight.apple.com/join/xt9cIUk1) |
@@ -420,7 +420,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 | Sky Beta | [https://testflight.apple.com/join/S41tc3c0](https://testflight.apple.com/join/S41tc3c0) |
 | Skype For iPad | [https://testflight.apple.com/join/vnSIsolv](https://testflight.apple.com/join/vnSIsolv) |
 | Skype For iPhone | [https://testflight.apple.com/join/fB5IkJT7](https://testflight.apple.com/join/fB5IkJT7) |
-| Slack | [https://testflight.apple.com/join/QE3kgqJ2](https://testflight.apple.com/join/QE3kgqJ2) |
+|  | [https://testflight.apple.com/join/QE3kgqJ2](https://testflight.apple.com/join/QE3kgqJ2) |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) |
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) |
 | SM.MS | [https://testflight.apple.com/join/bQz911w3](https://testflight.apple.com/join/bQz911w3) |
@@ -490,18 +490,18 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 | TrackMyTour | [https://testflight.apple.com/join/tv9dt6po](https://testflight.apple.com/join/tv9dt6po) |
 | Träning | [https://testflight.apple.com/join/7s1wL3HL](https://testflight.apple.com/join/7s1wL3HL) |
 | TransitAR | [https://testflight.apple.com/join/it3JyrDn](https://testflight.apple.com/join/it3JyrDn) |
-| Trello — Organize anything! | [https://testflight.apple.com/join/cRWMcQsr](https://testflight.apple.com/join/cRWMcQsr) |
+|  — Organize anything! | [https://testflight.apple.com/join/cRWMcQsr](https://testflight.apple.com/join/cRWMcQsr) |
 | tripmind | [https://testflight.apple.com/join/u4DHLMj1](https://testflight.apple.com/join/u4DHLMj1) |
 | Tripsy | [https://testflight.apple.com/join/toHqWWGt](https://testflight.apple.com/join/toHqWWGt) |
 | TRLX | [https://testflight.apple.com/join/4JYxJDSY](https://testflight.apple.com/join/4JYxJDSY) |
 | Truecaller | [https://testflight.apple.com/join/EvXKvGti](https://testflight.apple.com/join/EvXKvGti) |
-| ttte for Twitter | [https://testflight.apple.com/join/YsHONy5I](https://testflight.apple.com/join/YsHONy5I) |
+| ttte for  | [https://testflight.apple.com/join/YsHONy5I](https://testflight.apple.com/join/YsHONy5I) |
 | Tumblr | [https://testflight.apple.com/join/nTNSXGV3](https://testflight.apple.com/join/nTNSXGV3) |
 | TunSafe VPN | [https://testflight.apple.com/join/9gbYAJLB](https://testflight.apple.com/join/9gbYAJLB) |
 | TV Time – #1 Show Tracker | [https://testflight.apple.com/join/hjKkDsc4](https://testflight.apple.com/join/hjKkDsc4) |
 | Twitch Beta | [https://testflight.apple.com/join/8vRKFAiY](https://testflight.apple.com/join/8vRKFAiY) |
-| Twitter | [https://testflight.apple.com/join/3EsotSOl](https://testflight.apple.com/join/3EsotSOl) |
-| Twitterrific: Tweet Your Way beta | [https://testflight.apple.com/join/1G3zEeId](https://testflight.apple.com/join/1G3zEeId) |
+|  | [https://testflight.apple.com/join/3EsotSOl](https://testflight.apple.com/join/3EsotSOl) |
+| rific: Tweet Your Way beta | [https://testflight.apple.com/join/1G3zEeId](https://testflight.apple.com/join/1G3zEeId) |
 | Ulysses | [https://testflight.apple.com/join/WIO0xuYY](https://testflight.apple.com/join/WIO0xuYY) |
 | Unicode Keyboard | [https://testflight.apple.com/join/YKH3kGpt](https://testflight.apple.com/join/YKH3kGpt) |
 | Unionistas CF | [https://testflight.apple.com/join/Z4GkEGfR](https://testflight.apple.com/join/Z4GkEGfR) |
@@ -634,13 +634,4 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 |--|--|
 | AVM FRITZ!Apps | [https://avm.de/fritz-labor/fritzapp-labor-fuer-ios/](https://avm.de/fritz-labor/fritzapp-labor-fuer-ios/) |
 | BlackBerry Messenger (BBM) | [https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform) |
-| Deezer | [https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i\_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLScFW5Cc0tdycEegIASXWqEn-512i_qTVPlvXoaearB12r35Fw/viewform?c=0&w=1) |
-| IFTTT | [https://docs.google.com/forms/d/e/1FAIpQLSdXzjY\_hv8F8UMa58IIEmqAyZ\_ixAbxxltiuwQAWa\_9uyYEMQ/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLSdXzjY_hv8F8UMa58IIEmqAyZ_ixAbxxltiuwQAWa_9uyYEMQ/viewform?c=0&w=1) |
 | Notability | [https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-](https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-) |
-| Reddit | [https://docs.google.com/forms/d/e/1FAIpQLSeLqxowkVPOenOPx5PISXK4dnXAW7FJ3mw434UX\_IDeIMTXzQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeLqxowkVPOenOPx5PISXK4dnXAW7FJ3mw434UX_IDeIMTXzQ/viewform) |
-| Slack | [https://slack.com/intl/en-en/beta/ios](https://slack.com/intl/en-en/beta/ios) |
-| Trello | [https://docs.google.com/forms/d/e/1FAIpQLSdAPooUD9bUqo3NeKNgMyB0nyyxacLIZPhpTUa\_TKeq5V2x5g/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLSdAPooUD9bUqo3NeKNgMyB0nyyxacLIZPhpTUa_TKeq5V2x5g/viewform?c=0&w=1) |
-| Twitter | [https://survey.twitterfeedback.com/survey/selfserve/53b/190114#](https://survey.twitterfeedback.com/survey/selfserve/53b/190114#) |
-| Waze | [https://waze.centercode.com/key/TM87VS0B372NFT1W](https://waze.centercode.com/key/TM87VS0B372NFT1W) |
-| Xbox Game Pass | [https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c5fGl9AhlIoNmo\_MXb95dUMzE2UzM2OFU2S09QUFg4RjQ0Uks3ODA3SS4u](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c5fGl9AhlIoNmo_MXb95dUMzE2UzM2OFU2S09QUFg4RjQ0Uks3ODA3SS4u) |
-| YouTube | [https://docs.google.com/forms/d/e/1FAIpQLScXSPpWexJvxII3iE4wHfwusIccCDnv82eEjw\_7FcO84KMEJw/viewform](https://docs.google.com/forms/d/e/1FAIpQLScXSPpWexJvxII3iE4wHfwusIccCDnv82eEjw_7FcO84KMEJw/viewform) | 
