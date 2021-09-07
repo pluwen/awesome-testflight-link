@@ -1,7 +1,12 @@
 # awesome-testflight
-Collect Public Testflight app URL's
+Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 
-## App List
+## macOS App List (macOS 12)
+| Name | Url |
+| --- | --- |
+| UTM for macOS | [https://testflight.apple.com/join/XQ3tNoNn](https://testflight.apple.com/join/XQ3tNoNn) |
+
+## iOS/iPad OS App List
 | Name | Url |
 | --- | --- |
 | 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/QKqitFwc](https://testflight.apple.com/join/QKqitFwc) |
