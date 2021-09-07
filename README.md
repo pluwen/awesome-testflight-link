@@ -1,4 +1,4 @@
-# awesome-testflight
+# Awesome Testflight App List
 Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 
 ## macOS App List (macOS 12)
