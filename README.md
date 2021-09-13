@@ -574,12 +574,13 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 | biubiu加速器 | [https://testflight.apple.com/join/Fk8KzSnv](https://testflight.apple.com/join/Fk8KzSnv) |
 | DAMA| [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) |
-| QQ | [https://testflight.apple.com/join/766jpQz2](https://testflight.apple.com/join/766jpQz2) |
+| QQ | [https://testflight.apple.com/join/HxefiC12](https://testflight.apple.com/join/HxefiC12) |
 | QQ邮箱 | [https://testflight.apple.com/join/nhb7CprH](https://testflight.apple.com/join/nhb7CprH) |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) |
 | QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) |
 | QQ音乐 HD | [https://testflight.apple.com/join/AvhmiF73](https://testflight.apple.com/join/AvhmiF73) |
 | XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) |
+| YY-直播交友软件 beta | [https://testflight.apple.com/join/bqpyUuHJ](https://testflight.apple.com/join/bqpyUuHJ) |
 | 七猫小说 | [https://testflight.apple.com/join/UaD5Pl6t](https://testflight.apple.com/join/UaD5Pl6t) |
 | 中关村在线 | [https://testflight.apple.com/join/0wbi7WuC](https://testflight.apple.com/join/0wbi7WuC) |
 | 京东 | [https://testflight.apple.com/join/geAtB7Mp](https://testflight.apple.com/join/geAtB7Mp) |
@@ -592,7 +593,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 | 天猫 | [https://testflight.apple.com/join/ShoYW2yH](https://testflight.apple.com/join/ShoYW2yH) |
 | 寒梅 | [https://testflight.apple.com/join/7U4YKpl2](https://testflight.apple.com/join/7U4YKpl2) |
 | 小記 | [https://testflight.apple.com/join/aqoXcoG3](https://testflight.apple.com/join/aqoXcoG3) |
-| 微信 | [https://testflight.apple.com/join/SsylANgu](https://testflight.apple.com/join/SsylANgu) |
+| 微信 | [https://testflight.apple.com/join/IRZEkA2H](https://testflight.apple.com/join/IRZEkA2H) |
 | 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) |
 | 招商银行 | [https://testflight.apple.com/join/E4PbSU5R](https://testflight.apple.com/join/E4PbSU5R) |
 | 捷径社区 | [https://testflight.apple.com/join/LeuKqKYX](https://testflight.apple.com/join/LeuKqKYX) | Full |
