@@ -126,7 +126,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS)
 | Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) |
 | Dog Scanner | [https://testflight.apple.com/join/OOrSaq4J](https://testflight.apple.com/join/OOrSaq4J) |
 | Doppi | [https://testflight.apple.com/join/dWc5NgTO](https://testflight.apple.com/join/dWc5NgTO) |
-| Drafts | [https://testflight.apple.com/join/wHD1YVwY](https://testflight.apple.com/join/wHD1YVwY) |
+| Drafts | [https://testflight.apple.com/join/IZAqeOL4](https://testflight.apple.com/join/IZAqeOL4) |
 | Drift Music | [https://testflight.apple.com/join/gYn8g7oj](https://testflight.apple.com/join/gYn8g7oj) |
 | Dropbox | [https://testflight.apple.com/join/LBZaRq4I](https://testflight.apple.com/join/LBZaRq4I) |
 | Droplets | [https://testflight.apple.com/join/70uu42Cu](https://testflight.apple.com/join/70uu42Cu) |
