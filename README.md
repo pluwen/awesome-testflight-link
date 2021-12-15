@@ -1,5 +1,5 @@
 # Awesome Testflight App List
-Collect Public Testflight app URL's (iOS/iPad OS/macOS)
+Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a PR.
 
 ## Available Status
 * F: Full
