@@ -75,6 +75,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a P
 | Budget-Your Money | [https://testflight.apple.com/join/WEwS789J](https://testflight.apple.com/join/WEwS789J) | N |
 | Buffer: Social Media Manager | [https://testflight.apple.com/join/DOpMcusn](https://testflight.apple.com/join/DOpMcusn) | Y |
 | BULVRD | [https://testflight.apple.com/join/tQxoMlir](https://testflight.apple.com/join/tQxoMlir) | N |
+| Calculator Q | [https://testflight.apple.com/join/En0eJsFg](https://testflight.apple.com/join/En0eJsFg) | Y |
 | Calendars 5 by Readdle | [https://testflight.apple.com/join/tC44BniC](https://testflight.apple.com/join/tC44BniC) | Y |
 | Canary Mail | [https://testflight.apple.com/join/oH6AKZC0](https://testflight.apple.com/join/oH6AKZC0) | N |
 | Capsule-Podcast Player | [https://testflight.apple.com/join/xsWM17VW](https://testflight.apple.com/join/xsWM17VW) | N |
