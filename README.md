@@ -13,7 +13,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a P
 | UTM for macOS | [https://testflight.apple.com/join/XQ3tNoNn](https://testflight.apple.com/join/XQ3tNoNn) | N |
 
 ## iOS/iPad OS App List
-| Name | Url | Available (Date Updated) |
+| Name | Url | Available |
 | --- | --- | --- |
 | 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/QKqitFwc](https://testflight.apple.com/join/QKqitFwc) | F |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | Y |
