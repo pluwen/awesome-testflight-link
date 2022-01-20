@@ -9,8 +9,8 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a P
 ## macOS App List (macOS 12)
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| MakePass | [https://testflight.apple.com/join/0aT1NmVY](https://testflight.apple.com/join/0aT1NmVY) | F |
-| UTM for macOS | [https://testflight.apple.com/join/XQ3tNoNn](https://testflight.apple.com/join/XQ3tNoNn) | N |
+| MakePass | [https://testflight.apple.com/join/0aT1NmVY](https://testflight.apple.com/join/0aT1NmVY) | N | 2022-01-20 |
+| UTM Virtual Machines | [https://testflight.apple.com/join/XQ3tNoNn](https://testflight.apple.com/join/XQ3tNoNn) | Y | 2022-01-20 |
 
 ## iOS/iPad OS App List
 | Name | Url | Available | Date |
