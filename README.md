@@ -13,7 +13,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a P
 | UTM for macOS | [https://testflight.apple.com/join/XQ3tNoNn](https://testflight.apple.com/join/XQ3tNoNn) | N |
 
 ## iOS/iPad OS App List
-| Name | Url | Available |
+| Name | Url | Available (Date Updated) |
 | --- | --- | --- |
 | 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/QKqitFwc](https://testflight.apple.com/join/QKqitFwc) | F |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | Y |
@@ -471,8 +471,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a P
 | SM.MS | [https://testflight.apple.com/join/bQz911w3](https://testflight.apple.com/join/bQz911w3) | |
 | Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | |
 | Smooz Browser | [https://testflight.apple.com/join/53f970RC](https://testflight.apple.com/join/53f970RC) | |
-| Snapchat | [https://testflight.apple.com/join/crlFhtQy](https://testflight.apple.com/join/crlFhtQy) | N |
-| Snapchat | [https://testflight.apple.com/join/yP1ZHFr0](https://testflight.apple.com/join/yP1ZHFr0) | N |
+| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | Y (1/19/22) |
 | Snapthread | [https://testflight.apple.com/join/nOZ0d7n7](https://testflight.apple.com/join/nOZ0d7n7) | |
 | Social Dummy | [https://testflight.apple.com/join/lQu46sXI](https://testflight.apple.com/join/lQu46sXI) | |
 | SocialBuzz-Social Network | [https://testflight.apple.com/join/HEZbtISZ](https://testflight.apple.com/join/HEZbtISZ) | N |
