@@ -633,7 +633,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a P
 | DAMA| [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | N |
 | iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | Y |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y |
-| QQ | [https://testflight.apple.com/join/EHMVNrJS](https://testflight.apple.com/join/EHMVNrJS) | F |
+| QQ | [https://testflight.apple.com/join/EHMVNrJS](https://testflight.apple.com/join/EHMVNrJS) | N | 2022-02-10 |
 | QQ邮箱 | [https://testflight.apple.com/join/nhb7CprH](https://testflight.apple.com/join/nhb7CprH) | N |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) | N |
 | QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) | N |
