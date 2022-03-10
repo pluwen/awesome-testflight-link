@@ -625,6 +625,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a P
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
 | Minecraft Preview | [https://testflight.apple.com/join/qC1ZnReJ](https://testflight.apple.com/join/qC1ZnReJ) | F | 2022-02-08 |
+| Locus | [https://testflight.apple.com/join/0trOIdJj](https://testflight.apple.com/join/0trOIdJj) | Y | 2022-03-10 |
 
 ## Chinese App
 | Name | Url | Available | Date |
