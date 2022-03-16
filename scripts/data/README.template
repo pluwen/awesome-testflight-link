@@ -1,6 +1,9 @@
 # Awesome Testflight App List
 Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a PR.
 
+## Github Action
+Special thanks to [@tom-snow](https://github.com/tom-snow) for adding the [Github Action workflow](./GITHUB_ACTION.md) to this repository.
+
 ## Available Status
 * F: Full
 * N: No

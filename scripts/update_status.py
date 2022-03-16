@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-15 13:47:49
-LastEditTime : 2022-03-16 21:46:51
+LastEditTime : 2022-03-16 23:53:56
 LastEditors  : tom-snow
 Description  : 自动更新各 TestFlight 公共链接当前的状态并更新文档
 FilePath     : /awesome-testflight-link/scripts/update_status.py
@@ -119,7 +119,7 @@ async def check_status(session, key, retry=10):
 
 async def main():
     # 稳妥起见限制同时 5 个同 host 的请求
-    conn = aiohttp.TCPConnector(limit=10, limit_per_host=5)
+    conn = aiohttp.TCPConnector(limit=10, limit_per_host=3)
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2357.130 Safari/537.36 qblink wegame.exe QBCore/3.70.66.400 QQBrowser/9.0.2524.400"
     }

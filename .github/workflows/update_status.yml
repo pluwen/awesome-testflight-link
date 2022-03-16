@@ -2,7 +2,7 @@ name: Update TestFilght Link Status
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch:
     inputs:
       python_version:
@@ -33,8 +33,8 @@ jobs:
         run: |
           git_diff=`git diff`
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
-          git config --global user.email "user@noreply.github.com"
-          git config --global user.name "user"
+          git config --global user.email "github_bot@noreply.github.com"
+          git config --global user.name "github_bot"
           git add .
           git commit -m "Github Action Auto Updated - `date`"
           git push
