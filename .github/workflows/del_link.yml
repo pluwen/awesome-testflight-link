@@ -1,0 +1,34 @@
+name: Del A TestFilght Link
+
+on:
+  workflow_dispatch:
+    inputs:
+      testflight_link:
+        description: 'Testflight 公共测试的完整链接'
+        required: true
+      table:
+        description: '链接分类(可选值：`macos`, `ios`, `ios_game`, `chinese`)'
+        required: true
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: x64
+      - name: Del A TestFilght Link
+        run: python scripts/del_link.py ${{ github.event.inputs.testflight_link }} ${{ github.event.inputs.table }}
+
+      - name: Git commit && push
+        run: |
+          git_diff=`git diff`
+          if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
+          git config --global user.email "user@noreply.github.com"
+          git config --global user.name "user"
+          git add .
+          git commit -m "Del A TestFilght Link"
+          git push

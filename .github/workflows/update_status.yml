@@ -22,7 +22,19 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.8'
+          python-version: ${{ env.python_version }}
           architecture: x64
+      - name: Init Python Env
+        run: pip install -r scripts/requirements.txt
       - name: Update TestFilght Link Status
         run: python scripts/update_status.py
+
+      - name: Git commit && push
+        run: |
+          git_diff=`git diff`
+          if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
+          git config --global user.email "user@noreply.github.com"
+          git config --global user.name "user"
+          git add .
+          git commit -m "Github Action Auto Updated - `date`"
+          git push

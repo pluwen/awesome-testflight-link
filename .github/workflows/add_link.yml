@@ -1,0 +1,40 @@
+name: Add A TestFilght Link
+
+on:
+  workflow_dispatch:
+    inputs:
+      app_name:
+        description: '应用名称（建议填上，程序可能无法通过链接判断 TestFlight 测试的应用名称）'
+        required: false
+        default: 'None'
+      testflight_link:
+        description: 'Testflight 公共测试的完整链接(非 TestFilght 链接请添加到 scripts/data/signup.md)'
+        required: true
+      table:
+        description: '链接分类(可选值：`macos`, `ios`, `ios_game`, `chinese`)'
+        required: true
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: x64
+      - name: Init Python Env
+        run: pip install -r scripts/requirements.txt
+      - name: Add A TestFilght Link
+        run: python scripts/add_link.py ${{ github.event.inputs.testflight_link }} ${{ github.event.inputs.table }} ${{ github.event.inputs.app_name }}
+
+      - name: Git commit && push
+        run: |
+          git_diff=`git diff`
+          if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
+          git config --global user.email "user@noreply.github.com"
+          git config --global user.name "user"
+          git add .
+          git commit -m "Add A New Link"
+          git push

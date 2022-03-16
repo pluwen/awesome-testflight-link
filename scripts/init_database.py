@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-14 19:56:48
-LastEditTime : 2022-03-16 15:10:11
+LastEditTime : 2022-03-16 17:47:32
 LastEditors  : tom-snow
 Description  : 将 markdown 表格中的数据导入 sqlite3 （正常情况下你不需要运行此脚本，因为我已经建立好数据库了）
 FilePath     : /awesome-testflight-link/scripts/init_database.py
@@ -11,14 +11,14 @@ FilePath     : /awesome-testflight-link/scripts/init_database.py
 import sqlite3
 import datetime, re, os, sys
 
-tables = ["macos", "ios", "ios_game", "chinese"]
-data_files = [
-    "./data/macos.md",
-    "./data/ios.md",
-    "./data/ios_game.md",
-    "./data/chinese.md"
-]
+TABLE_MAP = {
+    "macos": "./data/macos.md",
+    "ios": "./data/ios.md",
+    "ios_game": "./data/ios_game.md",
+    "chinese": "./data/chinese.md"
+}
 INVALID_DATA = []
+TODAY = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
 
 def process(data_file, table):
     conn = sqlite3.connect('../db/sqlite3.db')
@@ -47,7 +47,7 @@ def process(data_file, table):
             if status is None or status == "":
                 status = "N"
             if last_modify is None or last_modify == "":
-                last_modify = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
+                last_modify = TODAY
             # 插入数据库
             sql = f"INSERT INTO {table} (app_name, testflight_link, status, last_modify) VALUES(?, ?, ?, ?);"
             data = (app_name, testflight_link, status, last_modify)
@@ -76,12 +76,8 @@ def other_links():
             print(f"[info] Write {len(temp)} raws to ./data/signup.md")
 
 def main():
-    if len(tables) != len(data_files):
-        print("Can not map table and data_file! Exit...")
-        exit(1)
-
-    for i in range(len(tables)):
-        process(data_files[i], tables[i])
+    for table in TABLE_MAP:
+        process(TABLE_MAP[table], table)
 
     other_links()
 
