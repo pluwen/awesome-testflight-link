@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Check env
-        run: if [ -z "$python_version" ]; then python_version='3.8' fi
+        run: if [ -z "$python_version" ]; then python_version='3.8'; fi
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
