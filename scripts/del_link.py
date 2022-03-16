@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-16 19:32:32
-LastEditTime : 2022-03-16 21:48:09
+LastEditTime : 2022-03-16 22:28:59
 LastEditors  : tom-snow
 Description  : 
 FilePath     : /awesome-testflight-link/scripts/del_link.py
@@ -69,7 +69,7 @@ def renew_readme():
 
 def main():
     testflight_link = sys.argv[1]
-    table = sys.argv[2]
+    table = sys.argv[2].lower()
     
     link_id_match = re.search(r"^https://testflight.apple.com/join/(.*)$", testflight_link, re.I)
     if link_id_match is not None:

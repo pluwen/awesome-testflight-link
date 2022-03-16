@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-16 19:32:32
-LastEditTime : 2022-03-16 21:49:26
+LastEditTime : 2022-03-16 22:28:38
 LastEditors  : tom-snow
 Description  : 
 FilePath     : /awesome-testflight-link/scripts/add_link.py
@@ -109,7 +109,7 @@ async def check_status(session, key, retry=10):
 
 async def main():
     testflight_link = sys.argv[1]
-    table = sys.argv[2]
+    table = sys.argv[2].lower()
     app_name = sys.argv[3]
     last_modify = TODAY
     

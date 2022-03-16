@@ -21,7 +21,7 @@ jobs:
           python-version: '3.8'
           architecture: x64
       - name: Del A TestFilght Link
-        run: python scripts/del_link.py ${{ github.event.inputs.testflight_link }} ${{ github.event.inputs.table }}
+        run: python scripts/del_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}"
 
       - name: Git commit && push
         run: |
