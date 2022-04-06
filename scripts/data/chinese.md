@@ -5,7 +5,7 @@
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | Y | 2022-03-16 |
 | iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | Y | 2022-03-15 |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2022-03-15 |
-| QQ | [https://testflight.apple.com/join/5wZk5yYi](https://testflight.apple.com/join/5wZk5yYi) | F | 2022-04-04 |
+| QQ | [https://testflight.apple.com/join/5wZk5yYi](https://testflight.apple.com/join/5wZk5yYi) | Y | 2022-04-06 |
 | QQ邮箱 | [https://testflight.apple.com/join/nhb7CprH](https://testflight.apple.com/join/nhb7CprH) | N | 2022-03-15 |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) | N | 2022-03-15 |
 | QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) | N | 2022-03-15 |
@@ -13,7 +13,7 @@
 | XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | N | 2022-03-15 |
 | YY-直播交友软件 beta | [https://testflight.apple.com/join/bqpyUuHJ](https://testflight.apple.com/join/bqpyUuHJ) | Y | 2022-03-15 |
 | 七猫小说 | [https://testflight.apple.com/join/UaD5Pl6t](https://testflight.apple.com/join/UaD5Pl6t) | N | 2022-03-15 |
-| 中关村在线 | [https://testflight.apple.com/join/0wbi7WuC](https://testflight.apple.com/join/0wbi7WuC) | Y | 2022-03-15 |
+| 中关村在线 | [https://testflight.apple.com/join/0wbi7WuC](https://testflight.apple.com/join/0wbi7WuC) | N | 2022-04-06 |
 | 京东 | [https://testflight.apple.com/join/geAtB7Mp](https://testflight.apple.com/join/geAtB7Mp) | N | 2022-03-15 |
 | 今日头条 | [https://testflight.apple.com/join/eiVccFIZ](https://testflight.apple.com/join/eiVccFIZ) | N | 2022-03-15 |
 | 企鹅电竞 | [https://testflight.apple.com/join/yjtogTGe](https://testflight.apple.com/join/yjtogTGe) | N | 2022-03-15 |
