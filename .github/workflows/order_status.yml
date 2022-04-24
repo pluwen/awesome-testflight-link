@@ -43,4 +43,4 @@ jobs:
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
           git add .
           git commit -m "Github Action Auto Updated - `date`"
-          git push
+          git push origin status_ordered
