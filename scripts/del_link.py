@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-16 19:32:32
-LastEditTime : 2022-03-17 12:18:54
+LastEditTime : 2022-04-24 17:27:30
 LastEditors  : tom-snow
 Description  : 
 FilePath     : /awesome-testflight-link/scripts/del_link.py
@@ -34,7 +34,7 @@ def renew_doc(data_file, table):
     # 
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
-    res = cur.execute(f"SELECT app_name, testflight_link, status, last_modify FROM {table};")
+    res = cur.execute(f"SELECT app_name, testflight_link, status, last_modify FROM {table} ORDER BY app_name;")
     for row in res:
         app_name, testflight_link, status, last_modify = row
         testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
