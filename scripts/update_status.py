@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-15 13:47:49
-LastEditTime : 2022-03-16 23:53:56
+LastEditTime : 2022-03-17 12:20:44
 LastEditors  : tom-snow
 Description  : 自动更新各 TestFlight 公共链接当前的状态并更新文档
 FilePath     : /awesome-testflight-link/scripts/update_status.py
@@ -31,7 +31,7 @@ NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn'
 def get_old_status(table):
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
-    res = cur.execute(f"SELECT testflight_link, status FROM {table}")
+    res = cur.execute(f"SELECT testflight_link, status FROM {table};")
     res_dict = {}
     for row in res:
         res_dict[row[0]] = row[1]
@@ -61,7 +61,7 @@ def renew_doc(data_file, table):
     # 
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
-    res = cur.execute(f"SELECT app_name, testflight_link, status, last_modify FROM {table}")
+    res = cur.execute(f"SELECT app_name, testflight_link, status, last_modify FROM {table};")
     for row in res:
         app_name, testflight_link, status, last_modify = row
         testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"

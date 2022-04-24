@@ -1,11 +1,11 @@
 #!/usr/bin/python
 '''
 Author       : tom-snow
-Date         : 2022-03-16 19:32:32
-LastEditTime : 2022-03-17 12:18:54
+Date         : 2022-03-17 11:32:32
+LastEditTime : 2022-03-17 12:17:34
 LastEditors  : tom-snow
 Description  : 
-FilePath     : /awesome-testflight-link/scripts/del_link.py
+FilePath     : /awesome-testflight-link/scripts/order_status.py
 '''
 
 import sqlite3
@@ -34,7 +34,13 @@ def renew_doc(data_file, table):
     # 
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
-    res = cur.execute(f"SELECT app_name, testflight_link, status, last_modify FROM {table};")
+    res = cur.execute(f"""SELECT app_name, testflight_link, status, last_modify FROM {table} ORDER BY 
+        CASE status
+            WHEN 'Y' THEN 0
+            WHEN 'F' THEN 1
+            WHEN 'N' THEN 2
+            WHEN 'D' THEN 3
+        END;""")
     for row in res:
         app_name, testflight_link, status, last_modify = row
         testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
@@ -68,37 +74,12 @@ def renew_readme():
         f.write(readme)
 
 def main():
-    testflight_link = sys.argv[1]
-    table = sys.argv[2].lower()
-    
-    link_id_match = re.search(r"^https://testflight.apple.com/join/(.*)$", testflight_link, re.I)
-    if link_id_match is not None:
-        testflight_link = link_id_match.group(1)
-    else:
-        print(f"[Error] Invalid testflight_link. Exit...")
-        exit(1)
+    for table in TABLE_MAP:
+        if table == "signup": # 数据库没有此表
+            continue
 
-    if table not in TABLE_MAP or table == "signup":
-        print(f"[Error] Invalid table. Exit...")
-        exit(1)
-
-    # 从数据库删除
-    conn = sqlite3.connect('../db/sqlite3.db')
-    cur = conn.cursor()    
-    sql = f"SELECT * FROM {table} WHERE testflight_link = '{testflight_link}';"
-    res = cur.execute(sql)
-    if len(list(res)) == 0:
-        print(f"[warn] Data (https://testflight.apple.com/join/{testflight_link}) not found in table ({table}).")
-        exit(0)
-    
-    sql = f"DELETE FROM {table} WHERE testflight_link = '{testflight_link}';"
-    cur.execute(sql)
-    conn.commit()
-    print(f"[info] Deleted {conn.total_changes} row(s) into table: {table}")
-    conn.close()
-
-    renew_doc(TABLE_MAP[table], table)
-    renew_readme()
+        renew_doc(TABLE_MAP[table], table)
+        renew_readme()
 
 if __name__ == "__main__":
     os.chdir(sys.path[0])
