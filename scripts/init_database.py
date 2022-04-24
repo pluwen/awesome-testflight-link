@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-14 19:56:48
-LastEditTime : 2022-03-16 17:47:32
+LastEditTime : 2022-03-17 13:36:08
 LastEditors  : tom-snow
 Description  : 将 markdown 表格中的数据导入 sqlite3 （正常情况下你不需要运行此脚本，因为我已经建立好数据库了）
 FilePath     : /awesome-testflight-link/scripts/init_database.py
@@ -17,6 +17,16 @@ TABLE_MAP = {
     "ios_game": "./data/ios_game.md",
     "chinese": "./data/chinese.md"
 }
+"""
+// 请自行建立数据库表
+CREATE TABLE "macos" (
+  "app_name" TEXT,
+  "testflight_link" TEXT NOT NULL,
+  "status" TEXT,
+  "last_modify" TEXT,
+  PRIMARY KEY ("testflight_link")
+);
+"""
 INVALID_DATA = []
 TODAY = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
 

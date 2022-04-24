@@ -13,6 +13,7 @@ on:
 jobs:
   main:
     runs-on: ubuntu-latest
+    if: github.repository == 'pluwen/awesome-testflight-link'
     env:
       python_version: ${{ github.event.inputs.python_version }}
     steps:
@@ -38,3 +39,21 @@ jobs:
           git add .
           git commit -m "Github Action Auto Updated - `date`"
           git push
+
+  forked-repo:
+    runs-on: ubuntu-latest
+    if: github.repository != 'pluwen/awesome-testflight-link'
+    
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Git commit && push
+        run: |
+          git config --global user.email "github_bot@noreply.github.com"
+          git config --global user.name "github_bot"
+          git remote add upstream https://github.com/pluwen/awesome-testflight-link.git 
+          git fetch upstream
+          git checkout main
+          git merge upstream/main --allow-unrelated-histories
+          git push origin main
+
