@@ -4,7 +4,7 @@
 | Angelia | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) | Y | 2022-03-15 |
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | Y | 2022-03-16 |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2022-03-15 |
-| QQ | [https://testflight.apple.com/join/5wZk5yYi](https://testflight.apple.com/join/5wZk5yYi) | Y | 2022-04-16 |
+| QQ | [https://testflight.apple.com/join/5wZk5yYi](https://testflight.apple.com/join/5wZk5yYi) | F | 2022-05-06 |
 | QQ邮箱 | [https://testflight.apple.com/join/nhb7CprH](https://testflight.apple.com/join/nhb7CprH) | N | 2022-03-15 |
 | QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) | N | 2022-03-15 |
 | QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) | N | 2022-03-15 |
