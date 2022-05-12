@@ -67,6 +67,7 @@
 | Calendars 5 by Readdle | [https://testflight.apple.com/join/tC44BniC](https://testflight.apple.com/join/tC44BniC) | Y | 2022-05-11 |
 | Canary Mail | [https://testflight.apple.com/join/oH6AKZC0](https://testflight.apple.com/join/oH6AKZC0) | N | 2022-03-15 |
 | Capsule-Podcast Player | [https://testflight.apple.com/join/xsWM17VW](https://testflight.apple.com/join/xsWM17VW) | N | 2022-03-15 |
+| CardioBot - Heart Rate Monitor | [https://testflight.apple.com/join/H82FVVt6](https://testflight.apple.com/join/H82FVVt6) | F | 2022-05-12 |
 | Cards-Business Card Scanner | [https://testflight.apple.com/join/iuqvxbc1](https://testflight.apple.com/join/iuqvxbc1) | N | 2022-03-15 |
 | Castro Podcast Player | [https://testflight.apple.com/join/rcoPrQZ3](https://testflight.apple.com/join/rcoPrQZ3) | N | 2022-03-15 |
 | Catch Benefits | [https://testflight.apple.com/join/lignIX4A](https://testflight.apple.com/join/lignIX4A) | N | 2022-03-15 |
