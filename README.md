@@ -15,7 +15,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 ## macOS App List (macOS 12)
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | F | 2022-07-18 |
+| Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2022-07-19 |
 | Drafts | [https://testflight.apple.com/join/1zAEzmxc](https://testflight.apple.com/join/1zAEzmxc) | N | 2022-07-05 |
 | MakePass | [https://testflight.apple.com/join/0aT1NmVY](https://testflight.apple.com/join/0aT1NmVY) | N | 2022-01-20 |
 | Ride Wait Times | [https://testflight.apple.com/join/yQNmMRwB](https://testflight.apple.com/join/yQNmMRwB) | Y | 2022-03-13 |
@@ -57,7 +57,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Artstudio Pro: Draw Paint Edit | [https://testflight.apple.com/join/Npva2kOl](https://testflight.apple.com/join/Npva2kOl) | N | 2022-03-15 |
 | AsK LaVOISiEr | [https://testflight.apple.com/join/7KV7rZ88](https://testflight.apple.com/join/7KV7rZ88) | N | 2022-03-15 |
 | Attrct-The Story Dating App | [https://testflight.apple.com/join/wLLhCLRz](https://testflight.apple.com/join/wLLhCLRz) | N | 2022-03-15 |
-| Audulus 4 | [https://testflight.apple.com/join/F5IZKazB](https://testflight.apple.com/join/F5IZKazB) | Y | 2022-07-17 |
+| Audulus 4 | [https://testflight.apple.com/join/F5IZKazB](https://testflight.apple.com/join/F5IZKazB) | N | 2022-07-19 |
 | Axie infinity | [https://testflight.apple.com/join/5tEPyIU2](https://testflight.apple.com/join/5tEPyIU2) | F | 2022-04-27 |
 | BBC Sport | [https://testflight.apple.com/join/LWzWwU8q](https://testflight.apple.com/join/LWzWwU8q) | N | 2022-03-15 |
 | BLKJCK | [https://testflight.apple.com/join/qKO8XM0a](https://testflight.apple.com/join/qKO8XM0a) | N | 2022-03-15 |
@@ -100,7 +100,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Cats & Dogs | [https://testflight.apple.com/join/rGDBZ3hs](https://testflight.apple.com/join/rGDBZ3hs) | N | 2022-03-15 |
 | Cats In Space! Galactic Mice | [https://testflight.apple.com/join/b3anlTqH](https://testflight.apple.com/join/b3anlTqH) | N | 2022-03-15 |
 | Champion of the Fields | [https://testflight.apple.com/join/6KLsLMFG](https://testflight.apple.com/join/6KLsLMFG) | N | 2022-03-15 |
-| Chanyan | [https://testflight.apple.com/join/ky5bRwMY](https://testflight.apple.com/join/ky5bRwMY) | N | 2022-07-18 |
+| Chanyan | [https://testflight.apple.com/join/ky5bRwMY](https://testflight.apple.com/join/ky5bRwMY) | Y | 2022-07-19 |
 | ChargeDesk | [https://testflight.apple.com/join/CO4pDu2I](https://testflight.apple.com/join/CO4pDu2I) | N | 2022-03-15 |
 | ChastiKey | [https://testflight.apple.com/join/0pHRZcVD](https://testflight.apple.com/join/0pHRZcVD) | N | 2022-03-15 |
 | ChatSpot Chat | [https://testflight.apple.com/join/LynavX3T](https://testflight.apple.com/join/LynavX3T) | N | 2022-07-18 |
@@ -139,7 +139,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | DLive ¬∑ Stream on Blockchain | [https://testflight.apple.com/join/v9AqMAip](https://testflight.apple.com/join/v9AqMAip) | N | 2022-06-02 |
 | DS video | [https://testflight.apple.com/join/CxAwe5r2](https://testflight.apple.com/join/CxAwe5r2) | N | 2022-03-15 |
 | Dapp Pocket | [https://testflight.apple.com/join/vBUJMAu4](https://testflight.apple.com/join/vBUJMAu4) | N | 2022-03-15 |
-| Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | F | 2022-07-18 |
+| Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2022-07-19 |
 | Dark Odds | [https://testflight.apple.com/join/oyTaqKjv](https://testflight.apple.com/join/oyTaqKjv) | N | 2022-03-15 |
 | Darkroom ‚Äì Photo Editor | [https://testflight.apple.com/join/mzR3XvHe](https://testflight.apple.com/join/mzR3XvHe) | N | 2022-07-18 |
 | Day One Journal | [https://testflight.apple.com/join/NXLBigzY](https://testflight.apple.com/join/NXLBigzY) | N | 2022-07-15 |
@@ -148,11 +148,11 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Desk Clock (World Clock) | [https://testflight.apple.com/join/19gnJJSh](https://testflight.apple.com/join/19gnJJSh) | N | 2022-03-15 |
 | Deuce - Tennis Scorekeeper | [https://testflight.apple.com/join/hmgmpkX1](https://testflight.apple.com/join/hmgmpkX1) | N | 2022-05-15 |
 | DevSwitch | [https://testflight.apple.com/join/qYu3ptEV](https://testflight.apple.com/join/qYu3ptEV) | N | 2022-03-15 |
-| Discord | [https://testflight.apple.com/join/gdE4pRzI](https://testflight.apple.com/join/gdE4pRzI) | N | 2022-07-18 |
+| Discord | [https://testflight.apple.com/join/gdE4pRzI](https://testflight.apple.com/join/gdE4pRzI) | F | 2022-07-19 |
 | Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) | N | 2022-03-15 |
 | Dog Scanner | [https://testflight.apple.com/join/OOrSaq4J](https://testflight.apple.com/join/OOrSaq4J) | N | 2022-03-15 |
 | Doppi | [https://testflight.apple.com/join/dWc5NgTO](https://testflight.apple.com/join/dWc5NgTO) | N | 2022-03-15 |
-| Drafts | [https://testflight.apple.com/join/IZAqeOL4](https://testflight.apple.com/join/IZAqeOL4) | N | 2022-07-15 |
+| Drafts | [https://testflight.apple.com/join/IZAqeOL4](https://testflight.apple.com/join/IZAqeOL4) | Y | 2022-07-19 |
 | Drift Music | [https://testflight.apple.com/join/gYn8g7oj](https://testflight.apple.com/join/gYn8g7oj) | N | 2022-03-15 |
 | DropZap World | [https://testflight.apple.com/join/CdEXgjst](https://testflight.apple.com/join/CdEXgjst) | N | 2022-07-15 |
 | Dropbox | [https://testflight.apple.com/join/LBZaRq4I](https://testflight.apple.com/join/LBZaRq4I) | N | 2022-07-16 |
@@ -190,11 +190,11 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Figma | [https://testflight.apple.com/join/CPAWjfzd](https://testflight.apple.com/join/CPAWjfzd) | N | 2022-03-16 |
 | Film Logbook beta | [https://testflight.apple.com/join/fV4oQYJD](https://testflight.apple.com/join/fV4oQYJD) | N | 2022-07-18 |
 | Filmlog | [https://testflight.apple.com/join/ywiozhph](https://testflight.apple.com/join/ywiozhph) | N | 2022-06-12 |
-| Fintunes beta | [https://testflight.apple.com/join/cf2AMDpx](https://testflight.apple.com/join/cf2AMDpx) | N | 2022-07-15 |
-| Firefox Beta | [https://testflight.apple.com/join/JdsubPZs](https://testflight.apple.com/join/JdsubPZs) | N | 2022-07-15 |
+| Fintunes beta | [https://testflight.apple.com/join/cf2AMDpx](https://testflight.apple.com/join/cf2AMDpx) | Y | 2022-07-19 |
+| Firefox Beta | [https://testflight.apple.com/join/JdsubPZs](https://testflight.apple.com/join/JdsubPZs) | Y | 2022-07-19 |
 | Firefox Focus | [https://testflight.apple.com/join/dH8lkFZi](https://testflight.apple.com/join/dH8lkFZi) | N | 2022-06-19 |
 | Firewalla | [https://testflight.apple.com/join/qtUnSjJp](https://testflight.apple.com/join/qtUnSjJp) | N | 2022-07-16 |
-| Flipabit | [https://testflight.apple.com/join/ruyYHU5E](https://testflight.apple.com/join/ruyYHU5E) | N | 2022-07-18 |
+| Flipabit | [https://testflight.apple.com/join/ruyYHU5E](https://testflight.apple.com/join/ruyYHU5E) | Y | 2022-07-19 |
 | Fly THIS! | [https://testflight.apple.com/join/h1eKzSHI](https://testflight.apple.com/join/h1eKzSHI) | N | 2022-03-15 |
 | Focus Buddy | [https://testflight.apple.com/join/gBcR6FXj](https://testflight.apple.com/join/gBcR6FXj) | N | 2022-03-15 |
 | Focus Today | [https://testflight.apple.com/join/RkiJ5aNH](https://testflight.apple.com/join/RkiJ5aNH) | N | 2022-03-15 |
@@ -220,7 +220,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Go Map!! | [https://testflight.apple.com/join/T96F9wYq](https://testflight.apple.com/join/T96F9wYq) | N | 2022-07-15 |
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | N | 2022-07-15 |
 | Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) | N | 2022-07-15 |
-| Gospel Living | [https://testflight.apple.com/join/hTa12wLY](https://testflight.apple.com/join/hTa12wLY) | N | 2022-07-18 |
+| Gospel Living | [https://testflight.apple.com/join/hTa12wLY](https://testflight.apple.com/join/hTa12wLY) | Y | 2022-07-19 |
 | Grape for GitHub | [https://testflight.apple.com/join/xajXBrHT](https://testflight.apple.com/join/xajXBrHT) | N | 2022-03-15 |
 | GreenLit Audiobook Player | [https://testflight.apple.com/join/NQYMABMU](https://testflight.apple.com/join/NQYMABMU) | N | 2022-03-15 |
 | Grid: Create Pointillist Art | [https://testflight.apple.com/join/PyXo0ZW7](https://testflight.apple.com/join/PyXo0ZW7) | N | 2022-03-15 |
@@ -233,7 +233,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Hadge | [https://testflight.apple.com/join/rFLkfNSu](https://testflight.apple.com/join/rFLkfNSu) | N | 2022-07-18 |
 | HandCash (BETA) | [https://testflight.apple.com/join/JUOB0hwr](https://testflight.apple.com/join/JUOB0hwr) | N | 2022-03-15 |
 | Happy Mail for Gmail | [https://testflight.apple.com/join/Pg9PbgEw](https://testflight.apple.com/join/Pg9PbgEw) | N | 2022-03-15 |
-| Hashtag: Tags For Instagram | [https://testflight.apple.com/join/X28MEDeC](https://testflight.apple.com/join/X28MEDeC) | N | 2022-07-18 |
+| Hashtag: Tags For Instagram | [https://testflight.apple.com/join/X28MEDeC](https://testflight.apple.com/join/X28MEDeC) | Y | 2022-07-19 |
 | Health Export | [https://testflight.apple.com/join/g5FcLFJQ](https://testflight.apple.com/join/g5FcLFJQ) | N | 2022-05-24 |
 | HealthFace | [https://testflight.apple.com/join/svD0JS3Z](https://testflight.apple.com/join/svD0JS3Z) | N | 2022-03-15 |
 | HealthView | [https://testflight.apple.com/join/3KXnoB7K](https://testflight.apple.com/join/3KXnoB7K) | N | 2022-03-15 |
@@ -271,13 +271,13 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | K Music Player 3 Ultimate | [https://testflight.apple.com/join/61zjD0e6](https://testflight.apple.com/join/61zjD0e6) | N | 2022-03-15 |
 | KARMA: Social Network For Good | [https://testflight.apple.com/join/lpnVgcmV](https://testflight.apple.com/join/lpnVgcmV) | N | 2022-03-15 |
 | KMPlayer | [https://testflight.apple.com/join/9V26Ee9Z](https://testflight.apple.com/join/9V26Ee9Z) | N | 2022-07-15 |
-| Kaspersky Security Cloud | [https://testflight.apple.com/join/yst7K78b](https://testflight.apple.com/join/yst7K78b) | N | 2022-07-15 |
+| Kaspersky Security Cloud | [https://testflight.apple.com/join/yst7K78b](https://testflight.apple.com/join/yst7K78b) | Y | 2022-07-19 |
 | KidText.me | [https://testflight.apple.com/join/zboNKVYO](https://testflight.apple.com/join/zboNKVYO) | N | 2022-03-15 |
 | Kitsunebi - Proxy Utility | [https://testflight.apple.com/join/IdFRwmNy](https://testflight.apple.com/join/IdFRwmNy) | N | 2022-03-16 |
 | Krdz | [https://testflight.apple.com/join/1qnxMTjA](https://testflight.apple.com/join/1qnxMTjA) | N | 2022-03-15 |
 | Krystal Kart AR | [https://testflight.apple.com/join/2rYDVMbb](https://testflight.apple.com/join/2rYDVMbb) | N | 2022-03-15 |
 | KyPass 4 ÂØÜÁ†ÅÁÆ°ÁêÜ | [https://testflight.apple.com/join/wlZmOo9t](https://testflight.apple.com/join/wlZmOo9t) | N | 2022-03-15 |
-| LIFX | [https://testflight.apple.com/join/TYoQEz4T](https://testflight.apple.com/join/TYoQEz4T) | N | 2022-07-15 |
+| LIFX | [https://testflight.apple.com/join/TYoQEz4T](https://testflight.apple.com/join/TYoQEz4T) | Y | 2022-07-19 |
 | Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI](https://testflight.apple.com/join/bESvTwBI) | N | 2022-03-15 |
 | LastPass Password Manager | [https://testflight.apple.com/join/fy7LvHVA](https://testflight.apple.com/join/fy7LvHVA) | N | 2022-06-10 |
 | Launch Center Pro | [https://testflight.apple.com/join/DpujKg3U](https://testflight.apple.com/join/DpujKg3U) | N | 2022-03-15 |
@@ -302,7 +302,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | MasjidPal | [https://testflight.apple.com/join/pglWN65b](https://testflight.apple.com/join/pglWN65b) | N | 2022-03-15 |
 | Matso | [https://testflight.apple.com/join/7Ar9dmp4](https://testflight.apple.com/join/7Ar9dmp4) | N | 2022-03-15 |
 | Maze Machine | [https://testflight.apple.com/join/37BftFj2](https://testflight.apple.com/join/37BftFj2) | N | 2022-03-15 |
-| Memento: Modern Reminders | [https://testflight.apple.com/join/aRvubPov](https://testflight.apple.com/join/aRvubPov) | N | 2022-07-18 |
+| Memento: Modern Reminders | [https://testflight.apple.com/join/aRvubPov](https://testflight.apple.com/join/aRvubPov) | Y | 2022-07-19 |
 | Microcosm ‚Äì AR Voxel Drawing | [https://testflight.apple.com/join/PIojYHhU](https://testflight.apple.com/join/PIojYHhU) | N | 2022-03-15 |
 | Microsoft Authenticator | [https://testflight.apple.com/join/Coqmmppd](https://testflight.apple.com/join/Coqmmppd) | N | 2022-07-14 |
 | Microsoft Bing Search | [https://testflight.apple.com/join/fB7gBKGr](https://testflight.apple.com/join/fB7gBKGr) | N | 2022-03-16 |
@@ -328,7 +328,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Moto-Motorcycle Specs | [https://testflight.apple.com/join/KzXnect8](https://testflight.apple.com/join/KzXnect8) | N | 2022-03-15 |
 | Mume VPN | [https://testflight.apple.com/join/wgXjVEh8](https://testflight.apple.com/join/wgXjVEh8) | N | 2022-03-15 |
 | Music Harbor | [https://testflight.apple.com/join/uaazZoIc](https://testflight.apple.com/join/uaazZoIc) | N | 2022-07-16 |
-| Music Plus - Landscape&Widget | [https://testflight.apple.com/join/w9ULfWqR](https://testflight.apple.com/join/w9ULfWqR) | N | 2022-07-18 |
+| Music Plus - Landscape&Widget | [https://testflight.apple.com/join/w9ULfWqR](https://testflight.apple.com/join/w9ULfWqR) | Y | 2022-07-19 |
 | Music Year in Review | [https://testflight.apple.com/join/EIEOkKJV](https://testflight.apple.com/join/EIEOkKJV) | N | 2022-03-15 |
 | Musicoin | [https://testflight.apple.com/join/VUvMtXzG](https://testflight.apple.com/join/VUvMtXzG) | N | 2022-03-15 |
 | Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | N | 2022-07-14 |
@@ -343,7 +343,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | NetNewsWire | [https://testflight.apple.com/join/5Mh4hVpS](https://testflight.apple.com/join/5Mh4hVpS) | N | 2022-03-15 |
 | NetShuttle-ShadowsocksR tool | [https://testflight.apple.com/join/742YC03J](https://testflight.apple.com/join/742YC03J) | N | 2022-03-15 |
 | Netwa - spy for Whatsapp | [https://testflight.apple.com/join/7GMwTEZw](https://testflight.apple.com/join/7GMwTEZw) | N | 2022-03-15 |
-| Newsbite | [https://testflight.apple.com/join/7sus3M6q](https://testflight.apple.com/join/7sus3M6q) | N | 2022-07-14 |
+| Newsbite | [https://testflight.apple.com/join/7sus3M6q](https://testflight.apple.com/join/7sus3M6q) | Y | 2022-07-19 |
 | Newstats | [https://testflight.apple.com/join/y4Dif3WF](https://testflight.apple.com/join/y4Dif3WF) | N | 2022-03-15 |
 | Nextcloud | [https://testflight.apple.com/join/GjNbfo2a](https://testflight.apple.com/join/GjNbfo2a) | N | 2022-06-19 |
 | NiceHash | [https://testflight.apple.com/join/Ri90mKti](https://testflight.apple.com/join/Ri90mKti) | N | 2022-06-06 |
@@ -357,13 +357,13 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | NotePlan - Markdown Calendar | [https://testflight.apple.com/join/mrSbc937](https://testflight.apple.com/join/mrSbc937) | N | 2022-03-15 |
 | NoteStorm | [https://testflight.apple.com/join/PaoEJuBG](https://testflight.apple.com/join/PaoEJuBG) | N | 2022-03-15 |
 | Notes Plus | [https://testflight.apple.com/join/DHJexhQq](https://testflight.apple.com/join/DHJexhQq) | N | 2022-03-15 |
-| Notion | [https://testflight.apple.com/join/YSo8aVCS](https://testflight.apple.com/join/YSo8aVCS) | N | 2022-07-14 |
+| Notion | [https://testflight.apple.com/join/YSo8aVCS](https://testflight.apple.com/join/YSo8aVCS) | Y | 2022-07-19 |
 | Nubank | [https://testflight.apple.com/join/v3SGNpM5](https://testflight.apple.com/join/v3SGNpM5) | N | 2022-07-15 |
 | OSM Completionist | [https://testflight.apple.com/join/v1tyM5yU](https://testflight.apple.com/join/v1tyM5yU) | N | 2022-03-15 |
 | OSM Surveyor | [https://testflight.apple.com/join/wXtE44KZ](https://testflight.apple.com/join/wXtE44KZ) | N | 2022-03-15 |
-| OffScreen - Less Screen Time | [https://testflight.apple.com/join/Lsk0kvr2](https://testflight.apple.com/join/Lsk0kvr2) | N | 2022-07-18 |
+| OffScreen - Less Screen Time | [https://testflight.apple.com/join/Lsk0kvr2](https://testflight.apple.com/join/Lsk0kvr2) | F | 2022-07-19 |
 | OldOS | [https://testflight.apple.com/join/67C9v9VB](https://testflight.apple.com/join/67C9v9VB) | N | 2022-03-15 |
-| OldOS 10 beta | [https://testflight.apple.com/join/64UtNygq](https://testflight.apple.com/join/64UtNygq) | N | 2022-07-18 |
+| OldOS 10 beta | [https://testflight.apple.com/join/64UtNygq](https://testflight.apple.com/join/64UtNygq) | F | 2022-07-19 |
 | OldOS 12 beta | [https://testflight.apple.com/join/8PToNbaS](https://testflight.apple.com/join/8PToNbaS) | N | 2022-07-18 |
 | OldOS 6 | [https://testflight.apple.com/join/pqGYp7ve](https://testflight.apple.com/join/pqGYp7ve) | N | 2022-07-15 |
 | Omlet Arcade | [https://testflight.apple.com/join/xqSLy94a](https://testflight.apple.com/join/xqSLy94a) | N | 2022-07-15 |
@@ -385,9 +385,9 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | PUBG MOBILE | [https://testflight.apple.com/join/N2px9MKy](https://testflight.apple.com/join/N2px9MKy) | N | 2022-03-15 |
 | Pagico Mobile | [https://testflight.apple.com/join/PjTA9kxr](https://testflight.apple.com/join/PjTA9kxr) | N | 2022-03-15 |
 | Palette Cam | [https://testflight.apple.com/join/ZkRM0dla](https://testflight.apple.com/join/ZkRM0dla) | N | 2022-03-15 |
-| Panda Writer | [https://testflight.apple.com/join/xcYfHdB1](https://testflight.apple.com/join/xcYfHdB1) | N | 2022-07-18 |
+| Panda Writer | [https://testflight.apple.com/join/xcYfHdB1](https://testflight.apple.com/join/xcYfHdB1) | F | 2022-07-19 |
 | Paptter | [https://testflight.apple.com/join/YiCQfQv3](https://testflight.apple.com/join/YiCQfQv3) | N | 2022-03-15 |
-| Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | N | 2022-07-16 |
+| Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | Y | 2022-07-19 |
 | Password AR | [https://testflight.apple.com/join/BUsyXf0e](https://testflight.apple.com/join/BUsyXf0e) | N | 2022-03-15 |
 | Percent App | [https://testflight.apple.com/join/Sk5N5oJV](https://testflight.apple.com/join/Sk5N5oJV) | N | 2022-03-15 |
 | Pharos lite | [https://testflight.apple.com/join/DAs8hpAh](https://testflight.apple.com/join/DAs8hpAh) | N | 2022-07-18 |
@@ -426,10 +426,10 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | RBVEA Web | [https://testflight.apple.com/join/KgQRsv5c](https://testflight.apple.com/join/KgQRsv5c) | N | 2022-03-15 |
 | REAL Shuffle Player PRO | [https://testflight.apple.com/join/iow1BtFD](https://testflight.apple.com/join/iow1BtFD) | N | 2022-03-15 |
 | Rad Trails! | [https://testflight.apple.com/join/S7tXxfKK](https://testflight.apple.com/join/S7tXxfKK) | N | 2022-03-15 |
-| RainViewer: Live Weather Radar | [https://testflight.apple.com/join/OZ1B4sTS](https://testflight.apple.com/join/OZ1B4sTS) | N | 2022-07-18 |
+| RainViewer: Live Weather Radar | [https://testflight.apple.com/join/OZ1B4sTS](https://testflight.apple.com/join/OZ1B4sTS) | Y | 2022-07-19 |
 | Rapchat | [https://testflight.apple.com/join/JjPmPBK5](https://testflight.apple.com/join/JjPmPBK5) | N | 2022-03-15 |
-| Rave ‚Äì Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | N | 2022-07-18 |
-| Reading List - Book Tracker | [https://testflight.apple.com/join/kBS5mVao](https://testflight.apple.com/join/kBS5mVao) | N | 2022-07-18 |
+| Rave ‚Äì Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | Y | 2022-07-19 |
+| Reading List - Book Tracker | [https://testflight.apple.com/join/kBS5mVao](https://testflight.apple.com/join/kBS5mVao) | F | 2022-07-19 |
 | Really Bad Chess | [https://testflight.apple.com/join/aOhasBMk](https://testflight.apple.com/join/aOhasBMk) | N | 2022-03-15 |
 | Recall-Secure Photo Storage | [https://testflight.apple.com/join/YuXc2asc](https://testflight.apple.com/join/YuXc2asc) | N | 2022-03-15 |
 | Relationship Tracker - Linc | [https://testflight.apple.com/join/g1yypFdA](https://testflight.apple.com/join/g1yypFdA) | N | 2022-04-29 |
@@ -447,15 +447,15 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | RoomScan Pro | [https://testflight.apple.com/join/srkYDsAE](https://testflight.apple.com/join/srkYDsAE) | N | 2022-03-15 |
 | Ruuvi Station | [https://testflight.apple.com/join/loHFrEV1](https://testflight.apple.com/join/loHFrEV1) | N | 2022-07-15 |
 | S-AR | [https://testflight.apple.com/join/6sQnjseB](https://testflight.apple.com/join/6sQnjseB) | N | 2022-03-15 |
-| S1 Mufu | [https://testflight.apple.com/join/KwboYTNt](https://testflight.apple.com/join/KwboYTNt) | N | 2022-07-18 |
+| S1 Mufu | [https://testflight.apple.com/join/KwboYTNt](https://testflight.apple.com/join/KwboYTNt) | F | 2022-07-19 |
 | SALY-Machine Learning | [https://testflight.apple.com/join/uwrch7rF](https://testflight.apple.com/join/uwrch7rF) | N | 2022-03-15 |
 | SG Transit | [https://testflight.apple.com/join/JytrujtQ](https://testflight.apple.com/join/JytrujtQ) | N | 2022-03-15 |
-| SHARE NOW (car2go & DriveNow) | [https://testflight.apple.com/join/1SsBDNCj](https://testflight.apple.com/join/1SsBDNCj) | N | 2022-07-18 |
+| SHARE NOW (car2go & DriveNow) | [https://testflight.apple.com/join/1SsBDNCj](https://testflight.apple.com/join/1SsBDNCj) | Y | 2022-07-19 |
 | SHAREit - Connect & Transfer | [https://testflight.apple.com/join/eKumKU50](https://testflight.apple.com/join/eKumKU50) | N | 2022-03-15 |
 | SIMO : MATLAB programming app | [https://testflight.apple.com/join/Zm4lMILC](https://testflight.apple.com/join/Zm4lMILC) | N | 2022-03-16 |
 | SM.MS | [https://testflight.apple.com/join/bQz911w3](https://testflight.apple.com/join/bQz911w3) | N | 2022-07-15 |
 | SSRVPN | [https://testflight.apple.com/join/EeNKSIBZ](https://testflight.apple.com/join/EeNKSIBZ) | N | 2022-03-15 |
-| Sangoma Meet | [https://testflight.apple.com/join/BEd12vi5](https://testflight.apple.com/join/BEd12vi5) | N | 2022-07-15 |
+| Sangoma Meet | [https://testflight.apple.com/join/BEd12vi5](https://testflight.apple.com/join/BEd12vi5) | Y | 2022-07-19 |
 | Scanner ProÔºçOCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ](https://testflight.apple.com/join/6YzgDpdZ) | N | 2022-07-18 |
 | Scavengar ‚Äì Easy AR Creation | [https://testflight.apple.com/join/5avcwZpk](https://testflight.apple.com/join/5avcwZpk) | N | 2022-07-18 |
 | Screens | [https://testflight.apple.com/join/soRRXSyT](https://testflight.apple.com/join/soRRXSyT) | N | 2022-03-15 |
@@ -474,13 +474,13 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Sins Raid | [https://testflight.apple.com/join/4W3Kfb7j](https://testflight.apple.com/join/4W3Kfb7j) | N | 2022-03-15 |
 | Skies Of Chaos | [https://testflight.apple.com/join/l31tKFJF](https://testflight.apple.com/join/l31tKFJF) | N | 2022-03-15 |
 | Sky Beta | [https://testflight.apple.com/join/S41tc3c0](https://testflight.apple.com/join/S41tc3c0) | N | 2022-03-15 |
-| Skype For iPad | [https://testflight.apple.com/join/vnSIsolv](https://testflight.apple.com/join/vnSIsolv) | N | 2022-07-04 |
-| Skype For iPhone | [https://testflight.apple.com/join/fB5IkJT7](https://testflight.apple.com/join/fB5IkJT7) | N | 2022-07-08 |
+| Skype For iPad | [https://testflight.apple.com/join/vnSIsolv](https://testflight.apple.com/join/vnSIsolv) | Y | 2022-07-19 |
+| Skype For iPhone | [https://testflight.apple.com/join/fB5IkJT7](https://testflight.apple.com/join/fB5IkJT7) | Y | 2022-07-19 |
 | Slack | [https://testflight.apple.com/join/QE3kgqJ2](https://testflight.apple.com/join/QE3kgqJ2) | N | 2022-07-15 |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | N | 2022-07-18 |
-| Sleepy Coffee | [https://testflight.apple.com/join/0rQgHZtW](https://testflight.apple.com/join/0rQgHZtW) | N | 2022-07-15 |
+| Sleepy Coffee | [https://testflight.apple.com/join/0rQgHZtW](https://testflight.apple.com/join/0rQgHZtW) | Y | 2022-07-19 |
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) | N | 2022-03-15 |
-| Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | N | 2022-07-15 |
+| Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | Y | 2022-07-19 |
 | Smooz Browser | [https://testflight.apple.com/join/53f970RC](https://testflight.apple.com/join/53f970RC) | N | 2022-03-15 |
 | Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | N | 2022-07-15 |
 | Snapthread | [https://testflight.apple.com/join/nOZ0d7n7](https://testflight.apple.com/join/nOZ0d7n7) | N | 2022-03-15 |
@@ -495,11 +495,11 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | SpeedCN - Êµ∑Â§ñVPNÁΩëÁªúÂä†ÈÄüÂô® | [https://testflight.apple.com/join/Ks9a8MlH](https://testflight.apple.com/join/Ks9a8MlH) | N | 2022-03-15 |
 | Spend Stack | [https://testflight.apple.com/join/2jekV101](https://testflight.apple.com/join/2jekV101) | N | 2022-03-15 |
 | Spend Together | [https://testflight.apple.com/join/plMhyWoV](https://testflight.apple.com/join/plMhyWoV) | N | 2022-03-15 |
-| Spendee Budget Money Tracker | [https://testflight.apple.com/join/qsfCtbEy](https://testflight.apple.com/join/qsfCtbEy) | N | 2022-07-15 |
+| Spendee Budget Money Tracker | [https://testflight.apple.com/join/qsfCtbEy](https://testflight.apple.com/join/qsfCtbEy) | Y | 2022-07-19 |
 | Spendy | [https://testflight.apple.com/join/hgN6jGHY](https://testflight.apple.com/join/hgN6jGHY) | N | 2022-03-15 |
 | Spider Solitaire Card Game | [https://testflight.apple.com/join/ygPhVWba](https://testflight.apple.com/join/ygPhVWba) | N | 2022-03-15 |
-| Spotify - Music and Podcasts | [https://testflight.apple.com/join/1SyedSId](https://testflight.apple.com/join/1SyedSId) | N | 2022-07-17 |
-| Spotify Music | [https://testflight.apple.com/join/7lt2tesn](https://testflight.apple.com/join/7lt2tesn) | N | 2022-07-16 |
+| Spotify - Music and Podcasts | [https://testflight.apple.com/join/1SyedSId](https://testflight.apple.com/join/1SyedSId) | F | 2022-07-19 |
+| Spotify Music | [https://testflight.apple.com/join/7lt2tesn](https://testflight.apple.com/join/7lt2tesn) | F | 2022-07-19 |
 | Stadtfahrt | [https://testflight.apple.com/join/5WU4HTVy](https://testflight.apple.com/join/5WU4HTVy) | N | 2022-03-15 |
 | Stand Up: Fitness Tracking | [https://testflight.apple.com/join/x9KBfSnP](https://testflight.apple.com/join/x9KBfSnP) | N | 2022-03-15 |
 | Standard Notes | [https://testflight.apple.com/join/xdRzm6et](https://testflight.apple.com/join/xdRzm6et) | N | 2022-03-15 |
@@ -511,7 +511,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Stitcher for Podcasts | [https://testflight.apple.com/join/lTQYgfEg](https://testflight.apple.com/join/lTQYgfEg) | N | 2022-03-15 |
 | Stop Motion Studio Pro | [https://testflight.apple.com/join/rfWbdRvr](https://testflight.apple.com/join/rfWbdRvr) | N | 2022-07-15 |
 | Streaks | [https://testflight.apple.com/join/y6qA7TMa](https://testflight.apple.com/join/y6qA7TMa) | N | 2022-07-05 |
-| Streaks Workout | [https://testflight.apple.com/join/OqYBblCA](https://testflight.apple.com/join/OqYBblCA) | N | 2022-07-18 |
+| Streaks Workout | [https://testflight.apple.com/join/OqYBblCA](https://testflight.apple.com/join/OqYBblCA) | Y | 2022-07-19 |
 | Stream - An RSS Reader | [https://testflight.apple.com/join/auxSqon8](https://testflight.apple.com/join/auxSqon8) | N | 2022-03-15 |
 | Stream Status | [https://testflight.apple.com/join/j0WQVihy](https://testflight.apple.com/join/j0WQVihy) | N | 2022-03-15 |
 | Strike | [https://testflight.apple.com/join/BTZRrfEX](https://testflight.apple.com/join/BTZRrfEX) | N | 2022-03-15 |
@@ -521,10 +521,10 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Swiftfin | [https://testflight.apple.com/join/oZd0QzWv](https://testflight.apple.com/join/oZd0QzWv) | N | 2022-07-18 |
 | T7 Chicken Plus | [https://testflight.apple.com/join/Ib5WleeA](https://testflight.apple.com/join/Ib5WleeA) | N | 2022-03-15 |
 | TRLX | [https://testflight.apple.com/join/4JYxJDSY](https://testflight.apple.com/join/4JYxJDSY) | N | 2022-03-15 |
-| TV Time ‚Äì #1 Show Tracker | [https://testflight.apple.com/join/hjKkDsc4](https://testflight.apple.com/join/hjKkDsc4) | F | 2022-07-18 |
-| Tapatalk - 200,000+ Forums | [https://testflight.apple.com/join/oGFXVgl6](https://testflight.apple.com/join/oGFXVgl6) | N | 2022-07-12 |
+| TV Time ‚Äì #1 Show Tracker | [https://testflight.apple.com/join/hjKkDsc4](https://testflight.apple.com/join/hjKkDsc4) | N | 2022-07-19 |
+| Tapatalk - 200,000+ Forums | [https://testflight.apple.com/join/oGFXVgl6](https://testflight.apple.com/join/oGFXVgl6) | Y | 2022-07-19 |
 | Tarkeeb | [https://testflight.apple.com/join/t7m9f4dR](https://testflight.apple.com/join/t7m9f4dR) | N | 2022-03-15 |
-| Task Flow: To-Do List & Tasks | [https://testflight.apple.com/join/JyqxBPFf](https://testflight.apple.com/join/JyqxBPFf) | N | 2022-07-15 |
+| Task Flow: To-Do List & Tasks | [https://testflight.apple.com/join/JyqxBPFf](https://testflight.apple.com/join/JyqxBPFf) | Y | 2022-07-19 |
 | Teamup Calendar | [https://testflight.apple.com/join/1X8lXUJI](https://testflight.apple.com/join/1X8lXUJI) | N | 2022-03-15 |
 | TelePlus | [https://testflight.apple.com/join/LQ2GXZag](https://testflight.apple.com/join/LQ2GXZag) | N | 2022-03-15 |
 | Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0](https://testflight.apple.com/join/u6iogfd0) | N | 2022-07-18 |
@@ -532,13 +532,13 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Termius ‚Äì SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | N | 2022-07-18 |
 | Textulator iMessage | [https://testflight.apple.com/join/yo6Od7Pt](https://testflight.apple.com/join/yo6Od7Pt) | N | 2022-07-18 |
 | The Hot Cross Bun | [https://testflight.apple.com/join/xQBEhm4o](https://testflight.apple.com/join/xQBEhm4o) | N | 2022-03-15 |
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | N | 2022-07-16 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | F | 2022-07-19 |
 | The Real Estate Answers App | [https://testflight.apple.com/join/9i9YT2LU](https://testflight.apple.com/join/9i9YT2LU) | N | 2022-03-15 |
 | Thor | [https://testflight.apple.com/join/wArXdacJ](https://testflight.apple.com/join/wArXdacJ) | N | 2022-03-15 |
 | Tik-App | [https://testflight.apple.com/join/wGEkmFU9](https://testflight.apple.com/join/wGEkmFU9) | N | 2022-03-15 |
-| TikTok | [https://testflight.apple.com/join/FjvQ94t1](https://testflight.apple.com/join/FjvQ94t1) | N | 2022-07-18 |
+| TikTok | [https://testflight.apple.com/join/FjvQ94t1](https://testflight.apple.com/join/FjvQ94t1) | F | 2022-07-19 |
 | TikTok | [https://testflight.apple.com/join/aL5ZWE8A](https://testflight.apple.com/join/aL5ZWE8A) | N | 2022-07-18 |
-| TikTok | [https://testflight.apple.com/join/plxN3myo](https://testflight.apple.com/join/plxN3myo) | N | 2022-07-16 |
+| TikTok | [https://testflight.apple.com/join/plxN3myo](https://testflight.apple.com/join/plxN3myo) | F | 2022-07-19 |
 | Time for Coffee! | [https://testflight.apple.com/join/ACkjB1Xh](https://testflight.apple.com/join/ACkjB1Xh) | N | 2022-03-15 |
 | Time:Calc | [https://testflight.apple.com/join/8NvVXGgp](https://testflight.apple.com/join/8NvVXGgp) | N | 2022-03-15 |
 | To Dot | [https://testflight.apple.com/join/7o1Q4Q8p](https://testflight.apple.com/join/7o1Q4Q8p) | N | 2022-03-15 |
@@ -546,7 +546,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Toot! | [https://testflight.apple.com/join/Ef3ULFwC](https://testflight.apple.com/join/Ef3ULFwC) | N | 2022-03-15 |
 | Torus.wallet | [https://testflight.apple.com/join/Rkh83mtc](https://testflight.apple.com/join/Rkh83mtc) | N | 2022-03-15 |
 | TouchViZ | [https://testflight.apple.com/join/7BF3A3uz](https://testflight.apple.com/join/7BF3A3uz) | N | 2022-03-15 |
-| Tour-Trip Planning Made Easy | [https://testflight.apple.com/join/PEdzUki1](https://testflight.apple.com/join/PEdzUki1) | N | 2022-07-16 |
+| Tour-Trip Planning Made Easy | [https://testflight.apple.com/join/PEdzUki1](https://testflight.apple.com/join/PEdzUki1) | Y | 2022-07-19 |
 | Tower Defense Y2K18 | [https://testflight.apple.com/join/yqpELkne](https://testflight.apple.com/join/yqpELkne) | N | 2022-03-15 |
 | TrackMyTour | [https://testflight.apple.com/join/tv9dt6po](https://testflight.apple.com/join/tv9dt6po) | N | 2022-07-16 |
 | TransitAR | [https://testflight.apple.com/join/it3JyrDn](https://testflight.apple.com/join/it3JyrDn) | N | 2022-03-15 |
@@ -571,9 +571,9 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Up ‚Äì File transfer & sharing | [https://testflight.apple.com/join/pgni34xJ](https://testflight.apple.com/join/pgni34xJ) | N | 2022-03-15 |
 | UpHabit | [https://testflight.apple.com/join/hoeKVAuE](https://testflight.apple.com/join/hoeKVAuE) | N | 2022-03-15 |
 | V2LF | [https://testflight.apple.com/join/cvx4MQuh](https://testflight.apple.com/join/cvx4MQuh) | N | 2022-03-15 |
-| VFeed | [https://testflight.apple.com/join/ZdC5U0fR](https://testflight.apple.com/join/ZdC5U0fR) | N | 2022-07-18 |
+| VFeed | [https://testflight.apple.com/join/ZdC5U0fR](https://testflight.apple.com/join/ZdC5U0fR) | Y | 2022-07-19 |
 | VLC for Mobile | [https://testflight.apple.com/join/bbyXP6Lx](https://testflight.apple.com/join/bbyXP6Lx) | N | 2022-03-16 |
-| VPN Tracker | [https://testflight.apple.com/join/hoTrTqiZ](https://testflight.apple.com/join/hoTrTqiZ) | N | 2022-07-15 |
+| VPN Tracker | [https://testflight.apple.com/join/hoTrTqiZ](https://testflight.apple.com/join/hoTrTqiZ) | Y | 2022-07-19 |
 | Vantage Calendar | [https://testflight.apple.com/join/chE3dS7n](https://testflight.apple.com/join/chE3dS7n) | N | 2022-03-15 |
 | Vevue_Beta 2.0 | [https://testflight.apple.com/join/Q5ukVEbX](https://testflight.apple.com/join/Q5ukVEbX) | N | 2022-07-15 |
 | ViciniT | [https://testflight.apple.com/join/ihYruvVN](https://testflight.apple.com/join/ihYruvVN) | N | 2022-03-15 |
@@ -593,7 +593,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | WeatherKit | [https://testflight.apple.com/join/kAvJV2Gp](https://testflight.apple.com/join/kAvJV2Gp) | N | 2022-03-15 |
 | WhaleBlue | [https://testflight.apple.com/join/jtBRluFe](https://testflight.apple.com/join/jtBRluFe) | N | 2022-03-15 |
 | WhaleBlue | [https://testflight.apple.com/join/udovXNsR](https://testflight.apple.com/join/udovXNsR) | N | 2022-03-15 |
-| WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | N | 2022-07-17 |
+| WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | F | 2022-07-19 |
 | WhatsApp Messenger | [https://testflight.apple.com/join/s4rTJVPb](https://testflight.apple.com/join/s4rTJVPb) | N | 2022-07-18 |
 | Widget Wizard | [https://testflight.apple.com/join/mQX0NKjP](https://testflight.apple.com/join/mQX0NKjP) | N | 2022-03-15 |
 | Wikiloc Outdoor Navigation GPS | [https://testflight.apple.com/join/P93jBr23](https://testflight.apple.com/join/P93jBr23) | N | 2022-03-15 |
@@ -601,13 +601,13 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | WireGuard | [https://testflight.apple.com/join/63I19SDT](https://testflight.apple.com/join/63I19SDT) | N | 2022-03-15 |
 | Wissen PDF reader | [https://testflight.apple.com/join/HvCrp5Th](https://testflight.apple.com/join/HvCrp5Th) | N | 2022-03-15 |
 | Wizard Paint | [https://testflight.apple.com/join/PPv76wiR](https://testflight.apple.com/join/PPv76wiR) | N | 2022-03-15 |
-| WordPress | [https://testflight.apple.com/join/AkJQt8Pw](https://testflight.apple.com/join/AkJQt8Pw) | N | 2022-07-18 |
+| WordPress | [https://testflight.apple.com/join/AkJQt8Pw](https://testflight.apple.com/join/AkJQt8Pw) | Y | 2022-07-19 |
 | Working Copy | [https://testflight.apple.com/join/i4dpUz7J](https://testflight.apple.com/join/i4dpUz7J) | N | 2022-03-15 |
 | World Clock Time Widget | [https://testflight.apple.com/join/8wa9T053](https://testflight.apple.com/join/8wa9T053) | N | 2022-06-23 |
 | Wraldpyk‚Äôs Blackjack | [https://testflight.apple.com/join/cJbVQ4HE](https://testflight.apple.com/join/cJbVQ4HE) | N | 2022-03-15 |
 | Wristruments for Guitar | [https://testflight.apple.com/join/IEuDHfby](https://testflight.apple.com/join/IEuDHfby) | N | 2022-03-15 |
 | XP App | [https://testflight.apple.com/join/f3nwgini](https://testflight.apple.com/join/f3nwgini) | N | 2022-03-15 |
-| Xbox | [https://testflight.apple.com/join/dfUeaFHS](https://testflight.apple.com/join/dfUeaFHS) | N | 2022-07-15 |
+| Xbox | [https://testflight.apple.com/join/dfUeaFHS](https://testflight.apple.com/join/dfUeaFHS) | F | 2022-07-19 |
 | Xbuddy | [https://testflight.apple.com/join/Yxf3M3Kf](https://testflight.apple.com/join/Yxf3M3Kf) | N | 2022-03-15 |
 | Xzen | [https://testflight.apple.com/join/Xl5oqplp](https://testflight.apple.com/join/Xl5oqplp) | N | 2022-03-15 |
 | YACReader | [https://testflight.apple.com/join/5zhB7sRP](https://testflight.apple.com/join/5zhB7sRP) | N | 2022-06-18 |
@@ -622,7 +622,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | all 4 hue (for Philips Hue) | [https://testflight.apple.com/join/4Jc5hX2s](https://testflight.apple.com/join/4Jc5hX2s) | F | 2022-07-12 |
 | battle fruit | [https://testflight.apple.com/join/Q7KRct77](https://testflight.apple.com/join/Q7KRct77) | N | 2022-04-14 |
 | detektor.fm | [https://testflight.apple.com/join/XocX8UGc](https://testflight.apple.com/join/XocX8UGc) | N | 2022-03-15 |
-| dystopia for reddit | [https://testflight.apple.com/join/4MJtN4FB](https://testflight.apple.com/join/4MJtN4FB) | N | 2022-07-18 |
+| dystopia for reddit | [https://testflight.apple.com/join/4MJtN4FB](https://testflight.apple.com/join/4MJtN4FB) | Y | 2022-07-19 |
 | faced.io | [https://testflight.apple.com/join/GFoIW08E](https://testflight.apple.com/join/GFoIW08E) | N | 2022-03-15 |
 | fmoji | [https://testflight.apple.com/join/ZfyeFB1S](https://testflight.apple.com/join/ZfyeFB1S) | N | 2022-03-15 |
 | hoxel | [https://testflight.apple.com/join/0D8fsnCt](https://testflight.apple.com/join/0D8fsnCt) | N | 2022-03-15 |
@@ -676,7 +676,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | iCost ËÆ∞Ë¥¶ | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | F | 2022-07-16 |
 | ‰∏ÉÁå´Â∞èËØ¥ | [https://testflight.apple.com/join/UaD5Pl6t](https://testflight.apple.com/join/UaD5Pl6t) | N | 2022-03-15 |
 | ‰∏≠ÂÖ≥ÊùëÂú®Á∫ø | [https://testflight.apple.com/join/0wbi7WuC](https://testflight.apple.com/join/0wbi7WuC) | N | 2022-04-06 |
-| ‰∫¨‰∏ú | [https://testflight.apple.com/join/geAtB7Mp](https://testflight.apple.com/join/geAtB7Mp) | N | 2022-03-15 |
+| ‰∫¨‰∏ú | [https://testflight.apple.com/join/geAtB7Mp](https://testflight.apple.com/join/geAtB7Mp) | D | 2022-07-19 |
 | ‰ªäÊó•Â§¥Êù° | [https://testflight.apple.com/join/eiVccFIZ](https://testflight.apple.com/join/eiVccFIZ) | N | 2022-03-15 |
 | ‰ºÅÈπÖÁîµÁ´û | [https://testflight.apple.com/join/yjtogTGe](https://testflight.apple.com/join/yjtogTGe) | N | 2022-03-15 |
 | ÂçÉÁâõ | [https://testflight.apple.com/join/lk3b4aCF](https://testflight.apple.com/join/lk3b4aCF) | N | 2022-03-16 |

@@ -1,7 +1,7 @@
 # macOS App List (macOS 12)
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | F | 2022-07-18 |
+| Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2022-07-19 |
 | Drafts | [https://testflight.apple.com/join/1zAEzmxc](https://testflight.apple.com/join/1zAEzmxc) | N | 2022-07-05 |
 | MakePass | [https://testflight.apple.com/join/0aT1NmVY](https://testflight.apple.com/join/0aT1NmVY) | N | 2022-01-20 |
 | Ride Wait Times | [https://testflight.apple.com/join/yQNmMRwB](https://testflight.apple.com/join/yQNmMRwB) | Y | 2022-03-13 |
