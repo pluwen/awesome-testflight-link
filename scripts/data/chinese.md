@@ -1,7 +1,7 @@
 # Chinese App
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| Angelia | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) | N | 2022-08-12 |
+| Angelia | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) | Y | 2022-09-23 |
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | F | 2022-09-22 |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2022-03-15 |
 | QQ | [https://testflight.apple.com/join/5wZk5yYi](https://testflight.apple.com/join/5wZk5yYi) | N | 2022-05-19 |
