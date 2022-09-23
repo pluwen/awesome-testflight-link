@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-15 13:47:49
-LastEditTime : 2022-04-24 17:26:29
+LastEditTime : 2022-09-23 23:50:39
 LastEditors  : tom-snow
 Description  : 自动更新各 TestFlight 公共链接当前的状态并更新文档
 FilePath     : /awesome-testflight-link/scripts/update_status.py
@@ -12,6 +12,7 @@ import sqlite3
 import asyncio
 import aiohttp
 import re, os, sys, datetime, random
+from fake_useragent import UserAgent
 
 BASE_URL = "https://testflight.apple.com/"
 
@@ -112,16 +113,17 @@ async def check_status(session, key, retry=10):
             if resp.status == 404:
                 return (key, 'D')
             rand = round(random.random(), 3)
-            print(f"[warn] {e}, wait {i*(rand+1)+1} s.")
+            print(f"[warn] {e}, wait {(i+1)*(rand+1)+1} s.")
             await asyncio.sleep(i*(rand+1)+1)
 
     return (key, status)
 
 async def main():
-    # 稳妥起见限制同时 5 个同 host 的请求
+    # 稳妥起见限制同时 3 个同 host 的请求
     conn = aiohttp.TCPConnector(limit=10, limit_per_host=3)
+    ua = UserAgent()
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2357.130 Safari/537.36 qblink wegame.exe QBCore/3.70.66.400 QQBrowser/9.0.2524.400"
+        "User-Agent": ua.random
     }
     async with aiohttp.ClientSession(BASE_URL, connector=conn, headers=headers) as session:
         for table in TABLE_MAP:
