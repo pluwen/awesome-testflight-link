@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-15 13:47:49
-LastEditTime : 2022-09-23 23:50:39
+LastEditTime : 2022-09-24 17:50:39
 LastEditors  : tom-snow
 Description  : 自动更新各 TestFlight 公共链接当前的状态并更新文档
 FilePath     : /awesome-testflight-link/scripts/update_status.py
@@ -12,7 +12,7 @@ import sqlite3
 import asyncio
 import aiohttp
 import re, os, sys, datetime, random
-from fake_useragent import UserAgent
+from fake_user_agent import user_agent
 
 BASE_URL = "https://testflight.apple.com/"
 
@@ -96,7 +96,11 @@ def renew_readme():
         f.write(readme)
 
 async def check_status(session, key, retry=10):
-    status = 'N'
+    status = 'E' # means error
+    rand = round(random.random(), 3)
+    print(f"[info] {key}, wait {(i+1)*(rand+1)+1} s.")
+    await asyncio.sleep(1*(rand+1)+1)
+    
     for i in range(retry):
         try:
             async with session.get(f'/join/{key}') as resp:
@@ -121,9 +125,9 @@ async def check_status(session, key, retry=10):
 async def main():
     # 稳妥起见限制同时 3 个同 host 的请求
     conn = aiohttp.TCPConnector(limit=10, limit_per_host=3)
-    ua = UserAgent()
+    ua = user_agent()
     headers = {
-        "User-Agent": ua.random
+        "User-Agent": ua
     }
     async with aiohttp.ClientSession(BASE_URL, connector=conn, headers=headers) as session:
         for table in TABLE_MAP:
