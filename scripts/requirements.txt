@@ -1,2 +1,2 @@
 aiohttp[speedups]
-fake-useragent
+fake_user_agent
