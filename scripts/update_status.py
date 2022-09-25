@@ -2,7 +2,7 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-15 13:47:49
-LastEditTime : 2022-09-24 17:50:39
+LastEditTime : 2022-09-25 19:50:39
 LastEditors  : tom-snow
 Description  : 自动更新各 TestFlight 公共链接当前的状态并更新文档
 FilePath     : /awesome-testflight-link/scripts/update_status.py
@@ -28,6 +28,8 @@ TODAY = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
 
 FULL_PATTERN = re.compile(r"版本的测试员已满|This beta is full")
 NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn't accepting any new testers right now")
+
+UA_NUM = 0
 
 def get_old_status(table):
     conn = sqlite3.connect('../db/sqlite3.db')
@@ -96,13 +98,19 @@ def renew_readme():
         f.write(readme)
 
 async def check_status(session, key, retry=10):
+    global UA_NUM
+    
     status = 'E' # means error
     rand = round(random.random(), 3)
-    print(f"[info] {key}, wait {(i+1)*(rand+1)+1} s.")
-    await asyncio.sleep(1*(rand+1)+1)
+    print(f"[info] {key}, wait {(rand+1)} s.")
+    await asyncio.sleep(rand+1)
     
     for i in range(retry):
         try:
+            headers = {
+                "User-Agent": uas[UA_NUM]
+            }
+
             async with session.get(f'/join/{key}') as resp:
                 resp.raise_for_status()
                 resp_html = await resp.text()
@@ -117,17 +125,21 @@ async def check_status(session, key, retry=10):
             if resp.status == 404:
                 return (key, 'D')
             rand = round(random.random(), 3)
-            print(f"[warn] {e}, wait {(i+1)*(rand+1)+1} s.")
+            print(f"[warn] {e} UA:{uas[UA_NUM]}, wait {(i+1)*(rand+1)+1} s.")
             await asyncio.sleep(i*(rand+1)+1)
+            # 如果出现请求过多，修改 UA
+            UA_NUM += 1
+            if (UA_NUM >= 100):
+                UA_NUM = 0
 
     return (key, status)
 
 async def main():
     # 稳妥起见限制同时 3 个同 host 的请求
     conn = aiohttp.TCPConnector(limit=10, limit_per_host=3)
-    ua = user_agent()
+    
     headers = {
-        "User-Agent": ua
+        "User-Agent": uas[UA_NUM]
     }
     async with aiohttp.ClientSession(BASE_URL, connector=conn, headers=headers) as session:
         for table in TABLE_MAP:
@@ -152,6 +164,7 @@ if __name__ == "__main__":
     os.chdir(sys.path[0])
     
     loop = asyncio.get_event_loop()
+    uas = [user_agent() for i in range(100)]
     loop.run_until_complete(main())
     
     renew_readme()
