@@ -136,7 +136,7 @@ async def check_status(session, key, retry=10):
 
 async def main():
     # 稳妥起见限制同时 3 个同 host 的请求
-    conn = aiohttp.TCPConnector(limit=10, limit_per_host=3)
+    conn = aiohttp.TCPConnector(limit=10, limit_per_host=1)
     
     headers = {
         "User-Agent": uas[UA_NUM]
