@@ -703,7 +703,6 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | 票夹 | [https://testflight.apple.com/join/sPJTq8Ff](https://testflight.apple.com/join/sPJTq8Ff) | N | 2022-03-15 |
 | 程序员做饭指南 | [https://testflight.apple.com/join/976Esk4W](https://testflight.apple.com/join/976Esk4W) | N | 2022-06-23 |
 | 简书 | [https://testflight.apple.com/join/qlNiqNNA](https://testflight.apple.com/join/qlNiqNNA) | N | 2022-03-15 |
-| 网易云音乐 | [https://testflight.apple.com/join/hx2JGQPO](https://testflight.apple.com/join/hx2JGQPO) | D | 2022-08-24 |
 | 网易云音乐 | [https://testflight.apple.com/join/iNbrKSVg](https://testflight.apple.com/join/iNbrKSVg) | D | 2022-08-24 |
 | 网易云音乐 HD | [https://testflight.apple.com/join/G08IwVFs](https://testflight.apple.com/join/G08IwVFs) | N | 2022-03-15 |
 | 网盘搜索 | [https://testflight.apple.com/join/k02d3pgQ](https://testflight.apple.com/join/k02d3pgQ) | N | 2022-03-15 |
