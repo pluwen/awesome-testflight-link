@@ -9,7 +9,7 @@
 | 滴答清单 TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | Y | 2022-03-15 |
 | 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | Y | 2022-08-12 |
 | 我的世界-网易 | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | Y | 2022-08-30 |
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | F | 2022-10-09 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | F | 2022-10-12 |
 | 百度贴吧 | [https://testflight.apple.com/join/GgBqXAqm](https://testflight.apple.com/join/GgBqXAqm) | F | 2022-08-22 |
 | 熊猫吃短信 - 垃圾短信过滤 beta | [https://testflight.apple.com/join/PUlWiCNO](https://testflight.apple.com/join/PUlWiCNO) | F | 2022-10-09 |
 | biubiu加速器 | [https://testflight.apple.com/join/Fk8KzSnv](https://testflight.apple.com/join/Fk8KzSnv) | N | 2022-03-15 |
@@ -49,19 +49,3 @@
 | 枕边语pillowtalk-服务器监控工具 | [https://testflight.apple.com/join/UIW76yDz](https://testflight.apple.com/join/UIW76yDz) | N | 2022-03-16 |
 | 黑匣子 Player | [https://testflight.apple.com/join/uCsUGsvN](https://testflight.apple.com/join/uCsUGsvN) | N | 2022-03-15 |
 | 程序员做饭指南 | [https://testflight.apple.com/join/976Esk4W](https://testflight.apple.com/join/976Esk4W) | N | 2022-06-23 |
-| QQ邮箱 | [https://testflight.apple.com/join/nhb7CprH](https://testflight.apple.com/join/nhb7CprH) | D | 2022-08-16 |
-| QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) | D | 2022-07-26 |
-| QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) | D | 2022-07-18 |
-| QQ音乐 HD | [https://testflight.apple.com/join/AvhmiF73](https://testflight.apple.com/join/AvhmiF73) | D | 2022-07-07 |
-| 京东 | [https://testflight.apple.com/join/geAtB7Mp](https://testflight.apple.com/join/geAtB7Mp) | D | 2022-07-19 |
-| 今日头条 | [https://testflight.apple.com/join/eiVccFIZ](https://testflight.apple.com/join/eiVccFIZ) | D | 2022-09-07 |
-| 微信 | [https://testflight.apple.com/join/IRZEkA2H](https://testflight.apple.com/join/IRZEkA2H) | D | 2022-08-10 |
-| 招商银行 | [https://testflight.apple.com/join/E4PbSU5R](https://testflight.apple.com/join/E4PbSU5R) | D | 2022-09-20 |
-| 支付宝 | [https://testflight.apple.com/join/AGmpZfit](https://testflight.apple.com/join/AGmpZfit) | D | 2022-07-08 |
-| 百度输入法 | [https://testflight.apple.com/join/Xd0EnJJJ](https://testflight.apple.com/join/Xd0EnJJJ) | D | 2022-08-20 |
-| 网易云音乐 | [https://testflight.apple.com/join/hx2JGQPO](https://testflight.apple.com/join/hx2JGQPO) | D | 2022-08-24 |
-| 网易云音乐 | [https://testflight.apple.com/join/iNbrKSVg](https://testflight.apple.com/join/iNbrKSVg) | D | 2022-08-24 |
-| 豆瓣 | [https://testflight.apple.com/join/OXkZhrB3](https://testflight.apple.com/join/OXkZhrB3) | D | 2022-08-02 |
-| 酷狗音乐 HD | [https://testflight.apple.com/join/Smx1hhM8](https://testflight.apple.com/join/Smx1hhM8) | D | 2022-08-22 |
-| 陌陌 | [https://testflight.apple.com/join/Dyl1Po6h](https://testflight.apple.com/join/Dyl1Po6h) | D | 2022-09-29 |
-| 高德地图 | [https://testflight.apple.com/join/b3SoyP3z](https://testflight.apple.com/join/b3SoyP3z) | D | 2022-07-30 |
