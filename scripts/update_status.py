@@ -13,6 +13,7 @@ import asyncio
 import aiohttp
 import re, os, sys, datetime, random
 from fake_user_agent import user_agent
+import math
 
 BASE_URL = "https://testflight.apple.com/"
 
@@ -124,8 +125,8 @@ async def check_status(session, key, retry=10):
         except aiohttp.ClientResponseError as e:
             if resp.status == 404:
                 return (key, 'D')
-            rand = round(random.random(), 3)
-            print(f"[warn] {e} UA:{uas[UA_NUM]}, wait {(i+1)*(rand+1)+1} s.")
+            rand = round(random.random(), 3) * 100
+            print(f"[warn] {e} UA:{uas[UA_NUM]}, wait {i*(rand+1)+1} s.")
             await asyncio.sleep(i*(rand+1)+1)
             # 如果出现请求过多，修改 UA
             UA_NUM += 1
