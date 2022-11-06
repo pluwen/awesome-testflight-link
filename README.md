@@ -27,7 +27,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 ## iOS/iPad OS App List
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/QKqitFwc](https://testflight.apple.com/join/QKqitFwc) | Y | 2022-11-05 |
+| 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/QKqitFwc](https://testflight.apple.com/join/QKqitFwc) | F | 2022-11-06 |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2022-11-05 |
 | 1Password - Password Manager | [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) | F | 2022-11-03 |
 | 1TouchAssist | [https://testflight.apple.com/join/oYw0jTD6](https://testflight.apple.com/join/oYw0jTD6) | N | 2022-10-13 |
@@ -155,7 +155,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | Droplets | [https://testflight.apple.com/join/70uu42Cu](https://testflight.apple.com/join/70uu42Cu) | N | 2022-10-11 |
 | Dust-Beta | [https://testflight.apple.com/join/OBG12W8K](https://testflight.apple.com/join/OBG12W8K) | N | 2022-10-11 |
 | Eastwatch | [https://testflight.apple.com/join/SmfNOeJ2](https://testflight.apple.com/join/SmfNOeJ2) | F | 2022-10-13 |
-| Egern beta | [https://testflight.apple.com/join/AzU6kAzX](https://testflight.apple.com/join/AzU6kAzX) | Y | 2022-11-05 |
+| Egern beta | [https://testflight.apple.com/join/AzU6kAzX](https://testflight.apple.com/join/AzU6kAzX) | F | 2022-11-06 |
 | Emma – Money Management | [https://testflight.apple.com/join/KSO9dtAn](https://testflight.apple.com/join/KSO9dtAn) | N | 2022-10-13 |
 | Emoji Stickers Pack | [https://testflight.apple.com/join/3ZTdq2Kv](https://testflight.apple.com/join/3ZTdq2Kv) | N | 2022-10-13 |
 | EncryptoTel.SIP | [https://testflight.apple.com/join/TExm457d](https://testflight.apple.com/join/TExm457d) | N | 2022-10-13 |
@@ -170,7 +170,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | FRITZ!App Smart Home | [https://testflight.apple.com/join/kzVJhIg1](https://testflight.apple.com/join/kzVJhIg1) | Y | 2022-10-11 |
 | FRITZ!App TV | [https://testflight.apple.com/join/Zl2czQO2](https://testflight.apple.com/join/Zl2czQO2) | Y | 2022-10-13 |
 | FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | F | 2022-11-01 |
-| Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | F | 2022-10-18 |
+| Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | Y | 2022-11-06 |
 | Facebook Light | [https://testflight.apple.com/join/UqEC1ibq](https://testflight.apple.com/join/UqEC1ibq) | N | 2022-10-13 |
 | Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | F | 2022-10-23 |
 | FanFiction.Net | [https://testflight.apple.com/join/NLrhkf2U](https://testflight.apple.com/join/NLrhkf2U) | N | 2022-10-13 |
@@ -397,7 +397,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | Planet Runners | [https://testflight.apple.com/join/4zAP9kBW](https://testflight.apple.com/join/4zAP9kBW) | N | 2022-10-13 |
 | PlayMe-Social Competitions | [https://testflight.apple.com/join/qd3PcztN](https://testflight.apple.com/join/qd3PcztN) | N | 2022-10-11 |
 | Playerly | [https://testflight.apple.com/join/8TOnyruA](https://testflight.apple.com/join/8TOnyruA) | N | 2022-10-13 |
-| Plex | [https://testflight.apple.com/join/MY6JTzix](https://testflight.apple.com/join/MY6JTzix) | Y | 2022-10-25 |
+| Plex | [https://testflight.apple.com/join/MY6JTzix](https://testflight.apple.com/join/MY6JTzix) | F | 2022-11-06 |
 | Pocket: Save. Read. Grow. | [https://testflight.apple.com/join/LxKzQMpu](https://testflight.apple.com/join/LxKzQMpu) | N | 2022-10-13 |
 | Pocketflix-Vertical Films | [https://testflight.apple.com/join/JrFLzCvU](https://testflight.apple.com/join/JrFLzCvU) | N | 2022-10-13 |
 | Podcat | [https://testflight.apple.com/join/P5sgoCky](https://testflight.apple.com/join/P5sgoCky) | Y | 2022-10-13 |
@@ -405,7 +405,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | Potatso Lite | [https://testflight.apple.com/join/NkF46PRd](https://testflight.apple.com/join/NkF46PRd) | N | 2022-10-13 |
 | Power 9 – Magic: The Gathering | [https://testflight.apple.com/join/hKI4xKRj](https://testflight.apple.com/join/hKI4xKRj) | N | 2022-10-13 |
 | ProgTV | [https://testflight.apple.com/join/RKN8upW7](https://testflight.apple.com/join/RKN8upW7) | F | 2022-10-13 |
-| ProtonMail - Encrypted Email | [https://testflight.apple.com/join/8SxXknzD](https://testflight.apple.com/join/8SxXknzD) | F | 2022-11-02 |
+| ProtonMail - Encrypted Email | [https://testflight.apple.com/join/8SxXknzD](https://testflight.apple.com/join/8SxXknzD) | Y | 2022-11-06 |
 | Pulsr | [https://testflight.apple.com/join/2Z6pGpNN](https://testflight.apple.com/join/2Z6pGpNN) | N | 2022-10-13 |
 | Pungo Wallet | [https://testflight.apple.com/join/ljT6fD34](https://testflight.apple.com/join/ljT6fD34) | N | 2022-10-11 |
 | PushNotifier client | [https://testflight.apple.com/join/jq94pGGN](https://testflight.apple.com/join/jq94pGGN) | N | 2022-10-13 |
@@ -615,7 +615,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | Yuri beta | [https://testflight.apple.com/join/xCgwh5WX](https://testflight.apple.com/join/xCgwh5WX) | N | 2022-10-10 |
 | Zakop-unofficial Wykop app | [https://testflight.apple.com/join/ZKkTYBsm](https://testflight.apple.com/join/ZKkTYBsm) | N | 2022-10-11 |
 | Zap - Lightning Wallet | [https://testflight.apple.com/join/P32C380R](https://testflight.apple.com/join/P32C380R) | N | 2022-10-13 |
-| all 4 hue (for Philips Hue) | [https://testflight.apple.com/join/4Jc5hX2s](https://testflight.apple.com/join/4Jc5hX2s) | F | 2022-10-15 |
+| all 4 hue (for Philips Hue) | [https://testflight.apple.com/join/4Jc5hX2s](https://testflight.apple.com/join/4Jc5hX2s) | Y | 2022-11-06 |
 | battle fruit | [https://testflight.apple.com/join/Q7KRct77](https://testflight.apple.com/join/Q7KRct77) | N | 2022-10-13 |
 | detektor.fm | [https://testflight.apple.com/join/XocX8UGc](https://testflight.apple.com/join/XocX8UGc) | N | 2022-10-13 |
 | dystopia for reddit | [https://testflight.apple.com/join/4MJtN4FB](https://testflight.apple.com/join/4MJtN4FB) | Y | 2022-10-13 |
@@ -627,7 +627,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | iCertifi | [https://testflight.apple.com/join/hnyqQHH0](https://testflight.apple.com/join/hnyqQHH0) | N | 2022-10-10 |
 | iRime输入法-小鹤双拼五笔郑码输入法 beta | [https://testflight.apple.com/join/tmKoQL3t](https://testflight.apple.com/join/tmKoQL3t) | Y | 2022-10-11 |
 | iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2022-10-13 |
-| infltr - Infinite Filters | [https://testflight.apple.com/join/In6e3GcJ](https://testflight.apple.com/join/In6e3GcJ) | Y | 2022-11-05 |
+| infltr - Infinite Filters | [https://testflight.apple.com/join/In6e3GcJ](https://testflight.apple.com/join/In6e3GcJ) | F | 2022-11-06 |
 | kakeibo | [https://testflight.apple.com/join/B614PCKN](https://testflight.apple.com/join/B614PCKN) | N | 2022-10-13 |
 | my ToDo | [https://testflight.apple.com/join/V4zOhaAT](https://testflight.apple.com/join/V4zOhaAT) | N | 2022-10-13 |
 | myNotes-Dark Themed Note App | [https://testflight.apple.com/join/vnMy8s64](https://testflight.apple.com/join/vnMy8s64) | N | 2022-10-13 |
@@ -692,7 +692,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | 淘宝 | [https://testflight.apple.com/join/TThGL9RX](https://testflight.apple.com/join/TThGL9RX) | N | 2022-03-16 |
 | 滴答清单 TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | Y | 2022-03-15 |
 | 熊猫吃短信 | [https://testflight.apple.com/join/qMCQlMiZ](https://testflight.apple.com/join/qMCQlMiZ) | N | 2022-03-15 |
-| 熊猫吃短信 - 垃圾短信过滤 beta | [https://testflight.apple.com/join/PUlWiCNO](https://testflight.apple.com/join/PUlWiCNO) | F | 2022-10-25 |
+| 熊猫吃短信 - 垃圾短信过滤 beta | [https://testflight.apple.com/join/PUlWiCNO](https://testflight.apple.com/join/PUlWiCNO) | Y | 2022-11-06 |
 | 爱阅书香 | [https://testflight.apple.com/join/23FPuktF](https://testflight.apple.com/join/23FPuktF) | N | 2022-03-15 |
 | 番组计划 | [https://testflight.apple.com/join/N0bwYmVR](https://testflight.apple.com/join/N0bwYmVR) | N | 2022-03-15 |
 | 百度地图 | [https://testflight.apple.com/join/N2EkNkn3](https://testflight.apple.com/join/N2EkNkn3) | N | 2022-03-15 |
