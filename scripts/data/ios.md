@@ -350,6 +350,7 @@
 | Outbank–360° Banking | [https://testflight.apple.com/join/ZnLxusWe](https://testflight.apple.com/join/ZnLxusWe) | N | 2022-10-11 |
 | Outcast for Watch | [https://testflight.apple.com/join/NFhBJlx3](https://testflight.apple.com/join/NFhBJlx3) | N | 2022-10-13 |
 | Overcast | [https://testflight.apple.com/join/ua0oicPc](https://testflight.apple.com/join/ua0oicPc) | N | 2022-10-13 |
+| Overcast beta | [https://testflight.apple.com/join/37azzGPG](https://testflight.apple.com/join/37azzGPG) | Y | 2022-11-14 |
 | Owto | [https://testflight.apple.com/join/a4jRO20r](https://testflight.apple.com/join/a4jRO20r) | N | 2022-10-10 |
 | PDF Expert: PDF Editor | [https://testflight.apple.com/join/UE75wprO](https://testflight.apple.com/join/UE75wprO) | N | 2022-10-11 |
 | PDF Viewer Pro by PSPDFKit | [https://testflight.apple.com/join/6IMUtZ8n](https://testflight.apple.com/join/6IMUtZ8n) | Y | 2022-10-27 |
