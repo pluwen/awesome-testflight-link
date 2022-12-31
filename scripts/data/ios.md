@@ -357,7 +357,6 @@
 | Owto | [https://testflight.apple.com/join/a4jRO20r](https://testflight.apple.com/join/a4jRO20r) | N | 2022-10-10 |
 | PDF Expert: PDF Editor | [https://testflight.apple.com/join/UE75wprO](https://testflight.apple.com/join/UE75wprO) | N | 2022-10-11 |
 | PDF Viewer Pro by PSPDFKit | [https://testflight.apple.com/join/6IMUtZ8n](https://testflight.apple.com/join/6IMUtZ8n) | F | 2022-12-21 |
-| PUBG MOBILE | [https://testflight.apple.com/join/N2px9MKy](https://testflight.apple.com/join/N2px9MKy) | D | 2022-12-12 |
 | Pagico Mobile | [https://testflight.apple.com/join/PjTA9kxr](https://testflight.apple.com/join/PjTA9kxr) | N | 2022-10-11 |
 | Palette Cam | [https://testflight.apple.com/join/ZkRM0dla](https://testflight.apple.com/join/ZkRM0dla) | N | 2022-10-11 |
 | Panda Writer | [https://testflight.apple.com/join/xcYfHdB1](https://testflight.apple.com/join/xcYfHdB1) | Y | 2022-12-31 |
