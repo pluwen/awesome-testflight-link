@@ -417,6 +417,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur](https://testflight.apple.com/join/qDkBu2ur) | N | 2022-10-13 |
 | Pyto-Python IDE | [https://testflight.apple.com/join/Kts3HqEj](https://testflight.apple.com/join/Kts3HqEj) | N | 2022-10-11 |
 | QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | N | 2022-12-27 |
+| Qobuz | [https://testflight.apple.com/join/GPJZwnh9](https://testflight.apple.com/join/GPJZwnh9) | Y | 2022-12-31 |
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | F | 2022-10-13 |
 | Quiz Viajero | [https://testflight.apple.com/join/B4BYAvTy](https://testflight.apple.com/join/B4BYAvTy) | N | 2022-10-13 |
 | Quizland | [https://testflight.apple.com/join/yelwsUGl](https://testflight.apple.com/join/yelwsUGl) | N | 2022-10-13 |
