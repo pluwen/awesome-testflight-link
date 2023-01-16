@@ -9,7 +9,7 @@ on:
       python_version:
         description: '指定 Python 版本 3.6+ （不建议修改）'
         required: false
-        default: '3.8'
+        default: '3.11.1'
 
 jobs:
   main:
@@ -17,11 +17,11 @@ jobs:
     env:
       python_version: ${{ github.event.inputs.python_version }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.3.0
       - name: Check env
-        run: if [ -z "$python_version" ]; then python_version='3.8'; fi
+        run: if [ -z "$python_version" ]; then python_version='3.11.1'; fi
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4.5.0
         with:
           python-version: ${{ env.python_version }}
           architecture: x64
