@@ -15,11 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository == 'pluwen/awesome-testflight-link'
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.3.0
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4.5.0
         with:
-          python-version: '3.8'
+          python-version: '3.11.1'
           architecture: x64
       - name: Del A TestFilght Link
         run: python scripts/del_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}"
