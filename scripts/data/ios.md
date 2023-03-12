@@ -3,7 +3,7 @@
 | --- | --- | --- | -- |
 | 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/QKqitFwc](https://testflight.apple.com/join/QKqitFwc) | F | 2022-11-06 |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2023-01-30 |
-| 1Password - Password Manager | [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) | Y | 2023-03-11 |
+| 1Password - Password Manager | [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) | F | 2023-03-12 |
 | 1TouchAssist | [https://testflight.apple.com/join/oYw0jTD6](https://testflight.apple.com/join/oYw0jTD6) | N | 2022-10-13 |
 | 2Do - Todo List, Tasks & Notes | [https://testflight.apple.com/join/McBV96Wi](https://testflight.apple.com/join/McBV96Wi) | N | 2022-10-13 |
 | 9GAG: Best LOL Pics & GIFs | [https://testflight.apple.com/join/S2q4mD2b](https://testflight.apple.com/join/S2q4mD2b) | N | 2022-10-13 |
@@ -78,7 +78,7 @@
 | Cheatsheet | [https://testflight.apple.com/join/E7AnyPlA](https://testflight.apple.com/join/E7AnyPlA) | F | 2023-03-09 |
 | Chirp for | [https://testflight.apple.com/join/K120Muoy](https://testflight.apple.com/join/K120Muoy) | N | 2022-10-11 |
 | Choc | [https://testflight.apple.com/join/J5QPqXKO](https://testflight.apple.com/join/J5QPqXKO) | N | 2022-10-13 |
-| Cinema Time | [https://testflight.apple.com/join/wcY5wC6H](https://testflight.apple.com/join/wcY5wC6H) | Y | 2023-03-11 |
+| Cinema Time | [https://testflight.apple.com/join/wcY5wC6H](https://testflight.apple.com/join/wcY5wC6H) | F | 2023-03-12 |
 | Classic Euchre | [https://testflight.apple.com/join/0Ip6r1tw](https://testflight.apple.com/join/0Ip6r1tw) | N | 2022-10-13 |
 | Clip Jar | [https://testflight.apple.com/join/ibvBBGyq](https://testflight.apple.com/join/ibvBBGyq) | N | 2022-11-14 |
 | Close Cross | [https://testflight.apple.com/join/CUClR0rD](https://testflight.apple.com/join/CUClR0rD) | N | 2022-10-13 |
@@ -104,7 +104,7 @@
 | Cs Music Player | [https://testflight.apple.com/join/dU2r1pkq](https://testflight.apple.com/join/dU2r1pkq) | N | 2022-10-13 |
 | Custom Contacts 2 | [https://testflight.apple.com/join/uOLgKHRN](https://testflight.apple.com/join/uOLgKHRN) | N | 2022-10-13 |
 | Cypher-secret word game | [https://testflight.apple.com/join/jbtHPQBm](https://testflight.apple.com/join/jbtHPQBm) | N | 2022-10-11 |
-| DB Navigator | [https://testflight.apple.com/join/Drtbg8hH](https://testflight.apple.com/join/Drtbg8hH) | F | 2023-02-27 |
+| DB Navigator | [https://testflight.apple.com/join/Drtbg8hH](https://testflight.apple.com/join/Drtbg8hH) | Y | 2023-03-12 |
 | DEV Community | [https://testflight.apple.com/join/7Wq8VRLQ](https://testflight.apple.com/join/7Wq8VRLQ) | N | 2022-10-13 |
 | DS video | [https://testflight.apple.com/join/CxAwe5r2](https://testflight.apple.com/join/CxAwe5r2) | N | 2022-10-10 |
 | Damus | [https://testflight.apple.com/join/CLwjLxWl](https://testflight.apple.com/join/CLwjLxWl) | Y | 2023-03-07 |
@@ -138,7 +138,7 @@
 | Enpass Password Manager | [https://testflight.apple.com/join/hIec0gli](https://testflight.apple.com/join/hIec0gli) | N | 2022-10-11 |
 | ErgBot | [https://testflight.apple.com/join/JDPdeT9t](https://testflight.apple.com/join/JDPdeT9t) | N | 2022-10-10 |
 | Eternal Love M | [https://testflight.apple.com/join/4O9GPjMk](https://testflight.apple.com/join/4O9GPjMk) | N | 2022-10-13 |
-| Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | F | 2023-03-10 |
+| Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | Y | 2023-03-12 |
 | F1ATV | [https://testflight.apple.com/join/NRswe1IZ](https://testflight.apple.com/join/NRswe1IZ) | Y | 2023-02-18 |
 | FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | N | 2022-10-13 |
 | FLOCK INC. | [https://testflight.apple.com/join/9ZixcXRI](https://testflight.apple.com/join/9ZixcXRI) | N | 2022-10-13 |
@@ -262,7 +262,7 @@
 | Listen 籁声 | [https://testflight.apple.com/join/XPvCW9JH](https://testflight.apple.com/join/XPvCW9JH) | N | 2022-10-13 |
 | Live Traffic Map and Weather | [https://testflight.apple.com/join/qKnsQiRL](https://testflight.apple.com/join/qKnsQiRL) | N | 2022-10-11 |
 | Local Japan | [https://testflight.apple.com/join/0V62RIGt](https://testflight.apple.com/join/0V62RIGt) | N | 2022-10-13 |
-| Lock Launcher beta | [https://testflight.apple.com/join/clHxFnLa](https://testflight.apple.com/join/clHxFnLa) | F | 2023-03-11 |
+| Lock Launcher beta | [https://testflight.apple.com/join/clHxFnLa](https://testflight.apple.com/join/clHxFnLa) | Y | 2023-03-12 |
 | Lock Screen Contact Widgets beta | [https://testflight.apple.com/join/uyGm1uJr](https://testflight.apple.com/join/uyGm1uJr) | N | 2022-12-05 |
 | Loiter | [https://testflight.apple.com/join/KRf4e4A8](https://testflight.apple.com/join/KRf4e4A8) | N | 2022-10-13 |
 | Loon | [https://testflight.apple.com/join/23LA2tmX](https://testflight.apple.com/join/23LA2tmX) | N | 2022-10-13 |
@@ -362,7 +362,7 @@
 | PDF Viewer Pro by PSPDFKit | [https://testflight.apple.com/join/6IMUtZ8n](https://testflight.apple.com/join/6IMUtZ8n) | Y | 2023-03-09 |
 | Pagico Mobile | [https://testflight.apple.com/join/PjTA9kxr](https://testflight.apple.com/join/PjTA9kxr) | N | 2022-10-11 |
 | Palette Cam | [https://testflight.apple.com/join/ZkRM0dla](https://testflight.apple.com/join/ZkRM0dla) | N | 2022-10-11 |
-| Panda Writer | [https://testflight.apple.com/join/xcYfHdB1](https://testflight.apple.com/join/xcYfHdB1) | Y | 2023-03-11 |
+| Panda Writer | [https://testflight.apple.com/join/xcYfHdB1](https://testflight.apple.com/join/xcYfHdB1) | F | 2023-03-12 |
 | Paptter | [https://testflight.apple.com/join/YiCQfQv3](https://testflight.apple.com/join/YiCQfQv3) | N | 2022-10-13 |
 | Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | Y | 2022-10-13 |
 | Password AR | [https://testflight.apple.com/join/BUsyXf0e](https://testflight.apple.com/join/BUsyXf0e) | N | 2022-10-13 |
@@ -386,7 +386,7 @@
 | Potatso Lite | [https://testflight.apple.com/join/NkF46PRd](https://testflight.apple.com/join/NkF46PRd) | N | 2023-03-08 |
 | Power 9 – Magic: The Gathering | [https://testflight.apple.com/join/hKI4xKRj](https://testflight.apple.com/join/hKI4xKRj) | N | 2022-10-13 |
 | ProgTV | [https://testflight.apple.com/join/RKN8upW7](https://testflight.apple.com/join/RKN8upW7) | F | 2022-12-27 |
-| ProtonMail - Encrypted Email | [https://testflight.apple.com/join/8SxXknzD](https://testflight.apple.com/join/8SxXknzD) | Y | 2023-03-08 |
+| ProtonMail - Encrypted Email | [https://testflight.apple.com/join/8SxXknzD](https://testflight.apple.com/join/8SxXknzD) | F | 2023-03-12 |
 | Pulsr | [https://testflight.apple.com/join/2Z6pGpNN](https://testflight.apple.com/join/2Z6pGpNN) | N | 2022-10-13 |
 | Pungo Wallet | [https://testflight.apple.com/join/ljT6fD34](https://testflight.apple.com/join/ljT6fD34) | N | 2022-10-11 |
 | PushNotifier client | [https://testflight.apple.com/join/jq94pGGN](https://testflight.apple.com/join/jq94pGGN) | N | 2022-10-13 |
@@ -457,8 +457,8 @@
 | Skype For iPad | [https://testflight.apple.com/join/vnSIsolv](https://testflight.apple.com/join/vnSIsolv) | Y | 2022-10-13 |
 | Skype For iPhone | [https://testflight.apple.com/join/fB5IkJT7](https://testflight.apple.com/join/fB5IkJT7) | Y | 2022-10-13 |
 | Slack | [https://testflight.apple.com/join/QE3kgqJ2](https://testflight.apple.com/join/QE3kgqJ2) | F | 2023-01-22 |
-| Sleep Cycle - Sleep Tracker beta | [https://testflight.apple.com/join/tCeANbZi](https://testflight.apple.com/join/tCeANbZi) | F | 2023-03-10 |
-| Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | F | 2023-03-10 |
+| Sleep Cycle - Sleep Tracker beta | [https://testflight.apple.com/join/tCeANbZi](https://testflight.apple.com/join/tCeANbZi) | Y | 2023-03-12 |
+| Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | Y | 2023-03-12 |
 | Sleepy Coffee | [https://testflight.apple.com/join/0rQgHZtW](https://testflight.apple.com/join/0rQgHZtW) | Y | 2022-11-08 |
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) | N | 2022-10-13 |
 | Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | Y | 2022-10-13 |
@@ -517,8 +517,8 @@
 | Thor | [https://testflight.apple.com/join/wArXdacJ](https://testflight.apple.com/join/wArXdacJ) | N | 2022-10-11 |
 | Tidal | [https://testflight.apple.com/join/ixgcTmzv](https://testflight.apple.com/join/ixgcTmzv) | F | 2023-03-01 |
 | Tik-App | [https://testflight.apple.com/join/wGEkmFU9](https://testflight.apple.com/join/wGEkmFU9) | N | 2022-10-13 |
-| TikTok | [https://testflight.apple.com/join/FjvQ94t1](https://testflight.apple.com/join/FjvQ94t1) | Y | 2023-03-10 |
-| TikTok | [https://testflight.apple.com/join/aL5ZWE8A](https://testflight.apple.com/join/aL5ZWE8A) | Y | 2023-03-11 |
+| TikTok | [https://testflight.apple.com/join/FjvQ94t1](https://testflight.apple.com/join/FjvQ94t1) | F | 2023-03-12 |
+| TikTok | [https://testflight.apple.com/join/aL5ZWE8A](https://testflight.apple.com/join/aL5ZWE8A) | F | 2023-03-12 |
 | TikTok | [https://testflight.apple.com/join/plxN3myo](https://testflight.apple.com/join/plxN3myo) | F | 2023-02-23 |
 | Time for Coffee! | [https://testflight.apple.com/join/ACkjB1Xh](https://testflight.apple.com/join/ACkjB1Xh) | N | 2022-10-13 |
 | Time:Calc | [https://testflight.apple.com/join/8NvVXGgp](https://testflight.apple.com/join/8NvVXGgp) | N | 2022-10-11 |
