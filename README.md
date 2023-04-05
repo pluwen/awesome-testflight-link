@@ -669,7 +669,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Minecraft Preview                 | [https://testflight.apple.com/join/qC1ZnReJ](https://testflight.apple.com/join/qC1ZnReJ) | F         | 2023-04-02 |
 | Minecraft: Education Edition beta | [https://testflight.apple.com/join/sBDlEXYr](https://testflight.apple.com/join/sBDlEXYr) | Y         | 2022-12-02 |
 | Royal Commando                    | [https://testflight.apple.com/join/Dc1K5L3N](https://testflight.apple.com/join/Dc1K5L3N) | N         | 2022-12-26 |
-| DexiHunter                        | [https://testflight.apple.com/join/2UpxWtFU](https://testflight.apple.com/join/2UpxWtFU) | N         | 2023-04-05 |
+| DexiHunter                        | [https://testflight.apple.com/join/2UpxWtFU](https://testflight.apple.com/join/2UpxWtFU) | Y         | 2023-04-05 |
 
 ## Chinese App
 
