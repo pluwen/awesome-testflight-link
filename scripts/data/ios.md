@@ -283,6 +283,7 @@
 | Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2023-04-30 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | Y | 2023-04-28 |
 | Microsoft Loop | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2023-05-03 |
+| Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | Y | 2023-05-24 |
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | F | 2023-04-18 |
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2023-05-13 |
 | Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | F | 2022-10-13 |
