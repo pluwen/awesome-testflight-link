@@ -5,7 +5,7 @@
 | Fog of World | [https://testflight.apple.com/join/QEdMcK4y](https://testflight.apple.com/join/QEdMcK4y) | N | 2023-04-02 |
 | Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | Y | 2023-06-09 |
 | Locus | [https://testflight.apple.com/join/0trOIdJj](https://testflight.apple.com/join/0trOIdJj) | N | 2022-12-20 |
-| MLBB Beta | [https://testflight.apple.com/join/yYjKTTlT](https://testflight.apple.com/join/yYjKTTlT) | F | 2023-06-11 |
+| MLBB Beta | [https://testflight.apple.com/join/yYjKTTlT](https://testflight.apple.com/join/yYjKTTlT) | Y | 2023-06-14 |
 | Minecraft Preview | [https://testflight.apple.com/join/qC1ZnReJ](https://testflight.apple.com/join/qC1ZnReJ) | F | 2023-05-29 |
 | Minecraft: Education Edition beta | [https://testflight.apple.com/join/sBDlEXYr](https://testflight.apple.com/join/sBDlEXYr) | Y | 2023-06-02 |
 | Royal Commando | [https://testflight.apple.com/join/Dc1K5L3N](https://testflight.apple.com/join/Dc1K5L3N) | N | 2022-12-26 |
