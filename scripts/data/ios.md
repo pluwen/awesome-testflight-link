@@ -433,6 +433,7 @@
 | RoomScan Pro | [https://testflight.apple.com/join/srkYDsAE](https://testflight.apple.com/join/srkYDsAE) | N | 2022-10-13 |
 | Ruuvi Station | [https://testflight.apple.com/join/loHFrEV1](https://testflight.apple.com/join/loHFrEV1) | Y | 2022-10-11 |
 | S-AR | [https://testflight.apple.com/join/6sQnjseB](https://testflight.apple.com/join/6sQnjseB) | N | 2022-10-13 |
+| S.Mario beta | [https://testflight.apple.com/join/HLKh7Jx9](https://testflight.apple.com/join/HLKh7Jx9) | Y | 2023-07-06 |
 | S1 Mufu | [https://testflight.apple.com/join/KwboYTNt](https://testflight.apple.com/join/KwboYTNt) | N | 2023-01-28 |
 | SALY-Machine Learning | [https://testflight.apple.com/join/uwrch7rF](https://testflight.apple.com/join/uwrch7rF) | N | 2022-10-13 |
 | SG Transit | [https://testflight.apple.com/join/JytrujtQ](https://testflight.apple.com/join/JytrujtQ) | N | 2022-10-13 |
