@@ -5,7 +5,7 @@
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | N | 2022-12-04 |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2023-06-22 |
 | QQ | [https://testflight.apple.com/join/5wZk5yYi](https://testflight.apple.com/join/5wZk5yYi) | N | 2022-05-19 |
-| QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | F | 2023-07-01 |
+| QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | Y | 2023-07-06 |
 | Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | N | 2023-01-31 |
 | XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | N | 2022-03-15 |
 | iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | Y | 2022-12-04 |
@@ -21,7 +21,7 @@
 | 寒梅 | [https://testflight.apple.com/join/7U4YKpl2](https://testflight.apple.com/join/7U4YKpl2) | N | 2022-03-15 |
 | 小記 | [https://testflight.apple.com/join/aqoXcoG3](https://testflight.apple.com/join/aqoXcoG3) | N | 2023-05-15 |
 | 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) | Y | 2023-07-04 |
-| 微信键盘 beta | [https://testflight.apple.com/join/iSTXkF4K](https://testflight.apple.com/join/iSTXkF4K) | Y | 2023-07-03 |
+| 微信键盘 beta | [https://testflight.apple.com/join/iSTXkF4K](https://testflight.apple.com/join/iSTXkF4K) | F | 2023-07-06 |
 | 我的世界-网易 | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | Y | 2022-10-27 |
 | 捷径社区 | [https://testflight.apple.com/join/LeuKqKYX](https://testflight.apple.com/join/LeuKqKYX) | N | 2022-03-16 |
 | 易有云 | [https://testflight.apple.com/join/Pl4jm65I](https://testflight.apple.com/join/Pl4jm65I) | N | 2022-03-15 |
