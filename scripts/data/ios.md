@@ -522,6 +522,7 @@
 | The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | F | 2023-06-16 |
 | The Real Estate Answers App | [https://testflight.apple.com/join/9i9YT2LU](https://testflight.apple.com/join/9i9YT2LU) | N | 2022-10-11 |
 | Thor | [https://testflight.apple.com/join/wArXdacJ](https://testflight.apple.com/join/wArXdacJ) | N | 2022-10-11 |
+| Threads, an Instagram app beta | [https://testflight.apple.com/join/KmtX0bcQ](https://testflight.apple.com/join/KmtX0bcQ) | Y | 2023-07-07 |
 | Tidal | [https://testflight.apple.com/join/ixgcTmzv](https://testflight.apple.com/join/ixgcTmzv) | F | 2023-06-06 |
 | Tik-App | [https://testflight.apple.com/join/wGEkmFU9](https://testflight.apple.com/join/wGEkmFU9) | N | 2022-10-13 |
 | TikTok | [https://testflight.apple.com/join/FjvQ94t1](https://testflight.apple.com/join/FjvQ94t1) | Y | 2023-03-14 |
