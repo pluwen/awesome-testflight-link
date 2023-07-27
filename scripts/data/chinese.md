@@ -37,7 +37,7 @@
 | 百度地图 | [https://testflight.apple.com/join/N2EkNkn3](https://testflight.apple.com/join/N2EkNkn3) | N | 2022-03-15 |
 | 百度网盘 HD | [https://testflight.apple.com/join/A0HM2av9](https://testflight.apple.com/join/A0HM2av9) | N | 2022-03-15 |
 | 百度网盘青春版 | [https://testflight.apple.com/join/fJgR5Y2O](https://testflight.apple.com/join/fJgR5Y2O) | N | 2022-03-21 |
-| 百度贴吧 | [https://testflight.apple.com/join/GgBqXAqm](https://testflight.apple.com/join/GgBqXAqm) | F | 2023-07-22 |
+| 百度贴吧 | [https://testflight.apple.com/join/GgBqXAqm](https://testflight.apple.com/join/GgBqXAqm) | Y | 2023-07-27 |
 | 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | Y | 2022-10-18 |
 | 石头阅读 | [https://testflight.apple.com/join/0x2bROvq](https://testflight.apple.com/join/0x2bROvq) | N | 2022-03-15 |
 | 票夹 | [https://testflight.apple.com/join/sPJTq8Ff](https://testflight.apple.com/join/sPJTq8Ff) | N | 2022-03-15 |
@@ -49,6 +49,6 @@
 | 讯飞输入法 | [https://testflight.apple.com/join/P7p592l7](https://testflight.apple.com/join/P7p592l7) | N | 2022-03-16 |
 | 豌豆多多 | [https://testflight.apple.com/join/gbcprIXM](https://testflight.apple.com/join/gbcprIXM) | N | 2022-03-15 |
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) | N | 2022-03-15 |
-| 酷狗音乐 | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | F | 2023-07-26 |
+| 酷狗音乐 | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | Y | 2023-07-27 |
 | 阿里云盘 | [https://testflight.apple.com/join/yi8oG8bi](https://testflight.apple.com/join/yi8oG8bi) | N | 2022-03-15 |
 | 黑匣子 Player | [https://testflight.apple.com/join/uCsUGsvN](https://testflight.apple.com/join/uCsUGsvN) | N | 2022-03-15 |

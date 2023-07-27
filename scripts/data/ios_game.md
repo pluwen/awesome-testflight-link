@@ -2,7 +2,7 @@
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
 | Cell to Singularity | [https://testflight.apple.com/join/RD9jGH9S](https://testflight.apple.com/join/RD9jGH9S) | Y | 2023-01-15 |
-| Dig Girl | [https://testflight.apple.com/join/p7fUhVk3](https://testflight.apple.com/join/p7fUhVk3) | Y | 2023-07-02 |
+| Dig Girl | [https://testflight.apple.com/join/p7fUhVk3](https://testflight.apple.com/join/p7fUhVk3) | N | 2023-07-27 |
 | DropZap World | [https://testflight.apple.com/join/CdEXgjst](https://testflight.apple.com/join/CdEXgjst) | Y | 2023-07-02 |
 | Fog of World | [https://testflight.apple.com/join/QEdMcK4y](https://testflight.apple.com/join/QEdMcK4y) | N | 2023-04-02 |
 | Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | N | 2023-06-28 |
