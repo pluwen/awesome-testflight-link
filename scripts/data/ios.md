@@ -84,7 +84,7 @@
 | Choc | [https://testflight.apple.com/join/J5QPqXKO](https://testflight.apple.com/join/J5QPqXKO) | N | 2023-06-15 |
 | Cinema Time | [https://testflight.apple.com/join/wcY5wC6H](https://testflight.apple.com/join/wcY5wC6H) | N | 2023-06-06 |
 | Classic Euchre | [https://testflight.apple.com/join/0Ip6r1tw](https://testflight.apple.com/join/0Ip6r1tw) | N | 2022-10-13 |
-| Clear 2 (Preview) beta | [https://testflight.apple.com/join/qQJqMDfX](https://testflight.apple.com/join/qQJqMDfX) | F | 2023-08-26 |
+| Clear 2 (Preview) beta | [https://testflight.apple.com/join/qQJqMDfX](https://testflight.apple.com/join/qQJqMDfX) | Y | 2023-09-19 |
 | Clip Jar | [https://testflight.apple.com/join/ibvBBGyq](https://testflight.apple.com/join/ibvBBGyq) | N | 2023-08-05 |
 | Close Cross | [https://testflight.apple.com/join/CUClR0rD](https://testflight.apple.com/join/CUClR0rD) | N | 2022-10-13 |
 | Cloud Baby Monitor | [https://testflight.apple.com/join/LiFkmauz](https://testflight.apple.com/join/LiFkmauz) | N | 2022-10-13 |
@@ -261,7 +261,7 @@
 | KyPass 4 密码管理 | [https://testflight.apple.com/join/wlZmOo9t](https://testflight.apple.com/join/wlZmOo9t) | Y | 2023-08-20 |
 | LIFX | [https://testflight.apple.com/join/TYoQEz4T](https://testflight.apple.com/join/TYoQEz4T) | Y | 2022-10-11 |
 | Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI](https://testflight.apple.com/join/bESvTwBI) | N | 2022-10-11 |
-| LastPass Password Manager | [https://testflight.apple.com/join/fy7LvHVA](https://testflight.apple.com/join/fy7LvHVA) | F | 2023-08-17 |
+| LastPass Password Manager | [https://testflight.apple.com/join/fy7LvHVA](https://testflight.apple.com/join/fy7LvHVA) | Y | 2023-09-19 |
 | Launch Center Pro | [https://testflight.apple.com/join/DpujKg3U](https://testflight.apple.com/join/DpujKg3U) | N | 2022-10-13 |
 | Launchify: Lock Screen Widgets beta | [https://testflight.apple.com/join/mnjOJPgH](https://testflight.apple.com/join/mnjOJPgH) | N | 2022-12-12 |
 | LeCoinDuProf | [https://testflight.apple.com/join/1BMKN5ai](https://testflight.apple.com/join/1BMKN5ai) | N | 2022-10-10 |
@@ -291,7 +291,7 @@
 | Microcosm – AR Voxel Drawing | [https://testflight.apple.com/join/PIojYHhU](https://testflight.apple.com/join/PIojYHhU) | N | 2023-05-05 |
 | Microsoft Authenticator | [https://testflight.apple.com/join/Coqmmppd](https://testflight.apple.com/join/Coqmmppd) | Y | 2022-10-11 |
 | Microsoft Bing Search | [https://testflight.apple.com/join/YAKT5ew9](https://testflight.apple.com/join/YAKT5ew9) | F | 2023-06-26 |
-| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2023-09-10 |
+| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | Y | 2023-09-19 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | Y | 2023-04-28 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | F | 2023-09-17 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2023-09-13 |
@@ -541,7 +541,7 @@
 | Tik-App | [https://testflight.apple.com/join/wGEkmFU9](https://testflight.apple.com/join/wGEkmFU9) | N | 2022-10-13 |
 | TikTok | [https://testflight.apple.com/join/FjvQ94t1](https://testflight.apple.com/join/FjvQ94t1) | N | 2023-08-16 |
 | TikTok | [https://testflight.apple.com/join/aL5ZWE8A](https://testflight.apple.com/join/aL5ZWE8A) | N | 2023-06-29 |
-| TikTok | [https://testflight.apple.com/join/plxN3myo](https://testflight.apple.com/join/plxN3myo) | F | 2023-09-17 |
+| TikTok | [https://testflight.apple.com/join/plxN3myo](https://testflight.apple.com/join/plxN3myo) | Y | 2023-09-19 |
 | Time for Coffee! | [https://testflight.apple.com/join/ACkjB1Xh](https://testflight.apple.com/join/ACkjB1Xh) | N | 2022-10-13 |
 | Time:Calc | [https://testflight.apple.com/join/8NvVXGgp](https://testflight.apple.com/join/8NvVXGgp) | N | 2022-10-11 |
 | To Dot | [https://testflight.apple.com/join/7o1Q4Q8p](https://testflight.apple.com/join/7o1Q4Q8p) | N | 2022-10-13 |
