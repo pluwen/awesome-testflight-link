@@ -113,7 +113,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Cheatsheet | [https://testflight.apple.com/join/E7AnyPlA](https://testflight.apple.com/join/E7AnyPlA) | Y | 2023-07-16 |
 | Chirp for | [https://testflight.apple.com/join/K120Muoy](https://testflight.apple.com/join/K120Muoy) | N | 2022-10-11 |
 | Choc | [https://testflight.apple.com/join/J5QPqXKO](https://testflight.apple.com/join/J5QPqXKO) | N | 2023-06-15 |
-| Cinema Time | [https://testflight.apple.com/join/wcY5wC6H](https://testflight.apple.com/join/wcY5wC6H) | N | 2023-06-06 |
+| Cinema Time | [https://testflight.apple.com/join/wcY5wC6H](https://testflight.apple.com/join/wcY5wC6H) | Y | 2023-09-20 |
 | Classic Euchre | [https://testflight.apple.com/join/0Ip6r1tw](https://testflight.apple.com/join/0Ip6r1tw) | N | 2022-10-13 |
 | Clear 2 (Preview) beta | [https://testflight.apple.com/join/qQJqMDfX](https://testflight.apple.com/join/qQJqMDfX) | Y | 2023-09-19 |
 | Clip Jar | [https://testflight.apple.com/join/ibvBBGyq](https://testflight.apple.com/join/ibvBBGyq) | N | 2023-08-05 |
@@ -140,7 +140,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Cs Music Player | [https://testflight.apple.com/join/dU2r1pkq](https://testflight.apple.com/join/dU2r1pkq) | N | 2022-10-13 |
 | Custom Contacts 2 | [https://testflight.apple.com/join/uOLgKHRN](https://testflight.apple.com/join/uOLgKHRN) | N | 2022-10-13 |
 | Cypher-secret word game | [https://testflight.apple.com/join/jbtHPQBm](https://testflight.apple.com/join/jbtHPQBm) | N | 2022-10-11 |
-| DB Navigator | [https://testflight.apple.com/join/Drtbg8hH](https://testflight.apple.com/join/Drtbg8hH) | N | 2023-09-11 |
+| DB Navigator | [https://testflight.apple.com/join/Drtbg8hH](https://testflight.apple.com/join/Drtbg8hH) | F | 2023-09-20 |
 | DEV Community | [https://testflight.apple.com/join/7Wq8VRLQ](https://testflight.apple.com/join/7Wq8VRLQ) | N | 2022-10-13 |
 | DS video | [https://testflight.apple.com/join/CxAwe5r2](https://testflight.apple.com/join/CxAwe5r2) | N | 2022-10-10 |
 | Damus | [https://testflight.apple.com/join/CLwjLxWl](https://testflight.apple.com/join/CLwjLxWl) | Y | 2023-03-07 |
@@ -292,7 +292,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | KyPass 4 ÂØÜÁ†ÅÁÆ°ÁêÜ | [https://testflight.apple.com/join/wlZmOo9t](https://testflight.apple.com/join/wlZmOo9t) | Y | 2023-08-20 |
 | LIFX | [https://testflight.apple.com/join/TYoQEz4T](https://testflight.apple.com/join/TYoQEz4T) | Y | 2022-10-11 |
 | Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI](https://testflight.apple.com/join/bESvTwBI) | N | 2022-10-11 |
-| LastPass Password Manager | [https://testflight.apple.com/join/fy7LvHVA](https://testflight.apple.com/join/fy7LvHVA) | Y | 2023-09-19 |
+| LastPass Password Manager | [https://testflight.apple.com/join/fy7LvHVA](https://testflight.apple.com/join/fy7LvHVA) | F | 2023-09-20 |
 | Launch Center Pro | [https://testflight.apple.com/join/DpujKg3U](https://testflight.apple.com/join/DpujKg3U) | N | 2022-10-13 |
 | Launchify: Lock Screen Widgets beta | [https://testflight.apple.com/join/mnjOJPgH](https://testflight.apple.com/join/mnjOJPgH) | N | 2022-12-12 |
 | LeCoinDuProf | [https://testflight.apple.com/join/1BMKN5ai](https://testflight.apple.com/join/1BMKN5ai) | N | 2022-10-10 |
@@ -322,7 +322,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Microcosm ‚Äì AR Voxel Drawing | [https://testflight.apple.com/join/PIojYHhU](https://testflight.apple.com/join/PIojYHhU) | N | 2023-05-05 |
 | Microsoft Authenticator | [https://testflight.apple.com/join/Coqmmppd](https://testflight.apple.com/join/Coqmmppd) | Y | 2022-10-11 |
 | Microsoft Bing Search | [https://testflight.apple.com/join/YAKT5ew9](https://testflight.apple.com/join/YAKT5ew9) | F | 2023-06-26 |
-| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | Y | 2023-09-19 |
+| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2023-09-20 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | Y | 2023-04-28 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | F | 2023-09-17 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2023-09-13 |
@@ -515,7 +515,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) | N | 2022-10-13 |
 | Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | Y | 2022-10-13 |
 | Smooz Browser | [https://testflight.apple.com/join/53f970RC](https://testflight.apple.com/join/53f970RC) | N | 2022-10-11 |
-| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | F | 2023-09-13 |
+| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | Y | 2023-09-20 |
 | Snapthread | [https://testflight.apple.com/join/nOZ0d7n7](https://testflight.apple.com/join/nOZ0d7n7) | N | 2022-10-11 |
 | Social Dummy | [https://testflight.apple.com/join/lQu46sXI](https://testflight.apple.com/join/lQu46sXI) | N | 2022-10-11 |
 | SocialBuzz-Social Network | [https://testflight.apple.com/join/HEZbtISZ](https://testflight.apple.com/join/HEZbtISZ) | N | 2022-10-13 |
