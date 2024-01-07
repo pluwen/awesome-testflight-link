@@ -437,7 +437,7 @@
 | Relationship Tracker - Linc | [https://testflight.apple.com/join/g1yypFdA](https://testflight.apple.com/join/g1yypFdA) | N | 2022-10-10 |
 | Replete | [https://testflight.apple.com/join/yfsQO4yx](https://testflight.apple.com/join/yfsQO4yx) | Y | 2023-10-24 |
 | RetailBox | [https://testflight.apple.com/join/nNT4O8vg](https://testflight.apple.com/join/nNT4O8vg) | N | 2022-10-13 |
-| Retro 2 | [https://testflight.apple.com/join/IjV5V0zL](https://testflight.apple.com/join/IjV5V0zL) | F | 2023-12-07 |
+| Retro 2 | [https://testflight.apple.com/join/IjV5V0zL](https://testflight.apple.com/join/IjV5V0zL) | Y | 2024-01-07 |
 | Retro Flight | [https://testflight.apple.com/join/NnU8jU3m](https://testflight.apple.com/join/NnU8jU3m) | N | 2022-10-13 |
 | Retro Music Player | [https://testflight.apple.com/join/1BHkrtFP](https://testflight.apple.com/join/1BHkrtFP) | N | 2023-10-08 |
 | Revolut - Radically Better | [https://testflight.apple.com/join/oqrinjQB](https://testflight.apple.com/join/oqrinjQB) | Y | 2023-11-16 |
