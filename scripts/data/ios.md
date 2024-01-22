@@ -235,6 +235,7 @@
 | Homely | [https://testflight.apple.com/join/VPPkrWxh](https://testflight.apple.com/join/VPPkrWxh) | N | 2022-10-11 |
 | Hotspot VPN Tor Browser Proxy | [https://testflight.apple.com/join/bKAEdVG3](https://testflight.apple.com/join/bKAEdVG3) | N | 2022-10-13 |
 | Howdoo | [https://testflight.apple.com/join/fyoNbvVR](https://testflight.apple.com/join/fyoNbvVR) | N | 2022-10-13 |
+| HungryEx: Middleware for grocery delivery | [https://testflight.apple.com/join/k4alzQk3](https://testflight.apple.com/join/k4alzQk3) | Y | 2024-01-22 |
 | IFTTT | [https://testflight.apple.com/join/Lgmzxy7Y](https://testflight.apple.com/join/Lgmzxy7Y) | N | 2022-11-11 |
 | IMDb: Movies & TV Shows | [https://testflight.apple.com/join/Y9yo0X5t](https://testflight.apple.com/join/Y9yo0X5t) | Y | 2022-10-13 |
 | Icon Simulator beta | [https://testflight.apple.com/join/lNC9vsQM](https://testflight.apple.com/join/lNC9vsQM) | N | 2024-01-12 |
