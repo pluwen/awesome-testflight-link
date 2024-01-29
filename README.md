@@ -4,7 +4,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## Github Action
 Special thanks to [@tom-snow](https://github.com/tom-snow) for adding the [Github Action workflow](./GITHUB_ACTION.md) to this repository.
 
-If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-其他说明) first!
+If you wanna fork this repo, please reading [this(en)](./GITHUB_ACTION.md) or [this(ZH-CN)](./GITHUB_ACTION_cn.md) first!
 
 ## Available Status
 * F: Full
