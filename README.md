@@ -256,7 +256,6 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | HexT | [https://testflight.apple.com/join/ixTrfIgF](https://testflight.apple.com/join/ixTrfIgF) | N | 2022-10-11 |
 | Hexer â€“ Hex File Viewer | [https://testflight.apple.com/join/YqMTA9lr](https://testflight.apple.com/join/YqMTA9lr) | N | 2022-10-13 |
 | HeyShare: Send files to anyone | [https://testflight.apple.com/join/igNR5W26](https://testflight.apple.com/join/igNR5W26) | N | 2022-10-11 |
-| Hiddify Next | [https://testflight.apple.com/join/d7GVt2BA](https://testflight.apple.com/join/d7GVt2BA) | D | 2024-01-13 |
 | Highlights - Export PDF Notes | [https://testflight.apple.com/join/Abrd4mE4](https://testflight.apple.com/join/Abrd4mE4) | N | 2022-10-11 |
 | Hints | [https://testflight.apple.com/join/DHWvp32z](https://testflight.apple.com/join/DHWvp32z) | N | 2022-11-09 |
 | Hipstamatic X Analog Camera | [https://testflight.apple.com/join/By8fKrxM](https://testflight.apple.com/join/By8fKrxM) | N | 2022-10-13 |
