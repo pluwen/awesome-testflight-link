@@ -175,7 +175,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | Enpass Password Manager | [https://testflight.apple.com/join/hIec0gli](https://testflight.apple.com/join/hIec0gli) | N | 2022-10-11 |
 | ErgBot | [https://testflight.apple.com/join/JDPdeT9t](https://testflight.apple.com/join/JDPdeT9t) | N | 2022-10-10 |
 | Eternal Love M | [https://testflight.apple.com/join/4O9GPjMk](https://testflight.apple.com/join/4O9GPjMk) | N | 2022-10-13 |
-| Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | F | 2024-02-23 |
+| Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | Y | 2024-03-10 |
 | F1ATV | [https://testflight.apple.com/join/NRswe1IZ](https://testflight.apple.com/join/NRswe1IZ) | Y | 2024-02-20 |
 | FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | N | 2022-10-13 |
 | FLOCK INC. | [https://testflight.apple.com/join/9ZixcXRI](https://testflight.apple.com/join/9ZixcXRI) | N | 2022-10-13 |
@@ -185,7 +185,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | F | 2024-03-01 |
 | Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | F | 2024-03-09 |
 | Facebook Light | [https://testflight.apple.com/join/UqEC1ibq](https://testflight.apple.com/join/UqEC1ibq) | N | 2022-10-13 |
-| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | F | 2024-01-21 |
+| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | Y | 2024-03-10 |
 | FanFiction.Net | [https://testflight.apple.com/join/NLrhkf2U](https://testflight.apple.com/join/NLrhkf2U) | N | 2022-10-13 |
 | Feedbin | [https://testflight.apple.com/join/ynrJI46U](https://testflight.apple.com/join/ynrJI46U) | N | 2022-10-13 |
 | Feedelio | [https://testflight.apple.com/join/ceqvetXz](https://testflight.apple.com/join/ceqvetXz) | N | 2022-10-11 |
@@ -428,7 +428,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | Pillow | [https://testflight.apple.com/join/apGxTqB1](https://testflight.apple.com/join/apGxTqB1) | N | 2022-10-13 |
 | Pinterest beta | [https://testflight.apple.com/join/ffIBkq35](https://testflight.apple.com/join/ffIBkq35) | F | 2024-03-03 |
 | Planet Runners | [https://testflight.apple.com/join/4zAP9kBW](https://testflight.apple.com/join/4zAP9kBW) | N | 2022-10-13 |
-| Plant Identifier & Care | [https://testflight.apple.com/join/vYqAc3Lf](https://testflight.apple.com/join/vYqAc3Lf) | Y | 2024-03-09 |
+| Plant Identifier & Care | [https://testflight.apple.com/join/vYqAc3Lf](https://testflight.apple.com/join/vYqAc3Lf) | F | 2024-03-10 |
 | PlayMe-Social Competitions | [https://testflight.apple.com/join/qd3PcztN](https://testflight.apple.com/join/qd3PcztN) | N | 2022-10-11 |
 | Playerly | [https://testflight.apple.com/join/8TOnyruA](https://testflight.apple.com/join/8TOnyruA) | N | 2022-10-13 |
 | Plex | [https://testflight.apple.com/join/MY6JTzix](https://testflight.apple.com/join/MY6JTzix) | F | 2023-12-31 |
@@ -724,7 +724,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | 企鹅电竞 | [https://testflight.apple.com/join/yjtogTGe](https://testflight.apple.com/join/yjtogTGe) | N | 2022-03-15 |
 | 千牛 | [https://testflight.apple.com/join/lk3b4aCF](https://testflight.apple.com/join/lk3b4aCF) | N | 2022-03-16 |
 | 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) | N | 2022-09-24 |
-| 哔哩哔哩 | [https://testflight.apple.com/join/K4pM1kHu](https://testflight.apple.com/join/K4pM1kHu) | Y | 2024-03-09 |
+| 哔哩哔哩 | [https://testflight.apple.com/join/K4pM1kHu](https://testflight.apple.com/join/K4pM1kHu) | F | 2024-03-10 |
 | 哔哩哔哩 HD | [https://testflight.apple.com/join/Fwa9TCKU](https://testflight.apple.com/join/Fwa9TCKU) | N | 2022-03-15 |
 | 天猫 | [https://testflight.apple.com/join/ShoYW2yH](https://testflight.apple.com/join/ShoYW2yH) | N | 2022-03-16 |
 | 寒梅 | [https://testflight.apple.com/join/7U4YKpl2](https://testflight.apple.com/join/7U4YKpl2) | N | 2022-03-15 |
