@@ -95,6 +95,7 @@
 | Collabora Office | [https://testflight.apple.com/join/TEnBWi68](https://testflight.apple.com/join/TEnBWi68) | Y | 2023-02-11 |
 | Color Capture | [https://testflight.apple.com/join/7JecM2hD](https://testflight.apple.com/join/7JecM2hD) | N | 2023-08-09 |
 | Color Defense | [https://testflight.apple.com/join/uWKe9m1h](https://testflight.apple.com/join/uWKe9m1h) | N | 2022-10-13 |
+| ColorSlurp Beta | [https://testflight.apple.com/join/xxEw2j1X](https://testflight.apple.com/join/xxEw2j1X) | Y | 2024-03-13 |
 | Comet | [https://testflight.apple.com/join/AShWXMYH](https://testflight.apple.com/join/AShWXMYH) | N | 2022-10-13 |
 | Companies – Search and Create | [https://testflight.apple.com/join/2RQUId5L](https://testflight.apple.com/join/2RQUId5L) | N | 2023-04-27 |
 | Confluence by Atlassian | [https://testflight.apple.com/join/BP8yM5kF](https://testflight.apple.com/join/BP8yM5kF) | N | 2022-10-11 |
