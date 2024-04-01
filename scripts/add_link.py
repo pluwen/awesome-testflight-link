@@ -102,7 +102,7 @@ async def check_status(session, key, retry=10):
             if resp.status == 404:
                 return (key, 'D', app_name)
             rand = round(random.random(), 3)
-            print(f"[warn] {e}, wait {i*(rand+1)+1} s. Retry({i}/retry)")
+            print(f"[warn] {e}, wait {i*(rand+1)+1} s. Retry({i}/{retry})")
             await asyncio.sleep(i*(rand+1)+1)
     print(f"[warn] Key ({key}) have max retries, return default value!")
     return (key, status, app_name)
