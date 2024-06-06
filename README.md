@@ -198,7 +198,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Fight Back to the 80's Match 3 | [https://testflight.apple.com/join/xt9cIUk1](https://testflight.apple.com/join/xt9cIUk1) | N | 2022-10-11 |
 | Film Logbook beta | [https://testflight.apple.com/join/fV4oQYJD](https://testflight.apple.com/join/fV4oQYJD) | N | 2023-02-18 |
 | Filmlog | [https://testflight.apple.com/join/ywiozhph](https://testflight.apple.com/join/ywiozhph) | Y | 2024-02-06 |
-| Finance Bay | [https://testflight.apple.com/join/y4etT8Ht](https://testflight.apple.com/join/y4etT8Ht) | Y | 2024-06-04 |
+| Finance Bay | [https://testflight.apple.com/join/y4etT8Ht](https://testflight.apple.com/join/y4etT8Ht) | F | 2024-06-06 |
 | Fintunes beta | [https://testflight.apple.com/join/cf2AMDpx](https://testflight.apple.com/join/cf2AMDpx) | D | 2024-06-03 |
 | Firefox Beta | [https://testflight.apple.com/join/JdsubPZs](https://testflight.apple.com/join/JdsubPZs) | Y | 2024-02-29 |
 | Firefox Focus | [https://testflight.apple.com/join/dH8lkFZi](https://testflight.apple.com/join/dH8lkFZi) | N | 2023-11-25 |
@@ -216,7 +216,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | FotMob Live Soccer Scores | [https://testflight.apple.com/join/zEAwGlrV](https://testflight.apple.com/join/zEAwGlrV) | Y | 2023-10-07 |
 | Foxieee | [https://testflight.apple.com/join/E5l94av3](https://testflight.apple.com/join/E5l94av3) | N | 2022-10-11 |
 | Freebox | [https://testflight.apple.com/join/q9vICEOv](https://testflight.apple.com/join/q9vICEOv) | N | 2022-10-13 |
-| Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | Y | 2024-02-26 |
+| Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | F | 2024-06-06 |
 | FullPlayer | [https://testflight.apple.com/join/HktpUEoB](https://testflight.apple.com/join/HktpUEoB) | N | 2022-10-13 |
 | GAMEE - Play with your friends | [https://testflight.apple.com/join/WdjtLFsf](https://testflight.apple.com/join/WdjtLFsf) | N | 2022-10-13 |
 | GE Tracker-OSRS Flipping | [https://testflight.apple.com/join/6pXqBFre](https://testflight.apple.com/join/6pXqBFre) | N | 2023-11-09 |
@@ -410,7 +410,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Outbankâ€“360Â° Banking | [https://testflight.apple.com/join/ZnLxusWe](https://testflight.apple.com/join/ZnLxusWe) | N | 2022-10-11 |
 | Outcast for Watch | [https://testflight.apple.com/join/NFhBJlx3](https://testflight.apple.com/join/NFhBJlx3) | N | 2022-10-13 |
 | Overcast | [https://testflight.apple.com/join/ua0oicPc](https://testflight.apple.com/join/ua0oicPc) | N | 2022-10-13 |
-| Overcast beta | [https://testflight.apple.com/join/37azzGPG](https://testflight.apple.com/join/37azzGPG) | N | 2024-04-22 |
+| Overcast beta | [https://testflight.apple.com/join/37azzGPG](https://testflight.apple.com/join/37azzGPG) | Y | 2024-06-06 |
 | Owto | [https://testflight.apple.com/join/a4jRO20r](https://testflight.apple.com/join/a4jRO20r) | N | 2022-10-10 |
 | PDF Expert: PDF Editor | [https://testflight.apple.com/join/UE75wprO](https://testflight.apple.com/join/UE75wprO) | N | 2024-02-29 |
 | PDF Viewer Pro by PSPDFKit | [https://testflight.apple.com/join/6IMUtZ8n](https://testflight.apple.com/join/6IMUtZ8n) | F | 2024-05-30 |
@@ -700,7 +700,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Cell to Singularity | [https://testflight.apple.com/join/RD9jGH9S](https://testflight.apple.com/join/RD9jGH9S) | Y | 2023-01-15 |
 | Dig Girl | [https://testflight.apple.com/join/p7fUhVk3](https://testflight.apple.com/join/p7fUhVk3) | N | 2024-03-09 |
 | DropZap World | [https://testflight.apple.com/join/CdEXgjst](https://testflight.apple.com/join/CdEXgjst) | Y | 2023-07-02 |
-| Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | Y | 2024-02-26 |
+| Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | F | 2024-06-06 |
 | Heroic Mayhem | [https://testflight.apple.com/join/xjc2fPds](https://testflight.apple.com/join/xjc2fPds) | Y | 2024-04-18 |
 | Jrni | [https://testflight.apple.com/join/Z1TMhVJT](https://testflight.apple.com/join/Z1TMhVJT) | N | 2023-07-06 |
 | Locus | [https://testflight.apple.com/join/0trOIdJj](https://testflight.apple.com/join/0trOIdJj) | N | 2022-12-20 |
