@@ -168,7 +168,7 @@
 | Filmlog | [https://testflight.apple.com/join/ywiozhph](https://testflight.apple.com/join/ywiozhph) | Y | 2024-02-06 |
 | Finance Bay | [https://testflight.apple.com/join/y4etT8Ht](https://testflight.apple.com/join/y4etT8Ht) | F | 2024-06-29 |
 | Fintunes beta | [https://testflight.apple.com/join/cf2AMDpx](https://testflight.apple.com/join/cf2AMDpx) | D | 2024-06-03 |
-| Firefox Beta | [https://testflight.apple.com/join/JdsubPZs](https://testflight.apple.com/join/JdsubPZs) | Y | 2024-06-29 |
+| Firefox Beta | [https://testflight.apple.com/join/JdsubPZs](https://testflight.apple.com/join/JdsubPZs) | F | 2024-07-01 |
 | Firefox Focus | [https://testflight.apple.com/join/dH8lkFZi](https://testflight.apple.com/join/dH8lkFZi) | N | 2023-11-25 |
 | Firewalla | [https://testflight.apple.com/join/qtUnSjJp](https://testflight.apple.com/join/qtUnSjJp) | Y | 2022-10-13 |
 | Fleх beta | [https://testflight.apple.com/join/2g7cQfvC](https://testflight.apple.com/join/2g7cQfvC) | Y | 2023-07-30 |
@@ -285,7 +285,7 @@
 | Loiter | [https://testflight.apple.com/join/KRf4e4A8](https://testflight.apple.com/join/KRf4e4A8) | N | 2022-10-13 |
 | Loon | [https://testflight.apple.com/join/23LA2tmX](https://testflight.apple.com/join/23LA2tmX) | N | 2022-10-13 |
 | Lucky Horoscope | [https://testflight.apple.com/join/InHLjuQA](https://testflight.apple.com/join/InHLjuQA) | N | 2022-10-13 |
-| MEGA | [https://testflight.apple.com/join/4x1P5Tnx](https://testflight.apple.com/join/4x1P5Tnx) | F | 2024-06-09 |
+| MEGA | [https://testflight.apple.com/join/4x1P5Tnx](https://testflight.apple.com/join/4x1P5Tnx) | Y | 2024-07-01 |
 | MFC Deck | [https://testflight.apple.com/join/Qusn9Bkt](https://testflight.apple.com/join/Qusn9Bkt) | N | 2022-10-13 |
 | MK播放器 | [https://testflight.apple.com/join/qUEu2p3L](https://testflight.apple.com/join/qUEu2p3L) | N | 2022-10-13 |
 | Mammoth: for Mastodon | [https://testflight.apple.com/join/66c1wW8y](https://testflight.apple.com/join/66c1wW8y) | N | 2023-04-20 |
@@ -494,7 +494,7 @@
 | Snapthread | [https://testflight.apple.com/join/nOZ0d7n7](https://testflight.apple.com/join/nOZ0d7n7) | N | 2023-11-02 |
 | Social Dummy | [https://testflight.apple.com/join/lQu46sXI](https://testflight.apple.com/join/lQu46sXI) | N | 2022-10-11 |
 | SocialBuzz-Social Network | [https://testflight.apple.com/join/HEZbtISZ](https://testflight.apple.com/join/HEZbtISZ) | N | 2022-10-13 |
-| Soulver | [https://testflight.apple.com/join/rBWP4hPz](https://testflight.apple.com/join/rBWP4hPz) | Y | 2024-04-02 |
+| Soulver | [https://testflight.apple.com/join/rBWP4hPz](https://testflight.apple.com/join/rBWP4hPz) | N | 2024-07-01 |
 | Soulver 3 | [https://testflight.apple.com/join/Vlb55Wtr](https://testflight.apple.com/join/Vlb55Wtr) | N | 2024-04-16 |
 | Sous Vide °Celsius | [https://testflight.apple.com/join/pglwyYBC](https://testflight.apple.com/join/pglwyYBC) | N | 2022-10-10 |
 | Space Browser | [https://testflight.apple.com/join/UZCCWbHA](https://testflight.apple.com/join/UZCCWbHA) | N | 2022-10-13 |
@@ -564,7 +564,7 @@
 | Twitter | [https://testflight.apple.com/join/3EsotSOl](https://testflight.apple.com/join/3EsotSOl) | N | 2023-10-19 |
 | USA Jeans | [https://testflight.apple.com/join/ofzlBtgu](https://testflight.apple.com/join/ofzlBtgu) | N | 2022-10-13 |
 | UTG-Up To Game | [https://testflight.apple.com/join/eo2yZvOc](https://testflight.apple.com/join/eo2yZvOc) | N | 2022-10-13 |
-| UTM Remote Virtual Machines | [https://testflight.apple.com/join/mFlnyMv3](https://testflight.apple.com/join/mFlnyMv3) | Y | 2024-03-06 |
+| UTM Remote Virtual Machines | [https://testflight.apple.com/join/mFlnyMv3](https://testflight.apple.com/join/mFlnyMv3) | N | 2024-07-01 |
 | Ulry | [https://testflight.apple.com/join/eu5rogJB](https://testflight.apple.com/join/eu5rogJB) | N | 2023-12-23 |
 | Ulysses | [https://testflight.apple.com/join/r7ehG0dQ](https://testflight.apple.com/join/r7ehG0dQ) | Y | 2023-04-10 |
 | Umnico | [https://testflight.apple.com/join/DsyFXwI2](https://testflight.apple.com/join/DsyFXwI2) | N | 2022-10-09 |
@@ -598,7 +598,7 @@
 | WeatherKit | [https://testflight.apple.com/join/kAvJV2Gp](https://testflight.apple.com/join/kAvJV2Gp) | N | 2022-10-11 |
 | WhaleBlue | [https://testflight.apple.com/join/jtBRluFe](https://testflight.apple.com/join/jtBRluFe) | N | 2022-10-13 |
 | WhaleBlue | [https://testflight.apple.com/join/udovXNsR](https://testflight.apple.com/join/udovXNsR) | N | 2022-10-13 |
-| WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | F | 2024-06-30 |
+| WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | Y | 2024-07-01 |
 | WhatsApp Messenger | [https://testflight.apple.com/join/s4rTJVPb](https://testflight.apple.com/join/s4rTJVPb) | N | 2023-10-12 |
 | Widget Wizard | [https://testflight.apple.com/join/mQX0NKjP](https://testflight.apple.com/join/mQX0NKjP) | N | 2023-08-24 |
 | Wikiloc Outdoor Navigation GPS | [https://testflight.apple.com/join/P93jBr23](https://testflight.apple.com/join/P93jBr23) | N | 2022-10-13 |
@@ -616,7 +616,7 @@
 | Xbox Family Settings beta | [https://testflight.apple.com/join/8oUnDzMQ](https://testflight.apple.com/join/8oUnDzMQ) | F | 2024-06-26 |
 | Xbuddy | [https://testflight.apple.com/join/Yxf3M3Kf](https://testflight.apple.com/join/Yxf3M3Kf) | N | 2022-10-11 |
 | Xzen | [https://testflight.apple.com/join/Xl5oqplp](https://testflight.apple.com/join/Xl5oqplp) | N | 2022-10-13 |
-| YACReader | [https://testflight.apple.com/join/5zhB7sRP](https://testflight.apple.com/join/5zhB7sRP) | Y | 2024-06-30 |
+| YACReader | [https://testflight.apple.com/join/5zhB7sRP](https://testflight.apple.com/join/5zhB7sRP) | F | 2024-07-01 |
 | YTCount – Subscriber Count | [https://testflight.apple.com/join/etMYrqRF](https://testflight.apple.com/join/etMYrqRF) | N | 2022-10-13 |
 | Yala! | [https://testflight.apple.com/join/drGYCl49](https://testflight.apple.com/join/drGYCl49) | N | 2023-09-03 |
 | Yamble | [https://testflight.apple.com/join/eruM03qY](https://testflight.apple.com/join/eruM03qY) | N | 2022-10-11 |
