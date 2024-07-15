@@ -68,7 +68,7 @@
 | CARROT Fit | [https://testflight.apple.com/join/rhsofJcx](https://testflight.apple.com/join/rhsofJcx) | N | 2022-10-13 |
 | CHUNE | [https://testflight.apple.com/join/7gH8i3pN](https://testflight.apple.com/join/7gH8i3pN) | N | 2022-10-11 |
 | Calculator Q | [https://testflight.apple.com/join/En0eJsFg](https://testflight.apple.com/join/En0eJsFg) | N | 2022-10-13 |
-| Calendars 5 by Readdle | [https://testflight.apple.com/join/tC44BniC](https://testflight.apple.com/join/tC44BniC) | Y | 2024-07-14 |
+| Calendars 5 by Readdle | [https://testflight.apple.com/join/tC44BniC](https://testflight.apple.com/join/tC44BniC) | F | 2024-07-15 |
 | CapCut - Video Editor | [https://testflight.apple.com/join/Gu9kI6ky](https://testflight.apple.com/join/Gu9kI6ky) | Y | 2024-07-13 |
 | Capsule-Podcast Player | [https://testflight.apple.com/join/xsWM17VW](https://testflight.apple.com/join/xsWM17VW) | N | 2022-10-13 |
 | CardioBot - Heart Rate Monitor | [https://testflight.apple.com/join/H82FVVt6](https://testflight.apple.com/join/H82FVVt6) | F | 2023-07-02 |
@@ -144,7 +144,7 @@
 | Enpass Password Manager | [https://testflight.apple.com/join/hIec0gli](https://testflight.apple.com/join/hIec0gli) | N | 2022-10-11 |
 | Erasee: Background Remover | [https://testflight.apple.com/join/t6xnU9H3](https://testflight.apple.com/join/t6xnU9H3) | Y | 2024-06-13 |
 | Eternal Love M | [https://testflight.apple.com/join/4O9GPjMk](https://testflight.apple.com/join/4O9GPjMk) | N | 2022-10-13 |
-| Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | Y | 2024-07-12 |
+| Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | F | 2024-07-15 |
 | F1ATV | [https://testflight.apple.com/join/NRswe1IZ](https://testflight.apple.com/join/NRswe1IZ) | Y | 2024-02-20 |
 | FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | N | 2022-10-13 |
 | FLOCK INC. | [https://testflight.apple.com/join/9ZixcXRI](https://testflight.apple.com/join/9ZixcXRI) | N | 2022-10-13 |
@@ -154,7 +154,7 @@
 | FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | F | 2024-06-16 |
 | Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | F | 2024-05-17 |
 | Facebook Light | [https://testflight.apple.com/join/UqEC1ibq](https://testflight.apple.com/join/UqEC1ibq) | N | 2022-10-13 |
-| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | F | 2024-07-12 |
+| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | Y | 2024-07-15 |
 | FanFiction.Net | [https://testflight.apple.com/join/NLrhkf2U](https://testflight.apple.com/join/NLrhkf2U) | N | 2022-10-13 |
 | Feedbin | [https://testflight.apple.com/join/ynrJI46U](https://testflight.apple.com/join/ynrJI46U) | N | 2022-10-13 |
 | Feedelio | [https://testflight.apple.com/join/ceqvetXz](https://testflight.apple.com/join/ceqvetXz) | N | 2022-10-11 |
@@ -280,7 +280,7 @@
 | LittleBeat | [https://testflight.apple.com/join/U5GSqwEP](https://testflight.apple.com/join/U5GSqwEP) | N | 2024-02-26 |
 | Live Traffic Map and Weather | [https://testflight.apple.com/join/qKnsQiRL](https://testflight.apple.com/join/qKnsQiRL) | N | 2022-10-11 |
 | Local Japan | [https://testflight.apple.com/join/0V62RIGt](https://testflight.apple.com/join/0V62RIGt) | N | 2022-10-13 |
-| Lock Launcher beta | [https://testflight.apple.com/join/clHxFnLa](https://testflight.apple.com/join/clHxFnLa) | F | 2024-06-17 |
+| Lock Launcher beta | [https://testflight.apple.com/join/clHxFnLa](https://testflight.apple.com/join/clHxFnLa) | Y | 2024-07-15 |
 | Lock Screen Contact Widgets beta | [https://testflight.apple.com/join/uyGm1uJr](https://testflight.apple.com/join/uyGm1uJr) | N | 2022-12-05 |
 | Loiter | [https://testflight.apple.com/join/KRf4e4A8](https://testflight.apple.com/join/KRf4e4A8) | N | 2022-10-13 |
 | Loon | [https://testflight.apple.com/join/23LA2tmX](https://testflight.apple.com/join/23LA2tmX) | N | 2022-10-13 |
@@ -313,7 +313,7 @@
 | Microsoft To-Do | [https://testflight.apple.com/join/JSq3UkAz](https://testflight.apple.com/join/JSq3UkAz) | F | 2024-06-26 |
 | Microsoft Whiteboard | [https://testflight.apple.com/join/HSWkbCxV](https://testflight.apple.com/join/HSWkbCxV) | N | 2023-10-17 |
 | Mindustry | [https://testflight.apple.com/join/79Azm1hZ](https://testflight.apple.com/join/79Azm1hZ) | N | 2023-08-20 |
-| Mixing Station | [https://testflight.apple.com/join/lsd9mugy](https://testflight.apple.com/join/lsd9mugy) | Y | 2024-07-14 |
+| Mixing Station | [https://testflight.apple.com/join/lsd9mugy](https://testflight.apple.com/join/lsd9mugy) | F | 2024-07-15 |
 | Mixtapes: Music Player | [https://testflight.apple.com/join/wpAW2GRx](https://testflight.apple.com/join/wpAW2GRx) | N | 2022-10-13 |
 | Mojo - Create Video Stories | [https://testflight.apple.com/join/AJlrDMao](https://testflight.apple.com/join/AJlrDMao) | N | 2022-10-09 |
 | Momento - GIF Maker & Creator | [https://testflight.apple.com/join/HzErGQWT](https://testflight.apple.com/join/HzErGQWT) | N | 2022-10-13 |
@@ -612,7 +612,7 @@
 | Wraldpyk’s Blackjack | [https://testflight.apple.com/join/cJbVQ4HE](https://testflight.apple.com/join/cJbVQ4HE) | N | 2022-10-11 |
 | Wristruments for Guitar | [https://testflight.apple.com/join/IEuDHfby](https://testflight.apple.com/join/IEuDHfby) | N | 2022-10-11 |
 | XP App | [https://testflight.apple.com/join/f3nwgini](https://testflight.apple.com/join/f3nwgini) | N | 2022-10-10 |
-| Xbox | [https://testflight.apple.com/join/dfUeaFHS](https://testflight.apple.com/join/dfUeaFHS) | F | 2024-07-11 |
+| Xbox | [https://testflight.apple.com/join/dfUeaFHS](https://testflight.apple.com/join/dfUeaFHS) | Y | 2024-07-15 |
 | Xbox Family Settings beta | [https://testflight.apple.com/join/8oUnDzMQ](https://testflight.apple.com/join/8oUnDzMQ) | F | 2024-06-26 |
 | Xbuddy | [https://testflight.apple.com/join/Yxf3M3Kf](https://testflight.apple.com/join/Yxf3M3Kf) | N | 2022-10-11 |
 | Xzen | [https://testflight.apple.com/join/Xl5oqplp](https://testflight.apple.com/join/Xl5oqplp) | N | 2022-10-13 |
