@@ -313,7 +313,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | LittleBeat | [https://testflight.apple.com/join/U5GSqwEP](https://testflight.apple.com/join/U5GSqwEP) | N | 2024-02-26 |
 | Live Traffic Map and Weather | [https://testflight.apple.com/join/qKnsQiRL](https://testflight.apple.com/join/qKnsQiRL) | N | 2022-10-11 |
 | Local Japan | [https://testflight.apple.com/join/0V62RIGt](https://testflight.apple.com/join/0V62RIGt) | N | 2022-10-13 |
-| Lock Launcher beta | [https://testflight.apple.com/join/clHxFnLa](https://testflight.apple.com/join/clHxFnLa) | Y | 2024-08-10 |
+| Lock Launcher beta | [https://testflight.apple.com/join/clHxFnLa](https://testflight.apple.com/join/clHxFnLa) | F | 2024-08-11 |
 | Lock Screen Contact Widgets beta | [https://testflight.apple.com/join/uyGm1uJr](https://testflight.apple.com/join/uyGm1uJr) | N | 2022-12-05 |
 | Loiter | [https://testflight.apple.com/join/KRf4e4A8](https://testflight.apple.com/join/KRf4e4A8) | N | 2022-10-13 |
 | Loon | [https://testflight.apple.com/join/23LA2tmX](https://testflight.apple.com/join/23LA2tmX) | N | 2022-10-13 |
@@ -367,7 +367,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Myphysique | [https://testflight.apple.com/join/BScDI9fh](https://testflight.apple.com/join/BScDI9fh) | N | 2023-12-17 |
 | MÃ¶bius Sync - Syncthing iOS | [https://testflight.apple.com/join/n5A7ceuK](https://testflight.apple.com/join/n5A7ceuK) | Y | 2024-05-28 |
 | NOS | [https://testflight.apple.com/join/i4g2QrrG](https://testflight.apple.com/join/i4g2QrrG) | Y | 2024-07-18 |
-| NS Travel Planner | [https://testflight.apple.com/join/ldBwapIg](https://testflight.apple.com/join/ldBwapIg) | Y | 2024-08-09 |
+| NS Travel Planner | [https://testflight.apple.com/join/ldBwapIg](https://testflight.apple.com/join/ldBwapIg) | F | 2024-08-11 |
 | NSScreencast | [https://testflight.apple.com/join/zNLNVYtN](https://testflight.apple.com/join/zNLNVYtN) | N | 2022-10-13 |
 | Nano for Reddit | [https://testflight.apple.com/join/9qB4yqkL](https://testflight.apple.com/join/9qB4yqkL) | N | 2022-10-13 |
 | Nearby AI - GPT AI Prompts | [https://testflight.apple.com/join/xHGrkViR](https://testflight.apple.com/join/xHGrkViR) | Y | 2024-05-14 |
@@ -646,10 +646,10 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Wristruments for Guitar | [https://testflight.apple.com/join/IEuDHfby](https://testflight.apple.com/join/IEuDHfby) | N | 2022-10-11 |
 | XP App | [https://testflight.apple.com/join/f3nwgini](https://testflight.apple.com/join/f3nwgini) | N | 2022-10-10 |
 | Xbox | [https://testflight.apple.com/join/dfUeaFHS](https://testflight.apple.com/join/dfUeaFHS) | F | 2024-07-18 |
-| Xbox Family Settings beta | [https://testflight.apple.com/join/8oUnDzMQ](https://testflight.apple.com/join/8oUnDzMQ) | Y | 2024-08-10 |
+| Xbox Family Settings beta | [https://testflight.apple.com/join/8oUnDzMQ](https://testflight.apple.com/join/8oUnDzMQ) | F | 2024-08-11 |
 | Xbuddy | [https://testflight.apple.com/join/Yxf3M3Kf](https://testflight.apple.com/join/Yxf3M3Kf) | N | 2022-10-11 |
 | Xzen | [https://testflight.apple.com/join/Xl5oqplp](https://testflight.apple.com/join/Xl5oqplp) | N | 2022-10-13 |
-| YACReader | [https://testflight.apple.com/join/5zhB7sRP](https://testflight.apple.com/join/5zhB7sRP) | Y | 2024-08-10 |
+| YACReader | [https://testflight.apple.com/join/5zhB7sRP](https://testflight.apple.com/join/5zhB7sRP) | F | 2024-08-11 |
 | YTCount â€“ Subscriber Count | [https://testflight.apple.com/join/etMYrqRF](https://testflight.apple.com/join/etMYrqRF) | N | 2022-10-13 |
 | Yala! | [https://testflight.apple.com/join/drGYCl49](https://testflight.apple.com/join/drGYCl49) | N | 2023-09-03 |
 | Yamble | [https://testflight.apple.com/join/eruM03qY](https://testflight.apple.com/join/eruM03qY) | N | 2022-10-11 |
