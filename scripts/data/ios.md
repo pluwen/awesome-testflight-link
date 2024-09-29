@@ -68,7 +68,7 @@
 | CHUNE | [https://testflight.apple.com/join/7gH8i3pN](https://testflight.apple.com/join/7gH8i3pN) | N | 2022-10-11 |
 | Calculator Q | [https://testflight.apple.com/join/En0eJsFg](https://testflight.apple.com/join/En0eJsFg) | N | 2022-10-13 |
 | Calendars 5 by Readdle | [https://testflight.apple.com/join/tC44BniC](https://testflight.apple.com/join/tC44BniC) | N | 2024-09-17 |
-| CapCut - Video Editor | [https://testflight.apple.com/join/Gu9kI6ky](https://testflight.apple.com/join/Gu9kI6ky) | Y | 2024-09-18 |
+| CapCut - Video Editor | [https://testflight.apple.com/join/Gu9kI6ky](https://testflight.apple.com/join/Gu9kI6ky) | F | 2024-09-29 |
 | Capsule-Podcast Player | [https://testflight.apple.com/join/xsWM17VW](https://testflight.apple.com/join/xsWM17VW) | N | 2022-10-13 |
 | CardioBot - Heart Rate Monitor | [https://testflight.apple.com/join/H82FVVt6](https://testflight.apple.com/join/H82FVVt6) | Y | 2024-09-12 |
 | Cards-Business Card Scanner | [https://testflight.apple.com/join/iuqvxbc1](https://testflight.apple.com/join/iuqvxbc1) | N | 2022-10-13 |
@@ -130,7 +130,7 @@
 | Dog Scanner | [https://testflight.apple.com/join/OOrSaq4J](https://testflight.apple.com/join/OOrSaq4J) | N | 2022-10-11 |
 | Drift Music | [https://testflight.apple.com/join/gYn8g7oj](https://testflight.apple.com/join/gYn8g7oj) | N | 2022-10-13 |
 | DropZap World | [https://testflight.apple.com/join/CdEXgjst](https://testflight.apple.com/join/CdEXgjst) | Y | 2022-10-13 |
-| Dropbox | [https://testflight.apple.com/join/LBZaRq4I](https://testflight.apple.com/join/LBZaRq4I) | Y | 2024-09-27 |
+| Dropbox | [https://testflight.apple.com/join/LBZaRq4I](https://testflight.apple.com/join/LBZaRq4I) | F | 2024-09-29 |
 | Droplets | [https://testflight.apple.com/join/70uu42Cu](https://testflight.apple.com/join/70uu42Cu) | N | 2022-10-11 |
 | Duolingo | [https://testflight.apple.com/join/Sq8bYSnJ](https://testflight.apple.com/join/Sq8bYSnJ) | F | 2024-06-19 |
 | Dust-Beta | [https://testflight.apple.com/join/OBG12W8K](https://testflight.apple.com/join/OBG12W8K) | N | 2022-10-11 |
@@ -142,7 +142,7 @@
 | Enpass Password Manager | [https://testflight.apple.com/join/hIec0gli](https://testflight.apple.com/join/hIec0gli) | N | 2022-10-11 |
 | Erasee: Background Remover | [https://testflight.apple.com/join/t6xnU9H3](https://testflight.apple.com/join/t6xnU9H3) | Y | 2024-06-13 |
 | Eternal Love M | [https://testflight.apple.com/join/4O9GPjMk](https://testflight.apple.com/join/4O9GPjMk) | N | 2022-10-13 |
-| Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | Y | 2024-09-27 |
+| Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | F | 2024-09-29 |
 | F1ATV | [https://testflight.apple.com/join/NRswe1IZ](https://testflight.apple.com/join/NRswe1IZ) | Y | 2024-02-20 |
 | FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | N | 2022-10-13 |
 | FLOCK INC. | [https://testflight.apple.com/join/9ZixcXRI](https://testflight.apple.com/join/9ZixcXRI) | N | 2022-10-13 |
@@ -204,7 +204,7 @@
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | F | 2024-09-16 |
 | GreenLit Audiobook Player | [https://testflight.apple.com/join/NQYMABMU](https://testflight.apple.com/join/NQYMABMU) | N | 2022-10-13 |
 | Grid: Create Pointillist Art | [https://testflight.apple.com/join/PyXo0ZW7](https://testflight.apple.com/join/PyXo0ZW7) | N | 2022-10-13 |
-| Grocery-Smart Grocery List | [https://testflight.apple.com/join/v29eXz9t](https://testflight.apple.com/join/v29eXz9t) | F | 2024-09-27 |
+| Grocery-Smart Grocery List | [https://testflight.apple.com/join/v29eXz9t](https://testflight.apple.com/join/v29eXz9t) | Y | 2024-09-29 |
 | GroupMe | [https://testflight.apple.com/join/6CcTotfX](https://testflight.apple.com/join/6CcTotfX) | Y | 2022-10-09 |
 | Grow | [https://testflight.apple.com/join/h3xyVeII](https://testflight.apple.com/join/h3xyVeII) | N | 2022-10-13 |
 | Guide Meditation | [https://testflight.apple.com/join/Apcb3YLW](https://testflight.apple.com/join/Apcb3YLW) | N | 2022-10-13 |
@@ -345,7 +345,7 @@
 | NixWallet | [https://testflight.apple.com/join/GtYCStfi](https://testflight.apple.com/join/GtYCStfi) | N | 2022-10-13 |
 | NoSeen for Facebook Messenger | [https://testflight.apple.com/join/DGHcr3A1](https://testflight.apple.com/join/DGHcr3A1) | N | 2022-10-10 |
 | NoiseHub | [https://testflight.apple.com/join/ulV8RPis](https://testflight.apple.com/join/ulV8RPis) | N | 2022-10-13 |
-| Norton | [https://testflight.apple.com/join/iHcEgAaT](https://testflight.apple.com/join/iHcEgAaT) | Y | 2024-09-27 |
+| Norton | [https://testflight.apple.com/join/iHcEgAaT](https://testflight.apple.com/join/iHcEgAaT) | F | 2024-09-29 |
 | NoteBox-Simple Powerful | [https://testflight.apple.com/join/md5HRQKd](https://testflight.apple.com/join/md5HRQKd) | N | 2022-10-13 |
 | NotePlan - Markdown Calendar | [https://testflight.apple.com/join/mrSbc937](https://testflight.apple.com/join/mrSbc937) | N | 2022-10-11 |
 | NoteStorm | [https://testflight.apple.com/join/PaoEJuBG](https://testflight.apple.com/join/PaoEJuBG) | N | 2022-10-11 |
@@ -539,7 +539,7 @@
 | Thor | [https://testflight.apple.com/join/wArXdacJ](https://testflight.apple.com/join/wArXdacJ) | N | 2022-10-11 |
 | Tidal | [https://testflight.apple.com/join/ixgcTmzv](https://testflight.apple.com/join/ixgcTmzv) | N | 2024-01-01 |
 | Tik-App | [https://testflight.apple.com/join/wGEkmFU9](https://testflight.apple.com/join/wGEkmFU9) | N | 2022-10-13 |
-| TikTok | [https://testflight.apple.com/join/pLmKZJKw](https://testflight.apple.com/join/pLmKZJKw) | Y | 2024-09-26 |
+| TikTok | [https://testflight.apple.com/join/pLmKZJKw](https://testflight.apple.com/join/pLmKZJKw) | F | 2024-09-29 |
 | Time for Coffee! | [https://testflight.apple.com/join/ACkjB1Xh](https://testflight.apple.com/join/ACkjB1Xh) | N | 2022-10-13 |
 | Time:Calc | [https://testflight.apple.com/join/8NvVXGgp](https://testflight.apple.com/join/8NvVXGgp) | N | 2022-10-11 |
 | To Dot | [https://testflight.apple.com/join/7o1Q4Q8p](https://testflight.apple.com/join/7o1Q4Q8p) | N | 2022-10-13 |
