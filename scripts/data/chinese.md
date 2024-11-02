@@ -13,7 +13,7 @@
 | 企鹅电竞 | [https://testflight.apple.com/join/yjtogTGe](https://testflight.apple.com/join/yjtogTGe) | N | 2022-03-15 |
 | 千牛 | [https://testflight.apple.com/join/lk3b4aCF](https://testflight.apple.com/join/lk3b4aCF) | N | 2022-03-16 |
 | 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) | N | 2022-09-24 |
-| 哔哩哔哩 | [https://testflight.apple.com/join/K4pM1kHu](https://testflight.apple.com/join/K4pM1kHu) | F | 2024-10-20 |
+| 哔哩哔哩 | [https://testflight.apple.com/join/K4pM1kHu](https://testflight.apple.com/join/K4pM1kHu) | Y | 2024-11-02 |
 | 哔哩哔哩 HD | [https://testflight.apple.com/join/Fwa9TCKU](https://testflight.apple.com/join/Fwa9TCKU) | N | 2022-03-15 |
 | 天猫 | [https://testflight.apple.com/join/ShoYW2yH](https://testflight.apple.com/join/ShoYW2yH) | N | 2022-03-16 |
 | 寒梅 | [https://testflight.apple.com/join/7U4YKpl2](https://testflight.apple.com/join/7U4YKpl2) | N | 2022-03-15 |
@@ -27,7 +27,7 @@
 | 树洞(sudo) | [https://testflight.apple.com/join/dNThSezF](https://testflight.apple.com/join/dNThSezF) | N | 2022-03-15 |
 | 泼辣修图出品视频编辑应用 24fps | [https://testflight.apple.com/join/aY3y9aOM](https://testflight.apple.com/join/aY3y9aOM) | N | 2022-03-15 |
 | 淘宝 | [https://testflight.apple.com/join/TThGL9RX](https://testflight.apple.com/join/TThGL9RX) | N | 2022-03-16 |
-| 滴答清单 TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | N | 2024-10-04 |
+| 滴答清单 TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | Y | 2024-11-02 |
 | 熊猫吃短信 | [https://testflight.apple.com/join/qMCQlMiZ](https://testflight.apple.com/join/qMCQlMiZ) | N | 2022-03-15 |
 | 熊猫吃短信 - 垃圾短信过滤 beta | [https://testflight.apple.com/join/PUlWiCNO](https://testflight.apple.com/join/PUlWiCNO) | N | 2022-12-01 |
 | 爱阅书香 | [https://testflight.apple.com/join/23FPuktF](https://testflight.apple.com/join/23FPuktF) | N | 2022-03-15 |
