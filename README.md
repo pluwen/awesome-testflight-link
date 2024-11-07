@@ -45,7 +45,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-10-13 |
 | A2IPNS | [https://testflight.apple.com/join/cbUVu5XI](https://testflight.apple.com/join/cbUVu5XI) | N | 2023-08-13 |
 | AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) | N | 2022-10-13 |
-| AdGuard  â€” adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | Y | 2024-10-30 |
+| AdGuard  â€” adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | F | 2024-11-07 |
 | AdGuard VPN | [https://testflight.apple.com/join/fZRiD1zt](https://testflight.apple.com/join/fZRiD1zt) | Y | 2024-05-24 |
 | Aerivo | [https://testflight.apple.com/join/NXxMcB4Y](https://testflight.apple.com/join/NXxMcB4Y) | N | 2022-10-13 |
 | Aethyn Physics | [https://testflight.apple.com/join/fKa07bUP](https://testflight.apple.com/join/fKa07bUP) | N | 2023-08-17 |
@@ -334,7 +334,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | Y | 2024-10-21 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | Y | 2023-04-28 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | N | 2024-02-07 |
-| Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | Y | 2024-11-06 |
+| Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2024-11-07 |
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | F | 2024-10-16 |
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2024-10-08 |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | F | 2024-10-18 |
@@ -385,7 +385,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | NotePlan - Markdown Calendar | [https://testflight.apple.com/join/mrSbc937](https://testflight.apple.com/join/mrSbc937) | N | 2022-10-11 |
 | NoteStorm | [https://testflight.apple.com/join/PaoEJuBG](https://testflight.apple.com/join/PaoEJuBG) | N | 2022-10-11 |
 | Notes Plus | [https://testflight.apple.com/join/DHJexhQq](https://testflight.apple.com/join/DHJexhQq) | N | 2024-02-01 |
-| Notion | [https://testflight.apple.com/join/YSo8aVCS](https://testflight.apple.com/join/YSo8aVCS) | F | 2024-10-22 |
+| Notion | [https://testflight.apple.com/join/YSo8aVCS](https://testflight.apple.com/join/YSo8aVCS) | Y | 2024-11-07 |
 | Nubank | [https://testflight.apple.com/join/v3SGNpM5](https://testflight.apple.com/join/v3SGNpM5) | Y | 2022-10-13 |
 | OSM Completionist | [https://testflight.apple.com/join/v1tyM5yU](https://testflight.apple.com/join/v1tyM5yU) | N | 2022-10-11 |
 | OSM Surveyor | [https://testflight.apple.com/join/wXtE44KZ](https://testflight.apple.com/join/wXtE44KZ) | N | 2022-10-11 |
