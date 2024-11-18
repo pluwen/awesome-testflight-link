@@ -139,6 +139,7 @@
 | Dust-Beta | [https://testflight.apple.com/join/OBG12W8K](https://testflight.apple.com/join/OBG12W8K) | N | 2022-10-11 |
 | Eastwatch | [https://testflight.apple.com/join/SmfNOeJ2](https://testflight.apple.com/join/SmfNOeJ2) | F | 2023-12-05 |
 | Egern beta | [https://testflight.apple.com/join/AzU6kAzX](https://testflight.apple.com/join/AzU6kAzX) | F | 2023-12-09 |
+| Element Messenger | [https://testflight.apple.com/join/lCeTuDKM](https://testflight.apple.com/join/lCeTuDKM) | Y | 2024-11-18 |
 | Element X - Secure Chat & Call | [https://testflight.apple.com/join/uZbeZCOi](https://testflight.apple.com/join/uZbeZCOi) | Y | 2024-11-18 |
 | Elytra | [https://testflight.apple.com/join/PYYu2Cco](https://testflight.apple.com/join/PYYu2Cco) | F | 2024-09-13 |
 | Emoji Stickers Pack | [https://testflight.apple.com/join/3ZTdq2Kv](https://testflight.apple.com/join/3ZTdq2Kv) | N | 2022-10-13 |
