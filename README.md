@@ -304,6 +304,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | Learn Lite: US State Capitals | [https://testflight.apple.com/join/Fo7UwpZy](https://testflight.apple.com/join/Fo7UwpZy) | N | 2022-10-13 |
 | Letter Letter | [https://testflight.apple.com/join/k9bRluZc](https://testflight.apple.com/join/k9bRluZc) | N | 2022-10-10 |
 | Libertypool | [https://testflight.apple.com/join/jdn0uHJk](https://testflight.apple.com/join/jdn0uHJk) | N | 2022-10-11 |
+| Life360: Find Friends & Family beta | [https://testflight.apple.com/join/syX6IOJF](https://testflight.apple.com/join/syX6IOJF) | Y | 2024-11-18 |
 | Lisit | [https://testflight.apple.com/join/OCwgLvSH](https://testflight.apple.com/join/OCwgLvSH) | N | 2022-10-13 |
 | Listen 籁声 | [https://testflight.apple.com/join/XPvCW9JH](https://testflight.apple.com/join/XPvCW9JH) | N | 2022-10-13 |
 | LittleBeat | [https://testflight.apple.com/join/U5GSqwEP](https://testflight.apple.com/join/U5GSqwEP) | N | 2024-02-26 |
