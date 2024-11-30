@@ -594,6 +594,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Tidal | [https://testflight.apple.com/join/ixgcTmzv](https://testflight.apple.com/join/ixgcTmzv) | N | 2024-01-01 |
 | Tik-App | [https://testflight.apple.com/join/wGEkmFU9](https://testflight.apple.com/join/wGEkmFU9) | N | 2022-10-13 |
 | TikTok | [https://testflight.apple.com/join/pLmKZJKw](https://testflight.apple.com/join/pLmKZJKw) | F | 2024-11-30 |
+| TikTok Now | [https://testflight.apple.com/join/OTGrzX7C](https://testflight.apple.com/join/OTGrzX7C) | Y | 2024-11-30 |
 | Time for Coffee! | [https://testflight.apple.com/join/ACkjB1Xh](https://testflight.apple.com/join/ACkjB1Xh) | N | 2022-10-13 |
 | Time:Calc | [https://testflight.apple.com/join/8NvVXGgp](https://testflight.apple.com/join/8NvVXGgp) | N | 2022-10-11 |
 | To Dot | [https://testflight.apple.com/join/7o1Q4Q8p](https://testflight.apple.com/join/7o1Q4Q8p) | N | 2022-10-13 |
