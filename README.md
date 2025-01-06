@@ -208,7 +208,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Film Logbook beta | [https://testflight.apple.com/join/fV4oQYJD](https://testflight.apple.com/join/fV4oQYJD) | N | 2023-02-18 |
 | Filmlog | [https://testflight.apple.com/join/ywiozhph](https://testflight.apple.com/join/ywiozhph) | Y | 2024-07-24 |
 | Finance Bay | [https://testflight.apple.com/join/y4etT8Ht](https://testflight.apple.com/join/y4etT8Ht) | Y | 2024-12-14 |
-| Firefox Beta | [https://testflight.apple.com/join/JdsubPZs](https://testflight.apple.com/join/JdsubPZs) | Y | 2025-01-05 |
+| Firefox Beta | [https://testflight.apple.com/join/JdsubPZs](https://testflight.apple.com/join/JdsubPZs) | F | 2025-01-06 |
 | Firefox Focus | [https://testflight.apple.com/join/dH8lkFZi](https://testflight.apple.com/join/dH8lkFZi) | N | 2023-11-25 |
 | Firewalla | [https://testflight.apple.com/join/qtUnSjJp](https://testflight.apple.com/join/qtUnSjJp) | Y | 2022-10-13 |
 | Fle—Ö beta | [https://testflight.apple.com/join/2g7cQfvC](https://testflight.apple.com/join/2g7cQfvC) | N | 2024-07-18 |
@@ -286,7 +286,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Imgur - Meme & GIF Maker | [https://testflight.apple.com/join/Qd42y5Pw](https://testflight.apple.com/join/Qd42y5Pw) | Y | 2022-10-11 |
 | Impulse-Rhythm Metronome | [https://testflight.apple.com/join/UfFvXd50](https://testflight.apple.com/join/UfFvXd50) | N | 2022-10-13 |
 | Inspect Browser | [https://testflight.apple.com/join/8N5C8UrM](https://testflight.apple.com/join/8N5C8UrM) | N | 2023-12-25 |
-| Instagram | [https://testflight.apple.com/join/72eyUWVE](https://testflight.apple.com/join/72eyUWVE) | F | 2025-01-04 |
+| Instagram | [https://testflight.apple.com/join/72eyUWVE](https://testflight.apple.com/join/72eyUWVE) | Y | 2025-01-06 |
 | Intuit Credit Karma | [https://testflight.apple.com/join/JrqR9vkv](https://testflight.apple.com/join/JrqR9vkv) | Y | 2024-11-18 |
 | JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli](https://testflight.apple.com/join/fHI8igli) | N | 2022-10-17 |
 | Jetsam | [https://testflight.apple.com/join/C57z8lm0](https://testflight.apple.com/join/C57z8lm0) | N | 2022-10-13 |
@@ -355,7 +355,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | Y | 2024-06-01 |
 | Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | Y | 2024-05-23 |
 | Microsoft Stream | [https://testflight.apple.com/join/PTbaSXrf](https://testflight.apple.com/join/PTbaSXrf) | N | 2024-03-18 |
-| Microsoft SwiftKey Keyboard | [https://testflight.apple.com/join/yhIhAvjp](https://testflight.apple.com/join/yhIhAvjp) | Y | 2025-01-05 |
+| Microsoft SwiftKey Keyboard | [https://testflight.apple.com/join/yhIhAvjp](https://testflight.apple.com/join/yhIhAvjp) | F | 2025-01-06 |
 | Microsoft To-Do | [https://testflight.apple.com/join/JSq3UkAz](https://testflight.apple.com/join/JSq3UkAz) | F | 2024-12-17 |
 | Microsoft Whiteboard | [https://testflight.apple.com/join/HSWkbCxV](https://testflight.apple.com/join/HSWkbCxV) | Y | 2025-01-03 |
 | Mindustry | [https://testflight.apple.com/join/79Azm1hZ](https://testflight.apple.com/join/79Azm1hZ) | N | 2023-08-20 |
@@ -373,7 +373,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 | Music Harbor | [https://testflight.apple.com/join/uaazZoIc](https://testflight.apple.com/join/uaazZoIc) | F | 2024-05-25 |
 | Music Year in Review | [https://testflight.apple.com/join/EIEOkKJV](https://testflight.apple.com/join/EIEOkKJV) | N | 2022-10-13 |
 | Musicoin | [https://testflight.apple.com/join/VUvMtXzG](https://testflight.apple.com/join/VUvMtXzG) | N | 2022-10-11 |
-| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | Y | 2025-01-05 |
+| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | F | 2025-01-06 |
 | My Movies 4 Pro - Movie & TV | [https://testflight.apple.com/join/DJoozd8u](https://testflight.apple.com/join/DJoozd8u) | N | 2023-08-25 |
 | MyFRITZ!App | [https://testflight.apple.com/join/U0v1rBE5](https://testflight.apple.com/join/U0v1rBE5) | Y | 2024-11-30 |
 | MyPal | [https://testflight.apple.com/join/Jj3B6vQ8](https://testflight.apple.com/join/Jj3B6vQ8) | N | 2022-10-11 |
