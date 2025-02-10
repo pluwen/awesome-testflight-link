@@ -46,7 +46,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-10-13 |
 | A2IPNS | [https://testflight.apple.com/join/cbUVu5XI](https://testflight.apple.com/join/cbUVu5XI) | N | 2023-08-13 |
 | AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) | N | 2022-10-13 |
-| AdGuard  â€” adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | F | 2025-02-08 |
+| AdGuard  â€” adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | Y | 2025-02-10 |
 | AdGuard VPN | [https://testflight.apple.com/join/fZRiD1zt](https://testflight.apple.com/join/fZRiD1zt) | Y | 2024-05-24 |
 | Adobe Acrobat Reader: Edit PDF | [https://testflight.apple.com/join/8XhFnQlp](https://testflight.apple.com/join/8XhFnQlp) | Y | 2024-11-18 |
 | Aerivo | [https://testflight.apple.com/join/NXxMcB4Y](https://testflight.apple.com/join/NXxMcB4Y) | N | 2022-10-13 |
@@ -110,7 +110,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Capsule-Podcast Player | [https://testflight.apple.com/join/xsWM17VW](https://testflight.apple.com/join/xsWM17VW) | N | 2022-10-13 |
 | CardioBot - Heart Rate Monitor | [https://testflight.apple.com/join/H82FVVt6](https://testflight.apple.com/join/H82FVVt6) | F | 2025-01-25 |
 | Cards-Business Card Scanner | [https://testflight.apple.com/join/iuqvxbc1](https://testflight.apple.com/join/iuqvxbc1) | N | 2022-10-13 |
-| Cash App | [https://testflight.apple.com/join/An0RiOFF](https://testflight.apple.com/join/An0RiOFF) | F | 2025-01-28 |
+| Cash App | [https://testflight.apple.com/join/An0RiOFF](https://testflight.apple.com/join/An0RiOFF) | Y | 2025-02-10 |
 | Catch Benefits | [https://testflight.apple.com/join/lignIX4A](https://testflight.apple.com/join/lignIX4A) | N | 2022-10-13 |
 | Cats & Dogs | [https://testflight.apple.com/join/rGDBZ3hs](https://testflight.apple.com/join/rGDBZ3hs) | N | 2022-10-11 |
 | Cats In Space! Galactic Mice | [https://testflight.apple.com/join/b3anlTqH](https://testflight.apple.com/join/b3anlTqH) | N | 2022-10-13 |
@@ -196,7 +196,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | F | 2025-02-01 |
 | Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | F | 2024-05-17 |
 | Facebook Light | [https://testflight.apple.com/join/UqEC1ibq](https://testflight.apple.com/join/UqEC1ibq) | N | 2022-10-13 |
-| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | Y | 2025-02-08 |
+| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | F | 2025-02-10 |
 | FanFiction.Net | [https://testflight.apple.com/join/NLrhkf2U](https://testflight.apple.com/join/NLrhkf2U) | N | 2022-10-13 |
 | Fast Camera | [https://testflight.apple.com/join/haPQdDs9](https://testflight.apple.com/join/haPQdDs9) | Y | 2024-10-15 |
 | Fedicat | [https://testflight.apple.com/join/b6GatWTY](https://testflight.apple.com/join/b6GatWTY) | Y | 2024-10-27 |
@@ -356,7 +356,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2025-02-04 |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | F | 2025-02-09 |
 | Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | Y | 2024-06-01 |
-| Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | Y | 2024-05-23 |
+| Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | F | 2025-02-10 |
 | Microsoft Stream | [https://testflight.apple.com/join/PTbaSXrf](https://testflight.apple.com/join/PTbaSXrf) | N | 2024-03-18 |
 | Microsoft SwiftKey Keyboard | [https://testflight.apple.com/join/yhIhAvjp](https://testflight.apple.com/join/yhIhAvjp) | F | 2025-01-13 |
 | Microsoft To-Do | [https://testflight.apple.com/join/JSq3UkAz](https://testflight.apple.com/join/JSq3UkAz) | F | 2025-01-30 |
@@ -537,8 +537,8 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-å
 | Sins Raid | [https://testflight.apple.com/join/4W3Kfb7j](https://testflight.apple.com/join/4W3Kfb7j) | N | 2022-10-13 |
 | Skies Of Chaos | [https://testflight.apple.com/join/l31tKFJF](https://testflight.apple.com/join/l31tKFJF) | N | 2022-10-11 |
 | Skype For iPad | [https://testflight.apple.com/join/vnSIsolv](https://testflight.apple.com/join/vnSIsolv) | N | 2023-06-27 |
-| Skype For iPhone | [https://testflight.apple.com/join/fB5IkJT7](https://testflight.apple.com/join/fB5IkJT7) | Y | 2022-10-13 |
-| Slack | [https://testflight.apple.com/join/QE3kgqJ2](https://testflight.apple.com/join/QE3kgqJ2) | F | 2025-02-04 |
+| Skype For iPhone | [https://testflight.apple.com/join/fB5IkJT7](https://testflight.apple.com/join/fB5IkJT7) | F | 2025-02-10 |
+| Slack | [https://testflight.apple.com/join/QE3kgqJ2](https://testflight.apple.com/join/QE3kgqJ2) | Y | 2025-02-10 |
 | Sleep Cycle - Sleep Tracker beta | [https://testflight.apple.com/join/tCeANbZi](https://testflight.apple.com/join/tCeANbZi) | Y | 2024-02-07 |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | Y | 2024-02-07 |
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) | N | 2022-10-13 |
