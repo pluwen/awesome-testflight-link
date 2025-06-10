@@ -31,8 +31,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 
 ## macOS App List (macOS 12)
 
-<details>
-<summary><strong>Available (4 apps)</strong> - Apps currently accepting new testers</summary>
+<strong>Available (4 apps)</strong> - Apps currently accepting new testers
 
 _✅ These 4 apps are currently accepting new testers! Click the links to join._
 
@@ -56,8 +55,7 @@ _✅ These 4 apps are currently accepting new testers! Click the links to join._
 
 ## iOS/iPad OS App List
 
-<details>
-<summary><strong>Available (140 apps)</strong> - Apps currently accepting new testers</summary>
+<strong>Available (140 apps)</strong> - Apps currently accepting new testers
 
 _✅ These 140 apps are currently accepting new testers! Click the links to join._
 
@@ -595,7 +593,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Spendee Budget Money Tracker | [https://testflight.apple.com/join/qsfCtbEy](https://testflight.apple.com/join/qsfCtbEy) | N | 2023-10-08 |
 | Spendy | [https://testflight.apple.com/join/hgN6jGHY](https://testflight.apple.com/join/hgN6jGHY) | N | 2022-10-11 |
 | Spider Solitaire Card Game | [https://testflight.apple.com/join/ygPhVWba](https://testflight.apple.com/join/ygPhVWba) | N | 2022-10-11 |
-| Spotify - Music and Podcasts | [https://testflight.apple.com/join/1SyedSId](https://testflight.apple.com/join/1SyedSId) | F | 2025-06-09 |
+| Spotify - Music and Podcasts | [https://testflight.apple.com/join/1SyedSId](https://testflight.apple.com/join/1SyedSId) | Y | 2025-06-10 |
 | Spotify Music | [https://testflight.apple.com/join/7lt2tesn](https://testflight.apple.com/join/7lt2tesn) | F | 2025-06-05 |
 | Stadtfahrt | [https://testflight.apple.com/join/5WU4HTVy](https://testflight.apple.com/join/5WU4HTVy) | N | 2022-10-13 |
 | Stand Up: Fitness Tracking | [https://testflight.apple.com/join/x9KBfSnP](https://testflight.apple.com/join/x9KBfSnP) | N | 2022-10-13 |
@@ -761,8 +759,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 
 ## iOS/iPad OS Game List
 
-<details>
-<summary><strong>Available (1 app)</strong> - Apps currently accepting new testers</summary>
+<strong>Available (1 app)</strong> - Apps currently accepting new testers
 
 _✅ These 1 apps are currently accepting new testers! Click the links to join._
 
@@ -787,8 +784,7 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 
 ## Chinese App
 
-<details>
-<summary><strong>Available (10 apps)</strong> - Apps currently accepting new testers</summary>
+<strong>Available (10 apps)</strong> - Apps currently accepting new testers
 
 _✅ These 10 apps are currently accepting new testers! Click the links to join._
 
@@ -812,7 +808,7 @@ _✅ These 10 apps are currently accepting new testers! Click the links to join.
 | 寒梅 | [https://testflight.apple.com/join/7U4YKpl2](https://testflight.apple.com/join/7U4YKpl2) | N | 2022-03-15 |
 | 小記 | [https://testflight.apple.com/join/aqoXcoG3](https://testflight.apple.com/join/aqoXcoG3) | N | 2023-05-15 |
 | 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) | F | 2025-03-13 |
-| 微信键盘 beta | [https://testflight.apple.com/join/iSTXkF4K](https://testflight.apple.com/join/iSTXkF4K) | Y | 2024-11-01 |
+| 微信键盘 beta | [https://testflight.apple.com/join/iSTXkF4K](https://testflight.apple.com/join/iSTXkF4K) | F | 2025-06-10 |
 | 我的世界-网易 | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | F | 2025-05-23 |
 | 抖音 | [https://testflight.apple.com/join/ZILJgZhU](https://testflight.apple.com/join/ZILJgZhU) | F | 2025-06-08 |
 | 捷径社区 | [https://testflight.apple.com/join/LeuKqKYX](https://testflight.apple.com/join/LeuKqKYX) | N | 2022-03-16 |
