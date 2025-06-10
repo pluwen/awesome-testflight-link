@@ -1,7 +1,6 @@
 # iOS/iPad OS App List
 
-<details>
-<summary><strong>Available (140 apps)</strong> - Apps currently accepting new testers</summary>
+<strong>Available (140 apps)</strong> - Apps currently accepting new testers
 
 _✅ These 140 apps are currently accepting new testers! Click the links to join._
 
