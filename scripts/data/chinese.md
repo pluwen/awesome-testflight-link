@@ -1,7 +1,6 @@
 # Chinese App
 
-<details>
-<summary><strong>Available (10 apps)</strong> - Apps currently accepting new testers</summary>
+<strong>Available (10 apps)</strong> - Apps currently accepting new testers
 
 _✅ These 10 apps are currently accepting new testers! Click the links to join._
 
