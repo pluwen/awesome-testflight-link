@@ -127,7 +127,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | DailyTown | [https://testflight.apple.com/join/Q37kksaC](https://testflight.apple.com/join/Q37kksaC) | N | 2025-04-17 |
 | Damus | [https://testflight.apple.com/join/CLwjLxWl](https://testflight.apple.com/join/CLwjLxWl) | F | 2025-02-09 |
 | Dapp Pocket | [https://testflight.apple.com/join/vBUJMAu4](https://testflight.apple.com/join/vBUJMAu4) | N | 2022-10-13 |
-| Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | F | 2025-05-30 |
+| Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2025-07-06 |
 | Dark Odds | [https://testflight.apple.com/join/oyTaqKjv](https://testflight.apple.com/join/oyTaqKjv) | N | 2022-10-13 |
 | Darkroom – Photo Editor | [https://testflight.apple.com/join/mzR3XvHe](https://testflight.apple.com/join/mzR3XvHe) | N | 2025-05-09 |
 | Dash Calc | [https://testflight.apple.com/join/4vmNqTE8](https://testflight.apple.com/join/4vmNqTE8) | Y | 2025-01-07 |
