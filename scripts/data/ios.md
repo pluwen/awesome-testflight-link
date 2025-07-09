@@ -114,6 +114,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Controller for HomeKit | [https://testflight.apple.com/join/W8RcBWhh](https://testflight.apple.com/join/W8RcBWhh) | N | 2023-09-05 |
 | Cordia | [https://testflight.apple.com/join/PljUX6Cv](https://testflight.apple.com/join/PljUX6Cv) | N | 2023-11-06 |
 | Cortana | [https://testflight.apple.com/join/4IHpEYnz](https://testflight.apple.com/join/4IHpEYnz) | N | 2022-10-13 |
+| Count In Days | [https://testflight.apple.com/join/3aUpFGCc](https://testflight.apple.com/join/3aUpFGCc) | Y | 2025-07-09 |
 | Count It Off-Setlist Metronome | [https://testflight.apple.com/join/deIWaole](https://testflight.apple.com/join/deIWaole) | N | 2022-10-13 |
 | Countdown | [https://testflight.apple.com/join/PNtubmae](https://testflight.apple.com/join/PNtubmae) | N | 2022-12-16 |
 | Countdown Collection | [https://testflight.apple.com/join/SLukAeyA](https://testflight.apple.com/join/SLukAeyA) | N | 2022-10-13 |
