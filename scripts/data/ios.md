@@ -8,16 +8,16 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | --- | --- | --- | --- |
 | 1.1.1.1: Faster Internet | [https://testflight.apple.com/join/QKqitFwc](https://testflight.apple.com/join/QKqitFwc) | N | 2023-11-27 |
 | 1.1.1.1: Faster Internet beta | [https://testflight.apple.com/join/Sl7m9yyz](https://testflight.apple.com/join/Sl7m9yyz) | N | 2023-11-27 |
-| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2025-07-24 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | Y | 2025-08-05 |
 | 1Password - Password Manager | [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) | N | 2023-04-28 |
-| 1Password - Password Manager beta | [https://testflight.apple.com/join/fzDLkIVK](https://testflight.apple.com/join/fzDLkIVK) | Y | 2025-08-04 |
+| 1Password - Password Manager beta | [https://testflight.apple.com/join/fzDLkIVK](https://testflight.apple.com/join/fzDLkIVK) | F | 2025-08-05 |
 | 1TouchAssist | [https://testflight.apple.com/join/oYw0jTD6](https://testflight.apple.com/join/oYw0jTD6) | N | 2022-10-13 |
 | 2Do - Todo List, Tasks & Notes | [https://testflight.apple.com/join/McBV96Wi](https://testflight.apple.com/join/McBV96Wi) | N | 2022-10-13 |
 | 9GAG: Best LOL Pics & GIFs | [https://testflight.apple.com/join/S2q4mD2b](https://testflight.apple.com/join/S2q4mD2b) | N | 2022-10-13 |
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-10-13 |
 | A2IPNS | [https://testflight.apple.com/join/cbUVu5XI](https://testflight.apple.com/join/cbUVu5XI) | N | 2023-08-13 |
 | AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) | N | 2022-10-13 |
-| AdGuard  — adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | F | 2025-07-14 |
+| AdGuard  — adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | Y | 2025-08-05 |
 | AdGuard VPN | [https://testflight.apple.com/join/fZRiD1zt](https://testflight.apple.com/join/fZRiD1zt) | Y | 2025-05-30 |
 | Adobe Acrobat Reader: Edit PDF | [https://testflight.apple.com/join/8XhFnQlp](https://testflight.apple.com/join/8XhFnQlp) | Y | 2024-11-18 |
 | Aerivo | [https://testflight.apple.com/join/NXxMcB4Y](https://testflight.apple.com/join/NXxMcB4Y) | N | 2022-10-13 |
@@ -329,8 +329,8 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2025-08-02 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | F | 2025-06-21 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | N | 2024-02-07 |
-| Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | Y | 2025-08-04 |
-| Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | F | 2025-07-16 |
+| Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2025-08-05 |
+| Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | Y | 2025-08-05 |
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2025-07-27 |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | F | 2025-08-01 |
 | Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | Y | 2024-06-01 |
@@ -455,7 +455,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur](https://testflight.apple.com/join/qDkBu2ur) | F | 2025-06-11 |
 | Pyto-Python IDE | [https://testflight.apple.com/join/Kts3HqEj](https://testflight.apple.com/join/Kts3HqEj) | N | 2025-06-28 |
 | QR File Transfer | [https://testflight.apple.com/join/P5UOcDLa](https://testflight.apple.com/join/P5UOcDLa) | N | 2025-05-19 |
-| Qobuz | [https://testflight.apple.com/join/GPJZwnh9](https://testflight.apple.com/join/GPJZwnh9) | Y | 2025-08-04 |
+| Qobuz | [https://testflight.apple.com/join/GPJZwnh9](https://testflight.apple.com/join/GPJZwnh9) | F | 2025-08-05 |
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | N | 2023-08-21 |
 | Quiz Viajero | [https://testflight.apple.com/join/B4BYAvTy](https://testflight.apple.com/join/B4BYAvTy) | N | 2022-10-13 |
 | Quizland | [https://testflight.apple.com/join/yelwsUGl](https://testflight.apple.com/join/yelwsUGl) | N | 2023-08-18 |
@@ -472,7 +472,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Readwise Reader beta | [https://testflight.apple.com/join/NSeQo22d](https://testflight.apple.com/join/NSeQo22d) | Y | 2023-07-30 |
 | Really Bad Chess | [https://testflight.apple.com/join/aOhasBMk](https://testflight.apple.com/join/aOhasBMk) | N | 2022-10-11 |
 | Recall-Secure Photo Storage | [https://testflight.apple.com/join/YuXc2asc](https://testflight.apple.com/join/YuXc2asc) | N | 2022-10-11 |
-| Reddit | [https://testflight.apple.com/join/b9jMyOWt](https://testflight.apple.com/join/b9jMyOWt) | Y | 2025-07-10 |
+| Reddit | [https://testflight.apple.com/join/b9jMyOWt](https://testflight.apple.com/join/b9jMyOWt) | F | 2025-08-05 |
 | RetailBox | [https://testflight.apple.com/join/nNT4O8vg](https://testflight.apple.com/join/nNT4O8vg) | N | 2022-10-13 |
 | Retro 2 | [https://testflight.apple.com/join/IjV5V0zL](https://testflight.apple.com/join/IjV5V0zL) | N | 2024-10-03 |
 | Retro Flight | [https://testflight.apple.com/join/NnU8jU3m](https://testflight.apple.com/join/NnU8jU3m) | N | 2022-10-13 |
@@ -543,8 +543,8 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Spendee Budget Money Tracker | [https://testflight.apple.com/join/qsfCtbEy](https://testflight.apple.com/join/qsfCtbEy) | N | 2023-10-08 |
 | Spendy | [https://testflight.apple.com/join/hgN6jGHY](https://testflight.apple.com/join/hgN6jGHY) | N | 2022-10-11 |
 | Spider Solitaire Card Game | [https://testflight.apple.com/join/ygPhVWba](https://testflight.apple.com/join/ygPhVWba) | N | 2022-10-11 |
-| Spotify - Music and Podcasts | [https://testflight.apple.com/join/1SyedSId](https://testflight.apple.com/join/1SyedSId) | F | 2025-07-24 |
-| Spotify Music | [https://testflight.apple.com/join/7lt2tesn](https://testflight.apple.com/join/7lt2tesn) | F | 2025-07-20 |
+| Spotify - Music and Podcasts | [https://testflight.apple.com/join/1SyedSId](https://testflight.apple.com/join/1SyedSId) | Y | 2025-08-05 |
+| Spotify Music | [https://testflight.apple.com/join/7lt2tesn](https://testflight.apple.com/join/7lt2tesn) | Y | 2025-08-05 |
 | Stadtfahrt | [https://testflight.apple.com/join/5WU4HTVy](https://testflight.apple.com/join/5WU4HTVy) | N | 2022-10-13 |
 | Stand Up: Fitness Tracking | [https://testflight.apple.com/join/x9KBfSnP](https://testflight.apple.com/join/x9KBfSnP) | N | 2022-10-13 |
 | Standard Notes | [https://testflight.apple.com/join/xdRzm6et](https://testflight.apple.com/join/xdRzm6et) | N | 2022-10-11 |
@@ -602,7 +602,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Twitter | [https://testflight.apple.com/join/3EsotSOl](https://testflight.apple.com/join/3EsotSOl) | N | 2023-10-19 |
 | USA Jeans | [https://testflight.apple.com/join/ofzlBtgu](https://testflight.apple.com/join/ofzlBtgu) | N | 2022-10-13 |
 | UTG-Up To Game | [https://testflight.apple.com/join/eo2yZvOc](https://testflight.apple.com/join/eo2yZvOc) | N | 2022-10-13 |
-| UTM Remote Virtual Machines | [https://testflight.apple.com/join/mFlnyMv3](https://testflight.apple.com/join/mFlnyMv3) | N | 2025-01-03 |
+| UTM Remote Virtual Machines | [https://testflight.apple.com/join/mFlnyMv3](https://testflight.apple.com/join/mFlnyMv3) | Y | 2025-08-05 |
 | Ulry | [https://testflight.apple.com/join/eu5rogJB](https://testflight.apple.com/join/eu5rogJB) | N | 2023-12-23 |
 | Ulysses | [https://testflight.apple.com/join/r7ehG0dQ](https://testflight.apple.com/join/r7ehG0dQ) | Y | 2023-04-10 |
 | Umnico | [https://testflight.apple.com/join/DsyFXwI2](https://testflight.apple.com/join/DsyFXwI2) | N | 2022-10-09 |
