@@ -166,10 +166,10 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | FRITZ!App Fon | [https://testflight.apple.com/join/SGGCxyRp](https://testflight.apple.com/join/SGGCxyRp) | N | 2025-07-29 |
 | FRITZ!App Smart Home | [https://testflight.apple.com/join/kzVJhIg1](https://testflight.apple.com/join/kzVJhIg1) | Y | 2024-08-21 |
 | FRITZ!App TV | [https://testflight.apple.com/join/Zl2czQO2](https://testflight.apple.com/join/Zl2czQO2) | N | 2025-07-08 |
-| FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | F | 2025-07-03 |
+| FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | Y | 2025-08-14 |
 | Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | Y | 2025-07-26 |
 | Facebook Light | [https://testflight.apple.com/join/UqEC1ibq](https://testflight.apple.com/join/UqEC1ibq) | N | 2022-10-13 |
-| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | F | 2025-08-12 |
+| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | Y | 2025-08-14 |
 | FanFiction.Net | [https://testflight.apple.com/join/NLrhkf2U](https://testflight.apple.com/join/NLrhkf2U) | N | 2022-10-13 |
 | Fast Camera | [https://testflight.apple.com/join/haPQdDs9](https://testflight.apple.com/join/haPQdDs9) | N | 2025-03-17 |
 | Fedicat | [https://testflight.apple.com/join/b6GatWTY](https://testflight.apple.com/join/b6GatWTY) | Y | 2024-10-27 |
@@ -221,7 +221,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | Y | 2024-10-16 |
 | GreenLit Audiobook Player | [https://testflight.apple.com/join/NQYMABMU](https://testflight.apple.com/join/NQYMABMU) | N | 2022-10-13 |
 | Grid: Create Pointillist Art | [https://testflight.apple.com/join/PyXo0ZW7](https://testflight.apple.com/join/PyXo0ZW7) | N | 2022-10-13 |
-| Grindr - Gay Dating & Chat | [https://testflight.apple.com/join/eO265vw7](https://testflight.apple.com/join/eO265vw7) | Y | 2025-04-16 |
+| Grindr - Gay Dating & Chat | [https://testflight.apple.com/join/eO265vw7](https://testflight.apple.com/join/eO265vw7) | F | 2025-08-14 |
 | Grocery-Smart Grocery List | [https://testflight.apple.com/join/v29eXz9t](https://testflight.apple.com/join/v29eXz9t) | F | 2025-07-21 |
 | GroupMe | [https://testflight.apple.com/join/6CcTotfX](https://testflight.apple.com/join/6CcTotfX) | Y | 2022-10-09 |
 | Grow | [https://testflight.apple.com/join/h3xyVeII](https://testflight.apple.com/join/h3xyVeII) | N | 2022-10-13 |
@@ -326,7 +326,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Microsoft Defender: Security | [https://testflight.apple.com/join/AYVtbvfc](https://testflight.apple.com/join/AYVtbvfc) | Y | 2024-11-18 |
 | Microsoft Designer beta | [https://testflight.apple.com/join/KsuaylTZ](https://testflight.apple.com/join/KsuaylTZ) | Y | 2024-10-17 |
 | Microsoft Dynamics 365 | [https://testflight.apple.com/join/ocBZp14V](https://testflight.apple.com/join/ocBZp14V) | N | 2024-12-14 |
-| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2025-08-09 |
+| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | Y | 2025-08-14 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | F | 2025-06-21 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | N | 2024-02-07 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2025-08-05 |
@@ -455,7 +455,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur](https://testflight.apple.com/join/qDkBu2ur) | F | 2025-06-11 |
 | Pyto-Python IDE | [https://testflight.apple.com/join/Kts3HqEj](https://testflight.apple.com/join/Kts3HqEj) | N | 2025-06-28 |
 | QR File Transfer | [https://testflight.apple.com/join/P5UOcDLa](https://testflight.apple.com/join/P5UOcDLa) | N | 2025-05-19 |
-| Qobuz | [https://testflight.apple.com/join/GPJZwnh9](https://testflight.apple.com/join/GPJZwnh9) | F | 2025-08-05 |
+| Qobuz | [https://testflight.apple.com/join/GPJZwnh9](https://testflight.apple.com/join/GPJZwnh9) | Y | 2025-08-14 |
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | N | 2023-08-21 |
 | Quiz Viajero | [https://testflight.apple.com/join/B4BYAvTy](https://testflight.apple.com/join/B4BYAvTy) | N | 2022-10-13 |
 | Quizland | [https://testflight.apple.com/join/yelwsUGl](https://testflight.apple.com/join/yelwsUGl) | N | 2023-08-18 |
@@ -467,12 +467,12 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Rad Trails! | [https://testflight.apple.com/join/S7tXxfKK](https://testflight.apple.com/join/S7tXxfKK) | N | 2022-10-11 |
 | RainViewer: Live Weather Radar | [https://testflight.apple.com/join/OZ1B4sTS](https://testflight.apple.com/join/OZ1B4sTS) | Y | 2025-01-23 |
 | Rapchat | [https://testflight.apple.com/join/JjPmPBK5](https://testflight.apple.com/join/JjPmPBK5) | N | 2022-10-13 |
-| Rave – Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | Y | 2025-08-11 |
+| Rave – Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | D | 2025-08-14 |
 | Reading List - Book Tracker | [https://testflight.apple.com/join/kBS5mVao](https://testflight.apple.com/join/kBS5mVao) | F | 2025-06-14 |
 | Readwise Reader beta | [https://testflight.apple.com/join/NSeQo22d](https://testflight.apple.com/join/NSeQo22d) | Y | 2023-07-30 |
 | Really Bad Chess | [https://testflight.apple.com/join/aOhasBMk](https://testflight.apple.com/join/aOhasBMk) | N | 2022-10-11 |
 | Recall-Secure Photo Storage | [https://testflight.apple.com/join/YuXc2asc](https://testflight.apple.com/join/YuXc2asc) | N | 2022-10-11 |
-| Reddit | [https://testflight.apple.com/join/b9jMyOWt](https://testflight.apple.com/join/b9jMyOWt) | Y | 2025-08-13 |
+| Reddit | [https://testflight.apple.com/join/b9jMyOWt](https://testflight.apple.com/join/b9jMyOWt) | F | 2025-08-14 |
 | RetailBox | [https://testflight.apple.com/join/nNT4O8vg](https://testflight.apple.com/join/nNT4O8vg) | N | 2022-10-13 |
 | Retro 2 | [https://testflight.apple.com/join/IjV5V0zL](https://testflight.apple.com/join/IjV5V0zL) | N | 2024-10-03 |
 | Retro Flight | [https://testflight.apple.com/join/NnU8jU3m](https://testflight.apple.com/join/NnU8jU3m) | N | 2022-10-13 |
@@ -526,7 +526,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) | N | 2022-10-13 |
 | Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | Y | 2022-10-13 |
 | Smooz Browser | [https://testflight.apple.com/join/53f970RC](https://testflight.apple.com/join/53f970RC) | N | 2023-10-16 |
-| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | F | 2025-08-13 |
+| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | N | 2025-08-14 |
 | Snapthread | [https://testflight.apple.com/join/nOZ0d7n7](https://testflight.apple.com/join/nOZ0d7n7) | N | 2023-11-02 |
 | Social Dummy | [https://testflight.apple.com/join/lQu46sXI](https://testflight.apple.com/join/lQu46sXI) | N | 2022-10-11 |
 | SocialBuzz-Social Network | [https://testflight.apple.com/join/HEZbtISZ](https://testflight.apple.com/join/HEZbtISZ) | N | 2022-10-13 |
