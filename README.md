@@ -137,7 +137,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Calendars 5 by Readdle | [https://testflight.apple.com/join/tC44BniC](https://testflight.apple.com/join/tC44BniC) | N | 2024-09-17 |
 | CapCut - Video Editor | [https://testflight.apple.com/join/Gu9kI6ky](https://testflight.apple.com/join/Gu9kI6ky) | D | 2025-06-25 |
 | Capsule-Podcast Player | [https://testflight.apple.com/join/xsWM17VW](https://testflight.apple.com/join/xsWM17VW) | N | 2022-10-13 |
-| CardioBot - Heart Rate Monitor | [https://testflight.apple.com/join/H82FVVt6](https://testflight.apple.com/join/H82FVVt6) | F | 2025-06-06 |
+| CardioBot - Heart Rate Monitor | [https://testflight.apple.com/join/H82FVVt6](https://testflight.apple.com/join/H82FVVt6) | Y | 2025-08-25 |
 | Cards-Business Card Scanner | [https://testflight.apple.com/join/iuqvxbc1](https://testflight.apple.com/join/iuqvxbc1) | N | 2022-10-13 |
 | Cash App | [https://testflight.apple.com/join/An0RiOFF](https://testflight.apple.com/join/An0RiOFF) | F | 2025-06-28 |
 | Catch Benefits | [https://testflight.apple.com/join/lignIX4A](https://testflight.apple.com/join/lignIX4A) | N | 2022-10-13 |
@@ -386,9 +386,9 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2025-08-22 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | F | 2025-06-21 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | N | 2024-02-07 |
-| Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | Y | 2025-08-24 |
+| Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2025-08-25 |
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | F | 2025-08-06 |
-| Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | Y | 2025-08-23 |
+| Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2025-08-25 |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | F | 2025-08-01 |
 | Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | Y | 2024-06-01 |
 | Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | F | 2025-08-22 |
@@ -440,7 +440,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | NotePlan - Markdown Calendar | [https://testflight.apple.com/join/mrSbc937](https://testflight.apple.com/join/mrSbc937) | N | 2022-10-11 |
 | NoteStorm | [https://testflight.apple.com/join/PaoEJuBG](https://testflight.apple.com/join/PaoEJuBG) | N | 2022-10-11 |
 | Notes Plus | [https://testflight.apple.com/join/DHJexhQq](https://testflight.apple.com/join/DHJexhQq) | N | 2024-02-01 |
-| Notion | [https://testflight.apple.com/join/YSo8aVCS](https://testflight.apple.com/join/YSo8aVCS) | Y | 2025-08-24 |
+| Notion | [https://testflight.apple.com/join/YSo8aVCS](https://testflight.apple.com/join/YSo8aVCS) | F | 2025-08-25 |
 | Nubank | [https://testflight.apple.com/join/v3SGNpM5](https://testflight.apple.com/join/v3SGNpM5) | Y | 2022-10-13 |
 | OSM Completionist | [https://testflight.apple.com/join/v1tyM5yU](https://testflight.apple.com/join/v1tyM5yU) | N | 2022-10-11 |
 | OSM Surveyor | [https://testflight.apple.com/join/wXtE44KZ](https://testflight.apple.com/join/wXtE44KZ) | N | 2022-10-11 |
@@ -478,7 +478,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Paptter | [https://testflight.apple.com/join/YiCQfQv3](https://testflight.apple.com/join/YiCQfQv3) | N | 2022-10-13 |
 | Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | Y | 2025-03-19 |
 | Password AR | [https://testflight.apple.com/join/BUsyXf0e](https://testflight.apple.com/join/BUsyXf0e) | N | 2022-10-13 |
-| Pedal - Your cycling companion | [https://testflight.apple.com/join/aaSgUXmq](https://testflight.apple.com/join/aaSgUXmq) | F | 2025-08-13 |
+| Pedal - Your cycling companion | [https://testflight.apple.com/join/aaSgUXmq](https://testflight.apple.com/join/aaSgUXmq) | Y | 2025-08-25 |
 | Peerlist | [https://testflight.apple.com/join/1KDD1Gqr](https://testflight.apple.com/join/1KDD1Gqr) | N | 2024-07-02 |
 | Percent App | [https://testflight.apple.com/join/Sk5N5oJV](https://testflight.apple.com/join/Sk5N5oJV) | N | 2022-10-11 |
 | Phone Call Notes: VoxNote | [https://testflight.apple.com/join/vjNaxsFb](https://testflight.apple.com/join/vjNaxsFb) | N | 2025-05-23 |
@@ -736,7 +736,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | i2Ray-V2Ray Proxy Manager | [https://testflight.apple.com/join/K57owAmM](https://testflight.apple.com/join/K57owAmM) | N | 2022-10-11 |
 | iCertifi | [https://testflight.apple.com/join/hnyqQHH0](https://testflight.apple.com/join/hnyqQHH0) | N | 2022-10-10 |
 | iRime输入法-小鹤双拼五笔郑码输入法 beta | [https://testflight.apple.com/join/tmKoQL3t](https://testflight.apple.com/join/tmKoQL3t) | N | 2024-01-24 |
-| iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | Y | 2025-08-24 |
+| iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2025-08-25 |
 | infltr - Infinite Filters | [https://testflight.apple.com/join/In6e3GcJ](https://testflight.apple.com/join/In6e3GcJ) | F | 2025-02-16 |
 | kakeibo | [https://testflight.apple.com/join/B614PCKN](https://testflight.apple.com/join/B614PCKN) | N | 2022-10-13 |
 | my ToDo | [https://testflight.apple.com/join/V4zOhaAT](https://testflight.apple.com/join/V4zOhaAT) | N | 2022-10-13 |
@@ -760,7 +760,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | 希沃白板 | [https://testflight.apple.com/join/d6MQLpKY](https://testflight.apple.com/join/d6MQLpKY) | Y | 2023-12-07 |
 | 搜狗输入法 | [https://testflight.apple.com/join/lSZdpEPH](https://testflight.apple.com/join/lSZdpEPH) | F | 2025-08-21 |
 | 网易 Filmly | [https://testflight.apple.com/join/sIj5iOoj](https://testflight.apple.com/join/sIj5iOoj) | Y | 2025-03-01 |
-| 腾讯视频HD | [https://testflight.apple.com/join/9JaSzwSN](https://testflight.apple.com/join/9JaSzwSN) | Y | 2025-08-24 |
+| 腾讯视频HD | [https://testflight.apple.com/join/9JaSzwSN](https://testflight.apple.com/join/9JaSzwSN) | F | 2025-08-25 |
 | 酷我音乐 | [https://testflight.apple.com/join/XWYSZMaS](https://testflight.apple.com/join/XWYSZMaS) | Y | 2025-06-26 |
 
 
