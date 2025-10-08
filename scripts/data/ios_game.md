@@ -7,7 +7,7 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | Build Me This: Parts to Profit | [https://testflight.apple.com/join/U4GabrwT](https://testflight.apple.com/join/U4GabrwT) | Y | 2025-08-05 |
-| Cell to Singularity | [https://testflight.apple.com/join/RD9jGH9S](https://testflight.apple.com/join/RD9jGH9S) | N | 2025-09-04 |
+| Cell to Singularity | [https://testflight.apple.com/join/RD9jGH9S](https://testflight.apple.com/join/RD9jGH9S) | Y | 2025-10-08 |
 | Dig Girl | [https://testflight.apple.com/join/p7fUhVk3](https://testflight.apple.com/join/p7fUhVk3) | N | 2024-03-09 |
 | DropZap World | [https://testflight.apple.com/join/CdEXgjst](https://testflight.apple.com/join/CdEXgjst) | N | 2025-05-22 |
 | FlexicX | [https://testflight.apple.com/join/YSaEbc8C](https://testflight.apple.com/join/YSaEbc8C) | N | 2025-02-22 |
