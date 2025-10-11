@@ -114,7 +114,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Controller for HomeKit | [https://testflight.apple.com/join/W8RcBWhh](https://testflight.apple.com/join/W8RcBWhh) | N | 2023-09-05 |
 | Cordia | [https://testflight.apple.com/join/PljUX6Cv](https://testflight.apple.com/join/PljUX6Cv) | N | 2023-11-06 |
 | Cortana | [https://testflight.apple.com/join/4IHpEYnz](https://testflight.apple.com/join/4IHpEYnz) | N | 2022-10-13 |
-| Count In Days | [https://testflight.apple.com/join/3aUpFGCc](https://testflight.apple.com/join/3aUpFGCc) | Y | 2025-07-09 |
+| Count In Days | [https://testflight.apple.com/join/3aUpFGCc](https://testflight.apple.com/join/3aUpFGCc) | N | 2025-10-11 |
 | Count It Off-Setlist Metronome | [https://testflight.apple.com/join/deIWaole](https://testflight.apple.com/join/deIWaole) | N | 2022-10-13 |
 | Countdown | [https://testflight.apple.com/join/PNtubmae](https://testflight.apple.com/join/PNtubmae) | N | 2022-12-16 |
 | Countdown Collection | [https://testflight.apple.com/join/SLukAeyA](https://testflight.apple.com/join/SLukAeyA) | N | 2022-10-13 |
@@ -167,7 +167,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | FRITZ!App Smart Home | [https://testflight.apple.com/join/kzVJhIg1](https://testflight.apple.com/join/kzVJhIg1) | Y | 2024-08-21 |
 | FRITZ!App TV | [https://testflight.apple.com/join/Zl2czQO2](https://testflight.apple.com/join/Zl2czQO2) | Y | 2025-09-04 |
 | FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | F | 2025-10-10 |
-| Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | F | 2025-10-04 |
+| Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | Y | 2025-10-11 |
 | Facebook Light | [https://testflight.apple.com/join/UqEC1ibq](https://testflight.apple.com/join/UqEC1ibq) | N | 2022-10-13 |
 | Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | F | 2025-09-16 |
 | FanFiction.Net | [https://testflight.apple.com/join/NLrhkf2U](https://testflight.apple.com/join/NLrhkf2U) | N | 2022-10-13 |
@@ -272,7 +272,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Jira Server by Atlassian | [https://testflight.apple.com/join/6JbjYbSY](https://testflight.apple.com/join/6JbjYbSY) | Y | 2025-08-15 |
 | Jobamax | [https://testflight.apple.com/join/Lw2oQr4I](https://testflight.apple.com/join/Lw2oQr4I) | N | 2022-10-11 |
 | Juno Rocks | [https://testflight.apple.com/join/Tiz07eKj](https://testflight.apple.com/join/Tiz07eKj) | N | 2022-10-11 |
-| Just Timers | [https://testflight.apple.com/join/pyzrz0oT](https://testflight.apple.com/join/pyzrz0oT) | Y | 2025-10-10 |
+| Just Timers | [https://testflight.apple.com/join/pyzrz0oT](https://testflight.apple.com/join/pyzrz0oT) | F | 2025-10-11 |
 | Jyotish Computer | [https://testflight.apple.com/join/pietJpfN](https://testflight.apple.com/join/pietJpfN) | N | 2022-10-13 |
 | K Music Player 3 Ultimate | [https://testflight.apple.com/join/61zjD0e6](https://testflight.apple.com/join/61zjD0e6) | N | 2022-10-11 |
 | KARMA: Social Network For Good | [https://testflight.apple.com/join/lpnVgcmV](https://testflight.apple.com/join/lpnVgcmV) | N | 2022-10-10 |
@@ -293,7 +293,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Launchify: Lock Screen Widgets beta | [https://testflight.apple.com/join/mnjOJPgH](https://testflight.apple.com/join/mnjOJPgH) | N | 2022-12-12 |
 | LeCoinDuProf | [https://testflight.apple.com/join/1BMKN5ai](https://testflight.apple.com/join/1BMKN5ai) | N | 2022-10-10 |
 | Learn Lite: US State Capitals | [https://testflight.apple.com/join/Fo7UwpZy](https://testflight.apple.com/join/Fo7UwpZy) | N | 2022-10-13 |
-| Lenna - Video Library Player | [https://testflight.apple.com/join/bExxpaX1](https://testflight.apple.com/join/bExxpaX1) | F | 2025-10-07 |
+| Lenna - Video Library Player | [https://testflight.apple.com/join/bExxpaX1](https://testflight.apple.com/join/bExxpaX1) | Y | 2025-10-11 |
 | Letter Letter | [https://testflight.apple.com/join/k9bRluZc](https://testflight.apple.com/join/k9bRluZc) | N | 2022-10-10 |
 | Libertypool | [https://testflight.apple.com/join/jdn0uHJk](https://testflight.apple.com/join/jdn0uHJk) | N | 2022-10-11 |
 | Life360: Find Friends & Family beta | [https://testflight.apple.com/join/syX6IOJF](https://testflight.apple.com/join/syX6IOJF) | Y | 2024-11-18 |
@@ -333,8 +333,8 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | F | 2025-10-01 |
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2025-10-05 |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | F | 2025-10-09 |
-| Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | Y | 2025-10-10 |
-| Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | Y | 2025-10-07 |
+| Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | F | 2025-10-11 |
+| Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | F | 2025-10-11 |
 | Microsoft Stream | [https://testflight.apple.com/join/PTbaSXrf](https://testflight.apple.com/join/PTbaSXrf) | N | 2024-03-18 |
 | Microsoft SwiftKey Keyboard | [https://testflight.apple.com/join/yhIhAvjp](https://testflight.apple.com/join/yhIhAvjp) | N | 2025-09-15 |
 | Microsoft To-Do | [https://testflight.apple.com/join/JSq3UkAz](https://testflight.apple.com/join/JSq3UkAz) | F | 2025-10-09 |
@@ -419,7 +419,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Palette Cam | [https://testflight.apple.com/join/ZkRM0dla](https://testflight.apple.com/join/ZkRM0dla) | N | 2022-10-11 |
 | Panda Writer | [https://testflight.apple.com/join/xcYfHdB1](https://testflight.apple.com/join/xcYfHdB1) | N | 2023-06-28 |
 | Paptter | [https://testflight.apple.com/join/YiCQfQv3](https://testflight.apple.com/join/YiCQfQv3) | N | 2022-10-13 |
-| Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | F | 2025-10-09 |
+| Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | Y | 2025-10-11 |
 | Password AR | [https://testflight.apple.com/join/BUsyXf0e](https://testflight.apple.com/join/BUsyXf0e) | N | 2022-10-13 |
 | Pedal - Your cycling companion | [https://testflight.apple.com/join/aaSgUXmq](https://testflight.apple.com/join/aaSgUXmq) | F | 2025-09-29 |
 | Peerlist | [https://testflight.apple.com/join/1KDD1Gqr](https://testflight.apple.com/join/1KDD1Gqr) | N | 2024-07-02 |
