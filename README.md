@@ -394,7 +394,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | Y | 2025-10-28 |
 | Microsoft Stream | [https://testflight.apple.com/join/PTbaSXrf](https://testflight.apple.com/join/PTbaSXrf) | N | 2024-03-18 |
 | Microsoft SwiftKey Keyboard | [https://testflight.apple.com/join/yhIhAvjp](https://testflight.apple.com/join/yhIhAvjp) | N | 2025-09-15 |
-| Microsoft To-Do | [https://testflight.apple.com/join/JSq3UkAz](https://testflight.apple.com/join/JSq3UkAz) | Y | 2025-11-01 |
+| Microsoft To-Do | [https://testflight.apple.com/join/JSq3UkAz](https://testflight.apple.com/join/JSq3UkAz) | F | 2025-11-02 |
 | Microsoft Whiteboard | [https://testflight.apple.com/join/HSWkbCxV](https://testflight.apple.com/join/HSWkbCxV) | N | 2025-03-28 |
 | Mindustry | [https://testflight.apple.com/join/79Azm1hZ](https://testflight.apple.com/join/79Azm1hZ) | Y | 2025-04-13 |
 | Mixing Station | [https://testflight.apple.com/join/lsd9mugy](https://testflight.apple.com/join/lsd9mugy) | F | 2025-10-25 |
@@ -782,7 +782,7 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 | Jrni | [https://testflight.apple.com/join/Z1TMhVJT](https://testflight.apple.com/join/Z1TMhVJT) | N | 2023-07-06 |
 | Locus | [https://testflight.apple.com/join/0trOIdJj](https://testflight.apple.com/join/0trOIdJj) | N | 2022-12-20 |
 | MLBB Beta | [https://testflight.apple.com/join/yYjKTTlT](https://testflight.apple.com/join/yYjKTTlT) | F | 2025-07-02 |
-| Minecraft Preview | [https://testflight.apple.com/join/qC1ZnReJ](https://testflight.apple.com/join/qC1ZnReJ) | Y | 2025-11-01 |
+| Minecraft Preview | [https://testflight.apple.com/join/qC1ZnReJ](https://testflight.apple.com/join/qC1ZnReJ) | F | 2025-11-02 |
 | Minecraft: Education Edition beta | [https://testflight.apple.com/join/sBDlEXYr](https://testflight.apple.com/join/sBDlEXYr) | N | 2025-09-11 |
 | Royal Commando | [https://testflight.apple.com/join/Dc1K5L3N](https://testflight.apple.com/join/Dc1K5L3N) | N | 2022-12-26 |
 | Snackroach | [https://testflight.apple.com/join/0j5e7uc0](https://testflight.apple.com/join/0j5e7uc0) | N | 2023-09-30 |
