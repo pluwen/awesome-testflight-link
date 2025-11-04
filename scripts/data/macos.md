@@ -1,6 +1,6 @@
 # macOS App List (macOS 12)
 
-<details>
+<details open>
 <summary><strong>Available (8 apps)</strong> - Apps currently accepting new testers</summary>
 
 _✅ These 8 apps are currently accepting new testers! Click the links to join._

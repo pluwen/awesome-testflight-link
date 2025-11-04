@@ -1,6 +1,6 @@
 # iOS/iPad OS Game List
 
-<details>
+<details open>
 <summary><strong>Available (3 apps)</strong> - Apps currently accepting new testers</summary>
 
 _✅ These 3 apps are currently accepting new testers! Click the links to join._

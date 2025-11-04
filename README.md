@@ -31,7 +31,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 
 # macOS App List (macOS 12)
 
-<details>
+<details open>
 <summary><strong>Available (8 apps)</strong> - Apps currently accepting new testers</summary>
 
 _✅ These 8 apps are currently accepting new testers! Click the links to join._
@@ -88,10 +88,10 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 
 # iOS/iPad OS App List
 
-<details>
-<summary><strong>Available (121 apps)</strong> - Apps currently accepting new testers</summary>
+<details open>
+<summary><strong>Available (119 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 121 apps are currently accepting new testers! Click the links to join._
+_✅ These 119 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -156,7 +156,6 @@ _✅ These 121 apps are currently accepting new testers! Click the links to join
 | Microsoft Bing Search | [https://testflight.apple.com/join/YAKT5ew9](https://testflight.apple.com/join/YAKT5ew9) | Y | 2024-10-13 |
 | Microsoft Defender: Security | [https://testflight.apple.com/join/AYVtbvfc](https://testflight.apple.com/join/AYVtbvfc) | Y | 2024-11-18 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | Y | 2025-11-04 |
-| Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | Y | 2025-11-03 |
 | Mindustry | [https://testflight.apple.com/join/79Azm1hZ](https://testflight.apple.com/join/79Azm1hZ) | Y | 2025-04-13 |
 | Monal - XMPP Chat | [https://testflight.apple.com/join/lLLlgHpB](https://testflight.apple.com/join/lLLlgHpB) | Y | 2025-07-14 |
 | Monzo Bank - Mobile Banking | [https://testflight.apple.com/join/2NZLBFyb](https://testflight.apple.com/join/2NZLBFyb) | Y | 2024-11-18 |
@@ -202,7 +201,6 @@ _✅ These 121 apps are currently accepting new testers! Click the links to join
 | Trello — Organize anything! | [https://testflight.apple.com/join/cRWMcQsr](https://testflight.apple.com/join/cRWMcQsr) | Y | 2025-05-08 |
 | Tunna - Xray/V2ray Proxy Utility | [https://testflight.apple.com/join/dqMoJObA](https://testflight.apple.com/join/dqMoJObA) | Y | 2024-10-28 |
 | Tuttii Beta | [https://testflight.apple.com/join/2dTbntXZ](https://testflight.apple.com/join/2dTbntXZ) | Y | 2025-02-16 |
-| Twitch Beta | [https://testflight.apple.com/join/8vRKFAiY](https://testflight.apple.com/join/8vRKFAiY) | Y | 2025-11-03 |
 | UTM Remote Virtual Machines | [https://testflight.apple.com/join/mFlnyMv3](https://testflight.apple.com/join/mFlnyMv3) | Y | 2025-08-05 |
 | Ulysses | [https://testflight.apple.com/join/r7ehG0dQ](https://testflight.apple.com/join/r7ehG0dQ) | Y | 2023-04-10 |
 | UniFi | [https://testflight.apple.com/join/Pkd9a658](https://testflight.apple.com/join/Pkd9a658) | Y | 2025-07-01 |
@@ -220,9 +218,9 @@ _✅ These 121 apps are currently accepting new testers! Click the links to join
 </details>
 
 <details>
-<summary><strong>Full (60 apps)</strong> - Apps that have reached their tester limit</summary>
+<summary><strong>Full (62 apps)</strong> - Apps that have reached their tester limit</summary>
 
-_⚠️ These 60 apps have reached their tester limit. Try checking back later._
+_⚠️ These 62 apps have reached their tester limit. Try checking back later._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -251,6 +249,7 @@ _⚠️ These 60 apps have reached their tester limit. Try checking back later._
 | Lock Launcher beta | [https://testflight.apple.com/join/clHxFnLa](https://testflight.apple.com/join/clHxFnLa) | F | 2025-10-31 |
 | MSN (Start) | [https://testflight.apple.com/join/jOahtut6](https://testflight.apple.com/join/jOahtut6) | F | 2025-10-26 |
 | Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2025-10-31 |
+| Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2025-11-04 |
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | F | 2025-10-22 |
 | Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2025-10-31 |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | F | 2025-10-29 |
@@ -279,6 +278,7 @@ _⚠️ These 60 apps have reached their tester limit. Try checking back later._
 | Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0](https://testflight.apple.com/join/u6iogfd0) | F | 2024-12-14 |
 | Television Time | [https://testflight.apple.com/join/eP0BTwVi](https://testflight.apple.com/join/eP0BTwVi) | F | 2025-10-26 |
 | TikTok | [https://testflight.apple.com/join/pLmKZJKw](https://testflight.apple.com/join/pLmKZJKw) | F | 2025-03-02 |
+| Twitch Beta | [https://testflight.apple.com/join/8vRKFAiY](https://testflight.apple.com/join/8vRKFAiY) | F | 2025-11-04 |
 | WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | F | 2025-07-30 |
 | Xbox | [https://testflight.apple.com/join/dfUeaFHS](https://testflight.apple.com/join/dfUeaFHS) | F | 2025-07-30 |
 | Xbox Family Settings beta | [https://testflight.apple.com/join/8oUnDzMQ](https://testflight.apple.com/join/8oUnDzMQ) | F | 2025-07-23 |
@@ -827,7 +827,7 @@ _⚠️ These 60 apps have reached their tester limit. Try checking back later._
 
 # iOS/iPad OS Game List
 
-<details>
+<details open>
 <summary><strong>Available (3 apps)</strong> - Apps currently accepting new testers</summary>
 
 _✅ These 3 apps are currently accepting new testers! Click the links to join._
@@ -885,7 +885,7 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 
 # Chinese App
 
-<details>
+<details open>
 <summary><strong>Available (13 apps)</strong> - Apps currently accepting new testers</summary>
 
 _✅ These 13 apps are currently accepting new testers! Click the links to join._
@@ -972,7 +972,7 @@ _⚠️ These 7 apps have reached their tester limit. Try checking back later._
 
 # tvOS App List
 
-<details>
+<details open>
 <summary><strong>Available (1 app)</strong> - Apps currently accepting new testers</summary>
 
 _✅ These 1 apps are currently accepting new testers! Click the links to join._
