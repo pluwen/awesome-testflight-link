@@ -11,7 +11,7 @@ on:
         description: 'Testflight 公共测试的完整链接(非 TestFilght 链接请添加到 scripts/data/signup.md)'
         required: true
       table:
-        description: '链接分类(可选值：`macos`, `ios`, `ios_game`, `chinese`)'
+        description: '链接分类(可选值：`macos`, `ios`, `ios_game`, `tvos`, `chinese`)'
         required: true
 
 jobs:
