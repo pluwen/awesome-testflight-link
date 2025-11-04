@@ -23,37 +23,57 @@ README_TEMPLATE_FILE = "./data/README.template"
 
 
 def renew_doc(data_file, table):
-    # header
-    markdown = []
-    with open(data_file, 'r') as f:
-        lines = f.readlines()
-        for line in lines:
-            columns = [ column.strip() for column in line.split("|") ]
-            markdown.append(line)
-            if len(columns) > 2 and re.match(r"^:?-+:?$", columns[1]):
-                break
-    # compute available count from database and update header lines
+    # Read title from existing file (first line)
+    title = ""
+    try:
+        with open(data_file, 'r') as f:
+            title = f.readline().strip()
+    except Exception:
+        title = os.path.basename(data_file)
+
+    # Connect to database and get apps by status
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
-    try:
-        cur_count = cur.execute(f"SELECT COUNT(*) FROM {table} WHERE status = 'Y';").fetchone()
-        available_count = int(cur_count[0]) if cur_count is not None else 0
-    except Exception:
-        available_count = 0
-    for idx, line in enumerate(markdown):
-        if "Available (" in line:
-            markdown[idx] = re.sub(r"Available \(\d+\s+apps\)", f"Available ({available_count} apps)", line)
-        if "These" in line and "apps" in line:
-            markdown[idx] = re.sub(r"These \d+\s+apps", f"These {available_count} apps", markdown[idx])
-    res = cur.execute(f"SELECT app_name, testflight_link, status, last_modify FROM {table} ORDER BY app_name;")
-    for row in res:
-        app_name, testflight_link, status, last_modify = row
-        testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
-        markdown.append(f"| {app_name} | {testflight_link} | {status} | {last_modify} |\n")
+
+    status_info = {
+        'Y': {'name': 'Available', 'description': 'Apps currently accepting new testers'},
+        'F': {'name': 'Full', 'description': 'Apps that have reached their tester limit'},
+        'N': {'name': 'No', 'description': 'Apps not currently accepting testers'},
+        'D': {'name': 'Removed', 'description': 'Apps that have been removed from TestFlight'}
+    }
+
+    markdown = [f"{title}\n\n"]
+
+    for status_code in ['Y', 'F', 'N', 'D']:
+        status_data = status_info[status_code]
+        res = cur.execute(f"""SELECT app_name, testflight_link, status, last_modify FROM {table} 
+                             WHERE status = ? ORDER BY app_name""", (status_code,))
+        apps = res.fetchall()
+
+        if apps:
+            app_count = len(apps)
+            markdown.append(f"<details>\n")
+            markdown.append(f"<summary><strong>{status_data['name']} ({app_count} app{'s' if app_count != 1 else ''})</strong> - {status_data['description']}</summary>\n\n")
+
+            if status_code == 'Y' and app_count > 0:
+                markdown.append(f"_✅ These {app_count} apps are currently accepting new testers! Click the links to join._\n\n")
+            elif status_code == 'F' and app_count > 0:
+                markdown.append(f"_⚠️ These {app_count} apps have reached their tester limit. Try checking back later._\n\n")
+
+            markdown.append("| Name | TestFlight Link | Status | Last Updated |\n")
+            markdown.append("| --- | --- | --- | --- |\n")
+
+            for app_name, testflight_link, status, last_modify in apps:
+                full_link = f"https://testflight.apple.com/join/{testflight_link}"
+                markdown_link = f"[{full_link}]({full_link})"
+                markdown.append(f"| {app_name} | {markdown_link} | {status} | {last_modify} |\n")
+
+            markdown.append("\n</details>\n\n")
+
     conn.close()
-    # 
+
     with open(data_file, 'w') as f:
-        lines = f.writelines(markdown)
+        f.writelines(markdown)
 
 def renew_readme():
     template = ""
