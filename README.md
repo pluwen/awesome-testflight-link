@@ -858,6 +858,17 @@ _✅ These 10 apps are currently accepting new testers! Click the links to join.
 | 黑匣子 Player | [https://testflight.apple.com/join/uCsUGsvN](https://testflight.apple.com/join/uCsUGsvN) | N | 2022-03-15 |
 
 
+## tvOS App List
+
+<strong>Available (0 apps)</strong> - Apps currently accepting new testers
+
+_✅ These 0 apps are currently accepting new testers! Click the links to join._
+
+| Name | TestFlight Link | Status | Last Updated |
+| --- | --- | --- | --- |
+
+
+
 ## Signup Links
 | Name | Url | Available |
 | --- | --- | --- |

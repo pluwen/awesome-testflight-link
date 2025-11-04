@@ -18,6 +18,7 @@ BASE_URL = "https://testflight.apple.com/"
 TABLE_MAP = {
     "macos": "./data/macos.md",
     "ios": "./data/ios.md",
+    "tvos": "./data/tvos.md",
     "ios_game": "./data/ios_game.md",
     "chinese": "./data/chinese.md",
     "signup": "./data/signup.md"
@@ -64,6 +65,9 @@ def renew_readme():
     ios = ""
     with open(TABLE_MAP["ios"], 'r') as f:
         ios = f.read()
+    tvos = ""
+    with open(TABLE_MAP["tvos"], 'r') as f:
+        tvos = f.read()
     ios_game = ""
     with open(TABLE_MAP["ios_game"], 'r') as f:
         ios_game = f.read()
@@ -73,7 +77,7 @@ def renew_readme():
     signup = ""
     with open(TABLE_MAP["signup"], 'r') as f:
         signup = f.read()
-    readme = template.format(macos=macos, ios=ios, ios_game=ios_game, chinese=chinese, signup=signup)
+    readme = template.format(macos=macos, ios=ios, ios_game=ios_game, chinese=chinese, tvos=tvos, signup=signup)
     with open("../README.md", 'w') as f:
         f.write(readme)
 

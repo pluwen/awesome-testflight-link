@@ -14,6 +14,7 @@ import datetime, re, os, sys
 TABLE_MAP = {
     "macos": "./data/macos.md",
     "ios": "./data/ios.md",
+    "tvos": "./data/tvos.md",
     "ios_game": "./data/ios_game.md",
     "chinese": "./data/chinese.md"
 }

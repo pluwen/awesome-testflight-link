@@ -17,13 +17,13 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 * **Y: Yes** - Apps currently accepting new testers
 * **F: Full** - Apps that have reached their tester limit  
 * **N: No** - Apps not currently accepting testers
-* **D: Removed** - Apps that have been removed from TestFlight
+* **D: Deleted** - Apps that have been removed from TestFlight
 
 > üí° **Pro Tip**: Click on each status category below to expand and view the apps. This collapsible organization makes it much easier to find apps based on their current availability status, so you don't have to scroll through hundreds of entries!
 
 ## üîç How to Use This List
 1. **Browse by Platform**: Use the navigation links above to jump to your desired platform
-2. **Filter by Status**: Click on the collapsible sections (Available, Full, No, Removed) to see only apps in that category
+2. **Filter by Status**: Click on the collapsible sections (Available, Full, No, Deleted) to see only apps in that category
 3. **Find What You Need**: Look for apps with "Available" status for immediate access
 4. **Stay Updated**: Check back regularly as statuses change frequently
 
@@ -36,6 +36,8 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-Â
 #{ios_game}
 
 #{chinese}
+
+#{tvos}
 
 #{signup}
 
