@@ -83,7 +83,11 @@ def renew_doc(data_file, table):
 
         if apps:
             app_count = len(apps)
-            markdown.append(f"<details>\n")
+            # 默认展开 Available 部分，其余状态保持收起
+            if status_code == 'Y':
+                markdown.append(f"<details open>\n")
+            else:
+                markdown.append(f"<details>\n")
             markdown.append(f"<summary><strong>{status_data['name']} ({app_count} app{'s' if app_count != 1 else ''})</strong> - {status_data['description']}</summary>\n\n")
 
             if status_code == 'Y' and app_count > 0:
