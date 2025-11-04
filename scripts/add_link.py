@@ -42,9 +42,20 @@ def renew_doc(data_file, table):
             markdown.append(line)
             if len(columns) > 2 and re.match(r"^:?-+:?$", columns[1]):
                 break
-    # 
+    # compute available count from database and update header lines
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
+    try:
+        cur_count = cur.execute(f"SELECT COUNT(*) FROM {table} WHERE status = 'Y';").fetchone()
+        available_count = int(cur_count[0]) if cur_count is not None else 0
+    except Exception:
+        available_count = 0
+    # update header markdown (replace patterns like "Available (N apps)" and "These N apps")
+    for idx, line in enumerate(markdown):
+        if "Available (" in line:
+            markdown[idx] = re.sub(r"Available \(\d+\s+apps\)", f"Available ({available_count} apps)", line)
+        if "These" in line and "apps" in line:
+            markdown[idx] = re.sub(r"These \d+\s+apps", f"These {available_count} apps", markdown[idx])
     res = cur.execute(f"SELECT app_name, testflight_link, status, last_modify FROM {table} ORDER BY app_name;")
     for row in res:
         app_name, testflight_link, status, last_modify = row
@@ -59,25 +70,23 @@ def renew_readme():
     template = ""
     with open(README_TEMPLATE_FILE, 'r') as f:
         template = f.read()
-    macos = ""
-    with open(TABLE_MAP["macos"], 'r') as f:
-        macos = f.read()
-    ios = ""
-    with open(TABLE_MAP["ios"], 'r') as f:
-        ios = f.read()
-    tvos = ""
-    with open(TABLE_MAP["tvos"], 'r') as f:
-        tvos = f.read()
-    ios_game = ""
-    with open(TABLE_MAP["ios_game"], 'r') as f:
-        ios_game = f.read()
-    chinese = ""
-    with open(TABLE_MAP["chinese"], 'r') as f:
-        chinese = f.read()
-    signup = ""
-    with open(TABLE_MAP["signup"], 'r') as f:
-        signup = f.read()
-    readme = template.format(macos=macos, ios=ios, ios_game=ios_game, chinese=chinese, tvos=tvos, signup=signup)
+
+    def safe_read(path):
+        try:
+            with open(path, 'r') as fh:
+                return fh.read()
+        except Exception:
+            return ""
+
+    macos = safe_read(TABLE_MAP.get("macos"))
+    ios = safe_read(TABLE_MAP.get("ios"))
+    tvos = safe_read(TABLE_MAP.get("tvos"))
+    ios_game = safe_read(TABLE_MAP.get("ios_game"))
+    chinese = safe_read(TABLE_MAP.get("chinese"))
+    signup = safe_read(TABLE_MAP.get("signup"))
+
+    # use exact placeholder replacement to match README.template
+    readme = template.replace("#{macos}", macos).replace("#{ios}", ios).replace("#{ios_game}", ios_game).replace("#{chinese}", chinese).replace("#{tvos}", tvos).replace("#{signup}", signup)
     with open("../README.md", 'w') as f:
         f.write(readme)
 

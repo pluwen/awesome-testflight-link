@@ -35,19 +35,51 @@ def process(data_file, table):
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
 
+    # ensure table exists (basic schema); this makes the script idempotent
+    try:
+        cur.execute(f"""
+        CREATE TABLE IF NOT EXISTS {table} (
+          app_name TEXT,
+          testflight_link TEXT NOT NULL,
+          status TEXT,
+          last_modify TEXT,
+          PRIMARY KEY (testflight_link)
+        );
+        """)
+    except Exception:
+        pass
+
     with open(data_file, 'r') as f:
         lines = f.readlines()
         data_flag = False # 是否到真正的数据区域了
         for line in lines:
+            # Basic guard: skip empty lines
+            if not line.strip():
+                continue
+
             columns = [ column.strip() for column in line.split("|") ]
             if not data_flag:
+                # detect the markdown table separator like | --- | --- |
                 if len(columns) > 2 and re.match(r"^:?-+:?$", columns[1]):
                     data_flag = True
                 continue
+
             # 开始处理数据
-            # 
-            _, app_name, testflight_link = columns[:3]
-            status, last_modify = columns[3:5] if len(columns)>4 else [""] * 2
+            # Ensure we have at least 3 columns (leading/trailing pipes create empty entries)
+            if len(columns) < 4:
+                # malformed row, record and skip
+                print(f"[Warn] Malformed table row (skipped): {line.strip()}")
+                INVALID_DATA.append(line)
+                continue
+
+            try:
+                _, app_name, testflight_link = columns[:3]
+            except ValueError:
+                print(f"[Warn] Could not parse row (skipped): {line.strip()}")
+                INVALID_DATA.append(line)
+                continue
+
+            status, last_modify = columns[3:5] if len(columns) > 4 else ["", ""]
             link_id_match = re.search(r"\]\(https://testflight.apple.com/join/(.*)\)", testflight_link, re.I)
             if link_id_match is not None:
                 testflight_link = link_id_match.group(1)
@@ -65,8 +97,9 @@ def process(data_file, table):
             try:
                 cur.execute(sql, data)
             except sqlite3.IntegrityError as e:
-                print(f"[sqlite3.IntegrityError - 1] {e}")
-                print(f"[sqlite3.IntegrityError - 2] Table: {table}; Data: {data}")
+                # Duplicate primary key or other integrity issue; log and continue
+                print(f"[sqlite3.IntegrityError] {e} -- Table: {table}; Data: {data}")
+                continue
             except Exception as e:
                 raise e
     
@@ -76,15 +109,25 @@ def process(data_file, table):
     conn.close()
 
 def other_links():
-    with open('./data/signup.md', 'r+') as f:
-        exists_data = f.readlines()
-        temp = []
-        for line in INVALID_DATA:
-            if line not in exists_data:
-                temp.append(line)
-        f.writelines(temp)
-        if len(temp):
-            print(f"[info] Write {len(temp)} raws to ./data/signup.md")
+    # For signup, do not write into database per user request.
+    # Append INVALID_DATA lines into ./data/signup.md if they are not already present.
+    try:
+        with open('./data/signup.md', 'r') as f:
+            exists = f.read().splitlines()
+    except FileNotFoundError:
+        exists = []
+
+    new_lines = 0
+    if INVALID_DATA:
+        with open('./data/signup.md', 'a') as f:
+            for l in INVALID_DATA:
+                # Trim newline for comparison
+                if l.strip() not in [e.strip() for e in exists]:
+                    f.write(l)
+                    new_lines += 1
+
+    if new_lines:
+        print(f"[info] Appended {new_lines} lines to ./data/signup.md for review")
 
 def main():
     for table in TABLE_MAP:

@@ -16,7 +16,8 @@ TABLE_MAP = {
     "ios": "./data/ios.md",
     "ios_game": "./data/ios_game.md",
     "chinese": "./data/chinese.md",
-    "signup": "./data/signup.md"
+    "signup": "./data/signup.md",
+    "tvos": "./data/tvos.md"
 }
 README_TEMPLATE_FILE = "./data/README.template"
 
@@ -99,13 +100,22 @@ def renew_readme():
     signup = ""
     with open(TABLE_MAP["signup"], 'r') as f:
         signup = f.read()
-    readme = template.replace("#{macos}", macos).replace("#{ios}", ios).replace("#{ios_game}", ios_game).replace("#{chinese}", chinese).replace("#{signup}", signup)
+    tvos = ""
+    # tvos may not exist in some setups; read safely
+    try:
+        with open(TABLE_MAP["tvos"], 'r') as f:
+            tvos = f.read()
+    except Exception:
+        tvos = ""
+
+    readme = template.replace("#{macos}", macos).replace("#{ios}", ios).replace("#{ios_game}", ios_game).replace("#{chinese}", chinese).replace("#{tvos}", tvos).replace("#{signup}", signup)
     with open("../README.md", 'w') as f:
         f.write(readme)
 
 def main():
     for table in TABLE_MAP:
-        if table == "signup": # 数据库没有此表
+        # Skip signup because it's collected separately if present
+        if table == "signup":
             continue
 
         renew_doc(TABLE_MAP[table], table)

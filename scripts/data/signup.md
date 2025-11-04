@@ -8,3 +8,4 @@
 | Microsoft OneNote | [https://aka.ms/iOSInsiderOneNote](https://aka.ms/iOSInsiderOneNote) | |
 | Microsoft Outlook | [https://aka.ms/iOSInsiderOutlook](https://aka.ms/iOSInsiderOutlook) | |
 | Microsoft Word | [https://aka.ms/iOSInsiderWord](https://aka.ms/iOSInsiderWord) | |
+</details>
