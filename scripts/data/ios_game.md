@@ -18,4 +18,3 @@
 | Heroic Mayhem | [https://testflight.apple.com/join/xjc2fPds](https://testflight.apple.com/join/xjc2fPds) | N | 2025-06-28 |
 | FlexicX | [https://testflight.apple.com/join/YSaEbc8C](https://testflight.apple.com/join/YSaEbc8C) | N | 2025-02-22 |
 | Tappy Engine | [https://testflight.apple.com/join/ZnTGTn2A](https://testflight.apple.com/join/ZnTGTn2A) | N | 2025-10-13 |
-| Stick War 3 | [https://testflight.apple.com/join/eUx3WxVj](https://testflight.apple.com/join/eUx3WxVj) | D | 2025-04-05 |
