@@ -808,15 +808,6 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 
 </details>
 
-<details>
-<summary><strong>Removed (1 app)</strong> - Apps that have been removed from TestFlight</summary>
-
-| Name | TestFlight Link | Status | Last Updated |
-| --- | --- | --- | --- |
-| Stick War 3 | [https://testflight.apple.com/join/eUx3WxVj](https://testflight.apple.com/join/eUx3WxVj) | D | 2025-04-05 |
-
-</details>
-
 
 
 # Chinese App
