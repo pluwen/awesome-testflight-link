@@ -1,4 +1,4 @@
-# macOS App List (macOS 12)
+# macOS App List
 
 <details open>
 <summary><strong>Available (7 apps)</strong> - Apps currently accepting new testers</summary>
