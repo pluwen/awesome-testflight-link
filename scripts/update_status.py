@@ -2,8 +2,8 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-15 13:47:49
-LastEditTime : 2022-09-25 19:50:39
-LastEditors  : tom-snow
+LastEditTime : 2025-11-04 11:28:05
+LastEditors  : pluwen
 Description  : 自动更新各 TestFlight 公共链接当前的状态并更新文档
 FilePath     : /awesome-testflight-link/scripts/update_status.py
 '''

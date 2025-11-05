@@ -2,8 +2,8 @@
 '''
 Author       : tom-snow
 Date         : 2022-03-16 19:32:32
-LastEditTime : 2022-04-24 17:27:30
-LastEditors  : tom-snow
+LastEditTime : 2025-11-04 11:28:05
+LastEditors  : pluwen
 Description  : 
 FilePath     : /awesome-testflight-link/scripts/del_link.py
 '''
