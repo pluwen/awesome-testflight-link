@@ -716,7 +716,7 @@ _⚠️ These 63 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details>
-<summary><strong>Removed (6 apps)</strong> - Apps that have been removed from TestFlight</summary>
+<summary><strong>Removed (5 apps)</strong> - Apps that have been removed from TestFlight</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -724,7 +724,6 @@ _⚠️ These 63 apps have reached their tester limit. Try checking back later._
 | Elytra | [https://testflight.apple.com/join/PYYu2Cco](https://testflight.apple.com/join/PYYu2Cco) | D | 2025-09-25 |
 | Monosnap - screenshot editor | [https://testflight.apple.com/join/qQzBVHZs](https://testflight.apple.com/join/qQzBVHZs) | D | 2025-07-08 |
 | Picsew v3.0 | [https://testflight.apple.com/join/p68up4N3](https://testflight.apple.com/join/p68up4N3) | D | 2025-09-03 |
-| Rave – Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | D | 2025-08-14 |
 | Yandex Browser | [https://testflight.apple.com/join/Y4k4ze6V](https://testflight.apple.com/join/Y4k4ze6V) | D | 2025-06-09 |
 
 </details>

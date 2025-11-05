@@ -2,16 +2,17 @@
 Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.
 
 ## 🚀 Quick Navigation
-- [macOS Apps](#macos-app-list-macos-12)
 - [iOS/iPad OS Apps](#iosipad-os-app-list)
 - [iOS Games](#iosipad-os-game-list)
 - [Chinese Apps](#chinese-app-list)
+- [macOS Apps](#macos-app-list)
+- [tvOS Apps](#tvos-app-list)
 - [Signup Required Apps](#signup-app-list)
 
 ## Github Action
 Special thanks to [@tom-snow](https://github.com/tom-snow) for adding the [Github Action workflow](./GITHUB_ACTION.md) to this repository.
 
-If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-其他说明) first!
+If you wanna fork this repo, please reading [this](./GITHUB_ACTION.md) first!
 
 ## 📊 Available Status
 * **Y: Yes** - Apps currently accepting new testers
@@ -23,9 +24,8 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 
 ## 🔍 How to Use This List
 1. **Browse by Platform**: Use the navigation links above to jump to your desired platform
-2. **Filter by Status**: Click on the collapsible sections (Available, Full, No, Deleted) to see only apps in that category
-3. **Find What You Need**: Look for apps with "Available" status for immediate access
-4. **Stay Updated**: Check back regularly as statuses change frequently
+2. **Find What You Need**: Look for apps with "Available" status for immediate access
+3. **Stay Updated**: Check back regularly as statuses change frequently
 
 ---
 
@@ -747,7 +747,7 @@ _⚠️ These 63 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details>
-<summary><strong>Removed (6 apps)</strong> - Apps that have been removed from TestFlight</summary>
+<summary><strong>Removed (5 apps)</strong> - Apps that have been removed from TestFlight</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -755,7 +755,6 @@ _⚠️ These 63 apps have reached their tester limit. Try checking back later._
 | Elytra | [https://testflight.apple.com/join/PYYu2Cco](https://testflight.apple.com/join/PYYu2Cco) | D | 2025-09-25 |
 | Monosnap - screenshot editor | [https://testflight.apple.com/join/qQzBVHZs](https://testflight.apple.com/join/qQzBVHZs) | D | 2025-07-08 |
 | Picsew v3.0 | [https://testflight.apple.com/join/p68up4N3](https://testflight.apple.com/join/p68up4N3) | D | 2025-09-03 |
-| Rave – Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | D | 2025-08-14 |
 | Yandex Browser | [https://testflight.apple.com/join/Y4k4ze6V](https://testflight.apple.com/join/Y4k4ze6V) | D | 2025-06-09 |
 
 </details>
@@ -902,7 +901,7 @@ _⚠️ These 7 apps have reached their tester limit. Try checking back later._
 
 
 
-# macOS App List (macOS 12)
+# macOS App List
 
 <details open>
 <summary><strong>Available (7 apps)</strong> - Apps currently accepting new testers</summary>
@@ -964,16 +963,12 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 
 
 
-# Signup Links
+# Signup App List
 | Name | Url | Available |
 | --- | --- | --- |
 | AVM FRITZ!Apps | [https://avm.de/fritz-labor/fritzapp-labor-fuer-ios/](https://avm.de/fritz-labor/fritzapp-labor-fuer-ios/) | |
 | BlackBerry Messenger (BBM) | [https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform) | |
 | Notability | [https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-](https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-) | |
-| Microsoft Excel | [https://aka.ms/iOSInsiderExcel](https://aka.ms/iOSInsiderExcel) | |
-| Microsoft OneNote | [https://aka.ms/iOSInsiderOneNote](https://aka.ms/iOSInsiderOneNote) | |
-| Microsoft Outlook | [https://aka.ms/iOSInsiderOutlook](https://aka.ms/iOSInsiderOutlook) | |
-| Microsoft Word | [https://aka.ms/iOSInsiderWord](https://aka.ms/iOSInsiderWord) | |
 </details>
 
 
