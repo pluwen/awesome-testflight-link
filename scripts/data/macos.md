@@ -44,12 +44,11 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details>
-<summary><strong>Removed (2 apps)</strong> - Apps that have been removed from TestFlight</summary>
+<summary><strong>Removed (1 app)</strong> - Apps that have been removed from TestFlight</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | UTM Virtual Machines | [https://testflight.apple.com/join/XQ3tNoNn](https://testflight.apple.com/join/XQ3tNoNn) | D | 2025-07-10 |
-| Windows App | [https://testflight.apple.com/join/YqNaYeyS](https://testflight.apple.com/join/YqNaYeyS) | D | 2025-04-18 |
 
 </details>
 
