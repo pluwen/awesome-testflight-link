@@ -9,18 +9,11 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 - [tvOS Apps](#tvos-app-list)
 - [Signup Required Apps](#signup-app-list)
 
-## Github Action
-Special thanks to [@tom-snow](https://github.com/tom-snow) for adding the [Github Action workflow](./GITHUB_ACTION.md) to this repository.
-
-If you wanna fork this repo, please reading [this](./GITHUB_ACTION.md) first!
-
 ## 📊 Available Status
 * **Y: Yes** - Apps currently accepting new testers
 * **F: Full** - Apps that have reached their tester limit  
 * **N: No** - Apps not currently accepting testers
 * **D: Deleted** - Apps that have been removed from TestFlight
-
-> 💡 **Pro Tip**: Click on each status category below to expand and view the apps. This collapsible organization makes it much easier to find apps based on their current availability status, so you don't have to scroll through hundreds of entries!
 
 ## 🔍 How to Use This List
 1. **Browse by Platform**: Use the navigation links above to jump to your desired platform
@@ -747,14 +740,13 @@ _⚠️ These 63 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details>
-<summary><strong>Removed (4 apps)</strong> - Apps that have been removed from TestFlight</summary>
+<summary><strong>Removed (3 apps)</strong> - Apps that have been removed from TestFlight</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | CapCut - Video Editor | [https://testflight.apple.com/join/Gu9kI6ky](https://testflight.apple.com/join/Gu9kI6ky) | D | 2025-06-25 |
 | Elytra | [https://testflight.apple.com/join/PYYu2Cco](https://testflight.apple.com/join/PYYu2Cco) | D | 2025-09-25 |
 | Monosnap - screenshot editor | [https://testflight.apple.com/join/qQzBVHZs](https://testflight.apple.com/join/qQzBVHZs) | D | 2025-07-08 |
-| Yandex Browser | [https://testflight.apple.com/join/Y4k4ze6V](https://testflight.apple.com/join/Y4k4ze6V) | D | 2025-06-09 |
 
 </details>
 
@@ -978,3 +970,7 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 ## Author
 
 * [Pluwen](https://twitter.com/pluwen)
+
+Special thanks to [@tom-snow](https://github.com/tom-snow) for adding the [Github Action workflow](./GITHUB_ACTION.md) to this repository.
+
+If you wanna fork this repo, please reading [this](./GITHUB_ACTION.md) first!
