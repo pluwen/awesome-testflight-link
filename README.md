@@ -832,9 +832,9 @@ _✅ These 18 apps are currently accepting new testers! Click the links to join.
 </details>
 
 <details>
-<summary><strong>Full (8 apps)</strong> - Apps that have reached their tester limit</summary>
+<summary><strong>Full (9 apps)</strong> - Apps that have reached their tester limit</summary>
 
-_⚠️ These 8 apps have reached their tester limit. Try checking back later._
+_⚠️ These 9 apps have reached their tester limit. Try checking back later._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -843,6 +843,7 @@ _⚠️ These 8 apps have reached their tester limit. Try checking back later._
 | 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) | F | 2025-03-13 |
 | 微信输入法 | [https://testflight.apple.com/join/iSTXkF4K](https://testflight.apple.com/join/iSTXkF4K) | F | 2025-11-05 |
 | 抖音 | [https://testflight.apple.com/join/ZILJgZhU](https://testflight.apple.com/join/ZILJgZhU) | F | 2025-10-06 |
+| 抖音 | [https://testflight.apple.com/join/Hm0miNz8](https://testflight.apple.com/join/Hm0miNz8) | F | 2025-11-05 |
 | 番茄小说 | [https://testflight.apple.com/join/dTUO1uyt](https://testflight.apple.com/join/dTUO1uyt) | F | 2025-11-05 |
 | 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | F | 2025-04-30 |
 | 酷狗概念版 | [https://testflight.apple.com/join/IOgbaxds](https://testflight.apple.com/join/IOgbaxds) | F | 2025-08-17 |
