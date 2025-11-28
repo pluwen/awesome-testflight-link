@@ -1,9 +1,9 @@
 # iOS/iPad OS App List
 
 <details open>
-<summary><strong>Available (121 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (122 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 121 apps are currently accepting new testers! Click the links to join._
+_✅ These 122 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -65,6 +65,7 @@ _✅ These 121 apps are currently accepting new testers! Click the links to join
 | Me@Walmart | [https://testflight.apple.com/join/bqo4smK7](https://testflight.apple.com/join/bqo4smK7) | Y | 2025-02-19 |
 | Meditation Timer Zenzitizer | [https://testflight.apple.com/join/QvKyRJ8x](https://testflight.apple.com/join/QvKyRJ8x) | Y | 2025-03-01 |
 | Met Office (Beta app) | [https://testflight.apple.com/join/ScdVVE5Q](https://testflight.apple.com/join/ScdVVE5Q) | Y | 2025-11-28 |
+| Met Office Weather Forecast | [https://testflight.apple.com/join/MIUMNYDz](https://testflight.apple.com/join/MIUMNYDz) | Y | 2025-11-28 |
 | Microsoft Authenticator | [https://testflight.apple.com/join/Coqmmppd](https://testflight.apple.com/join/Coqmmppd) | Y | 2022-10-11 |
 | Microsoft Bing Search | [https://testflight.apple.com/join/YAKT5ew9](https://testflight.apple.com/join/YAKT5ew9) | Y | 2025-11-12 |
 | Microsoft Defender: Security | [https://testflight.apple.com/join/AYVtbvfc](https://testflight.apple.com/join/AYVtbvfc) | Y | 2024-11-18 |
