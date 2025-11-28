@@ -197,7 +197,7 @@ _⚠️ These 55 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details>
-<summary><strong>No (515 apps)</strong> - Apps not currently accepting testers</summary>
+<summary><strong>No (516 apps)</strong> - Apps not currently accepting testers</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -471,6 +471,7 @@ _⚠️ These 55 apps have reached their tester limit. Try checking back later._
 | NotePlan - Markdown Calendar | [https://testflight.apple.com/join/mrSbc937](https://testflight.apple.com/join/mrSbc937) | N | 2022-10-11 |
 | NoteStorm | [https://testflight.apple.com/join/PaoEJuBG](https://testflight.apple.com/join/PaoEJuBG) | N | 2022-10-11 |
 | Notes Plus | [https://testflight.apple.com/join/DHJexhQq](https://testflight.apple.com/join/DHJexhQq) | N | 2024-02-01 |
+| Nutrify | [https://testflight.apple.com/join/t5RY5Kdk](https://testflight.apple.com/join/t5RY5Kdk) | N | 2025-11-28 |
 | OSM Completionist | [https://testflight.apple.com/join/v1tyM5yU](https://testflight.apple.com/join/v1tyM5yU) | N | 2022-10-11 |
 | OSM Surveyor | [https://testflight.apple.com/join/wXtE44KZ](https://testflight.apple.com/join/wXtE44KZ) | N | 2022-10-11 |
 | Obsidian - Connected Notes beta | [https://testflight.apple.com/join/f3moqRS1](https://testflight.apple.com/join/f3moqRS1) | N | 2025-07-10 |
