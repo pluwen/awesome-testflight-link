@@ -1,9 +1,9 @@
 # iOS/iPad OS App List
 
 <details open>
-<summary><strong>Available (124 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (125 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 124 apps are currently accepting new testers! Click the links to join._
+_✅ These 125 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -115,6 +115,7 @@ _✅ These 124 apps are currently accepting new testers! Click the links to join
 | Soulver 3 | [https://testflight.apple.com/join/Vlb55Wtr](https://testflight.apple.com/join/Vlb55Wtr) | Y | 2025-05-02 |
 | Spark Mail - Email by Readdle | [https://testflight.apple.com/join/O2wj7i0x](https://testflight.apple.com/join/O2wj7i0x) | Y | 2024-11-26 |
 | Star Wander - AR Night Sky Map | [https://testflight.apple.com/join/5hmQk6ba](https://testflight.apple.com/join/5hmQk6ba) | Y | 2025-11-05 |
+| Stremio Lite | [https://testflight.apple.com/join/JKG2j45W](https://testflight.apple.com/join/JKG2j45W) | Y | 2025-11-28 |
 | Tee-Timer | [https://testflight.apple.com/join/wzyzzspP](https://testflight.apple.com/join/wzyzzspP) | Y | 2025-09-09 |
 | Termius – SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | Y | 2025-01-03 |
 | The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | Y | 2024-02-02 |
