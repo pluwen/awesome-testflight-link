@@ -1,9 +1,9 @@
 # iOS/iPad OS App List
 
 <details open>
-<summary><strong>Available (128 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (129 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 128 apps are currently accepting new testers! Click the links to join._
+_✅ These 129 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -80,6 +80,7 @@ _✅ These 128 apps are currently accepting new testers! Click the links to join
 | Monal - XMPP Chat | [https://testflight.apple.com/join/lLLlgHpB](https://testflight.apple.com/join/lLLlgHpB) | Y | 2025-07-14 |
 | Monzo Bank - Mobile Banking | [https://testflight.apple.com/join/2NZLBFyb](https://testflight.apple.com/join/2NZLBFyb) | Y | 2024-11-18 |
 | MoodTrackMe | [https://testflight.apple.com/join/VnHpQmdg](https://testflight.apple.com/join/VnHpQmdg) | Y | 2025-11-11 |
+| Mullvad VPN | [https://testflight.apple.com/join/gOpklnGw](https://testflight.apple.com/join/gOpklnGw) | Y | 2025-11-28 |
 | MuseoTrack | [https://testflight.apple.com/join/jR1MsqSt](https://testflight.apple.com/join/jR1MsqSt) | Y | 2025-07-23 |
 | MyFRITZ!App | [https://testflight.apple.com/join/U0v1rBE5](https://testflight.apple.com/join/U0v1rBE5) | Y | 2025-05-17 |
 | NS Travel Planner | [https://testflight.apple.com/join/ldBwapIg](https://testflight.apple.com/join/ldBwapIg) | Y | 2024-09-26 |
