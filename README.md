@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 # iOS/iPad OS App List
 
 <details open>
-<summary><strong>Available (121 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (122 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 121 apps are currently accepting new testers! Click the links to join._
+_✅ These 122 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -135,6 +135,7 @@ _✅ These 121 apps are currently accepting new testers! Click the links to join
 | Spark Mail - Email by Readdle | [https://testflight.apple.com/join/O2wj7i0x](https://testflight.apple.com/join/O2wj7i0x) | Y | 2024-11-26 |
 | Star Wander - AR Night Sky Map | [https://testflight.apple.com/join/5hmQk6ba](https://testflight.apple.com/join/5hmQk6ba) | Y | 2025-11-05 |
 | Stremio Lite | [https://testflight.apple.com/join/JKG2j45W](https://testflight.apple.com/join/JKG2j45W) | Y | 2025-11-28 |
+| Table Habit | [https://testflight.apple.com/join/aJ5PWqaR](https://testflight.apple.com/join/aJ5PWqaR) | Y | 2025-12-03 |
 | Tailscale | [https://testflight.apple.com/join/tLcYLZJV](https://testflight.apple.com/join/tLcYLZJV) | Y | 2025-11-28 |
 | Tee-Timer | [https://testflight.apple.com/join/wzyzzspP](https://testflight.apple.com/join/wzyzzspP) | Y | 2025-09-09 |
 | Termius – SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | Y | 2025-01-03 |
