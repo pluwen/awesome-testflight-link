@@ -11,7 +11,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 
 ## 📊 Available Status
 * **Y: Yes** - Apps currently accepting new testers
-* **F: Full** - Apps that have reached their tester limit  
+* **F: Full** - Apps that have reached their tester limit
 * **N: No** - Apps not currently accepting testers
 * **D: Deleted** - Apps that have been removed from TestFlight
 
@@ -134,6 +134,7 @@ _✅ These 120 apps are currently accepting new testers! Click the links to join
 | Spark Mail - Email by Readdle | [https://testflight.apple.com/join/O2wj7i0x](https://testflight.apple.com/join/O2wj7i0x) | Y | 2024-11-26 |
 | Star Wander - AR Night Sky Map | [https://testflight.apple.com/join/5hmQk6ba](https://testflight.apple.com/join/5hmQk6ba) | Y | 2025-11-05 |
 | Stremio Lite | [https://testflight.apple.com/join/JKG2j45W](https://testflight.apple.com/join/JKG2j45W) | Y | 2025-11-28 |
+| Table Habit | [https://testflight.apple.com/join/aJ5PWqaR](https://testflight.apple.com/join/aJ5PWqaR) | Y | 2025-12-03 |
 | Tailscale | [https://testflight.apple.com/join/tLcYLZJV](https://testflight.apple.com/join/tLcYLZJV) | Y | 2025-11-28 |
 | Tee-Timer | [https://testflight.apple.com/join/wzyzzspP](https://testflight.apple.com/join/wzyzzspP) | Y | 2025-09-09 |
 | Termius – SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | Y | 2025-01-03 |
@@ -957,6 +958,7 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 | MenubarX | [https://testflight.apple.com/join/Tqr03a4h](https://testflight.apple.com/join/Tqr03a4h) | N | 2025-05-09 |
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | N | 2025-01-11 |
 | Shapr3D | [https://testflight.apple.com/join/Dm6lqUW7](https://testflight.apple.com/join/Dm6lqUW7) | N | 2024-07-12 |
+| Table Habit | [https://testflight.apple.com/join/aJ5PWqaR](https://testflight.apple.com/join/aJ5PWqaR) | Y | 2025-12-03 |
 | WhatsApp Messenger | [https://testflight.apple.com/join/krUFQpyJ](https://testflight.apple.com/join/krUFQpyJ) | N | 2025-05-22 |
 
 </details>
