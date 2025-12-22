@@ -16,9 +16,10 @@ APP_NAME_CH_PATTERN = re.compile(r"加入 Beta 版“(.+)” - TestFlight - Appl
 async def check_status(session, key, retry=10):
     status = 'N'
     app_name = "None"
+    ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     for i in range(retry):
         try:
-            async with session.get(f'/join/{key}') as resp:
+            async with session.get(f'/join/{key}', headers={'User-Agent': ua}) as resp:
                 if resp.status == 404:
                     return (key, 'D', app_name)
                 resp.raise_for_status()
@@ -41,10 +42,10 @@ async def check_status(session, key, retry=10):
                 return (key, status, app_name)
         except Exception as e:
             rand = round(random.random(), 3)
-            print(f"[warn] {e}, wait {i*(rand+1)+1} s. Retry({i}/{retry})")
+            print(f"[warn] {key} - {e}, wait {i*(rand+1)+1} s. Retry({i+1}/{retry})")
             await asyncio.sleep(i*(rand+1)+1)
     
-    print(f"[warn] Key ({key}) have max retries, return default value!")
+    print(f"[error] Key ({key}) have max retries, return default value!")
     return (key, status, app_name)
 
 async def main():
@@ -64,12 +65,12 @@ async def main():
         print(f"[Error] Invalid table: {table}. Exit...")
         sys.exit(1)
 
-    conn_config = aiohttp.TCPConnector(limit=10, limit_per_host=5)
+    conn_config = aiohttp.TCPConnector(limit=5, limit_per_host=2)
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     
-    async with aiohttp.ClientSession(BASE_URL, connector=conn_config, headers=headers) as session:
+    async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config, headers=headers) as session:
         _, status, fetched_name = await check_status(session, testflight_link)
         if not app_name or app_name.lower() == "none":
             app_name = fetched_name
