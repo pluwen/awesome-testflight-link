@@ -7,29 +7,39 @@ on:
         description: 'Testflight 公共测试的完整链接'
         required: true
       table:
-        description: '链接分类(可选值：`macos`, `ios`, `ios_game`, `tvos`, `chinese`)'
+        description: '链接分类'
         required: true
+        type: choice
+        options:
+          - macos
+          - ios
+          - ios_game
+          - tvos
+          - chinese
 
 jobs:
   main:
     runs-on: ubuntu-latest
     if: github.repository == 'pluwen/awesome-testflight-link'
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v4.5.0
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11.1'
-          architecture: x64
-      - name: Del A TestFilght Link
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+      - name: Delete TestFlight Link
         run: python scripts/del_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}"
 
-      - name: Git commit && push
+      - name: Commit and push changes
         run: |
-          git_diff=`git diff`
-          if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
-          git config --global user.email "github_bot@noreply.github.com"
-          git config --global user.name "github_bot"
-          git add .
-          git commit -m "Del A TestFilght Link"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            git add .
+            git commit -m "Delete TestFlight link: ${{ github.event.inputs.testflight_link }}"
+            git push
+          else
+            echo "No changes to commit"
+          fi

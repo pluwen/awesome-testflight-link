@@ -8,34 +8,42 @@ on:
         required: false
         default: 'None'
       testflight_link:
-        description: 'Testflight 公共测试的完整链接(非 TestFilght 链接请添加到 scripts/data/signup.md)'
+        description: 'Testflight 公共测试的完整链接(非 TestFilght 链接请添加到 data/signup.md)'
         required: true
       table:
-        description: '链接分类(可选值：`macos`, `ios`, `ios_game`, `tvos`, `chinese`)'
+        description: '链接分类'
         required: true
+        type: choice
+        options:
+          - macos
+          - ios
+          - ios_game
+          - tvos
+          - chinese
 
 jobs:
   main:
     runs-on: ubuntu-latest
     if: github.repository == 'pluwen/awesome-testflight-link'
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v4.5.0
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11.1'
-          architecture: x64
-      - name: Init Python Env
+          python-version: '3.11'
+      - name: Install dependencies
         run: pip install -r scripts/requirements.txt
-      - name: Add A TestFilght Link
+      - name: Add TestFlight Link
         run: python scripts/add_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}" "${{ github.event.inputs.app_name }}"
 
-      - name: Git commit && push
+      - name: Commit and push changes
         run: |
-          git_diff=`git diff`
-          if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
-          git config --global user.email "github_bot@noreply.github.com"
-          git config --global user.name "github_bot"
-          git add .
-          git commit -m "Add A New Link"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            git add .
+            git commit -m "Add new TestFlight link: ${{ github.event.inputs.app_name }}"
+            git push
+          else
+            echo "No changes to commit"
+          fi

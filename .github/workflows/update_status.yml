@@ -4,53 +4,47 @@ on:
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
-    inputs:
-      python_version:
-        description: '指定 Python 版本 3.6+ （不建议修改）'
-        required: false
-        default: '3.11.1'
 
 jobs:
   main:
     runs-on: ubuntu-latest
     if: github.repository == 'pluwen/awesome-testflight-link'
-    env:
-      python_version: ${{ github.event.inputs.python_version }}
     steps:
-      - uses: actions/checkout@v3.3.0
-      - name: Check env
-        run: if [ -z "$python_version" ]; then python_version='3.11.1'; fi
+      - uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v4.5.0
+        uses: actions/setup-python@v5
         with:
-          python-version: ${{ env.python_version }}
-          architecture: x64
-      - name: Init Python Env
+          python-version: '3.11'
+      - name: Install dependencies
         run: pip install -r scripts/requirements.txt
-      - name: Update TestFilght Link Status
+      - name: Update TestFlight Link Status
         run: python scripts/update_status.py
 
-      - name: Git commit && push
+      - name: Commit and push changes
         run: |
-          git_diff=`git diff`
-          if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
-          git config --global user.email "github_bot@noreply.github.com"
-          git config --global user.name "github_bot"
-          git add .
-          git commit -m "Github Action Auto Updated - `date`"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            git add .
+            git commit -m "Auto-update TestFlight link status: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
 
   forked-repo:
     runs-on: ubuntu-latest
     if: github.repository != 'pluwen/awesome-testflight-link'
     
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Git commit && push
+      - name: Sync with upstream
         run: |
-          git config --global user.email "github_bot@noreply.github.com"
-          git config --global user.name "github_bot"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git remote add upstream https://github.com/pluwen/awesome-testflight-link.git 
           git fetch upstream
           git checkout main

@@ -983,6 +983,6 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 
 * [Pluwen](https://twitter.com/pluwen)
 
-Special thanks to [@tom-snow](https://github.com/tom-snow) for adding the [Github Action workflow](./GITHUB_ACTION.md) to this repository.
+Special thanks to [@tom-snow](https://github.com/tom-snow) for adding the [Github Action workflow](./docs/GITHUB_ACTION.md) to this repository.
 
-If you wanna fork this repo, please reading [this](./GITHUB_ACTION.md) first!
+If you wanna fork this repo, please reading [this](./docs/GITHUB_ACTION.md) first!

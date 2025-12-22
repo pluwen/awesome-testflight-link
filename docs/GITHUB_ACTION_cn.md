@@ -13,7 +13,7 @@
 没有设置修改，因为感觉用不上，而且懒得弄。
 
 ### 3. 添加或删除非 TestFlight 公开测试链接（如需要填写表单申请的 TestFlight 测试）
-因为没有打算将此部分链接放入数据库，所以需要添加或删除此类型链接的话，请手动修改 [`./scripts/data/signup.md`](./scripts/data/signup.md) 文件，然后手动运行一次任意工作流(推荐运行 `Update TestFilght Link Status` )即可在首页的 [`./README.md`](./README.md) 上同样更新你的修改。
+因为没有打算将此部分链接放入数据库，所以需要添加或删除此类型链接的话，请手动修改 [`./data/signup.md`](../data/signup.md) 文件，然后手动运行一次任意工作流(推荐运行 `Update TestFilght Link Status` )即可在首页的 [`./README.md`](../README.md) 上同样更新你的修改。
 
 ### 4. 其他说明
-由于本仓库内包含[二进制数据库文件](./db/sqlite3.db)，其他人拉取仓库并进行更新后请确保你在提交 PR 前同步了仓库再进行变更，避免合并 PR 时报冲突不好处理。尽量不要修改数据库文件（包括运行工作流也会修改数据库文件），仓库主在合并 __有数据库文件变更的__ PR 前也尽量先下载并检查对方变更的数据库文件是否正常（避免有人恶意破坏或修改数据库文件）。
+由于本仓库使用 JSON 文件 ([`data/links.json`](../data/links.json)) 存储数据，Git 可以轻松跟踪变更。在提交 PR 前请确保你同步了仓库，以避免冲突。GitHub Actions 会自动更新 JSON 文件并重新生成 Markdown 文件。

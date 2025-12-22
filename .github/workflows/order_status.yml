@@ -5,42 +5,37 @@ on:
     branches:
       - main
   workflow_dispatch:
-    inputs:
-      python_version:
-        description: '指定 Python 版本 3.6+ （不建议修改）'
-        required: false
-        default: '3.11.1'
 
 jobs:
   main:
     runs-on: ubuntu-latest
-    env:
-      python_version: ${{ github.event.inputs.python_version }}
     steps:
-      - uses: actions/checkout@v3.3.0
-      - name: Check env
-        run: if [ -z "$python_version" ]; then python_version='3.11.1'; fi
-      - name: Set up Python
-        uses: actions/setup-python@v4.5.0
+      - uses: actions/checkout@v4
         with:
-          python-version: ${{ env.python_version }}
-          architecture: x64
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
 
-      - name: Checkout main -> status_ordered
+      - name: Prepare status_ordered branch
         run: |
-          git config --global user.email "github_bot@noreply.github.com"
-          git config --global user.name "github_bot"
-          git pull --unshallow
-          git checkout status_ordered
-          git checkout origin/main db/sqlite3.db
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git checkout status_ordered || git checkout -b status_ordered
+          git checkout origin/main data/links.json
 
-      - name: Order TestFilght Link Status
+      - name: Order TestFlight Link Status
         run: python scripts/order_status.py
 
-      - name: Git commit && push
+      - name: Commit and push changes
         run: |
-          git_diff=`git diff`
-          if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
-          git add .
-          git commit -m "Github Action Auto Updated - `date`"
-          git push origin status_ordered
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Auto-order TestFlight links: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push origin status_ordered
+          else
+            echo "No changes to commit"
+          fi
