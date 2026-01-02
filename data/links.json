@@ -57,8 +57,8 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "Y",
-      "last_modify": "2026-01-01"
+      "status": "F",
+      "last_modify": "2026-01-02"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -72,8 +72,8 @@
     },
     "JTWaYdDX": {
       "app_name": "Odak - Menu Bar Timer",
-      "status": "Y",
-      "last_modify": "2025-12-22"
+      "status": "N",
+      "last_modify": "2026-01-02"
     }
   },
   "ios": {
@@ -339,8 +339,8 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "Y",
-      "last_modify": "2026-01-01"
+      "status": "F",
+      "last_modify": "2026-01-02"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -694,8 +694,8 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
-      "last_modify": "2026-01-01"
+      "status": "F",
+      "last_modify": "2026-01-02"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -929,8 +929,8 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
-      "last_modify": "2025-12-30"
+      "status": "F",
+      "last_modify": "2026-01-02"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -1329,8 +1329,8 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
-      "last_modify": "2026-01-01"
+      "status": "F",
+      "last_modify": "2026-01-02"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -1759,8 +1759,8 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "Y",
-      "last_modify": "2026-01-01"
+      "status": "F",
+      "last_modify": "2026-01-02"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -3079,8 +3079,8 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
-      "last_modify": "2025-12-25"
+      "status": "Y",
+      "last_modify": "2026-01-02"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -3329,8 +3329,8 @@
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "Y",
-      "last_modify": "2026-01-01"
+      "status": "F",
+      "last_modify": "2026-01-02"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -3354,8 +3354,8 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
-      "last_modify": "2026-01-01"
+      "status": "F",
+      "last_modify": "2026-01-02"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -3364,8 +3364,8 @@
     },
     "8XhFnQlp": {
       "app_name": "Adobe Acrobat Reader: Edit PDF",
-      "status": "F",
-      "last_modify": "2025-12-31"
+      "status": "Y",
+      "last_modify": "2026-01-02"
     },
     "JrqR9vkv": {
       "app_name": "Intuit Credit Karma",
@@ -3379,8 +3379,8 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "last_modify": "2026-01-02"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -3529,8 +3529,8 @@
     },
     "98X2u19n": {
       "app_name": "PopCin",
-      "status": "Y",
-      "last_modify": "2025-12-22"
+      "status": "N",
+      "last_modify": "2026-01-02"
     },
     "5hmQk6ba": {
       "app_name": "Star Wander - AR Night Sky Map",
