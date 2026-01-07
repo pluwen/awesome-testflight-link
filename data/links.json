@@ -3541,6 +3541,11 @@
       "app_name": "Star Wander - AR Night Sky Map",
       "status": "Y",
       "last_modify": "2025-12-22"
+    },
+    "Quantumult X": {
+      "app_name": "Quantumult X",
+      "status": "D",
+      "last_modify": "2026-01-07"
     }
   },
   "tvos": {
