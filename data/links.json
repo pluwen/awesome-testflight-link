@@ -699,8 +699,8 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
-      "last_modify": "2026-01-02"
+      "status": "N",
+      "last_modify": "2026-01-08"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1334,13 +1334,13 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "F",
-      "last_modify": "2026-01-02"
+      "status": "Y",
+      "last_modify": "2026-01-08"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
-      "last_modify": "2026-01-05"
+      "status": "Y",
+      "last_modify": "2026-01-08"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -1829,8 +1829,8 @@
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "last_modify": "2026-01-08"
     },
     "B4BYAvTy": {
       "app_name": "Quiz Viajero",
@@ -2819,8 +2819,8 @@
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
-      "status": "Y",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "last_modify": "2026-01-08"
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
@@ -2889,8 +2889,8 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "Y",
-      "last_modify": "2026-01-07"
+      "status": "F",
+      "last_modify": "2026-01-08"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -3384,8 +3384,8 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
-      "last_modify": "2026-01-05"
+      "status": "Y",
+      "last_modify": "2026-01-08"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -3529,8 +3529,8 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "Y",
-      "last_modify": "2026-01-07"
+      "status": "F",
+      "last_modify": "2026-01-08"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -3885,8 +3885,8 @@
     },
     "ZILJgZhU": {
       "app_name": "抖音",
-      "status": "F",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "last_modify": "2026-01-08"
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
@@ -3935,8 +3935,8 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
-      "last_modify": "2026-01-07"
+      "status": "F",
+      "last_modify": "2026-01-08"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
@@ -3950,8 +3950,8 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "F",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "last_modify": "2026-01-08"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -3960,8 +3960,8 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图",
-      "status": "F",
-      "last_modify": "2026-01-06"
+      "status": "Y",
+      "last_modify": "2026-01-08"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
