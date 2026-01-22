@@ -3551,6 +3551,11 @@
       "app_name": "iCardNote",
       "status": "Y",
       "last_modify": "2026-01-09"
+    },
+    "kng2k33v": {
+      "app_name": "Cocono - Beancount 客户端",
+      "status": "Y",
+      "last_modify": "2026-01-22"
     }
   },
   "tvos": {
