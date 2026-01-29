@@ -749,8 +749,8 @@
     },
     "YBFNq1bw": {
       "app_name": "Feeds - All the Web, One Feed",
-      "status": "Y",
-      "last_modify": "2025-12-22"
+      "status": "N",
+      "last_modify": "2026-01-29"
     },
     "poQA1Iml": {
       "app_name": "Fenix for",
@@ -1329,13 +1329,13 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
-      "last_modify": "2026-01-27"
+      "status": "F",
+      "last_modify": "2026-01-29"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "F",
-      "last_modify": "2026-01-09"
+      "status": "Y",
+      "last_modify": "2026-01-29"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2284,8 +2284,8 @@
     },
     "u6iogfd0": {
       "app_name": "Telegram Messenger",
-      "status": "F",
-      "last_modify": "2025-12-28"
+      "status": "Y",
+      "last_modify": "2026-01-29"
     },
     "LQ2GXZag": {
       "app_name": "TelePlus",
@@ -3029,8 +3029,8 @@
     },
     "fzDLkIVK": {
       "app_name": "1Password - Password Manager beta",
-      "status": "Y",
-      "last_modify": "2026-01-28"
+      "status": "F",
+      "last_modify": "2026-01-29"
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
@@ -3084,8 +3084,8 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
-      "last_modify": "2026-01-10"
+      "status": "Y",
+      "last_modify": "2026-01-29"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -3514,8 +3514,8 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
-      "last_modify": "2026-01-28"
+      "status": "F",
+      "last_modify": "2026-01-29"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -3524,8 +3524,8 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "Y",
-      "last_modify": "2026-01-28"
+      "status": "F",
+      "last_modify": "2026-01-29"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -3690,8 +3690,8 @@
     },
     "K4pM1kHu": {
       "app_name": "哔哩哔哩",
-      "status": "Y",
-      "last_modify": "2026-01-26"
+      "status": "F",
+      "last_modify": "2026-01-29"
     },
     "Fwa9TCKU": {
       "app_name": "哔哩哔哩 HD",
@@ -3900,8 +3900,8 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "F",
-      "last_modify": "2026-01-24"
+      "status": "Y",
+      "last_modify": "2026-01-29"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
