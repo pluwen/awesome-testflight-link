@@ -2,9 +2,11 @@
 Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.
 
 ## 🚀 Quick Navigation
-- [iOS Apps](#ios-apps)
-- [macOS Apps](#macos-apps)
-- [tvOS Apps](#tvos-apps)
+- [iOS Apps](#ios-app-list)
+- [iPadOS Apps](#ipados-app-list)
+- [macOS Apps](#macos-app-list)
+- [tvOS Apps](#tvos-app-list)
+- [Signup Required Apps](#signup-required-apps)
 
 ## 📊 Available Status
 * **Y: Yes** - Apps currently accepting new testers
@@ -19,7 +21,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 
 ---
 
-## ios
+## iOS App List
 
 <details open>
 <summary><strong>Available (136 apps)</strong> - Apps currently accepting new testers</summary>
@@ -167,7 +169,7 @@ _✅ These 136 apps are currently accepting new testers! Click the links to join
 
 </details>
 
-<details>
+<details >
 <summary><strong>Full (72 apps)</strong> - Apps that have reached their tester limit</summary>
 
 _⚠️ These 72 apps have reached their tester limit. Try checking back later._
@@ -249,7 +251,7 @@ _⚠️ These 72 apps have reached their tester limit. Try checking back later._
 
 </details>
 
-<details>
+<details >
 <summary><strong>No (564 apps)</strong> - Apps not currently accepting testers</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
@@ -821,7 +823,7 @@ _⚠️ These 72 apps have reached their tester limit. Try checking back later._
 
 </details>
 
-<details>
+<details >
 <summary><strong>Removed (4 apps)</strong> - Apps that have been removed from TestFlight</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
@@ -835,7 +837,9 @@ _⚠️ These 72 apps have reached their tester limit. Try checking back later._
 
 
 
-## macos
+
+
+## macOS App List
 
 <details open>
 <summary><strong>Available (6 apps)</strong> - Apps currently accepting new testers</summary>
@@ -853,7 +857,7 @@ _✅ These 6 apps are currently accepting new testers! Click the links to join._
 
 </details>
 
-<details>
+<details >
 <summary><strong>Full (2 apps)</strong> - Apps that have reached their tester limit</summary>
 
 _⚠️ These 2 apps have reached their tester limit. Try checking back later._
@@ -865,7 +869,7 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 
 </details>
 
-<details>
+<details >
 <summary><strong>No (8 apps)</strong> - Apps not currently accepting testers</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
@@ -883,7 +887,7 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 
 
 
-## tvos
+## tvOS App List
 
 <details open>
 <summary><strong>Available (1 app)</strong> - Apps currently accepting new testers</summary>
@@ -896,6 +900,14 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 
 </details>
 
+
+
+# Signup App List
+| Name | Url | Available |
+| --- | --- | --- |
+| AVM FRITZ!Apps | [https://avm.de/fritz-labor/fritzapp-labor-fuer-ios/](https://avm.de/fritz-labor/fritzapp-labor-fuer-ios/) | |
+| BlackBerry Messenger (BBM) | [https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfMwOqEZn6mFtuz9FhzreOdysmTbSaRnOO3LCIHY1Uwt2f31A/viewform) | |
+| Notability | [https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-](https://support.gingerlabs.com/hc/en-us/articles/216037238-Apply-to-Beta-Test-Notability-) | |
 
 
 ## Star History
