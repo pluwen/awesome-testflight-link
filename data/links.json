@@ -6437,6 +6437,14 @@
         "ios"
       ],
       "last_modify": "2026-01-30"
+    },
+    "TgcHSGwb": {
+      "app_name": "MiniBili",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-30"
     }
   }
 }
