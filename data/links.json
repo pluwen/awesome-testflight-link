@@ -6326,6 +6326,14 @@
         "ios"
       ],
       "last_modify": "2026-01-30"
+    },
+    "3DtJwCzt": {
+      "app_name": "CFlareDNS - Cloudflare DNS",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-30"
     }
   }
 }
