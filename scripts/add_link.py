@@ -95,7 +95,7 @@ async def main():
         print("  python3 add_link.py AbcXYZ")
         print("  python3 add_link.py AbcXYZ 'Day One Journal'")
         print()
-        print("Note: Platforms are automatically detected from the TestFlight page")
+        print("Note: Platforms must be provided manually as the second argument or via PLATFORMS env (e.g. ios,ipados)")
         sys.exit(1)
     
     testflight_link = args[0]
