@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Add TestFlight links with optional auto platform detection.
+Add TestFlight links with manual platform input.
 Optimized for GitHub Actions environment.
 """
 import asyncio
@@ -8,7 +8,8 @@ import aiohttp
 import re
 import sys
 import random
-from utils import TABLE_MAP, TODAY, renew_readme, load_links, save_links
+from utils import TODAY, renew_readme, load_links, save_links
+import os
 
 BASE_URL = "https://testflight.apple.com/"
 
@@ -17,21 +18,20 @@ NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn'
 APP_NAME_PATTERN = re.compile(r"Join the (.+) beta - TestFlight - Apple")
 APP_NAME_CH_PATTERN = re.compile(r'加入 Beta 版"(.+)" - TestFlight - Apple')
 
-# Simple platform keywords for detection
-PLATFORM_KEYWORDS = {
-    'ios': ['iphone', 'ios', 'requires ios'],
-    'ipados': ['ipad', 'ipados', 'requires ipados'],
-    'macos': ['macos', 'mac app', 'requires macos'],
-    'tvos': ['tvos', 'apple tv', 'tv app'],
-}
+# Parse comma-separated platform string from CLI or env
+def parse_platforms_from_string(s: str) -> list:
+    """Parse comma-separated platform string into validated list."""
+    if not s:
+        return []
+    parts = [p.strip().lower() for p in s.split(',') if p.strip()]
+    valid = {'ios', 'ipados', 'macos', 'tvos'}
+    return [p for p in parts if p in valid]
 
 async def check_status(session, key, retry=10):
-    """Fetch TestFlight page and extract app info."""
-    status = 'N'
     app_name = "None"
     html_content = ""
     ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    
+
     for i in range(retry):
         try:
             async with session.get(f'/join/{key}', headers={'User-Agent': ua}, timeout=aiohttp.ClientTimeout(total=10)) as resp:
@@ -39,21 +39,21 @@ async def check_status(session, key, retry=10):
                     return (key, 'D', app_name, "")
                 resp.raise_for_status()
                 html_content = await resp.text()
-                
+
                 if NO_PATTERN.search(html_content) is not None:
                     status = 'N'
                 elif FULL_PATTERN.search(html_content) is not None:
                     status = 'F'
                 else:
                     status = 'Y'
-                
+
                 app_name_search = APP_NAME_PATTERN.search(html_content)
                 app_name_ch_search = APP_NAME_CH_PATTERN.search(html_content)
                 if app_name_search:
                     app_name = app_name_search.group(1)
                 elif app_name_ch_search:
                     app_name = app_name_ch_search.group(1)
-                
+
                 return (key, status, app_name, html_content)
         except asyncio.TimeoutError:
             if i < retry - 1:
@@ -65,128 +65,105 @@ async def check_status(session, key, retry=10):
                 wait_time = 2 ** i
                 print(f"[warn] {key} - {type(e).__name__}, waiting {wait_time}s before retry ({i+1}/{retry})")
                 await asyncio.sleep(wait_time)
-    
+
     print(f"[warn] {key} - Failed after {retry} retries, using default values")
     return (key, status, app_name, "")
 
-def detect_platforms_simple(html_content: str) -> list:
-    """
-    Simple platform detection using keyword matching.
-    Returns list of detected platform categories.
-    """
-    if not html_content:
-        return []
-    
-    detected = []
-    html_lower = html_content.lower()
-    
-    # Check each platform
-    for platform, keywords in PLATFORM_KEYWORDS.items():
-        for keyword in keywords:
-            if keyword in html_lower:
-                detected.append(platform)
-                break
-    
-    return detected
-
 async def main():
-    # Parse arguments
-    auto_detect = "--auto" in sys.argv
-    args = [a for a in sys.argv[1:] if a != "--auto"]
-    
+    # Parse arguments - link, platforms (comma-separated), and optional app_name
+    args = sys.argv[1:]
+
     if len(args) < 1:
-        print("Usage: python add_link.py [--auto] <link> [categories] [app_name]")
+        print("Usage: python add_link.py <link> <platforms> [app_name]")
         print()
         print("Examples:")
-        print("  # Manual category specification (recommended for CI/CD)")
-        print("  python3 add_link.py AbcXYZ ios,macos")
-        print("  python3 add_link.py AbcXYZ ipados")
+        print("  python3 add_link.py AbcXYZ ios")
+        print("  python3 add_link.py AbcXYZ ios,ipados,macos")
+        print("  python3 add_link.py AbcXYZ ios 'Day One Journal'")
         print()
-        print("  # Auto-detect platforms (requires network access)")
-        print("  python3 add_link.py --auto AbcXYZ")
-        print("  python3 add_link.py --auto AbcXYZ 'App Name'")
-        print()
-        print("Available categories: ios, ipados, macos, tvos")
+        print("Note: Platforms must be provided (comma-separated, e.g. ios,ipados,macos,tvos)")
         sys.exit(1)
-    
+
     testflight_link = args[0]
-    tables = None
-    app_name = None
-    
-    if auto_detect:
-        # Format: --auto <link> [app_name]
-        app_name = args[1] if len(args) > 1 else None
+    # If platforms provided as second arg, app_name may be third arg
+    if len(args) > 2:
+        app_name = args[2]
     else:
-        # Format: <link> [categories] [app_name]
-        if len(args) >= 2:
-            tables = [t.strip() for t in args[1].split(',')]
-        if len(args) >= 3:
-            app_name = args[2]
-    
+        app_name = None
+
     # Extract link ID from URL
     link_id_match = re.search(r"join/(.*)$", testflight_link, re.I)
     if link_id_match:
         testflight_link = link_id_match.group(1)
-    
+
     # Fetch page info
     conn_config = aiohttp.TCPConnector(limit=5, limit_per_host=2)
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
-    
+
     async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config, headers=headers) as session:
         _, status, fetched_name, html_content = await check_status(session, testflight_link)
-        
+
         if not app_name or app_name.lower() == "none":
             app_name = fetched_name
-        
-        # Handle auto-detection
-        if auto_detect:
-            tables = detect_platforms_simple(html_content)
-            if tables:
-                print(f"[info] Auto-detected categories: {', '.join(tables)}")
-            else:
-                print(f"[warn] Could not detect platforms, defaulting to iOS")
-                tables = ['ios']
-        
-        # Validate categories
-        if not tables:
-            print(f"[Error] No categories specified. Exit...")
+
+        # Determine platforms: prefer PLATFORMS env, then CLI arg
+        platforms_from_env = None
+        env_val = os.getenv('PLATFORMS')
+        if env_val:
+            platforms_from_env = parse_platforms_from_string(env_val)
+
+        # CLI: second arg is platforms (comma separated), third arg is app_name
+        cli_platforms = None
+        if len(args) >= 2:
+            cli_platforms = parse_platforms_from_string(args[1])
+
+        if cli_platforms:
+            tables = cli_platforms
+            print(f"[info] Using platforms from CLI arg: {', '.join(tables)}")
+        elif platforms_from_env:
+            tables = platforms_from_env
+            print(f"[info] Using platforms from PLATFORMS env: {', '.join(tables)}")
+        else:
+            print("[error] No platforms specified. Please provide platforms as the second argument or set PLATFORMS env.")
+            print("Usage: python add_link.py <link> <platforms_comma_separated> [app_name]")
             sys.exit(1)
-        
-        for table in tables:
-            if table not in TABLE_MAP or table == "signup":
-                print(f"[Error] Invalid category: {table}. Exit...")
-                sys.exit(1)
-    
+
     # Load and update data
     links_data = load_links()
     if "_links" not in links_data:
         links_data["_links"] = {}
-    
+
     # Check if link already exists
+    link_exists = testflight_link in links_data["_links"]
     link_info = links_data["_links"].get(testflight_link)
+
     if link_info is None:
         link_info = {
             "app_name": app_name,
             "status": status,
-            "tables": [],
+            "tables": tables,
             "last_modify": TODAY
         }
+        action = "Added new link"
     else:
+        old_platforms = link_info.get("tables", [])
         link_info["app_name"] = app_name
         link_info["status"] = status
+        link_info["tables"] = tables  # Replace with provided platforms
         link_info["last_modify"] = TODAY
-    
-    # Add tables (avoid duplicates)
-    for table in tables:
-        if table not in link_info["tables"]:
-            link_info["tables"].append(table)
-    
+
+        # Log platform changes if they differ
+        if set(old_platforms) != set(tables):
+            print(f"[info] Updated platforms for '{app_name}': {old_platforms} → {tables}")
+
+        action = "Updated existing link"
+
     links_data["_links"][testflight_link] = link_info
     save_links(links_data)
-    print(f"[info] Added '{app_name}' to categories: {', '.join(link_info['tables'])}")
-    
+    print(f"[info] {action} '{app_name}' with platforms: {', '.join(link_info['tables'])}")
+
     # 直接生成 README
     renew_readme()
 

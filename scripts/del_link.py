@@ -1,17 +1,20 @@
 #!/usr/bin/python
 import sys
 import re
-from utils import TABLE_MAP, renew_readme, load_links, save_links
+from utils import renew_readme, load_links, save_links
 
 def main():
-    if len(sys.argv) < 3:
-        print("Usage: python del_link.py <testflight_link> <table1>[,table2,table3...]")
-        print("To delete from all tables, use: python del_link.py <testflight_link> all")
+    if len(sys.argv) < 2:
+        print("Usage: python del_link.py <testflight_link>")
+        print()
+        print("Examples:")
+        print("  python3 del_link.py NXLBigzY")
+        print("  python3 del_link.py https://testflight.apple.com/join/NXLBigzY")
         sys.exit(1)
 
     testflight_link = sys.argv[1]
-    tables_str = sys.argv[2].lower()
 
+    # Extract link ID from URL if needed
     link_id_match = re.search(r"join/(.*)$", testflight_link, re.I)
     if link_id_match:
         testflight_link = link_id_match.group(1)
@@ -24,39 +27,15 @@ def main():
         return
 
     link_info = all_links[testflight_link]
+    app_name = link_info.get("app_name", "Unknown")
     
-    # Parse which tables to delete from
-    if tables_str == "all":
-        # Delete the entire link
-        del links_data["_links"][testflight_link]
-        print(f"[info] Deleted {testflight_link} from all tables")
-        affected_tables = link_info.get("tables", [])
-    else:
-        # Delete from specific tables
-        tables = [t.strip() for t in tables_str.split(',')]
-        
-        # Validate all tables
-        for table in tables:
-            if table not in TABLE_MAP:
-                print(f"[Error] Invalid table: {table}. Exit...")
-                sys.exit(1)
-        
-        affected_tables = []
-        for table in tables:
-            if table in link_info.get("tables", []):
-                link_info["tables"].remove(table)
-                affected_tables.append(table)
-        
-        # If no tables left, delete the entire link
-        if not link_info.get("tables", []):
-            del links_data["_links"][testflight_link]
-            print(f"[info] Deleted {testflight_link} from all tables")
-        else:
-            print(f"[info] Deleted {testflight_link} from {', '.join(affected_tables)}")
+    # Delete the entire link
+    del links_data["_links"][testflight_link]
+    print(f"[info] Deleted '{app_name}' ({testflight_link})")
 
     save_links(links_data)
     
-    # 直接生成 README
+    # Regenerate README
     renew_readme()
 
 if __name__ == "__main__":

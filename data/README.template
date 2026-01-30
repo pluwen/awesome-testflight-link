@@ -2,9 +2,11 @@
 Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.
 
 ## 🚀 Quick Navigation
-- [iOS Apps](#ios-apps)
-- [macOS Apps](#macos-apps)
-- [tvOS Apps](#tvos-apps)
+- [iOS Apps](#ios-app-list)
+- [iPadOS Apps](#ipados-app-list)
+- [macOS Apps](#macos-app-list)
+- [tvOS Apps](#tvos-app-list)
+- [Signup Required Apps](#signup-required-apps)
 
 ## 📊 Available Status
 * **Y: Yes** - Apps currently accepting new testers
@@ -21,9 +23,13 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 
 #{iOS_APPS}
 
+#{iPadOS_APPS}
+
 #{macOS_APPS}
 
 #{tvOS_APPS}
+
+#{SIGNUP_APPS}
 
 ## Star History
 
