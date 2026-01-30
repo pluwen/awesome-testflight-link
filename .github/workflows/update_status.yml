@@ -11,14 +11,12 @@ jobs:
     if: github.repository == 'pluwen/awesome-testflight-link'
     steps:
       - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+      - name: Install uv
+        run: curl -LsSf https://astral.sh/uv/install.sh | sh
+      - name: Set up Python with uv
+        run: uv venv && uv sync
       - name: Update TestFlight Link Status
-        run: python scripts/update_status.py
+        run: uv run python scripts/update_status.py
 
       - name: Commit and push changes
         run: |

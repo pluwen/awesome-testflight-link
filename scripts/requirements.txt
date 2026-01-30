@@ -1,2 +1,0 @@
-aiohttp[speedups]
-fake_user_agent
