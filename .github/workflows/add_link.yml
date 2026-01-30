@@ -21,8 +21,10 @@ jobs:
     if: github.repository == 'pluwen/awesome-testflight-link'
     steps:
       - uses: actions/checkout@v4
-      - name: Install uv
-        run: curl -LsSf https://astral.sh/uv/install.sh | sh
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
       - name: Set up Python with uv
         run: uv venv && uv sync
       - name: Add TestFlight Link
