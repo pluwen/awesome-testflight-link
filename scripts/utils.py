@@ -11,12 +11,9 @@ README_TEMPLATE_FILE = DATA_DIR / "README.template"
 README_FILE = SCRIPT_DIR.parent / "README.md"
 
 TABLE_MAP = {
-    "macos": DATA_DIR / "macos.md",
     "ios": DATA_DIR / "ios.md",
+    "macos": DATA_DIR / "macos.md",
     "tvos": DATA_DIR / "tvos.md",
-    "ios_game": DATA_DIR / "ios_game.md",
-    "chinese": DATA_DIR / "chinese.md",
-    "signup": DATA_DIR / "signup.md"
 }
 
 TODAY = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
@@ -55,7 +52,12 @@ def renew_doc(table_name, links_data=None):
     if links_data is None:
         links_data = load_links()
     
-    table_data = links_data.get(table_name, {})
+    # Get all links for this table
+    all_links = links_data.get("_links", {})
+    table_links = {}
+    for link_id, info in all_links.items():
+        if table_name in info.get("tables", []):
+            table_links[link_id] = info
     
     markdown = [f"{title}\n\n"]
 
@@ -64,7 +66,7 @@ def renew_doc(table_name, links_data=None):
         
         # Filter and sort apps by name
         apps = []
-        for link, info in table_data.items():
+        for link, info in table_links.items():
             if info['status'] == status_code:
                 apps.append({
                     'app_name': info['app_name'],
@@ -102,25 +104,86 @@ def renew_doc(table_name, links_data=None):
     with open(data_file, 'w', encoding='utf-8') as f:
         f.writelines(markdown)
 
+def generate_platform_section(table_name, links_data):
+    """从 links.json 直接生成平台部分的 markdown 内容"""
+    all_links = links_data.get("_links", {})
+    
+    # Get all links for this table
+    table_links = {}
+    for link_id, info in all_links.items():
+        if table_name in info.get("tables", []):
+            table_links[link_id] = info
+    
+    if not table_links:
+        return ""
+    
+    markdown = []
+    
+    for status_code in ['Y', 'F', 'N', 'D']:
+        status_data = STATUS_INFO[status_code]
+        
+        # Filter and sort apps by name
+        apps = []
+        for link, info in table_links.items():
+            if info['status'] == status_code:
+                apps.append({
+                    'app_name': info['app_name'],
+                    'testflight_link': link,
+                    'status': info['status'],
+                    'last_modify': info['last_modify']
+                })
+        
+        apps.sort(key=lambda x: x['app_name'].lower())
+
+        if apps:
+            app_count = len(apps)
+            if status_code == 'Y':
+                markdown.append(f"<details open>\n")
+            else:
+                markdown.append(f"<details>\n")
+            
+            markdown.append(f"<summary><strong>{status_data['name']} ({app_count} app{'s' if app_count != 1 else ''})</strong> - {status_data['description']}</summary>\n\n")
+
+            if status_code == 'Y':
+                markdown.append(f"_✅ These {app_count} apps are currently accepting new testers! Click the links to join._\n\n")
+            elif status_code == 'F':
+                markdown.append(f"_⚠️ These {app_count} apps have reached their tester limit. Try checking back later._\n\n")
+
+            markdown.append("| Name | TestFlight Link | Status | Last Updated |\n")
+            markdown.append("| --- | --- | --- | --- |\n")
+
+            for app in apps:
+                full_link = f"https://testflight.apple.com/join/{app['testflight_link']}"
+                markdown_link = f"[{full_link}]({full_link})"
+                markdown.append(f"| {app['app_name']} | {markdown_link} | {app['status']} | {app['last_modify']} |\n")
+
+            markdown.append("\n</details>\n\n")
+
+    return "".join(markdown)
+
 def renew_readme():
     if not README_TEMPLATE_FILE.exists():
         print(f"Error: Template file {README_TEMPLATE_FILE} not found")
         return
 
+    links_data = load_links()
+    
     with open(README_TEMPLATE_FILE, 'r', encoding='utf-8') as f:
         template = f.read()
 
-    def safe_read(path):
-        try:
-            with open(path, 'r', encoding='utf-8') as fh:
-                return fh.read()
-        except Exception:
-            return ""
-
     content = template
-    for key, path in TABLE_MAP.items():
-        placeholder = f"#{{{key}}}"
-        content = content.replace(placeholder, safe_read(path))
+    
+    # 直接从 links.json 生成平台内容
+    platform_map = {
+        "iOS_APPS": "ios",
+        "macOS_APPS": "macos",
+        "tvOS_APPS": "tvos"
+    }
+    
+    for placeholder, table_name in platform_map.items():
+        platform_content = generate_platform_section(table_name, links_data)
+        heading = f"## {table_name.replace('_', ' ')}\n\n"
+        content = content.replace(f"#{{{placeholder}}}", heading + platform_content)
 
     with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(content)

@@ -2,12 +2,9 @@
 Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.
 
 ## 🚀 Quick Navigation
-- [iOS/iPad OS Apps](#iosipad-os-app-list)
-- [iOS Games](#iosipad-os-game-list)
-- [Chinese Apps](#chinese-app-list)
-- [macOS Apps](#macos-app-list)
-- [tvOS Apps](#tvos-app-list)
-- [Signup Required Apps](#signup-app-list)
+- [iOS Apps](#ios-apps)
+- [macOS Apps](#macos-apps)
+- [tvOS Apps](#tvos-apps)
 
 ## 📊 Available Status
 * **Y: Yes** - Apps currently accepting new testers
@@ -22,17 +19,11 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 
 ---
 
-#{ios}
+#{iOS_APPS}
 
-#{ios_game}
+#{macOS_APPS}
 
-#{chinese}
-
-#{macos}
-
-#{tvos}
-
-#{signup}
+#{tvOS_APPS}
 
 ## Star History
 
