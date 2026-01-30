@@ -6326,6 +6326,14 @@
         "tvos"
       ],
       "last_modify": "2026-01-30"
+    },
+    "ZkSx6V4m": {
+      "app_name": "西瓜视频",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-30"
     }
   }
 }
