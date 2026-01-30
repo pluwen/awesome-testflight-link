@@ -6343,6 +6343,14 @@
         "tvos"
       ],
       "last_modify": "2026-01-30"
+    },
+    "fAcjDDUu": {
+      "app_name": "Calendery - 极简农历天气日历",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-30"
     }
   }
 }
