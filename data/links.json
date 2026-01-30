@@ -1,3981 +1,6326 @@
 {
-  "macos": {
+  "_links": {
     "kpKtyijY": {
       "app_name": "Dark Noise",
       "status": "N",
+      "tables": [
+        "macos",
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "yQNmMRwB": {
       "app_name": "Ride Wait Times",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "macos",
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "krUFQpyJ": {
       "app_name": "WhatsApp Messenger",
       "status": "N",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "GfswMZn4": {
       "app_name": "Parcel",
       "status": "N",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "Tqr03a4h": {
       "app_name": "MenubarX",
       "status": "N",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "QN934ULR": {
       "app_name": "APTV-Mac beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "IjXpQtAo": {
       "app_name": "Salam",
       "status": "N",
+      "tables": [
+        "macos",
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7raK338Y": {
       "app_name": "Code Piper",
       "status": "N",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
       "status": "N",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "GhPcOrwa": {
       "app_name": "Drafts",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-01-06"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "ZYsBYMhT": {
       "app_name": "Pricing Manager",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
       "last_modify": "2025-12-22"
     },
     "JTWaYdDX": {
       "app_name": "Odak - Menu Bar Timer",
       "status": "N",
-      "last_modify": "2025-12-22"
-    }
-  },
-  "ios": {
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-01-02"
+    },
+    "CtKY8RYh": {
+      "app_name": "WPS Office for PC",
+      "status": "F",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-01-05"
+    },
     "QKqitFwc": {
       "app_name": "1.1.1.1: Faster Internet",
       "status": "N",
-      "last_modify": "2025-12-22"
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-30"
     },
     "KjmVWFnT": {
       "app_name": "1Blocker",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "flDiG5AU": {
       "app_name": "1Password - Password Manager",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "oYw0jTD6": {
       "app_name": "1TouchAssist",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "McBV96Wi": {
       "app_name": "2Do - Todo List, Tasks & Notes",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "S2q4mD2b": {
       "app_name": "9GAG: Best LOL Pics & GIFs",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "3aArQFMQ": {
       "app_name": "A.BIG.T IV",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "cbUVu5XI": {
       "app_name": "A2IPNS",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "XqF1FkBg": {
       "app_name": "AdGuard",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fZRiD1zt": {
       "app_name": "AdGuard VPN",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NXxMcB4Y": {
       "app_name": "Aerivo",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fKa07bUP": {
       "app_name": "Aethyn Physics",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "iOtnNjbL": {
       "app_name": "Affinity Designer Beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "5tEPyIU2": {
       "app_name": "Axie infinity",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "upWelHF7": {
       "app_name": "Affinity Photo Beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wL0ZRXln": {
       "app_name": "Airchat for AirPods",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wRiLlWPE": {
       "app_name": "Airmail - Your Mail With You",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "E7U0UsBs": {
       "app_name": "AirPlay 便捷切换工具",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4Jc5hX2s": {
       "app_name": "all 4 hue (for Philips Hue)",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "FsXXat52": {
       "app_name": "Allegory",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "9orkRXOg": {
       "app_name": "Almost Impossible! 2",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4hBEKHHg": {
       "app_name": "AmazFaces",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "RorSFmpx": {
       "app_name": "Andrana Project",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xwvLPc6o": {
       "app_name": "AnyList",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "V6vpApGX": {
       "app_name": "Area51: A Client for Reddit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2J53lBua": {
       "app_name": "Art Wallpapers Daily",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Npva2kOl": {
       "app_name": "Artstudio Pro: Draw Paint Edit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7KV7rZ88": {
       "app_name": "AsK LaVOISiEr",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wLLhCLRz": {
       "app_name": "Attrct-The Story Dating App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "QXCgM6bu": {
       "app_name": "Balance Ethereum Wallet",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "h4FdKDMN": {
       "app_name": "BalloonPopp-AR",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "F7OpC9rE": {
       "app_name": "Banana Racer",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "zzuhcMKX": {
       "app_name": "BarWave Test",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Q7KRct77": {
       "app_name": "battle fruit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2ZowJ3D3": {
       "app_name": "Beatwave",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "kONQhQtO": {
       "app_name": "Bello: Safety app for cyclists",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ICUaKS17": {
       "app_name": "BeSafe",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "avYAAwEt": {
       "app_name": "BestOf-Private Travelogue",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "w8t2guSQ": {
       "app_name": "Beyond Meditation",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wR1gUJES": {
       "app_name": "Bika CG",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Xl4dYFb8": {
       "app_name": "Binfinder",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "B4geEYHD": {
       "app_name": "Binfinder: Find litter bins",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vhS1cy14": {
       "app_name": "Birdie",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "yTLqj9Xn": {
       "app_name": "Bitbip",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "595lFH7U": {
       "app_name": "Bitwarden Password Manager",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "XwVRKYO2": {
       "app_name": "BlackBerry Messenger (BBM)",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qKO8XM0a": {
       "app_name": "BLKJCK",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "sEhTauWo": {
       "app_name": "Blox Defense",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8KtgcwC6": {
       "app_name": "BlueWallet-Bitcoin wallet",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "I15FOWfa": {
       "app_name": "Bonga KE",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Wq7G1vFL": {
       "app_name": "Booklover",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YtYvxaKN": {
       "app_name": "Brass",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-02"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "DOpMcusn": {
       "app_name": "Buffer: Social Media Manager",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "tQxoMlir": {
       "app_name": "BULVRD",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "En0eJsFg": {
       "app_name": "Calculator Q",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "tC44BniC": {
       "app_name": "Calendars 5 by Readdle",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xsWM17VW": {
       "app_name": "Capsule-Podcast Player",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "iuqvxbc1": {
       "app_name": "Cards-Business Card Scanner",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "rhsofJcx": {
       "app_name": "CARROT Fit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "lignIX4A": {
       "app_name": "Catch Benefits",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "rGDBZ3hs": {
       "app_name": "Cats & Dogs",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "b3anlTqH": {
       "app_name": "Cats In Space! Galactic Mice",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "6KLsLMFG": {
       "app_name": "Champion of the Fields",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "CO4pDu2I": {
       "app_name": "ChargeDesk",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "0pHRZcVD": {
       "app_name": "ChastiKey",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "J5QPqXKO": {
       "app_name": "Choc",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7gH8i3pN": {
       "app_name": "CHUNE",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wcY5wC6H": {
       "app_name": "Cinema Time",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "0Ip6r1tw": {
       "app_name": "Classic Euchre",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "CUClR0rD": {
       "app_name": "Close Cross",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "LiFkmauz": {
       "app_name": "Cloud Baby Monitor",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "WNoEZnby": {
       "app_name": "Coinsafe Testnet Beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "jltUDv6i": {
       "app_name": "Coinstack App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "GolUdK05": {
       "app_name": "ColdCrypto",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TEnBWi68": {
       "app_name": "Collabora Office",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7JecM2hD": {
       "app_name": "Color Capture",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uWKe9m1h": {
       "app_name": "Color Defense",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "AShWXMYH": {
       "app_name": "Comet",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "BP8yM5kF": {
       "app_name": "Confluence by Atlassian",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "W8RcBWhh": {
       "app_name": "Controller for HomeKit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PljUX6Cv": {
       "app_name": "Cordia",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4IHpEYnz": {
       "app_name": "Cortana",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "deIWaole": {
       "app_name": "Count It Off-Setlist Metronome",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PNtubmae": {
       "app_name": "Countdown",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "SLukAeyA": {
       "app_name": "Countdown Collection",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "bKTfTrvV": {
       "app_name": "Cover Screenshot",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Lz7WXfXS": {
       "app_name": "Craft Docs",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "dU2r1pkq": {
       "app_name": "Cs Music Player",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uOLgKHRN": {
       "app_name": "Custom Contacts 2",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "jbtHPQBm": {
       "app_name": "Cypher-secret word game",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vBUJMAu4": {
       "app_name": "Dapp Pocket",
       "status": "N",
-      "last_modify": "2025-12-22"
-    },
-    "kpKtyijY": {
-      "app_name": "Dark Noise",
-      "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "oyTaqKjv": {
       "app_name": "Dark Odds",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mzR3XvHe": {
       "app_name": "Darkroom – Photo Editor",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NXLBigzY": {
       "app_name": "Day One Journal",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "FvufwHrV": {
       "app_name": "Debit & Credit",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "m70iDDkZ": {
       "app_name": "Depther-Filters and Bokeh",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "19gnJJSh": {
       "app_name": "Desk Clock (World Clock)",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "XocX8UGc": {
       "app_name": "detektor.fm",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hmgmpkX1": {
       "app_name": "Deuce - Tennis Scorekeeper",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7Wq8VRLQ": {
       "app_name": "DEV Community",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qYu3ptEV": {
       "app_name": "DevSwitch",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "OOrSaq4J": {
       "app_name": "Dog Scanner",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "gYn8g7oj": {
       "app_name": "Drift Music",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "LBZaRq4I": {
       "app_name": "Dropbox",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "70uu42Cu": {
       "app_name": "Droplets",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "CdEXgjst": {
       "app_name": "DropZap World",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "CxAwe5r2": {
       "app_name": "DS video",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "OBG12W8K": {
       "app_name": "Dust-Beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4MJtN4FB": {
       "app_name": "dystopia for reddit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "SmfNOeJ2": {
       "app_name": "Eastwatch",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "3ZTdq2Kv": {
       "app_name": "Emoji Stickers Pack",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TExm457d": {
       "app_name": "EncryptoTel.SIP",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hIec0gli": {
       "app_name": "Enpass Password Manager",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4O9GPjMk": {
       "app_name": "Eternal Love M",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "sOCDYE65": {
       "app_name": "Everlog",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NRswe1IZ": {
       "app_name": "F1ATV",
       "status": "N",
-      "last_modify": "2025-12-22"
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-31"
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-02"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NLrhkf2U": {
       "app_name": "FanFiction.Net",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xsSlT2sX": {
       "app_name": "FE File Explorer Pro",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ceqvetXz": {
       "app_name": "Feedelio",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "03ER1aUo": {
       "app_name": "Feedly",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "DcxRQdP9": {
       "app_name": "Feedly Lab",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YBFNq1bw": {
       "app_name": "Feeds - All the Web, One Feed",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "poQA1Iml": {
       "app_name": "Fenix for",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xPGpKq8Z": {
       "app_name": "Feud",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xt9cIUk1": {
       "app_name": "Fight Back to the 80's Match 3",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fV4oQYJD": {
       "app_name": "Film Logbook beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ywiozhph": {
       "app_name": "Filmlog",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qtUnSjJp": {
       "app_name": "Firewalla",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "9ZixcXRI": {
       "app_name": "FLOCK INC.",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "h1eKzSHI": {
       "app_name": "Fly THIS!",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ZfyeFB1S": {
       "app_name": "fmoji",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "gBcR6FXj": {
       "app_name": "Focus Buddy",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "RkiJ5aNH": {
       "app_name": "Focus Today",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Z9E1CC6t": {
       "app_name": "Football Live Mobile",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "e8svukxw": {
       "app_name": "Forecastic",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "OMICWT0H": {
       "app_name": "Foreignrap",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "zEAwGlrV": {
       "app_name": "FotMob Live Soccer Scores",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "E5l94av3": {
       "app_name": "Foxieee",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "q9vICEOv": {
       "app_name": "Freebox",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "SGGCxyRp": {
       "app_name": "FRITZ!App Fon",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "kzVJhIg1": {
       "app_name": "FRITZ!App Smart Home",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Zl2czQO2": {
       "app_name": "FRITZ!App TV",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "HktpUEoB": {
       "app_name": "FullPlayer",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "WdjtLFsf": {
       "app_name": "GAMEE - Play with your friends",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "tJu81Sch": {
       "app_name": "Gaming for Peace-GAP",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-23"
     },
     "fdJQnYQ2": {
       "app_name": "Garadget 2",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "miOgmpZa": {
       "app_name": "GawkBox",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "DY9eVh5z": {
       "app_name": "Gboard – Google Keyboard",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "6pXqBFre": {
       "app_name": "GE Tracker-OSRS Flipping",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mmJ9mS6M": {
       "app_name": "GIFwrapped",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "QIVXLkkn": {
       "app_name": "GitHawk for GitHub",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-06"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "T96F9wYq": {
       "app_name": "Go Map!!",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-06"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NQYMABMU": {
       "app_name": "GreenLit Audiobook Player",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PyXo0ZW7": {
       "app_name": "Grid: Create Pointillist Art",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "6CcTotfX": {
       "app_name": "GroupMe",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "h3xyVeII": {
       "app_name": "Grow",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Apcb3YLW": {
       "app_name": "Guide Meditation",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "rFLkfNSu": {
       "app_name": "Hadge",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "JUOB0hwr": {
       "app_name": "HandCash (BETA)",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "g5FcLFJQ": {
       "app_name": "Health Export",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "svD0JS3Z": {
       "app_name": "HealthFace",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "3KXnoB7K": {
       "app_name": "HealthView",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YqMTA9lr": {
       "app_name": "Hexer – Hex File Viewer",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ixTrfIgF": {
       "app_name": "HexT",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "igNR5W26": {
       "app_name": "HeyShare: Send files to anyone",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Abrd4mE4": {
       "app_name": "Highlights - Export PDF Notes",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "DHWvp32z": {
       "app_name": "Hints",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "By8fKrxM": {
       "app_name": "Hipstamatic X Analog Camera",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pv5dbYgF": {
       "app_name": "Hire by Google",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "cF8AmszV": {
       "app_name": "Hock",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "UslXTcn2": {
       "app_name": "Holo Ball",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "XCUga7ko": {
       "app_name": "Home Assistant Companion",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "FJBAvb3C": {
       "app_name": "HomeBot for Shortcuts",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "VPPkrWxh": {
       "app_name": "Homely",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "bKAEdVG3": {
       "app_name": "Hotspot VPN Tor Browser Proxy",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fyoNbvVR": {
       "app_name": "Howdoo",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "0D8fsnCt": {
       "app_name": "hoxel",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "zqM3XLXZ": {
       "app_name": "HPCalc",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4Qt2lIm5": {
       "app_name": "HTTP Catcher",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "K57owAmM": {
       "app_name": "i2Ray-V2Ray Proxy Manager",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hnyqQHH0": {
       "app_name": "iCertifi",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "SGPJ8FJK": {
       "app_name": "Idle Space: Cargo Empire",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Lgmzxy7Y": {
       "app_name": "IFTTT",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Y9yo0X5t": {
       "app_name": "IMDb: Movies & TV Shows",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "IKvyp2JU": {
       "app_name": "ImgPlay-GIF Maker",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Qd42y5Pw": {
       "app_name": "Imgur - Meme & GIF Maker",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "UfFvXd50": {
       "app_name": "Impulse-Rhythm Metronome",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "In6e3GcJ": {
       "app_name": "infltr - Infinite Filters",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2lm7vHBS": {
       "app_name": "Jira Cloud by Atlassian",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "6JbjYbSY": {
       "app_name": "Jira Server by Atlassian",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Lw2oQr4I": {
       "app_name": "Jobamax",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fHI8igli": {
       "app_name": "JSBox - Learn to Code",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Tiz07eKj": {
       "app_name": "Juno Rocks",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pyzrz0oT": {
       "app_name": "Just Timers",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pietJpfN": {
       "app_name": "Jyotish Computer",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "61zjD0e6": {
       "app_name": "K Music Player 3 Ultimate",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "B614PCKN": {
       "app_name": "kakeibo",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "lpnVgcmV": {
       "app_name": "KARMA: Social Network For Good",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "yst7K78b": {
       "app_name": "Kaspersky Security Cloud",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "zboNKVYO": {
       "app_name": "KidText.me",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "IdFRwmNy": {
       "app_name": "Kitsunebi - Proxy Utility",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "1qnxMTjA": {
       "app_name": "Krdz",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2rYDVMbb": {
       "app_name": "Krystal Kart AR",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wlZmOo9t": {
       "app_name": "KyPass 4 密码管理",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "DpujKg3U": {
       "app_name": "Launch Center Pro",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Fo7UwpZy": {
       "app_name": "Learn Lite: US State Capitals",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "1BMKN5ai": {
       "app_name": "LeCoinDuProf",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "k9bRluZc": {
       "app_name": "Letter Letter",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TYoQEz4T": {
       "app_name": "LIFX",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "jdn0uHJk": {
       "app_name": "Libertypool",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "OCwgLvSH": {
       "app_name": "Lisit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "XPvCW9JH": {
       "app_name": "Listen 籁声",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qKnsQiRL": {
       "app_name": "Live Traffic Map and Weather",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "0V62RIGt": {
       "app_name": "Local Japan",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "KRf4e4A8": {
       "app_name": "Loiter",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "23LA2tmX": {
       "app_name": "Loon",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "InHLjuQA": {
       "app_name": "Lucky Horoscope",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "FWOdp61T": {
       "app_name": "Map Pilot for DJI",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pglWN65b": {
       "app_name": "MasjidPal",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7Ar9dmp4": {
       "app_name": "Matso",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "37BftFj2": {
       "app_name": "Maze Machine",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4x1P5Tnx": {
       "app_name": "MEGA",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Qusn9Bkt": {
       "app_name": "MFC Deck",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PIojYHhU": {
       "app_name": "Microcosm – AR Voxel Drawing",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-30"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-02"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-05"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-01"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "HSWkbCxV": {
       "app_name": "Microsoft Whiteboard",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "79Azm1hZ": {
       "app_name": "Mindustry",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "lsd9mugy": {
       "app_name": "Mixing Station",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qUEu2p3L": {
       "app_name": "MK播放器",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "n5A7ceuK": {
       "app_name": "Möbius Sync - Syncthing iOS",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "AJlrDMao": {
       "app_name": "Mojo - Create Video Stories",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "HzErGQWT": {
       "app_name": "Momento - GIF Maker & Creator",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "577qd3yM": {
       "app_name": "Monorail Blue",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qQzBVHZs": {
       "app_name": "Monosnap - screenshot editor",
-      "status": "N",
+      "status": "D",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "l4T6f5I4": {
       "app_name": "Mood.",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "KzXnect8": {
       "app_name": "Moto-Motorcycle Specs",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wgXjVEh8": {
       "app_name": "Mume VPN",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uaazZoIc": {
       "app_name": "Music Harbor",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "EIEOkKJV": {
       "app_name": "Music Year in Review",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "VUvMtXzG": {
       "app_name": "Musicoin",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Lyrics Finder",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "DJoozd8u": {
       "app_name": "My Movies 4 Pro - Movie & TV",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "V4zOhaAT": {
       "app_name": "my ToDo",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "U0v1rBE5": {
       "app_name": "MyFRITZ!App",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vnMy8s64": {
       "app_name": "myNotes-Dark Themed Note App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Jj3B6vQ8": {
       "app_name": "MyPal",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "9qB4yqkL": {
       "app_name": "Nano for Reddit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "5Mh4hVpS": {
       "app_name": "NetNewsWire",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "742YC03J": {
       "app_name": "NetShuttle-ShadowsocksR tool",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7GMwTEZw": {
       "app_name": "Netwa - spy for Whatsapp",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "y4Dif3WF": {
       "app_name": "Newstats",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "GjNbfo2a": {
       "app_name": "Nextcloud",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "e07wV6pl": {
       "app_name": "Nicegram",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Axzxh79q": {
       "app_name": "Nimian Legends : Vandgels",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "GtYCStfi": {
       "app_name": "NixWallet",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ulV8RPis": {
       "app_name": "NoiseHub",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "iHcEgAaT": {
       "app_name": "Norton",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "i4g2QrrG": {
       "app_name": "NOS",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "DGHcr3A1": {
       "app_name": "NoSeen for Facebook Messenger",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "md5HRQKd": {
       "app_name": "NoteBox-Simple Powerful",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mrSbc937": {
       "app_name": "NotePlan - Markdown Calendar",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "DHJexhQq": {
       "app_name": "Notes Plus",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PaoEJuBG": {
       "app_name": "NoteStorm",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ldBwapIg": {
       "app_name": "NS Travel Planner",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "zNLNVYtN": {
       "app_name": "NSScreencast",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "n65TDvGb": {
       "app_name": "ntv Nachrichten",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "v3SGNpM5": {
       "app_name": "Nubank",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "67C9v9VB": {
       "app_name": "OldOS",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "64UtNygq": {
       "app_name": "OldOS 10 beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8PToNbaS": {
       "app_name": "OldOS 12 beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pqGYp7ve": {
       "app_name": "OldOS 6",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xqSLy94a": {
       "app_name": "Omlet Arcade",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "kCQcVTpf": {
       "app_name": "OmniFocus 3",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "kOOQHIoR": {
       "app_name": "OmniPlan 3",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uf3ISy0e": {
       "app_name": "OmniPlan 4",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Dqh55OBl": {
       "app_name": "Onedox: For household bills",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "oIVZQhx1": {
       "app_name": "OneProxy",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TLomK0Vy": {
       "app_name": "OnlyTalk - 你和她/他的专属语聊",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "MFsXqm7F": {
       "app_name": "OpenVPN Connect",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ASrCFVHB": {
       "app_name": "Opera Touch web browser",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "v1tyM5yU": {
       "app_name": "OSM Completionist",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wXtE44KZ": {
       "app_name": "OSM Surveyor",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TE5w6ZDS": {
       "app_name": "Ouchie",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ZnLxusWe": {
       "app_name": "Outbank–360° Banking",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NFhBJlx3": {
       "app_name": "Outcast for Watch",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ua0oicPc": {
       "app_name": "Overcast",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Oktj0iKv": {
       "app_name": "ownCloud",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "a4jRO20r": {
       "app_name": "Owto",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PjTA9kxr": {
       "app_name": "Pagico Mobile",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ZkRM0dla": {
       "app_name": "Palette Cam",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xcYfHdB1": {
       "app_name": "Panda Writer",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YiCQfQv3": {
       "app_name": "Paptter",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fMeg6C4A": {
       "app_name": "Parcel - Delivery Tracking",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "BUsyXf0e": {
       "app_name": "Password AR",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "UE75wprO": {
       "app_name": "PDF Expert: PDF Editor",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "6IMUtZ8n": {
       "app_name": "PDF Viewer Pro by PSPDFKit",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Sk5N5oJV": {
       "app_name": "Percent App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "IuKvZwqy": {
       "app_name": "Phosphor",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "eDPJ91Xt": {
       "app_name": "Piano – Note Taking",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vWjowKge": {
       "app_name": "Picable",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fQQrtZMS": {
       "app_name": "Pigeon",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "apGxTqB1": {
       "app_name": "Pillow",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4zAP9kBW": {
       "app_name": "Planet Runners",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8TOnyruA": {
       "app_name": "Playerly",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qd3PcztN": {
       "app_name": "PlayMe-Social Competitions",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-02"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "lbhsX2dY": {
       "app_name": "PokeRater",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NkF46PRd": {
       "app_name": "Potatso Lite",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hKI4xKRj": {
       "app_name": "Power 9 – Magic: The Gathering",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8SxXknzD": {
       "app_name": "ProtonMail - Encrypted Email",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2Z6pGpNN": {
       "app_name": "Pulsr",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ljT6fD34": {
       "app_name": "Pungo Wallet",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "jq94pGGN": {
       "app_name": "PushNotifier client",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vkwfdWM0": {
       "app_name": "Pushover Notifications",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qDkBu2ur": {
       "app_name": "Pythonista 3",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Kts3HqEj": {
       "app_name": "Pyto-Python IDE",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "B4BYAvTy": {
       "app_name": "Quiz Viajero",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "yelwsUGl": {
       "app_name": "Quizland",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "S7tXxfKK": {
       "app_name": "Rad Trails!",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "OZ1B4sTS": {
       "app_name": "RainViewer: Live Weather Radar",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "JjPmPBK5": {
       "app_name": "Rapchat",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "T9AgTf4F": {
       "app_name": "RAPGOD.ai",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "KgQRsv5c": {
       "app_name": "RBVEA Web",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-23"
     },
     "iow1BtFD": {
       "app_name": "REAL Shuffle Player PRO",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "aOhasBMk": {
       "app_name": "Really Bad Chess",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YuXc2asc": {
       "app_name": "Recall-Secure Photo Storage",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "nNT4O8vg": {
       "app_name": "RetailBox",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NnU8jU3m": {
       "app_name": "Retro Flight",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "1BHkrtFP": {
       "app_name": "Retro Music Player",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "oqrinjQB": {
       "app_name": "Revolut - Radically Better",
-      "status": "N",
-      "last_modify": "2025-12-22"
-    },
-    "yQNmMRwB": {
-      "app_name": "Ride Wait Times",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "62GT0oIl": {
       "app_name": "Ride with GPS",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "CtqNdLDe": {
       "app_name": "rIPTV",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mfxR5OPR": {
       "app_name": "Road Trip",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "E95QFTjb": {
       "app_name": "Robob-The Game",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hFqPbJDA": {
       "app_name": "Rocambole",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ORz3QWRv": {
       "app_name": "RocketSim for Xcode",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "srkYDsAE": {
       "app_name": "RoomScan Pro",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "loHFrEV1": {
       "app_name": "Ruuvi Station",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "6sQnjseB": {
       "app_name": "S-AR",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uwrch7rF": {
       "app_name": "SALY-Machine Learning",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "6YzgDpdZ": {
       "app_name": "Scanner Pro－OCR Scanning & Fax",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "5avcwZpk": {
       "app_name": "Scavengar – Easy AR Creation",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "soRRXSyT": {
       "app_name": "Screens",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uN1vTqxk": {
       "app_name": "Scriptable",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mE5hKgqL": {
       "app_name": "Scruge",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "JytrujtQ": {
       "app_name": "SG Transit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "KQHREyGa": {
       "app_name": "Shade-Pro Shader Editor",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2zWsHa9a": {
       "app_name": "ShadowCoel",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "1SsBDNCj": {
       "app_name": "SHARE NOW (car2go & DriveNow)",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "eKumKU50": {
       "app_name": "SHAREit - Connect & Transfer",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "a4CATJ0K": {
       "app_name": "Sheeping Around CCG",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4nss4sdk": {
       "app_name": "Shu - Magic File Viewer beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "nT69xbrU": {
       "app_name": "SideCoach",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8FHtd1Jq": {
       "app_name": "Signal - Private Messenger",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Zm4lMILC": {
       "app_name": "SIMO : MATLAB programming app",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "I5ZvVKyh": {
       "app_name": "Simple Tasks 2",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "zyByZSX8": {
       "app_name": "SimpleTix Box Office",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4W3Kfb7j": {
       "app_name": "Sins Raid",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "l31tKFJF": {
       "app_name": "Skies Of Chaos",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vnSIsolv": {
       "app_name": "Skype For iPad",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fB5IkJT7": {
       "app_name": "Skype For iPhone",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "QE3kgqJ2": {
       "app_name": "Slack",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8RcEFqFF": {
       "app_name": "Sleep Cycle alarm clock",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "bQz911w3": {
       "app_name": "SM.MS",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "a0zXMXbA": {
       "app_name": "Smart Post: Schedule Media",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "53f970RC": {
       "app_name": "Smooz Browser",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-06"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "lQu46sXI": {
       "app_name": "Social Dummy",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "HEZbtISZ": {
       "app_name": "SocialBuzz-Social Network",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "rBWP4hPz": {
       "app_name": "Soulver",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pglwyYBC": {
       "app_name": "Sous Vide °Celsius",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "UZCCWbHA": {
       "app_name": "Space Browser",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "O2wj7i0x": {
       "app_name": "Spark Mail - Email by Readdle",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mFLqaDY5": {
       "app_name": "Spartan Runner X",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "r6kZKMzv": {
       "app_name": "Speck - Web Playground",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Ks9a8MlH": {
       "app_name": "SpeedCN - 海外VPN网络加速器",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "plMhyWoV": {
       "app_name": "Spend Together",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qsfCtbEy": {
       "app_name": "Spendee Budget Money Tracker",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hgN6jGHY": {
       "app_name": "Spendy",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ygPhVWba": {
       "app_name": "Spider Solitaire Card Game",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7lt2tesn": {
       "app_name": "Spotify Music",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "5WU4HTVy": {
       "app_name": "Stadtfahrt",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "x9KBfSnP": {
       "app_name": "Stand Up: Fitness Tracking",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xdRzm6et": {
       "app_name": "Standard Notes",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Ecz0xXvf": {
       "app_name": "StarPlayrX",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "3uIaRydA": {
       "app_name": "Stats Tracker for PUBG",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "aGB35pbv": {
       "app_name": "Stealth VPN",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "lTQYgfEg": {
       "app_name": "Stitcher for Podcasts",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "rfWbdRvr": {
       "app_name": "Stop Motion Studio Pro",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "OqYBblCA": {
       "app_name": "Streaks Workout",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "auxSqon8": {
       "app_name": "Stream - An RSS Reader",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "j0WQVihy": {
       "app_name": "Stream Status",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "BTZRrfEX": {
       "app_name": "Strike",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "dGjdmtXH": {
       "app_name": "sudo crabs",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "D2nUIMEN": {
       "app_name": "Swaptize App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Ib5WleeA": {
       "app_name": "T7 Chicken Plus",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "t7m9f4dR": {
       "app_name": "Tarkeeb",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "JyqxBPFf": {
       "app_name": "Task Flow: To-Do List & Tasks",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "1X8lXUJI": {
       "app_name": "Teamup Calendar",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "u6iogfd0": {
       "app_name": "Telegram Messenger",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-28"
     },
     "LQ2GXZag": {
       "app_name": "TelePlus",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xQBEhm4o": {
       "app_name": "The Hot Cross Bun",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "gfiSREAr": {
       "app_name": "The New York Times",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "9i9YT2LU": {
       "app_name": "The Real Estate Answers App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wArXdacJ": {
       "app_name": "Thor",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wGEkmFU9": {
       "app_name": "Tik-App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ACkjB1Xh": {
       "app_name": "Time for Coffee!",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8NvVXGgp": {
       "app_name": "Time:Calc",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "1G3zEeId": {
       "app_name": "rific: Tweet Your Way beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "lZN7Ovt4": {
       "app_name": "tippin wallet",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7o1Q4Q8p": {
       "app_name": "To Dot",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Rkh83mtc": {
       "app_name": "Torus.wallet",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7BF3A3uz": {
       "app_name": "TouchViZ",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PEdzUki1": {
       "app_name": "Tour-Trip Planning Made Easy",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "yqpELkne": {
       "app_name": "Tower Defense Y2K18",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "tv9dt6po": {
       "app_name": "TrackMyTour",
       "status": "N",
-      "last_modify": "2025-12-22"
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-25"
     },
     "7s1wL3HL": {
       "app_name": "Träning",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "it3JyrDn": {
       "app_name": "TransitAR",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "cRWMcQsr": {
       "app_name": "Trello — Organize anything!",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "u4DHLMj1": {
       "app_name": "tripmind",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4JYxJDSY": {
       "app_name": "TRLX",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "EvXKvGti": {
       "app_name": "Truecaller",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YsHONy5I": {
       "app_name": "ttte for",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "nTNSXGV3": {
       "app_name": "Tumblr",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "9gbYAJLB": {
       "app_name": "TunSafe VPN",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hjKkDsc4": {
       "app_name": "TV Time – #1 Show Tracker",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8vRKFAiY": {
       "app_name": "Twitch Beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "3EsotSOl": {
       "app_name": "Twitter",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "DsyFXwI2": {
       "app_name": "Umnico",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "SzYMef0F": {
       "app_name": "Underlist",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YKH3kGpt": {
       "app_name": "Unicode Keyboard",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Z4GkEGfR": {
       "app_name": "Unionistas CF",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7Kvdt0E9": {
       "app_name": "UniversalCoin",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "srPJRks9": {
       "app_name": "univy",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "g6EBWpjP": {
       "app_name": "Unwind",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pgni34xJ": {
       "app_name": "Up – File transfer & sharing",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "60QsOvQ1": {
       "app_name": "uPic",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ofzlBtgu": {
       "app_name": "USA Jeans",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "eo2yZvOc": {
       "app_name": "UTG-Up To Game",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "cvx4MQuh": {
       "app_name": "V2LF",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "chE3dS7n": {
       "app_name": "Vantage Calendar",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ZdC5U0fR": {
       "app_name": "VFeed",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ihYruvVN": {
       "app_name": "ViciniT",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "bbyXP6Lx": {
       "app_name": "VLC for Mobile",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "J3GUr5tM": {
       "app_name": "Voice Dream Reader",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "OWn8sRoP": {
       "app_name": "Vox Pods",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "kxbZ1fnk": {
       "app_name": "Vrumble",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "73Pvd1wL": {
       "app_name": "wallabag 2",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TOPQxoP8": {
       "app_name": "Wanna Kicks",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "aDd1SGCs": {
       "app_name": "Wasder",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "UwWiycH2": {
       "app_name": "WaterMinder",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PnKidEdF": {
       "app_name": "Wax for iPhone",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "dFF860Jn": {
       "app_name": "Weather Up ▴",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "kAvJV2Gp": {
       "app_name": "WeatherKit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "jtBRluFe": {
       "app_name": "WhaleBlue",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "udovXNsR": {
       "app_name": "WhaleBlue",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "oscYikr0": {
       "app_name": "WhatsApp Business",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-25"
     },
     "mQX0NKjP": {
       "app_name": "Widget Wizard",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "P93jBr23": {
       "app_name": "Wikiloc Outdoor Navigation GPS",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Z0AU0KXC": {
       "app_name": "Wikipedia",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "63I19SDT": {
       "app_name": "WireGuard",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "HvCrp5Th": {
       "app_name": "Wissen PDF reader",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PPv76wiR": {
       "app_name": "Wizard Paint",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "AkJQt8Pw": {
       "app_name": "WordPress",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8wa9T053": {
       "app_name": "World Clock Time Widget",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "cJbVQ4HE": {
       "app_name": "Wraldpyk’s Blackjack",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "IEuDHfby": {
       "app_name": "Wristruments for Guitar",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "f3nwgini": {
       "app_name": "XP App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Xl5oqplp": {
       "app_name": "Xzen",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "5zhB7sRP": {
       "app_name": "YACReader",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "eruM03qY": {
       "app_name": "Yamble",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "sWspgco2": {
       "app_name": "Yamble",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NevhdobC": {
       "app_name": "yoto: you only talk once",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "WkFVO020": {
       "app_name": "YouWorth for LinkedIn™",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "etMYrqRF": {
       "app_name": "YTCount – Subscriber Count",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xCgwh5WX": {
       "app_name": "Yuri beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ZKkTYBsm": {
       "app_name": "Zakop-unofficial Wykop app",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "P32C380R": {
       "app_name": "Zap - Lightning Wallet",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "cGjLJ4UV": {
       "app_name": "Airport: Discover TestFlights",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "LzjySbQx": {
       "app_name": "Anubis - API Debug & Inspect",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hoTrTqiZ": {
       "app_name": "VPN Tracker",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "BEd12vi5": {
       "app_name": "Sangoma Meet",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "myFEz6DW": {
       "app_name": "PushUp Workout Daily at Home",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "LynavX3T": {
       "app_name": "ChatSpot Chat",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8N5C8UrM": {
       "app_name": "Inspect Browser",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "H82FVVt6": {
       "app_name": "CardioBot - Heart Rate Monitor",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "X28MEDeC": {
       "app_name": "Hashtag: Tags For Instagram",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Lsk0kvr2": {
       "app_name": "OffScreen - Less Screen Time",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "KwboYTNt": {
       "app_name": "S1 Mufu",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7sus3M6q": {
       "app_name": "Newsbite",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ruyYHU5E": {
       "app_name": "Flipabit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YSo8aVCS": {
       "app_name": "Notion",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ky5bRwMY": {
       "app_name": "Chanyan",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "s4rTJVPb": {
       "app_name": "WhatsApp Messenger",
       "status": "N",
-      "last_modify": "2025-12-22"
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-27"
     },
     "eu5rogJB": {
       "app_name": "Ulry",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YAKT5ew9": {
       "app_name": "Microsoft Bing Search",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8BOPXsGz": {
       "app_name": "Steam iOS beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "sY14cetk": {
       "app_name": "Trackpet",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "tmKoQL3t": {
       "app_name": "iRime输入法-小鹤双拼五笔郑码输入法 beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "AzU6kAzX": {
       "app_name": "Egern beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PTbaSXrf": {
       "app_name": "Microsoft Stream",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "tCeANbZi": {
       "app_name": "Sleep Cycle - Sleep Tracker beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mnjOJPgH": {
       "app_name": "Launchify: Lock Screen Widgets beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "VUT5t0ks": {
       "app_name": "Stealth - Private Cloud Storage",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-23"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "FT9n1ncG": {
       "app_name": "SweeLOL",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "CLwjLxWl": {
       "app_name": "Damus",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ixgcTmzv": {
       "app_name": "Tidal",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "cw8X7LeO": {
       "app_name": "Katunizer",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "drGYCl49": {
       "app_name": "Yala!",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "N",
-      "last_modify": "2025-12-22"
-    },
-    "IjXpQtAo": {
-      "app_name": "Salam",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-27"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PYYu2Cco": {
       "app_name": "Elytra",
-      "status": "N",
+      "status": "D",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vYqAc3Lf": {
       "app_name": "Plant Identifier & Care",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2RQUId5L": {
       "app_name": "Companies – Search and Create",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "KxmTfa2j": {
       "app_name": "HappySteps",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "3gcYeoMr": {
       "app_name": "RocketChat",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "r7ehG0dQ": {
       "app_name": "Ulysses",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "GiTMzX3I": {
       "app_name": "Proton Pass",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "FL3caOg6": {
       "app_name": "Microsoft Lists",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ctQoX4vC": {
       "app_name": "Property Finder",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "w1GVbaMO": {
       "app_name": "Microsoft Loop beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "IjV5V0zL": {
       "app_name": "Retro 2",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "BScDI9fh": {
       "app_name": "Myphysique",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "HLKh7Jx9": {
       "app_name": "S.Mario beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "gRhGuXzI": {
       "app_name": "Graphite: Photo to Sketch App beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fzDLkIVK": {
       "app_name": "1Password - Password Manager beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qQJqMDfX": {
       "app_name": "Clear 2 (Preview) beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "5VemL4Sm": {
       "app_name": "Moye beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NFZKSNEf": {
       "app_name": "Hashnode: Dev Community beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "sNzdmo2n": {
       "app_name": "Habitify: Habit Tracker & Goal beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Qw4ofB3c": {
       "app_name": "Water Tracker: WaterMinder beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2g7cQfvC": {
       "app_name": "Fleх beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "VQkpfqDN": {
       "app_name": "Kodi Remote beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-03"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-31"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "f3moqRS1": {
       "app_name": "Obsidian - Connected Notes beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "QvKyRJ8x": {
       "app_name": "Meditation Timer Zenzitizer",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "KsuaylTZ": {
       "app_name": "Microsoft Designer beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "9KR0Xx7E": {
       "app_name": "和风天气 - 可视化天气 beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-05"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "q4ha2nsh": {
       "app_name": "Windows App Mobile",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "R7lKtZdJ": {
       "app_name": "Flow Work",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "U5GSqwEP": {
       "app_name": "LittleBeat",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "kID8pcDh": {
       "app_name": "RulikSelfie",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "k4alzQk3": {
       "app_name": "HungryEx: Middleware for grocery delivery",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TL68k0Sp": {
       "app_name": "CharMap",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-05"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xHGrkViR": {
       "app_name": "Nearby AI - GPT AI Prompts",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Gu9kI6ky": {
       "app_name": "CapCut - Video Editor",
-      "status": "N",
+      "status": "D",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "flHFdltG": {
       "app_name": "FlowNote - powerful note-taking app",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xxEw2j1X": {
       "app_name": "ColorSlurp Beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pBGgMKw2": {
       "app_name": "Sabertooth for Mastodon",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Nf1dKOBG": {
       "app_name": "Screen Mirroring - 1001 TVs",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "VUPzZpkc": {
       "app_name": "Hanami",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qfPzqQM0": {
       "app_name": "GitHub HyperList",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Vlb55Wtr": {
       "app_name": "Soulver 3",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "t6xnU9H3": {
       "app_name": "Erasee: Background Remover",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qbYJl8sX": {
       "app_name": "Unomo",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2dTbntXZ": {
       "app_name": "Tuttii Beta",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-28"
     },
     "bCLmQKfQ": {
       "app_name": "Love2D Game Maker",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "haPQdDs9": {
       "app_name": "Fast Camera",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "b6GatWTY": {
       "app_name": "Fedicat",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "dqMoJObA": {
       "app_name": "Tunna - Xray/V2ray Proxy Utility",
       "status": "N",
-      "last_modify": "2025-12-22"
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-28"
     },
     "P5UOcDLa": {
       "app_name": "QR File Transfer",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "syX6IOJF": {
       "app_name": "Life360: Find Friends & Family beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PxpSW79P": {
       "app_name": "Shadow PC beta",
       "status": "N",
-      "last_modify": "2025-12-22"
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-24"
     },
     "TFhYeUyJ": {
       "app_name": "AliExpress - Shopping App beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "72eyUWVE": {
       "app_name": "Instagram",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "oKib5JOq": {
       "app_name": "Windscribe VPN",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "NPhd6XTF": {
       "app_name": "Oura",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ebSjPU84": {
       "app_name": "Mastodon",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8cHsaMrX": {
       "app_name": "X",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YkdEItQi": {
       "app_name": "Wipr 2",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "t3k1AVL3": {
       "app_name": "Opera GX",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "S4OQEYYQ": {
       "app_name": "Bitwarden Beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Pkd9a658": {
       "app_name": "UniFi",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-02"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wytcNylk": {
       "app_name": "Xbox Game Pass",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "AYVtbvfc": {
       "app_name": "Microsoft Defender: Security",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uZbeZCOi": {
       "app_name": "Element X - Secure Chat & Call",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-02"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "8XhFnQlp": {
       "app_name": "Adobe Acrobat Reader: Edit PDF",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-03"
     },
     "JrqR9vkv": {
       "app_name": "Intuit Credit Karma",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uNlhFG0m": {
       "app_name": "PPSSPP - PSP emulator",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-05"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-05"
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "OTGrzX7C": {
       "app_name": "TikTok Now",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "UuNbE9lN": {
       "app_name": "Amazon Flex",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "4vmNqTE8": {
       "app_name": "Dash Calc",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Q37kksaC": {
       "app_name": "DailyTown",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "bqo4smK7": {
       "app_name": "Me@Walmart",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vjNaxsFb": {
       "app_name": "Phone Call Notes: VoxNote",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pkrdVu0n": {
       "app_name": "Herald: Latest News",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "jR1MsqSt": {
       "app_name": "MuseoTrack",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "JaRYx1fE": {
       "app_name": "FM Radio x Radddio App",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "89c3PPBD": {
       "app_name": "WeChat Beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "bExxpaX1": {
       "app_name": "Lenna - Video Library Player",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-05"
     },
     "VnGZhjsZ": {
       "app_name": "Ketro",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "AYfPX1Ut": {
       "app_name": "umami Analytics",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "9mqMgFjT": {
       "app_name": "Breveto",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "wzyzzspP": {
       "app_name": "Tee-Timer",
       "status": "N",
-      "last_modify": "2025-12-22"
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-25"
     },
     "3aUpFGCc": {
       "app_name": "Count In Days",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "lLLlgHpB": {
       "app_name": "Monal - XMPP Chat",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "aaSgUXmq": {
       "app_name": "Pedal - Your cycling companion",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-31"
     },
     "dwXDCbv7": {
       "app_name": "Sonic Compass",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-31"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-23"
     },
     "98X2u19n": {
       "app_name": "PopCin",
       "status": "N",
-      "last_modify": "2025-12-22"
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-02"
     },
     "5hmQk6ba": {
       "app_name": "Star Wander - AR Night Sky Map",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
-    }
-  },
-  "tvos": {
+    },
     "EkFJsGvX": {
       "app_name": "UniFi Protect",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "tvos"
+      ],
       "last_modify": "2025-12-22"
-    }
-  },
-  "ios_game": {
+    },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-04"
     },
     "0trOIdJj": {
       "app_name": "Locus",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "yYjKTTlT": {
       "app_name": "MLBB Beta",
-      "status": "N",
-      "last_modify": "2025-12-22"
-    },
-    "bZIZeB4N": {
-      "app_name": "Fugl",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "sBDlEXYr": {
       "app_name": "Minecraft: Education Edition beta",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Dc1K5L3N": {
       "app_name": "Royal Commando",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "RD9jGH9S": {
       "app_name": "Cell to Singularity",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "p7fUhVk3": {
       "app_name": "Dig Girl",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "0j5e7uc0": {
       "app_name": "Snackroach",
       "status": "N",
-      "last_modify": "2025-12-22"
-    },
-    "CdEXgjst": {
-      "app_name": "DropZap World",
-      "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Z1TMhVJT": {
       "app_name": "Jrni",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "UZ4tYFb6": {
       "app_name": "WOW: Wars of Wanon",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "xjc2fPds": {
       "app_name": "Heroic Mayhem",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "YSaEbc8C": {
       "app_name": "FlexicX",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "6Ya9E8jU": {
       "app_name": "Zombies Endless",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ZnTGTn2A": {
       "app_name": "Tappy Engine",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "U4GabrwT": {
       "app_name": "Build Me This: Parts to Profit",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
-    }
-  },
-  "chinese": {
+    },
     "q7EMTnCR": {
       "app_name": "DAMA",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "pm1jk978": {
       "app_name": "iCost 记账",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "0wbi7WuC": {
       "app_name": "中关村在线",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "yjtogTGe": {
       "app_name": "企鹅电竞",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "lk3b4aCF": {
       "app_name": "千牛",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "KyZUvXYo": {
       "app_name": "后续 - 有记忆的新闻",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "K4pM1kHu": {
       "app_name": "哔哩哔哩",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Fwa9TCKU": {
       "app_name": "哔哩哔哩 HD",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ShoYW2yH": {
       "app_name": "天猫",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "7U4YKpl2": {
       "app_name": "寒梅",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "aqoXcoG3": {
       "app_name": "小記",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-06"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Pl4jm65I": {
       "app_name": "易有云",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "i37NXl07": {
       "app_name": "Angelia",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "dNThSezF": {
       "app_name": "树洞(sudo)",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TThGL9RX": {
       "app_name": "淘宝",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vWQPDFQU": {
       "app_name": "滴答清单 TickTick",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qMCQlMiZ": {
       "app_name": "熊猫吃短信",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "23FPuktF": {
       "app_name": "爱阅书香",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "N0bwYmVR": {
       "app_name": "番组计划",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "fJgR5Y2O": {
       "app_name": "百度网盘青春版",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "A0HM2av9": {
       "app_name": "百度网盘 HD",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "GgBqXAqm": {
       "app_name": "百度贴吧",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "sPJTq8Ff": {
       "app_name": "票夹",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "qlNiqNNA": {
       "app_name": "简书",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "G08IwVFs": {
       "app_name": "网易云音乐 HD",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "k02d3pgQ": {
       "app_name": "网盘搜索",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "P7p592l7": {
       "app_name": "讯飞输入法",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "gbcprIXM": {
       "app_name": "豌豆多多",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "vAEklLsb": {
       "app_name": "迅雷",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "yi8oG8bi": {
       "app_name": "阿里云盘",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "mOxZm1dD": {
       "app_name": "我的世界-网易",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-26"
     },
     "UIW76yDz": {
       "app_name": "枕边语pillowtalk-服务器监控工具",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "uCsUGsvN": {
       "app_name": "黑匣子 Player",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "976Esk4W": {
       "app_name": "程序员做饭指南",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "PUlWiCNO": {
       "app_name": "熊猫吃短信 - 垃圾短信过滤 beta",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "grxohdR3": {
       "app_name": "事线 - 串事成线",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ZkSx6V4m": {
       "app_name": "西瓜视频",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "IOgbaxds": {
       "app_name": "酷狗概念版",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-01"
     },
     "Ioh7cC6o": {
       "app_name": "flomo浮墨",
       "status": "N",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "ae77GeWM": {
       "app_name": "比亚迪",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "D",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-01"
     },
     "ZILJgZhU": {
       "app_name": "抖音",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-04"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-03"
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-29"
     },
     "sIj5iOoj": {
       "app_name": "网易爆米花",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-06"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "d6MQLpKY": {
       "app_name": "希沃白板",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "eD9uChwY": {
       "app_name": "IT之家",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "XWYSZMaS": {
       "app_name": "酷我音乐",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-23"
     },
     "YthnpWFf": {
       "app_name": "豆包",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-03"
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "N",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "C9b7GypS": {
       "app_name": "高德地图",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-06"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-01"
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     },
     "u07lq6bj": {
       "app_name": "喜马拉雅FM",
-      "status": "N",
-      "last_modify": "2025-12-22"
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2025-12-24"
     },
     "tZIfgySI": {
       "app_name": "百度输入法",
-      "status": "N",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
       "last_modify": "2025-12-22"
     }
   }
