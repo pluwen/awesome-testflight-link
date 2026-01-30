@@ -6367,6 +6367,14 @@
         "ios"
       ],
       "last_modify": "2026-01-30"
+    },
+    "QWne6G6V": {
+      "app_name": "糖葫芦浏览器",
+      "status": "Y",
+      "tables": [
+        "tvos"
+      ],
+      "last_modify": "2026-01-30"
     }
   }
 }
