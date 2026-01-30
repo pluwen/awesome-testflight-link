@@ -24,9 +24,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (145 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (146 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 145 apps are currently accepting new testers! Click the links to join._
+_✅ These 146 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -37,6 +37,7 @@ _✅ These 145 apps are currently accepting new testers! Click the links to join
 | AnyList | [https://testflight.apple.com/join/xwvLPc6o](https://testflight.apple.com/join/xwvLPc6o) | Y | 2025-12-22 |
 | BeReal | [https://testflight.apple.com/join/IM4jE5XY](https://testflight.apple.com/join/IM4jE5XY) | Y | 2025-12-22 |
 | Binge: Movies and Shows | [https://testflight.apple.com/join/Hxex2M6J](https://testflight.apple.com/join/Hxex2M6J) | Y | 2026-01-30 |
+| Bonvo.Ski - 3D Ski &amp; Snowboard | [https://testflight.apple.com/join/t1xT7SXk](https://testflight.apple.com/join/t1xT7SXk) | Y | 2026-01-30 |
 | Buffer: Social Media Manager | [https://testflight.apple.com/join/DOpMcusn](https://testflight.apple.com/join/DOpMcusn) | Y | 2025-12-22 |
 | Calendery - 极简农历天气日历 | [https://testflight.apple.com/join/fAcjDDUu](https://testflight.apple.com/join/fAcjDDUu) | Y | 2026-01-30 |
 | Cell to Singularity | [https://testflight.apple.com/join/RD9jGH9S](https://testflight.apple.com/join/RD9jGH9S) | Y | 2025-12-22 |
