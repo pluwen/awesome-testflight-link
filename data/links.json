@@ -2920,7 +2920,6 @@
       "status": "F",
       "tables": [
         "ios",
-        "macos",
         "tvos"
       ],
       "last_modify": "2026-01-30"
