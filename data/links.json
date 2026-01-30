@@ -3477,12 +3477,13 @@
       "last_modify": "2025-12-22"
     },
     "7lt2tesn": {
-      "app_name": "Spotify Music",
+      "app_name": "Spotify: Music and Podcasts",
       "status": "F",
       "tables": [
-        "ios"
+        "ios",
+        "tvos"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-01-30"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
