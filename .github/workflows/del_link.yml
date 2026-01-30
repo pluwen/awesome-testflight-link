@@ -13,14 +13,14 @@ jobs:
     if: github.repository == 'pluwen/awesome-testflight-link'
     steps:
       - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
         with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+          enable-cache: true
+      - name: Set up Python with uv
+        run: uv venv && uv sync --locked
       - name: Delete TestFlight Link
-        run: python scripts/del_link.py "${{ github.event.inputs.testflight_link }}"
+        run: uv run python scripts/del_link.py "${{ github.event.inputs.testflight_link }}"
 
       - name: Commit and push changes
         run: |

@@ -26,7 +26,7 @@ jobs:
         with:
           enable-cache: true
       - name: Set up Python with uv
-        run: uv venv && uv sync
+        run: uv venv && uv sync --locked
       - name: Add TestFlight Link
         run: |
           set -euo pipefail

@@ -16,7 +16,7 @@ jobs:
         with:
           enable-cache: true
       - name: Set up Python with uv
-        run: uv venv && uv sync
+        run: uv venv && uv sync --locked
       - name: Update TestFlight Link Status
         run: uv run python scripts/update_status.py
 

@@ -13,12 +13,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
         with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+          enable-cache: true
+      - name: Set up Python with uv
+        run: uv venv && uv sync --locked
 
       - name: Prepare status_ordered branch
         run: |
@@ -28,7 +28,7 @@ jobs:
           git checkout origin/main data/links.json
 
       - name: Generate README with Status Order
-        run: python scripts/order_status.py
+        run: uv run python scripts/order_status.py
 
       - name: Commit and push changes
         run: |
