@@ -52,8 +52,6 @@ def detect_platforms(html_content: str) -> Set[str]:
                     detected.add(platform)
                     break
         
-        # Basic validation: if we found nothing, return empty
-        # Caller should decide what to do
         return detected
         
     except Exception as e:
@@ -61,55 +59,4 @@ def detect_platforms(html_content: str) -> Set[str]:
         print(f"[warn] Platform detection failed: {e}")
         return set()
 
-
-def get_recommended_categories(platforms: Optional[Set[str]]) -> list:
-    """
-    Map detected platforms to app categories.
-    
-    Args:
-        platforms: Set of detected platforms, or None
-        
-    Returns:
-        List of recommended categories, or empty list if no platforms detected
-    """
-    if not platforms:
-        return []
-    
-    # Platform to category mapping
-    platform_to_category = {
-        'ios': 'ios',
-        'macos': 'macos',
-        'tvos': 'tvos',
-    }
-    
-    categories = []
-    
-    # Map platforms to categories in priority order
-    for platform in ['ios', 'macos', 'tvos']:
-        if platform in platforms:
-            category = platform_to_category[platform]
-            if category not in categories:
-                categories.append(category)
-    
-    return categories
-
-
-# Test example
-if __name__ == "__main__":
-    # Test with a sample HTML
-    test_html = """
-    <html>
-    <title>Join the MyApp beta - TestFlight - Apple</title>
-    <body>
-    MyApp requires iOS 14.0 or later
-    Compatible with iPhone, iPad, Mac, and Apple Watch
-    </body>
-    </html>
-    """
-    
-    platforms = detect_platforms(test_html)
-    categories = get_recommended_categories(platforms)
-    
-    print(f"Detected platforms: {platforms}")
-    print(f"Recommended categories: {categories}")
 
