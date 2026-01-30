@@ -62,29 +62,20 @@ async def update_all_links(links_data):
         results = await asyncio.gather(*tasks)
 
     updated_count = 0
-    platform_updated_count = 0
 
-    for link, status, detected_platforms in results:
+    for link, status, _ in results:
         if link not in all_links:
             continue
-        
+
         link_info = all_links[link]
-        current_tables = set(link_info.get("tables", []))
-        
-        # 更新状态
-        if link_info['status'] != status:
+
+        # 仅更新状态，不修改平台信息
+        if link_info.get('status') != status:
             link_info['status'] = status
             link_info['last_modify'] = TODAY
             updated_count += 1
-        
-        # 更新平台（如果检测到了平台）
-        if detected_platforms and current_tables != detected_platforms:
-            link_info['tables'] = sorted(list(detected_platforms))
-            link_info['last_modify'] = TODAY
-            platform_updated_count += 1
-            print(f"[info] {link} - Updated platforms: {', '.join(link_info['tables'])}")
-    
-    print(f"[info] Status updated: {updated_count}, Platforms updated: {platform_updated_count}")
+
+    print(f"[info] Status updated: {updated_count}")
 
 async def main():
     links_data = load_links()
