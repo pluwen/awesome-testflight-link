@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Add TestFlight links with optional auto platform detection.
+Add TestFlight links with automatic platform detection.
 Optimized for GitHub Actions environment.
 """
 import asyncio
@@ -8,7 +8,7 @@ import aiohttp
 import re
 import sys
 import random
-from utils import TABLE_MAP, TODAY, renew_readme, load_links, save_links
+from utils import TODAY, renew_readme, load_links, save_links
 
 BASE_URL = "https://testflight.apple.com/"
 
@@ -20,7 +20,6 @@ APP_NAME_CH_PATTERN = re.compile(r'加入 Beta 版"(.+)" - TestFlight - Apple')
 # Simple platform keywords for detection
 PLATFORM_KEYWORDS = {
     'ios': ['iphone', 'ios', 'requires ios'],
-    'ipados': ['ipad', 'ipados', 'requires ipados'],
     'macos': ['macos', 'mac app', 'requires macos'],
     'tvos': ['tvos', 'apple tv', 'tv app'],
 }
@@ -90,38 +89,21 @@ def detect_platforms_simple(html_content: str) -> list:
     return detected
 
 async def main():
-    # Parse arguments
-    auto_detect = "--auto" in sys.argv
-    args = [a for a in sys.argv[1:] if a != "--auto"]
+    # Parse arguments - now only accepts link and optional app_name
+    args = sys.argv[1:]
     
     if len(args) < 1:
-        print("Usage: python add_link.py [--auto] <link> [categories] [app_name]")
+        print("Usage: python add_link.py <link> [app_name]")
         print()
         print("Examples:")
-        print("  # Manual category specification (recommended for CI/CD)")
-        print("  python3 add_link.py AbcXYZ ios,macos")
-        print("  python3 add_link.py AbcXYZ ipados")
+        print("  python3 add_link.py AbcXYZ")
+        print("  python3 add_link.py AbcXYZ 'Day One Journal'")
         print()
-        print("  # Auto-detect platforms (requires network access)")
-        print("  python3 add_link.py --auto AbcXYZ")
-        print("  python3 add_link.py --auto AbcXYZ 'App Name'")
-        print()
-        print("Available categories: ios, ipados, macos, tvos")
+        print("Note: Platforms are automatically detected from the TestFlight page")
         sys.exit(1)
     
     testflight_link = args[0]
-    tables = None
-    app_name = None
-    
-    if auto_detect:
-        # Format: --auto <link> [app_name]
-        app_name = args[1] if len(args) > 1 else None
-    else:
-        # Format: <link> [categories] [app_name]
-        if len(args) >= 2:
-            tables = [t.strip() for t in args[1].split(',')]
-        if len(args) >= 3:
-            app_name = args[2]
+    app_name = args[1] if len(args) > 1 else None
     
     # Extract link ID from URL
     link_id_match = re.search(r"join/(.*)$", testflight_link, re.I)
@@ -140,24 +122,13 @@ async def main():
         if not app_name or app_name.lower() == "none":
             app_name = fetched_name
         
-        # Handle auto-detection
-        if auto_detect:
-            tables = detect_platforms_simple(html_content)
-            if tables:
-                print(f"[info] Auto-detected categories: {', '.join(tables)}")
-            else:
-                print(f"[warn] Could not detect platforms, defaulting to iOS")
-                tables = ['ios']
-        
-        # Validate categories
-        if not tables:
-            print(f"[Error] No categories specified. Exit...")
-            sys.exit(1)
-        
-        for table in tables:
-            if table not in TABLE_MAP or table == "signup":
-                print(f"[Error] Invalid category: {table}. Exit...")
-                sys.exit(1)
+        # Auto-detect platforms (always enabled)
+        tables = detect_platforms_simple(html_content)
+        if tables:
+            print(f"[info] Auto-detected platforms: {', '.join(tables)}")
+        else:
+            print(f"[warn] Could not detect platforms, defaulting to iOS")
+            tables = ['ios']
     
     # Load and update data
     links_data = load_links()

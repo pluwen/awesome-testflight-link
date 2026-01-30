@@ -1,4 +1,4 @@
-name: Order TestFilght Link Status
+name: Generate Ordered Status Report
 
 on:
   push:
@@ -27,14 +27,14 @@ jobs:
           git checkout status_ordered || git checkout -b status_ordered
           git checkout origin/main data/links.json
 
-      - name: Order TestFlight Link Status
+      - name: Generate README with Status Order
         run: python scripts/order_status.py
 
       - name: Commit and push changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git add .
-            git commit -m "Auto-order TestFlight links: $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "Auto-generate ordered README: $(date +'%Y-%m-%d %H:%M:%S')"
             git push origin status_ordered
           else
             echo "No changes to commit"

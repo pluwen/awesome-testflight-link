@@ -1,25 +1,15 @@
-name: Add A TestFilght Link
+name: Add A TestFlight Link
 
 on:
   workflow_dispatch:
     inputs:
       app_name:
-        description: '应用名称（建议填上，程序可能无法通过链接判断 TestFlight 测试的应用名称）【中间不要有英文双引号或英文竖线分隔符"|"】'
+        description: '应用名称（可选，如不填则自动提取）'
         required: false
         default: 'None'
       testflight_link:
-        description: 'Testflight 公共测试的完整链接(非 TestFilght 链接请添加到 data/signup.md)'
+        description: 'TestFlight 公共测试的完整链接（非 TestFlight 链接请添加到 data/signup.md）'
         required: true
-      table:
-        description: '链接分类'
-        required: true
-        type: choice
-        options:
-          - macos
-          - ios
-          - ios_game
-          - tvos
-          - chinese
 
 jobs:
   main:
@@ -34,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
       - name: Add TestFlight Link
-        run: python scripts/add_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}" "${{ github.event.inputs.app_name }}"
+        run: python scripts/add_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.app_name }}"
 
       - name: Commit and push changes
         run: |

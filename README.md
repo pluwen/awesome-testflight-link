@@ -3,7 +3,6 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 
 ## 🚀 Quick Navigation
 - [iOS Apps](#ios-app-list)
-- [iPadOS Apps](#ipados-app-list)
 - [macOS Apps](#macos-app-list)
 - [tvOS Apps](#tvos-app-list)
 - [Signup Required Apps](#signup-required-apps)
@@ -834,8 +833,6 @@ _⚠️ These 72 apps have reached their tester limit. Try checking back later._
 | 比亚迪 | [https://testflight.apple.com/join/ae77GeWM](https://testflight.apple.com/join/ae77GeWM) | D | 2026-01-01 |
 
 </details>
-
-
 
 
 

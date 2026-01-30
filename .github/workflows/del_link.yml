@@ -1,21 +1,11 @@
-name: Del A TestFilght Link
+name: Delete A TestFlight Link
 
 on:
   workflow_dispatch:
     inputs:
       testflight_link:
-        description: 'Testflight 公共测试的完整链接'
+        description: 'TestFlight 公共测试的完整链接或链接 ID'
         required: true
-      table:
-        description: '链接分类'
-        required: true
-        type: choice
-        options:
-          - macos
-          - ios
-          - ios_game
-          - tvos
-          - chinese
 
 jobs:
   main:
@@ -30,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
       - name: Delete TestFlight Link
-        run: python scripts/del_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}"
+        run: python scripts/del_link.py "${{ github.event.inputs.testflight_link }}"
 
       - name: Commit and push changes
         run: |

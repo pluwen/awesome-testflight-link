@@ -15,9 +15,6 @@ PLATFORM_KEYWORDS = {
     'ios': [
         'iphone', 'ios', 'requires ios',
     ],
-    'ipados': [
-        'ipad', 'ipados', 'requires ipados',
-    ],
     'macos': [
         'macos', 'mac app', 'requires macos', 'mac compatible',
     ],
@@ -38,7 +35,7 @@ def detect_platforms(html_content: str) -> Set[str]:
         html_content: HTML content from TestFlight page
         
     Returns:
-        Set of detected platforms: {'ios', 'ipados', 'macos', 'tvos'}
+        Set of detected platforms: {'ios', 'macos', 'tvos'}
         Returns empty set if detection fails or no keywords found
     """
     if not html_content or not isinstance(html_content, str):
@@ -81,7 +78,6 @@ def get_recommended_categories(platforms: Optional[Set[str]]) -> list:
     # Platform to category mapping
     platform_to_category = {
         'ios': 'ios',
-        'ipados': 'ipados',
         'macos': 'macos',
         'tvos': 'tvos',
     }
@@ -89,7 +85,7 @@ def get_recommended_categories(platforms: Optional[Set[str]]) -> list:
     categories = []
     
     # Map platforms to categories in priority order
-    for platform in ['ios', 'ipados', 'macos', 'tvos']:
+    for platform in ['ios', 'macos', 'tvos']:
         if platform in platforms:
             category = platform_to_category[platform]
             if category not in categories:

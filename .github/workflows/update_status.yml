@@ -1,4 +1,4 @@
-name: Update TestFilght Link Status
+name: Update TestFlight Link Status
 
 on:
   schedule:
@@ -17,7 +17,7 @@ jobs:
           python-version: '3.11'
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
-      - name: Update TestFlight Link Status
+      - name: Update TestFlight Link Status and Detect Platforms
         run: python scripts/update_status.py
 
       - name: Commit and push changes
