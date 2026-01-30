@@ -6334,6 +6334,15 @@
         "ios"
       ],
       "last_modify": "2026-01-30"
+    },
+    "thdxEjTZ": {
+      "app_name": "JSTV",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "tvos"
+      ],
+      "last_modify": "2026-01-30"
     }
   }
 }
