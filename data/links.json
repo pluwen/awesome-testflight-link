@@ -6358,6 +6358,14 @@
         "ios"
       ],
       "last_modify": "2026-01-30"
+    },
+    "ckShCX1T": {
+      "app_name": "酷我音乐-好音质用酷我",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-30"
     }
   }
 }
