@@ -4,7 +4,7 @@ import aiohttp
 import re
 import random
 from utils import TODAY, renew_readme, load_links, save_links
-from platform_detector import detect_platforms
+# Platform detection removed — platforms are managed manually
 
 BASE_URL = "https://testflight.apple.com/"
 FULL_PATTERN = re.compile(r"版本的测试员已满|This beta is full")
@@ -23,8 +23,8 @@ async def check_status(session, key, current_status, app_name=None, retry=5):
                 resp.raise_for_status()
                 resp_html = await resp.text()
                 
-                # 检测支持的平台
-                detected_platforms = detect_platforms(resp_html, app_name)
+                # 平台检测已移除；保持空集合以保持接口兼容
+                detected_platforms = set()
                 
                 # 检测状态
                 if NO_PATTERN.search(resp_html):

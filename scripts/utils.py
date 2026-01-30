@@ -99,6 +99,7 @@ def renew_readme():
     # 从 links.json 生成平台内容
     platform_map = {
         "iOS_APPS": ("ios", "## iOS App List\n\n"),
+        "iPadOS_APPS": ("ipados", "## iPadOS App List\n\n"),
         "macOS_APPS": ("macos", "## macOS App List\n\n"),
         "tvOS_APPS": ("tvos", "## tvOS App List\n\n"),
     }

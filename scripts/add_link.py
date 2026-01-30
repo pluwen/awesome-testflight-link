@@ -9,6 +9,7 @@ import re
 import sys
 import random
 from utils import TODAY, renew_readme, load_links, save_links
+import os
 
 BASE_URL = "https://testflight.apple.com/"
 
@@ -17,16 +18,23 @@ NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn'
 APP_NAME_PATTERN = re.compile(r"Join the (.+) beta - TestFlight - Apple")
 APP_NAME_CH_PATTERN = re.compile(r'加入 Beta 版"(.+)" - TestFlight - Apple')
 
-# Simple platform keywords for detection
-PLATFORM_KEYWORDS = {
-    'ios': ['iphone', 'ios', 'requires ios'],
-    'macos': ['macos', 'mac app', 'requires macos'],
-    'tvos': ['tvos', 'apple tv', 'tv app'],
-}
+# Parse comma-separated platform string from CLI or env
+def parse_platforms_from_string(s: str) -> list:
+    """Parse comma-separated platform string into validated list."""
+    if not s:
+        return []
+    parts = [p.strip().lower() for p in s.split(',') if p.strip()]
+    valid = {'ios', 'ipados', 'macos', 'tvos'}
+    return [p for p in parts if p in valid]
 
+# Simple platform keywords kept for reference only (no auto-detection used)
+PLATFORM_KEYWORDS = {
+    'ios': ['requires ios', 'iphone', 'compatible with iphone'],
+    'ipados': ['ipad', 'requires ipados', 'compatible with ipad'],
+    'macos': ['requires macos', 'mac app', 'compatible with mac'],
+    'tvos': ['requires tvos', 'apple tv', 'compatible with apple tv'],
+}
 async def check_status(session, key, retry=10):
-    """Fetch TestFlight page and extract app info."""
-    status = 'N'
     app_name = "None"
     html_content = ""
     ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -68,25 +76,13 @@ async def check_status(session, key, retry=10):
     print(f"[warn] {key} - Failed after {retry} retries, using default values")
     return (key, status, app_name, "")
 
-def detect_platforms_simple(html_content: str) -> list:
-    """
-    Simple platform detection using keyword matching.
-    Returns list of detected platform categories.
-    """
-    if not html_content:
+def parse_platforms_from_string(s: str) -> list:
+    """Parse comma-separated platform string into validated list."""
+    if not s:
         return []
-    
-    detected = []
-    html_lower = html_content.lower()
-    
-    # Check each platform
-    for platform, keywords in PLATFORM_KEYWORDS.items():
-        for keyword in keywords:
-            if keyword in html_lower:
-                detected.append(platform)
-                break
-    
-    return detected
+    parts = [p.strip().lower() for p in s.split(',') if p.strip()]
+    valid = {'ios', 'ipados', 'macos', 'tvos'}
+    return [p for p in parts if p in valid]
 
 async def main():
     # Parse arguments - now only accepts link and optional app_name
@@ -103,7 +99,11 @@ async def main():
         sys.exit(1)
     
     testflight_link = args[0]
-    app_name = args[1] if len(args) > 1 else None
+    # If platforms provided as second arg, app_name may be third arg
+    if len(args) > 2:
+        app_name = args[2]
+    else:
+        app_name = None
     
     # Extract link ID from URL
     link_id_match = re.search(r"join/(.*)$", testflight_link, re.I)
@@ -118,17 +118,31 @@ async def main():
     
     async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config, headers=headers) as session:
         _, status, fetched_name, html_content = await check_status(session, testflight_link)
-        
+
         if not app_name or app_name.lower() == "none":
             app_name = fetched_name
-        
-        # Auto-detect platforms (always enabled)
-        tables = detect_platforms_simple(html_content)
-        if tables:
-            print(f"[info] Auto-detected platforms: {', '.join(tables)}")
+
+        # Determine platforms: prefer PLATFORMS env, then second CLI arg
+        platforms_from_env = None
+        env_val = os.getenv('PLATFORMS')
+        if env_val:
+            platforms_from_env = parse_platforms_from_string(env_val)
+
+        # CLI: second arg is platforms (comma separated), third arg is app_name
+        cli_platforms = None
+        if len(args) >= 2:
+            cli_platforms = parse_platforms_from_string(args[1])
+
+        if cli_platforms:
+            tables = cli_platforms
+            print(f"[info] Using platforms from CLI arg: {', '.join(tables)}")
+        elif platforms_from_env:
+            tables = platforms_from_env
+            print(f"[info] Using platforms from PLATFORMS env: {', '.join(tables)}")
         else:
-            print(f"[warn] Could not detect platforms, defaulting to iOS")
-            tables = ['ios']
+            print("[error] No platforms specified. Please provide platforms as the second argument or set PLATFORMS env.")
+            print("Usage: python add_link.py <link> <platforms_comma_separated> [app_name]")
+            sys.exit(1)
     
     # Load and update data
     links_data = load_links()

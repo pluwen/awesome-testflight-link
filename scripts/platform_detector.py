@@ -10,16 +10,19 @@ import re
 from typing import Set, Optional
 
 # Simple keyword patterns for each platform
-# These are lightweight and don't require complex parsing
+# These are more specific to avoid false positives
 PLATFORM_KEYWORDS = {
     'ios': [
-        'iphone', 'ios', 'requires ios',
+        'requires ios', 'iphone', 'compatible with iphone',
+    ],
+    'ipados': [
+        'ipad', 'requires ipados', 'compatible with ipad',
     ],
     'macos': [
-        'macos', 'mac app', 'requires macos', 'mac compatible',
+        'requires macos', 'mac app', 'compatible with mac',
     ],
     'tvos': [
-        'tvos', 'apple tv', 'tv app', 'requires tvos',
+        'requires tvos', 'apple tv', 'compatible with apple tv',
     ],
 }
 
@@ -35,7 +38,7 @@ def detect_platforms(html_content: str) -> Set[str]:
         html_content: HTML content from TestFlight page
         
     Returns:
-        Set of detected platforms: {'ios', 'macos', 'tvos'}
+        Set of detected platforms: {'ios', 'ipados', 'macos', 'tvos'}
         Returns empty set if detection fails or no keywords found
     """
     if not html_content or not isinstance(html_content, str):
@@ -58,5 +61,3 @@ def detect_platforms(html_content: str) -> Set[str]:
         # Graceful failure in case of any parsing error
         print(f"[warn] Platform detection failed: {e}")
         return set()
-
-

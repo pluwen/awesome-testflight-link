@@ -10,6 +10,10 @@ on:
       testflight_link:
         description: 'TestFlight 公共测试的完整链接（非 TestFlight 链接请添加到 data/signup.md）'
         required: true
+      platforms:
+        description: '选择平台（可选，不选则自动检测，多选请用逗号分隔：ios,ipados,macos,tvos）'
+        required: false
+        default: 'auto'
 
 jobs:
   main:
@@ -25,6 +29,10 @@ jobs:
         run: pip install -r scripts/requirements.txt
       - name: Add TestFlight Link
         run: python scripts/add_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.app_name }}"
+      - name: Set Platforms
+        if: github.event.inputs.platforms != 'auto'
+        run: |
+          echo "PLATFORMS=${{ github.event.inputs.platforms }}" >> $GITHUB_ENV
 
       - name: Commit and push changes
         run: |
