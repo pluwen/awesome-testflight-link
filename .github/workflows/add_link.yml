@@ -11,9 +11,9 @@ on:
         description: 'TestFlight 公共测试的完整链接（非 TestFlight 链接请添加到 data/signup.md）'
         required: true
       platforms:
-        description: '选择平台（可选，不选则自动检测，多选请用逗号分隔：ios,ipados,macos,tvos）'
-        required: false
-        default: 'auto'
+        description: '选择平台（必填：逗号分隔，多选示例：ios,ipados,macos,tvos）'
+        required: true
+        default: ''
 
 jobs:
   main:
@@ -28,11 +28,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
       - name: Add TestFlight Link
-        run: python scripts/add_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.app_name }}"
-      - name: Set Platforms
-        if: github.event.inputs.platforms != 'auto'
         run: |
-          echo "PLATFORMS=${{ github.event.inputs.platforms }}" >> $GITHUB_ENV
+          set -euo pipefail
+          TF_LINK="${{ github.event.inputs.testflight_link }}"
+          APP_NAME="${{ github.event.inputs.app_name }}"
+          INPUT_PLATFORMS="${{ github.event.inputs.platforms }}"
+
+          if [ "${INPUT_PLATFORMS}" = "auto" ]; then
+            echo "[error] 'auto' platform detection is disabled. Please provide platforms in the 'platforms' input (e.g. ios,ipados)."
+            exit 1
+          else
+            echo "[info] Adding link for platforms: ${INPUT_PLATFORMS}"
+            python scripts/add_link.py "$TF_LINK" "$INPUT_PLATFORMS" "$APP_NAME"
+          fi
 
       - name: Commit and push changes
         run: |
