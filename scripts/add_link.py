@@ -136,27 +136,33 @@ async def main():
         links_data["_links"] = {}
     
     # Check if link already exists
+    link_exists = testflight_link in links_data["_links"]
     link_info = links_data["_links"].get(testflight_link)
+    
     if link_info is None:
         link_info = {
             "app_name": app_name,
             "status": status,
-            "tables": [],
+            "tables": tables,
             "last_modify": TODAY
         }
+        action = "Added new link"
     else:
+        old_platforms = link_info.get("tables", [])
         link_info["app_name"] = app_name
         link_info["status"] = status
+        link_info["tables"] = tables  # Replace with newly detected platforms
         link_info["last_modify"] = TODAY
-    
-    # Add tables (avoid duplicates)
-    for table in tables:
-        if table not in link_info["tables"]:
-            link_info["tables"].append(table)
+        
+        # Log platform changes if they differ
+        if set(old_platforms) != set(tables):
+            print(f"[info] Updated platforms for '{app_name}': {old_platforms} → {tables}")
+        
+        action = "Updated existing link"
     
     links_data["_links"][testflight_link] = link_info
     save_links(links_data)
-    print(f"[info] Added '{app_name}' to categories: {', '.join(link_info['tables'])}")
+    print(f"[info] {action} '{app_name}' with platforms: {', '.join(link_info['tables'])}")
     
     # 直接生成 README
     renew_readme()
