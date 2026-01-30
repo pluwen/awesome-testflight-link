@@ -2917,11 +2917,13 @@
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
-      "status": "N",
+      "status": "F",
       "tables": [
-        "ios"
+        "ios",
+        "macos",
+        "tvos"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-01-30"
     },
     "B4BYAvTy": {
       "app_name": "Quiz Viajero",
