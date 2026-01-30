@@ -6383,6 +6383,14 @@
         "tvos"
       ],
       "last_modify": "2026-01-30"
+    },
+    "Bh2Bo9ab": {
+      "app_name": "豆瓣阅读",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-01-30"
     }
   }
 }
