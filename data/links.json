@@ -1805,11 +1805,11 @@
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-01-31"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
@@ -5391,11 +5391,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-05"
+      "last_modify": "2026-01-31"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5599,11 +5599,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-01-31"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5655,11 +5655,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-04"
+      "last_modify": "2026-01-31"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -5871,11 +5871,11 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-01-31"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
