@@ -5391,11 +5391,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-31"
+      "last_modify": "2026-02-01"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5479,11 +5479,11 @@
     },
     "pkrdVu0n": {
       "app_name": "Herald: Latest News",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-01"
     },
     "jR1MsqSt": {
       "app_name": "MuseoTrack",
@@ -5599,19 +5599,19 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-31"
+      "last_modify": "2026-02-01"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-01"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
@@ -5623,11 +5623,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-23"
+      "last_modify": "2026-02-01"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -5655,11 +5655,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-31"
+      "last_modify": "2026-02-01"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -5871,11 +5871,11 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-31"
+      "last_modify": "2026-02-01"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -6384,11 +6384,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-01"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
