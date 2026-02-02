@@ -6584,6 +6584,14 @@
         "ipados"
       ],
       "last_modify": "2026-02-02"
+    },
+    "nj2tUB4s": {
+      "app_name": "OneWeekFocus - 时间记录与节奏可视化",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
