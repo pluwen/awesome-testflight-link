@@ -6502,6 +6502,14 @@
         "tvos"
       ],
       "last_modify": "2026-02-02"
+    },
+    "4GWAwNsU": {
+      "app_name": "Focus – Productivity Timer",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
