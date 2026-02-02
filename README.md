@@ -24,9 +24,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (159 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (160 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 159 apps are currently accepting new testers! Click the links to join._
+_✅ These 160 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -108,6 +108,7 @@ _✅ These 159 apps are currently accepting new testers! Click the links to join
 | OneWeekFocus - 时间记录与节奏可视化 | [https://testflight.apple.com/join/nj2tUB4s](https://testflight.apple.com/join/nj2tUB4s) | Y | 2026-02-02 |
 | Opera GX | [https://testflight.apple.com/join/t3k1AVL3](https://testflight.apple.com/join/t3k1AVL3) | Y | 2025-12-22 |
 | Opera Touch web browser | [https://testflight.apple.com/join/ASrCFVHB](https://testflight.apple.com/join/ASrCFVHB) | Y | 2025-12-22 |
+| Orange Intelligence | [https://testflight.apple.com/join/kbVm551z](https://testflight.apple.com/join/kbVm551z) | Y | 2026-02-02 |
 | Oura | [https://testflight.apple.com/join/NPhd6XTF](https://testflight.apple.com/join/NPhd6XTF) | Y | 2025-12-22 |
 | Pablo - AI Voice Chat | [https://testflight.apple.com/join/raZGq35o](https://testflight.apple.com/join/raZGq35o) | Y | 2026-02-02 |
 | Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | Y | 2025-12-22 |
