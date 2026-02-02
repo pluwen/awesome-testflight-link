@@ -6618,6 +6618,14 @@
         "ipados"
       ],
       "last_modify": "2026-02-02"
+    },
+    "64yNbkhM": {
+      "app_name": "Studious: Focus Timer",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
