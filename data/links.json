@@ -6518,6 +6518,15 @@
         "ios"
       ],
       "last_modify": "2026-02-02"
+    },
+    "dsNjHxjb": {
+      "app_name": "Hiddify Proxy &amp; VPN",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
