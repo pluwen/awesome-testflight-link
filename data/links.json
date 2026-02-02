@@ -6485,6 +6485,15 @@
         "ios"
       ],
       "last_modify": "2026-02-02"
+    },
+    "qCCdSLT1": {
+      "app_name": "PCalc",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
