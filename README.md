@@ -24,9 +24,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (161 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (162 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 161 apps are currently accepting new testers! Click the links to join._
+_✅ These 162 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -37,6 +37,7 @@ _✅ These 161 apps are currently accepting new testers! Click the links to join
 | AnyList | [https://testflight.apple.com/join/xwvLPc6o](https://testflight.apple.com/join/xwvLPc6o) | Y | 2025-12-22 |
 | BeReal | [https://testflight.apple.com/join/IM4jE5XY](https://testflight.apple.com/join/IM4jE5XY) | Y | 2025-12-22 |
 | Binge: Movies and Shows | [https://testflight.apple.com/join/Hxex2M6J](https://testflight.apple.com/join/Hxex2M6J) | Y | 2026-01-30 |
+| Blanc Note | [https://testflight.apple.com/join/XvAUCdaW](https://testflight.apple.com/join/XvAUCdaW) | Y | 2026-02-02 |
 | Bonvo.Ski - 3D Ski &amp; Snowboard | [https://testflight.apple.com/join/t1xT7SXk](https://testflight.apple.com/join/t1xT7SXk) | Y | 2026-01-30 |
 | Brave | [https://testflight.apple.com/join/Trcbh1o3](https://testflight.apple.com/join/Trcbh1o3) | Y | 2026-01-30 |
 | Buffer: Social Media Manager | [https://testflight.apple.com/join/DOpMcusn](https://testflight.apple.com/join/DOpMcusn) | Y | 2025-12-22 |
