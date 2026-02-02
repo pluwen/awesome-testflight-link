@@ -876,9 +876,9 @@ _✅ These 3 apps are currently accepting new testers! Click the links to join._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (10 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (11 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 10 apps are currently accepting new testers! Click the links to join._
+_✅ These 11 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -891,6 +891,7 @@ _✅ These 10 apps are currently accepting new testers! Click the links to join.
 | PixelHQ | [https://testflight.apple.com/join/qqTPmvCd](https://testflight.apple.com/join/qqTPmvCd) | Y | 2026-02-02 |
 | Pricing Manager | [https://testflight.apple.com/join/ZYsBYMhT](https://testflight.apple.com/join/ZYsBYMhT) | Y | 2025-12-22 |
 | Ride Wait Times | [https://testflight.apple.com/join/yQNmMRwB](https://testflight.apple.com/join/yQNmMRwB) | Y | 2025-12-22 |
+| SwiftServer - Monitoring &amp; SSH | [https://testflight.apple.com/join/yXfSFBFp](https://testflight.apple.com/join/yXfSFBFp) | Y | 2026-02-02 |
 | UTM Virtual Machines | [https://testflight.apple.com/join/Cg7UTrme](https://testflight.apple.com/join/Cg7UTrme) | Y | 2026-02-02 |
 
 </details>

@@ -6551,6 +6551,14 @@
         "ios"
       ],
       "last_modify": "2026-02-02"
+    },
+    "yXfSFBFp": {
+      "app_name": "SwiftServer - Monitoring &amp; SSH",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
