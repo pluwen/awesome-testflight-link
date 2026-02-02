@@ -6592,6 +6592,15 @@
         "ios"
       ],
       "last_modify": "2026-02-02"
+    },
+    "fJBKUFNX": {
+      "app_name": "VeSync",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
