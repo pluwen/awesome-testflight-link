@@ -6650,6 +6650,15 @@
         "ios"
       ],
       "last_modify": "2026-02-02"
+    },
+    "81Geh1jh": {
+      "app_name": "Downcast",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }

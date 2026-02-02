@@ -24,9 +24,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (162 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (163 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 162 apps are currently accepting new testers! Click the links to join._
+_✅ These 163 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -54,6 +54,7 @@ _✅ These 162 apps are currently accepting new testers! Click the links to join
 | Debit & Credit | [https://testflight.apple.com/join/FvufwHrV](https://testflight.apple.com/join/FvufwHrV) | Y | 2025-12-22 |
 | Deezer | [https://testflight.apple.com/join/e7mCOEeg](https://testflight.apple.com/join/e7mCOEeg) | Y | 2025-12-22 |
 | Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) | Y | 2025-12-22 |
+| Downcast | [https://testflight.apple.com/join/81Geh1jh](https://testflight.apple.com/join/81Geh1jh) | Y | 2026-02-02 |
 | Drippi: Liquid Timer | [https://testflight.apple.com/join/k4JX7jYx](https://testflight.apple.com/join/k4JX7jYx) | Y | 2026-01-30 |
 | Eimi: Daily Cards | [https://testflight.apple.com/join/ew2SUX7n](https://testflight.apple.com/join/ew2SUX7n) | Y | 2026-01-30 |
 | Element Messenger | [https://testflight.apple.com/join/lCeTuDKM](https://testflight.apple.com/join/lCeTuDKM) | Y | 2025-12-22 |
@@ -870,13 +871,14 @@ _⚠️ These 72 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (6 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (7 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 6 apps are currently accepting new testers! Click the links to join._
+_✅ These 7 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | Affinity Designer 2 iPad Beta | [https://testflight.apple.com/join/g1ygf6P7](https://testflight.apple.com/join/g1ygf6P7) | Y | 2026-02-02 |
+| Downcast | [https://testflight.apple.com/join/81Geh1jh](https://testflight.apple.com/join/81Geh1jh) | Y | 2026-02-02 |
 | Hiddify Proxy &amp; VPN | [https://testflight.apple.com/join/dsNjHxjb](https://testflight.apple.com/join/dsNjHxjb) | Y | 2026-02-02 |
 | PCalc | [https://testflight.apple.com/join/qCCdSLT1](https://testflight.apple.com/join/qCCdSLT1) | Y | 2026-02-02 |
 | VeSync | [https://testflight.apple.com/join/fJBKUFNX](https://testflight.apple.com/join/fJBKUFNX) | Y | 2026-02-02 |
