@@ -24,9 +24,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (151 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (152 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 151 apps are currently accepting new testers! Click the links to join._
+_✅ These 152 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -181,6 +181,7 @@ _✅ These 151 apps are currently accepting new testers! Click the links to join
 | 酷狗概念版 | [https://testflight.apple.com/join/DdscKm1S](https://testflight.apple.com/join/DdscKm1S) | Y | 2026-01-01 |
 | 酷狗音乐 | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | Y | 2025-12-22 |
 | 闲鱼 | [https://testflight.apple.com/join/JfpY3pHe](https://testflight.apple.com/join/JfpY3pHe) | Y | 2025-12-22 |
+| 香肠派对(先行服) | [https://testflight.apple.com/join/rEzEtRf2](https://testflight.apple.com/join/rEzEtRf2) | Y | 2026-02-02 |
 
 </details>
 
