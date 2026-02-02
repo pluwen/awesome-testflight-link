@@ -6714,6 +6714,15 @@
         "ipados"
       ],
       "last_modify": "2026-02-02"
+    },
+    "mX1G5TQi": {
+      "app_name": "Ellie - Daily Planner",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
