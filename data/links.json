@@ -6678,6 +6678,14 @@
         "ios"
       ],
       "last_modify": "2026-02-02"
+    },
+    "TkBNQZP2": {
+      "app_name": "Distill Player",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
