@@ -6705,6 +6705,15 @@
         "macos"
       ],
       "last_modify": "2026-02-02"
+    },
+    "SHDm9HrJ": {
+      "app_name": "Spectra - System Monitor",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
