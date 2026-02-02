@@ -6469,6 +6469,14 @@
         "ipados"
       ],
       "last_modify": "2026-02-02"
+    },
+    "qqTPmvCd": {
+      "app_name": "PixelHQ",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
