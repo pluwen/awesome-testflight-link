@@ -5086,12 +5086,14 @@
       "last_modify": "2025-12-22"
     },
     "xxEw2j1X": {
-      "app_name": "ColorSlurp Beta",
+      "app_name": "ColorSlurp",
       "status": "Y",
       "tables": [
-        "ios"
+        "ios",
+        "ipados",
+        "macos"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-02"
     },
     "pBGgMKw2": {
       "app_name": "Sabertooth for Mastodon",
