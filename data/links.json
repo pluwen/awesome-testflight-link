@@ -6695,6 +6695,16 @@
         "ipados"
       ],
       "last_modify": "2026-02-02"
+    },
+    "1AlPbnLZ": {
+      "app_name": "Home Assistant",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
