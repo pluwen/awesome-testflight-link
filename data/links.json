@@ -6494,6 +6494,14 @@
         "ipados"
       ],
       "last_modify": "2026-02-02"
+    },
+    "2oZuwSHJ": {
+      "app_name": "Angel Live - tvOS",
+      "status": "Y",
+      "tables": [
+        "tvos"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
