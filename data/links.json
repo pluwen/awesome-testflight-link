@@ -6543,6 +6543,14 @@
         "macos"
       ],
       "last_modify": "2026-02-02"
+    },
+    "ER3hRBSz": {
+      "app_name": "Thunderbird: Free Your Inbox",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
