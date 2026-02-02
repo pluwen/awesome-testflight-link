@@ -24,9 +24,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (149 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (150 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 149 apps are currently accepting new testers! Click the links to join._
+_✅ These 150 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -46,6 +46,7 @@ _✅ These 149 apps are currently accepting new testers! Click the links to join
 | CFlareDNS - Cloudflare DNS | [https://testflight.apple.com/join/3DtJwCzt](https://testflight.apple.com/join/3DtJwCzt) | Y | 2026-01-30 |
 | Chanyan | [https://testflight.apple.com/join/ky5bRwMY](https://testflight.apple.com/join/ky5bRwMY) | Y | 2025-12-22 |
 | Cheatsheet | [https://testflight.apple.com/join/E7AnyPlA](https://testflight.apple.com/join/E7AnyPlA) | Y | 2025-12-22 |
+| CodeAgents Mobile | [https://testflight.apple.com/join/eUpweBZV](https://testflight.apple.com/join/eUpweBZV) | Y | 2026-02-02 |
 | Collabora Office | [https://testflight.apple.com/join/TEnBWi68](https://testflight.apple.com/join/TEnBWi68) | Y | 2025-12-22 |
 | ColorSlurp Beta | [https://testflight.apple.com/join/xxEw2j1X](https://testflight.apple.com/join/xxEw2j1X) | Y | 2025-12-22 |
 | Day One Journal | [https://testflight.apple.com/join/NXLBigzY](https://testflight.apple.com/join/NXLBigzY) | Y | 2025-12-22 |
