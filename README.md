@@ -850,6 +850,19 @@ _⚠️ These 72 apps have reached their tester limit. Try checking back later._
 
 
 
+## iPadOS App List
+
+<details open>
+<summary><strong>Available (1 app)</strong> - Apps currently accepting new testers</summary>
+
+_✅ These 1 apps are currently accepting new testers! Click the links to join._
+
+| Name | TestFlight Link | Status | Last Updated |
+| --- | --- | --- | --- |
+| Affinity Designer 2 iPad Beta | [https://testflight.apple.com/join/g1ygf6P7](https://testflight.apple.com/join/g1ygf6P7) | Y | 2026-02-02 |
+
+</details>
+
 
 
 ## macOS App List
