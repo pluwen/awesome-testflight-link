@@ -6445,6 +6445,14 @@
         "ios"
       ],
       "last_modify": "2026-01-30"
+    },
+    "Cg7UTrme": {
+      "app_name": "UTM Virtual Machines",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
