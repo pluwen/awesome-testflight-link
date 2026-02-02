@@ -6453,6 +6453,14 @@
         "macos"
       ],
       "last_modify": "2026-02-02"
+    },
+    "2xC6J4zN": {
+      "app_name": "TP-Link Deco",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
