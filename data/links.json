@@ -6723,6 +6723,14 @@
         "ipados"
       ],
       "last_modify": "2026-02-02"
+    },
+    "3WThmhQu": {
+      "app_name": "ArcBreaker: Ringfall Arena",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
