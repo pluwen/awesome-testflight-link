@@ -875,12 +875,13 @@ _✅ These 3 apps are currently accepting new testers! Click the links to join._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (9 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (10 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 9 apps are currently accepting new testers! Click the links to join._
+_✅ These 10 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
+| Brutify | [https://testflight.apple.com/join/PapsDHQ3](https://testflight.apple.com/join/PapsDHQ3) | Y | 2026-02-02 |
 | Caffeine Utility | [https://testflight.apple.com/join/WHIbsose](https://testflight.apple.com/join/WHIbsose) | Y | 2025-12-22 |
 | Drafts | [https://testflight.apple.com/join/GhPcOrwa](https://testflight.apple.com/join/GhPcOrwa) | Y | 2025-12-22 |
 | Focus – Productivity Timer | [https://testflight.apple.com/join/4GWAwNsU](https://testflight.apple.com/join/4GWAwNsU) | Y | 2026-02-02 |

@@ -6535,6 +6535,14 @@
         "ios"
       ],
       "last_modify": "2026-02-02"
+    },
+    "PapsDHQ3": {
+      "app_name": "Brutify",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
