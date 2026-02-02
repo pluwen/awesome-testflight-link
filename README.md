@@ -24,9 +24,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (157 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (158 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 157 apps are currently accepting new testers! Click the links to join._
+_✅ These 158 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -153,6 +153,7 @@ _✅ These 157 apps are currently accepting new testers! Click the links to join
 | UTM Remote Virtual Machines | [https://testflight.apple.com/join/mFlnyMv3](https://testflight.apple.com/join/mFlnyMv3) | Y | 2026-01-30 |
 | VeSync | [https://testflight.apple.com/join/fJBKUFNX](https://testflight.apple.com/join/fJBKUFNX) | Y | 2026-02-02 |
 | VFeed | [https://testflight.apple.com/join/ZdC5U0fR](https://testflight.apple.com/join/ZdC5U0fR) | Y | 2026-01-30 |
+| VLC media player | [https://testflight.apple.com/join/q6gm0qgr](https://testflight.apple.com/join/q6gm0qgr) | Y | 2026-02-02 |
 | Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | Y | 2025-12-22 |
 | Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC](https://testflight.apple.com/join/Z0AU0KXC) | Y | 2025-12-22 |
 | Windscribe VPN | [https://testflight.apple.com/join/oKib5JOq](https://testflight.apple.com/join/oKib5JOq) | Y | 2025-12-22 |
@@ -865,9 +866,9 @@ _⚠️ These 72 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (5 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (6 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 5 apps are currently accepting new testers! Click the links to join._
+_✅ These 6 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -875,6 +876,7 @@ _✅ These 5 apps are currently accepting new testers! Click the links to join._
 | Hiddify Proxy &amp; VPN | [https://testflight.apple.com/join/dsNjHxjb](https://testflight.apple.com/join/dsNjHxjb) | Y | 2026-02-02 |
 | PCalc | [https://testflight.apple.com/join/qCCdSLT1](https://testflight.apple.com/join/qCCdSLT1) | Y | 2026-02-02 |
 | VeSync | [https://testflight.apple.com/join/fJBKUFNX](https://testflight.apple.com/join/fJBKUFNX) | Y | 2026-02-02 |
+| VLC media player | [https://testflight.apple.com/join/q6gm0qgr](https://testflight.apple.com/join/q6gm0qgr) | Y | 2026-02-02 |
 | 钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理 | [https://testflight.apple.com/join/gFZnVU2t](https://testflight.apple.com/join/gFZnVU2t) | Y | 2026-02-02 |
 
 </details>

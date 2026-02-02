@@ -6609,6 +6609,15 @@
         "ios"
       ],
       "last_modify": "2026-02-02"
+    },
+    "q6gm0qgr": {
+      "app_name": "VLC media player",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
