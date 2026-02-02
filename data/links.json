@@ -4607,11 +4607,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-23"
+      "last_modify": "2026-02-02"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -5599,19 +5599,19 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-01"
+      "last_modify": "2026-02-02"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-01"
+      "last_modify": "2026-02-02"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
@@ -5623,11 +5623,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-01"
+      "last_modify": "2026-02-02"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -5975,11 +5975,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-02"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6111,11 +6111,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-02"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
