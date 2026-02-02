@@ -6330,9 +6330,10 @@
       "status": "Y",
       "tables": [
         "ios",
+        "ipados",
         "tvos"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-02"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
