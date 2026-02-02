@@ -6575,6 +6575,15 @@
         "ios"
       ],
       "last_modify": "2026-02-02"
+    },
+    "gFZnVU2t": {
+      "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-02-02"
     }
   }
 }
