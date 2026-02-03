@@ -36,11 +36,11 @@
     },
     "Tqr03a4h": {
       "app_name": "MenubarX",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-03"
     },
     "QN934ULR": {
       "app_name": "APTV-Mac beta",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-03"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -4607,11 +4607,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-03"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -5233,11 +5233,11 @@
     },
     "TFhYeUyJ": {
       "app_name": "AliExpress - Shopping App beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-03"
     },
     "72eyUWVE": {
       "app_name": "Instagram",
@@ -5305,19 +5305,19 @@
     },
     "Pkd9a658": {
       "app_name": "UniFi",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-01-30"
-    },
-    "3yl2MSbw": {
-      "app_name": "Proton VPN: Fast & Secure",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-03"
+    },
+    "3yl2MSbw": {
+      "app_name": "Proton VPN: Fast & Secure",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-02-03"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -5449,11 +5449,11 @@
     },
     "4vmNqTE8": {
       "app_name": "Dash Calc",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-03"
     },
     "Q37kksaC": {
       "app_name": "DailyTown",
@@ -5977,11 +5977,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-03"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6185,11 +6185,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-03"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-03"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6500,11 +6500,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-03"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
