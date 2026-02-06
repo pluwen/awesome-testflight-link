@@ -93,11 +93,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-06"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-03"
+      "last_modify": "2026-02-06"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4959,11 +4959,11 @@
     },
     "9KR0Xx7E": {
       "app_name": "和风天气 - 可视化天气 beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-06"
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
@@ -5393,11 +5393,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-02-06"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-03"
+      "last_modify": "2026-02-06"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6500,11 +6500,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-02-04"
+      "last_modify": "2026-02-06"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6573,11 +6573,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-04"
+      "last_modify": "2026-02-06"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6726,11 +6726,11 @@
     },
     "3WThmhQu": {
       "app_name": "ArcBreaker: Ringfall Arena",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-02-06"
     }
   }
 }
