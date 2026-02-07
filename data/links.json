@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-02-07"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4583,11 +4583,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-07"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -4959,11 +4959,11 @@
     },
     "9KR0Xx7E": {
       "app_name": "和风天气 - 可视化天气 beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-06"
+      "last_modify": "2026-02-07"
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
@@ -5313,11 +5313,11 @@
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-03"
+      "last_modify": "2026-02-07"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -5625,11 +5625,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-07"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -5969,11 +5969,11 @@
     },
     "GgBqXAqm": {
       "app_name": "百度贴吧",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-07"
     },
     "TX83Mn7J": {
       "app_name": "知乎",
@@ -6057,11 +6057,11 @@
     },
     "mOxZm1dD": {
       "app_name": "我的世界-网易",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-26"
+      "last_modify": "2026-02-07"
     },
     "UIW76yDz": {
       "app_name": "枕边语pillowtalk-服务器监控工具",
@@ -6185,11 +6185,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-03"
+      "last_modify": "2026-02-07"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6233,11 +6233,11 @@
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-02-07"
     },
     "YthnpWFf": {
       "app_name": "豆包",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-06"
+      "last_modify": "2026-02-07"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6573,11 +6573,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-06"
+      "last_modify": "2026-02-07"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6665,11 +6665,11 @@
     },
     "xZR12ufn": {
       "app_name": "Overdue: another to-do app",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-07"
     },
     "yApyT263": {
       "app_name": "Moshi: SSH &amp; MOSH Terminal",
