@@ -93,11 +93,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-02-06"
+      "last_modify": "2026-02-08"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -5625,11 +5625,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-07"
+      "last_modify": "2026-02-08"
     },
     "98X2u19n": {
       "app_name": "PopCin",
