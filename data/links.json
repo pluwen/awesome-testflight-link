@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-07"
+      "last_modify": "2026-02-09"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4431,11 +4431,11 @@
     },
     "7sus3M6q": {
       "app_name": "Newsbite",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-09"
     },
     "ruyYHU5E": {
       "app_name": "Flipabit",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-06"
+      "last_modify": "2026-02-09"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5023,11 +5023,11 @@
     },
     "TL68k0Sp": {
       "app_name": "CharMap",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-09"
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
@@ -5393,11 +5393,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-06"
+      "last_modify": "2026-02-09"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5601,11 +5601,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-09"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5969,11 +5969,11 @@
     },
     "GgBqXAqm": {
       "app_name": "百度贴吧",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-07"
+      "last_modify": "2026-02-09"
     },
     "TX83Mn7J": {
       "app_name": "知乎",
@@ -6153,11 +6153,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-04"
+      "last_modify": "2026-02-09"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6233,11 +6233,11 @@
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-07"
+      "last_modify": "2026-02-09"
     },
     "YthnpWFf": {
       "app_name": "豆包",
@@ -6726,11 +6726,11 @@
     },
     "3WThmhQu": {
       "app_name": "ArcBreaker: Ringfall Arena",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-06"
+      "last_modify": "2026-02-09"
     }
   }
 }
