@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-10"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -4583,11 +4583,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-07"
+      "last_modify": "2026-02-10"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -4967,11 +4967,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-05"
+      "last_modify": "2026-02-10"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -6153,11 +6153,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-09"
+      "last_modify": "2026-02-10"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6524,12 +6524,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-10"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6573,11 +6573,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-07"
+      "last_modify": "2026-02-10"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6726,11 +6726,11 @@
     },
     "3WThmhQu": {
       "app_name": "ArcBreaker: Ringfall Arena",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-09"
+      "last_modify": "2026-02-10"
     }
   }
 }
