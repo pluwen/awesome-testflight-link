@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-04"
+      "last_modify": "2026-02-12"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -1861,11 +1861,11 @@
     },
     "pyzrz0oT": {
       "app_name": "Just Timers",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-12"
     },
     "pietJpfN": {
       "app_name": "Jyotish Computer",
@@ -2293,11 +2293,11 @@
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Lyrics Finder",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-02-12"
     },
     "DJoozd8u": {
       "app_name": "My Movies 4 Pro - Movie & TV",
@@ -3318,11 +3318,11 @@
     },
     "8RcEFqFF": {
       "app_name": "Sleep Cycle alarm clock",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-12"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-09"
+      "last_modify": "2026-02-12"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-12"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4567,11 +4567,11 @@
     },
     "tCeANbZi": {
       "app_name": "Sleep Cycle - Sleep Tracker beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-12"
     },
     "mnjOJPgH": {
       "app_name": "Launchify: Lock Screen Widgets beta",
@@ -4655,11 +4655,11 @@
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-12"
     },
     "cw8X7LeO": {
       "app_name": "Katunizer",
@@ -5055,11 +5055,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-12"
     },
     "Gu9kI6ky": {
       "app_name": "CapCut - Video Editor",
