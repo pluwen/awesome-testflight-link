@@ -1373,11 +1373,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-13"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2117,11 +2117,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-13"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2837,11 +2837,11 @@
     },
     "NkF46PRd": {
       "app_name": "Potatso",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-13"
     },
     "hKI4xKRj": {
       "app_name": "Power 9 – Magic: The Gathering",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-12"
+      "last_modify": "2026-02-13"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4655,11 +4655,11 @@
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-12"
+      "last_modify": "2026-02-13"
     },
     "cw8X7LeO": {
       "app_name": "Katunizer",
@@ -5055,11 +5055,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-12"
+      "last_modify": "2026-02-13"
     },
     "Gu9kI6ky": {
       "app_name": "CapCut - Video Editor",
@@ -5393,11 +5393,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-09"
+      "last_modify": "2026-02-13"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
