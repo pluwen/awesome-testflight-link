@@ -5385,11 +5385,11 @@
     },
     "uNlhFG0m": {
       "app_name": "PPSSPP - PSP emulator",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-15"
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
@@ -5609,11 +5609,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-15"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
@@ -5625,11 +5625,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-08"
+      "last_modify": "2026-02-15"
     },
     "98X2u19n": {
       "app_name": "PopCin",
