@@ -2117,11 +2117,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-13"
+      "last_modify": "2026-02-16"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2181,11 +2181,11 @@
     },
     "lsd9mugy": {
       "app_name": "Mixing Station",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-16"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -3655,11 +3655,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-16"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4655,11 +4655,11 @@
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-13"
+      "last_modify": "2026-02-16"
     },
     "cw8X7LeO": {
       "app_name": "Katunizer",
@@ -4823,11 +4823,11 @@
     },
     "fzDLkIVK": {
       "app_name": "1Password - Password Manager beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-14"
+      "last_modify": "2026-02-16"
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-14"
+      "last_modify": "2026-02-16"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-02-16"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5489,11 +5489,11 @@
     },
     "jR1MsqSt": {
       "app_name": "MuseoTrack",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-16"
     },
     "JaRYx1fE": {
       "app_name": "FM Radio x Radddio App",
@@ -5609,11 +5609,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-15"
+      "last_modify": "2026-02-16"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
@@ -5625,11 +5625,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-15"
+      "last_modify": "2026-02-16"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -6387,11 +6387,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-14"
+      "last_modify": "2026-02-16"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-07"
+      "last_modify": "2026-02-16"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6491,20 +6491,20 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-16"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-02-14"
+      "last_modify": "2026-02-16"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6524,12 +6524,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-02-14"
+      "last_modify": "2026-02-16"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6557,11 +6557,11 @@
     },
     "yXfSFBFp": {
       "app_name": "SwiftServer - Monitoring &amp; SSH",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-16"
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
