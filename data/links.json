@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-02-10"
+      "last_modify": "2026-02-17"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -1373,11 +1373,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-13"
+      "last_modify": "2026-02-17"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-12"
+      "last_modify": "2026-02-17"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2181,11 +2181,11 @@
     },
     "lsd9mugy": {
       "app_name": "Mixing Station",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-02-17"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -4583,11 +4583,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-10"
+      "last_modify": "2026-02-17"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -5137,11 +5137,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-17"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-02-17"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5601,11 +5601,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-09"
+      "last_modify": "2026-02-17"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6161,11 +6161,11 @@
     },
     "mAE3jS7i": {
       "app_name": "豆包",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-03"
+      "last_modify": "2026-02-17"
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
@@ -6241,19 +6241,19 @@
     },
     "YthnpWFf": {
       "app_name": "豆包",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-01-03"
-    },
-    "Hm0miNz8": {
-      "app_name": "抖音",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-17"
+    },
+    "Hm0miNz8": {
+      "app_name": "抖音",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-02-17"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-02-17"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6500,11 +6500,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-02-17"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
