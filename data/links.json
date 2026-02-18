@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-18"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2117,11 +2117,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-02-18"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -3318,11 +3318,11 @@
     },
     "8RcEFqFF": {
       "app_name": "Sleep Cycle alarm clock",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-12"
+      "last_modify": "2026-02-18"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -4567,11 +4567,11 @@
     },
     "tCeANbZi": {
       "app_name": "Sleep Cycle - Sleep Tracker beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-12"
+      "last_modify": "2026-02-18"
     },
     "mnjOJPgH": {
       "app_name": "Launchify: Lock Screen Widgets beta",
@@ -4583,11 +4583,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-18"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -4679,11 +4679,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-27"
+      "last_modify": "2026-02-18"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
@@ -5137,11 +5137,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-18"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -6249,11 +6249,11 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-18"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -6673,11 +6673,11 @@
     },
     "yApyT263": {
       "app_name": "Moshi: SSH &amp; MOSH Terminal",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-18"
     },
     "TkBNQZP2": {
       "app_name": "Distill Player",
