@@ -421,11 +421,11 @@
     },
     "ICUaKS17": {
       "app_name": "BeSafe",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-19"
     },
     "avYAAwEt": {
       "app_name": "BestOf-Private Travelogue",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-18"
+      "last_modify": "2026-02-19"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2117,11 +2117,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-18"
+      "last_modify": "2026-02-19"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2149,11 +2149,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-19"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-14"
+      "last_modify": "2026-02-19"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4095,11 +4095,11 @@
     },
     "PnKidEdF": {
       "app_name": "Wax for iPhone",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-19"
     },
     "dFF860Jn": {
       "app_name": "Weather Up ▴",
@@ -4431,11 +4431,11 @@
     },
     "7sus3M6q": {
       "app_name": "Newsbite",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-09"
+      "last_modify": "2026-02-19"
     },
     "ruyYHU5E": {
       "app_name": "Flipabit",
@@ -4607,11 +4607,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-04"
+      "last_modify": "2026-02-19"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4655,11 +4655,11 @@
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-02-19"
     },
     "cw8X7LeO": {
       "app_name": "Katunizer",
@@ -4679,11 +4679,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-18"
+      "last_modify": "2026-02-19"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-02-19"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5393,11 +5393,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-14"
+      "last_modify": "2026-02-19"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -6113,11 +6113,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-04"
+      "last_modify": "2026-02-19"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
@@ -6161,11 +6161,11 @@
     },
     "mAE3jS7i": {
       "app_name": "豆包",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-19"
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
@@ -6233,19 +6233,19 @@
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-09"
+      "last_modify": "2026-02-19"
     },
     "YthnpWFf": {
       "app_name": "豆包",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-19"
     },
     "Hm0miNz8": {
       "app_name": "抖音",
@@ -6698,13 +6698,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-19"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
