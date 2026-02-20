@@ -1005,11 +1005,11 @@
     },
     "LBZaRq4I": {
       "app_name": "Dropbox",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-20"
     },
     "70uu42Cu": {
       "app_name": "Droplets",
@@ -2149,11 +2149,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-02-20"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -5393,11 +5393,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-02-20"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -6057,11 +6057,11 @@
     },
     "mOxZm1dD": {
       "app_name": "我的世界-网易",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-07"
+      "last_modify": "2026-02-20"
     },
     "UIW76yDz": {
       "app_name": "枕边语pillowtalk-服务器监控工具",
@@ -6500,11 +6500,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-20"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6573,11 +6573,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-11"
+      "last_modify": "2026-02-20"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
