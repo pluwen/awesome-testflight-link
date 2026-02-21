@@ -1005,11 +1005,11 @@
     },
     "LBZaRq4I": {
       "app_name": "Dropbox",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-20"
+      "last_modify": "2026-02-21"
     },
     "70uu42Cu": {
       "app_name": "Droplets",
@@ -1373,11 +1373,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-21"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-02-21"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2141,11 +2141,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-01"
+      "last_modify": "2026-02-21"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-02-21"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4383,11 +4383,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot - Heart Rate Monitor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-21"
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-02-21"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4967,11 +4967,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-10"
+      "last_modify": "2026-02-21"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5137,11 +5137,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-18"
+      "last_modify": "2026-02-21"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -6161,11 +6161,11 @@
     },
     "mAE3jS7i": {
       "app_name": "豆包",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-02-21"
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
@@ -6233,19 +6233,19 @@
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-02-21"
     },
     "YthnpWFf": {
       "app_name": "豆包",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-02-21"
     },
     "Hm0miNz8": {
       "app_name": "抖音",
@@ -6411,11 +6411,11 @@
     },
     "Hxex2M6J": {
       "app_name": "Binge: Movies and Shows",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-21"
     },
     "k4JX7jYx": {
       "app_name": "Drippi: Liquid Timer",
@@ -6524,12 +6524,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-02-21"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6573,11 +6573,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-20"
+      "last_modify": "2026-02-21"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
