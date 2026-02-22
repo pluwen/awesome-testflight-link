@@ -6731,6 +6731,14 @@
         "ios"
       ],
       "last_modify": "2026-02-10"
+    },
+    "DhH5pqmu": {
+      "app_name": "Fovea - Pro Image Lab",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-02-22"
     }
   }
 }
