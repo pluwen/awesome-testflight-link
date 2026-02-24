@@ -109,11 +109,11 @@
     },
     "ZYsBYMhT": {
       "app_name": "Pricing Manager",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-24"
     },
     "JTWaYdDX": {
       "app_name": "Odak - Menu Bar Timer",
@@ -1461,11 +1461,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-23"
+      "last_modify": "2026-02-24"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -3102,11 +3102,11 @@
     },
     "ORz3QWRv": {
       "app_name": "RocketSim for Xcode",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-24"
     },
     "srkYDsAE": {
       "app_name": "RoomScan Pro",
@@ -5393,11 +5393,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-20"
+      "last_modify": "2026-02-24"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -6573,11 +6573,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-21"
+      "last_modify": "2026-02-24"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6648,11 +6648,11 @@
     },
     "XvAUCdaW": {
       "app_name": "Blanc Note",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-02-24"
     },
     "81Geh1jh": {
       "app_name": "Downcast",
