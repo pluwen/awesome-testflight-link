@@ -1125,11 +1125,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-25"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1237,11 +1237,11 @@
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-25"
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-21"
+      "last_modify": "2026-02-25"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2085,11 +2085,11 @@
     },
     "4x1P5Tnx": {
       "app_name": "MEGA",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-25"
     },
     "Qusn9Bkt": {
       "app_name": "MFC Deck",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-21"
+      "last_modify": "2026-02-25"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -5601,11 +5601,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-25"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5873,11 +5873,11 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-22"
+      "last_modify": "2026-02-25"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -6145,11 +6145,11 @@
     },
     "ZILJgZhU": {
       "app_name": "抖音",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-25"
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
@@ -6185,11 +6185,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-07"
+      "last_modify": "2026-02-25"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6249,11 +6249,11 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-18"
+      "last_modify": "2026-02-25"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -6491,12 +6491,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-02-25"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6573,11 +6573,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-24"
+      "last_modify": "2026-02-25"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6726,11 +6726,11 @@
     },
     "3WThmhQu": {
       "app_name": "ArcBreaker: Ringfall Arena",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-10"
+      "last_modify": "2026-02-25"
     },
     "DhH5pqmu": {
       "app_name": "Fovea - Pro Image Lab",
