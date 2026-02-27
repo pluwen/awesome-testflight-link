@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-27"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -6153,11 +6153,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-10"
+      "last_modify": "2026-02-27"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-27"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
