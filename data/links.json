@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-28"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1005,11 +1005,11 @@
     },
     "LBZaRq4I": {
       "app_name": "Dropbox",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-21"
+      "last_modify": "2026-02-28"
     },
     "70uu42Cu": {
       "app_name": "Droplets",
@@ -1365,11 +1365,11 @@
     },
     "Zl2czQO2": {
       "app_name": "FRITZ!App TV",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-28"
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-26"
+      "last_modify": "2026-02-28"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-02-28"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5417,11 +5417,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-02-28"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5601,11 +5601,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-25"
+      "last_modify": "2026-02-28"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5657,11 +5657,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-01"
+      "last_modify": "2026-02-28"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -5977,11 +5977,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-03"
+      "last_modify": "2026-02-28"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6113,11 +6113,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-22"
+      "last_modify": "2026-02-28"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
@@ -6153,19 +6153,19 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-02-27"
-    },
-    "mAE3jS7i": {
-      "app_name": "豆包",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-21"
+      "last_modify": "2026-02-28"
+    },
+    "mAE3jS7i": {
+      "app_name": "豆包",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-02-28"
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
@@ -6225,11 +6225,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-02-28"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
@@ -6241,11 +6241,11 @@
     },
     "YthnpWFf": {
       "app_name": "豆包",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-21"
+      "last_modify": "2026-02-28"
     },
     "Hm0miNz8": {
       "app_name": "抖音",
