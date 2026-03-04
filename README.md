@@ -915,13 +915,14 @@ _⚠️ These 3 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (12 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (13 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 12 apps are currently accepting new testers! Click the links to join._
+_✅ These 13 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | Brutify | [https://testflight.apple.com/join/PapsDHQ3](https://testflight.apple.com/join/PapsDHQ3) | Y | 2026-02-02 |
+| Caffeine Utility | [https://testflight.apple.com/join/WHIbsose](https://testflight.apple.com/join/WHIbsose) | Y | 2026-03-04 |
 | ColorSlurp | [https://testflight.apple.com/join/xxEw2j1X](https://testflight.apple.com/join/xxEw2j1X) | Y | 2026-02-02 |
 | Distill Player | [https://testflight.apple.com/join/TkBNQZP2](https://testflight.apple.com/join/TkBNQZP2) | Y | 2026-02-02 |
 | Drafts | [https://testflight.apple.com/join/GhPcOrwa](https://testflight.apple.com/join/GhPcOrwa) | Y | 2025-12-22 |
@@ -937,14 +938,13 @@ _✅ These 12 apps are currently accepting new testers! Click the links to join.
 </details>
 
 <details >
-<summary><strong>Full (6 apps)</strong> - Apps that have reached their tester limit</summary>
+<summary><strong>Full (5 apps)</strong> - Apps that have reached their tester limit</summary>
 
-_⚠️ These 6 apps have reached their tester limit. Try checking back later._
+_⚠️ These 5 apps have reached their tester limit. Try checking back later._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | APTV-Mac beta | [https://testflight.apple.com/join/QN934ULR](https://testflight.apple.com/join/QN934ULR) | F | 2025-12-22 |
-| Caffeine Utility | [https://testflight.apple.com/join/WHIbsose](https://testflight.apple.com/join/WHIbsose) | F | 2026-02-27 |
 | iCost记账-快速简洁好用的记账理财助手&amp;记账软件 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | F | 2026-01-30 |
 | MenubarX | [https://testflight.apple.com/join/Tqr03a4h](https://testflight.apple.com/join/Tqr03a4h) | F | 2026-02-04 |
 | SwiftServer - Monitoring &amp; SSH | [https://testflight.apple.com/join/yXfSFBFp](https://testflight.apple.com/join/yXfSFBFp) | F | 2026-02-16 |
