@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-28"
+      "last_modify": "2026-03-05"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -2117,19 +2117,19 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-02-19"
-    },
-    "eHAKJBtM": {
-      "app_name": "Microsoft Office",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-03"
+      "last_modify": "2026-03-05"
+    },
+    "eHAKJBtM": {
+      "app_name": "Microsoft Office",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-03-05"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2149,11 +2149,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-20"
+      "last_modify": "2026-03-05"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -2165,11 +2165,11 @@
     },
     "HSWkbCxV": {
       "app_name": "Microsoft Whiteboard",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-05"
     },
     "79Azm1hZ": {
       "app_name": "Mindustry",
@@ -4223,11 +4223,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-03-05"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4967,11 +4967,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-03"
+      "last_modify": "2026-03-05"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5153,11 +5153,11 @@
     },
     "t6xnU9H3": {
       "app_name": "Erasee: Background Remover",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-05"
     },
     "qbYJl8sX": {
       "app_name": "Unomo",
@@ -5561,11 +5561,11 @@
     },
     "wzyzzspP": {
       "app_name": "Tee-Timer",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-25"
+      "last_modify": "2026-03-05"
     },
     "3aUpFGCc": {
       "app_name": "Count In Days",
@@ -6113,11 +6113,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-01"
+      "last_modify": "2026-03-05"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
@@ -6329,13 +6329,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-03-03"
+      "last_modify": "2026-03-05"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6673,11 +6673,11 @@
     },
     "yApyT263": {
       "app_name": "Moshi: SSH &amp; MOSH Terminal",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-18"
+      "last_modify": "2026-03-05"
     },
     "TkBNQZP2": {
       "app_name": "Distill Player",
