@@ -36,11 +36,11 @@
     },
     "Tqr03a4h": {
       "app_name": "MenubarX",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-08"
     },
     "QN934ULR": {
       "app_name": "APTV-Mac beta",
@@ -1557,11 +1557,11 @@
     },
     "rFLkfNSu": {
       "app_name": "Hadge",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-08"
     },
     "JUOB0hwr": {
       "app_name": "HandCash (BETA)",
@@ -2974,11 +2974,11 @@
     },
     "JjPmPBK5": {
       "app_name": "Rapchat",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-08"
     },
     "T9AgTf4F": {
       "app_name": "RAPGOD.ai",
@@ -2998,11 +2998,11 @@
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-23"
+      "last_modify": "2026-03-08"
     },
     "iow1BtFD": {
       "app_name": "REAL Shuffle Player PRO",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-13"
+      "last_modify": "2026-03-08"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -5417,11 +5417,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-08"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -6281,11 +6281,11 @@
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-08"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
@@ -6443,11 +6443,11 @@
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-01"
+      "last_modify": "2026-03-08"
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
