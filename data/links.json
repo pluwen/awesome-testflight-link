@@ -125,11 +125,11 @@
     },
     "CtKY8RYh": {
       "app_name": "WPS Office for PC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-01-05"
+      "last_modify": "2026-03-09"
     },
     "QKqitFwc": {
       "app_name": "1.1.1.1: Faster Internet",
@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-09"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -2998,11 +2998,11 @@
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-08"
+      "last_modify": "2026-03-09"
     },
     "iow1BtFD": {
       "app_name": "REAL Shuffle Player PRO",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-08"
+      "last_modify": "2026-03-09"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4783,11 +4783,11 @@
     },
     "IjV5V0zL": {
       "app_name": "Retro 2",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-09"
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-21"
+      "last_modify": "2026-03-09"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-09"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5601,11 +5601,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-09"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5681,11 +5681,11 @@
     },
     "sBDlEXYr": {
       "app_name": "Minecraft: Education Edition beta",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-03-09"
     },
     "Dc1K5L3N": {
       "app_name": "Royal Commando",
@@ -6265,11 +6265,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-06"
+      "last_modify": "2026-03-09"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6329,13 +6329,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-03-06"
+      "last_modify": "2026-03-09"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6387,11 +6387,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-09"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
