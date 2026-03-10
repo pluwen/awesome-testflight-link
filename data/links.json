@@ -125,11 +125,11 @@
     },
     "CtKY8RYh": {
       "app_name": "WPS Office for PC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-03-09"
+      "last_modify": "2026-03-10"
     },
     "QKqitFwc": {
       "app_name": "1.1.1.1: Faster Internet",
@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-09"
+      "last_modify": "2026-03-10"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1557,11 +1557,11 @@
     },
     "rFLkfNSu": {
       "app_name": "Hadge",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-08"
+      "last_modify": "2026-03-10"
     },
     "JUOB0hwr": {
       "app_name": "HandCash (BETA)",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-09"
+      "last_modify": "2026-03-10"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5625,11 +5625,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-03"
+      "last_modify": "2026-03-10"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -6161,11 +6161,11 @@
     },
     "mAE3jS7i": {
       "app_name": "豆包",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-28"
+      "last_modify": "2026-03-10"
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
@@ -6185,11 +6185,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-02"
+      "last_modify": "2026-03-10"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6233,19 +6233,19 @@
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-02-21"
-    },
-    "YthnpWFf": {
-      "app_name": "豆包",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-28"
+      "last_modify": "2026-03-10"
+    },
+    "YthnpWFf": {
+      "app_name": "豆包",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-03-10"
     },
     "Hm0miNz8": {
       "app_name": "抖音",
@@ -6265,11 +6265,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-09"
+      "last_modify": "2026-03-10"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
