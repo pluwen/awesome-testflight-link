@@ -125,11 +125,11 @@
     },
     "CtKY8RYh": {
       "app_name": "WPS Office for PC",
-      "status": "F",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-03-10"
+      "last_modify": "2026-03-14"
     },
     "QKqitFwc": {
       "app_name": "1.1.1.1: Faster Internet",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-13"
+      "last_modify": "2026-03-14"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5601,11 +5601,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-12"
+      "last_modify": "2026-03-14"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5625,11 +5625,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-11"
+      "last_modify": "2026-03-14"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -6145,11 +6145,11 @@
     },
     "ZILJgZhU": {
       "app_name": "抖音",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-25"
+      "last_modify": "2026-03-14"
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
@@ -6185,11 +6185,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-10"
+      "last_modify": "2026-03-14"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6249,11 +6249,11 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-11"
+      "last_modify": "2026-03-14"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-13"
+      "last_modify": "2026-03-14"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6573,11 +6573,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-12"
+      "last_modify": "2026-03-14"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6698,13 +6698,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-02-26"
+      "last_modify": "2026-03-14"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
