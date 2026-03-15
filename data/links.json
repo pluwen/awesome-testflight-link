@@ -4223,11 +4223,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-12"
+      "last_modify": "2026-03-15"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4383,11 +4383,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot - Heart Rate Monitor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-22"
+      "last_modify": "2026-03-15"
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
@@ -5313,11 +5313,11 @@
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-13"
+      "last_modify": "2026-03-15"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -5601,11 +5601,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-14"
+      "last_modify": "2026-03-15"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5625,11 +5625,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-14"
+      "last_modify": "2026-03-15"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -6249,11 +6249,11 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-14"
+      "last_modify": "2026-03-15"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-14"
+      "last_modify": "2026-03-15"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6615,12 +6615,12 @@
     },
     "q6gm0qgr": {
       "app_name": "VLC media player",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-03-15"
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
