@@ -1461,11 +1461,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-16"
+      "last_modify": "2026-03-17"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -4967,11 +4967,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-12"
+      "last_modify": "2026-03-17"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-16"
+      "last_modify": "2026-03-17"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5601,11 +5601,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-16"
+      "last_modify": "2026-03-17"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6057,11 +6057,11 @@
     },
     "mOxZm1dD": {
       "app_name": "我的世界-网易",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-13"
+      "last_modify": "2026-03-17"
     },
     "UIW76yDz": {
       "app_name": "枕边语pillowtalk-服务器监控工具",
@@ -6153,11 +6153,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-16"
+      "last_modify": "2026-03-17"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6339,19 +6339,19 @@
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-03-17"
     },
     "YYfh75TS": {
       "app_name": "书墨",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-03-17"
     },
     "ckShCX1T": {
       "app_name": "酷我音乐-好音质用酷我",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-16"
+      "last_modify": "2026-03-17"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6500,11 +6500,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-17"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6615,12 +6615,12 @@
     },
     "q6gm0qgr": {
       "app_name": "VLC media player",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-03-15"
+      "last_modify": "2026-03-17"
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
