@@ -1461,11 +1461,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-17"
+      "last_modify": "2026-03-18"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -6113,11 +6113,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-18"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
@@ -6153,11 +6153,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-17"
+      "last_modify": "2026-03-18"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6233,11 +6233,11 @@
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-11"
+      "last_modify": "2026-03-18"
     },
     "YthnpWFf": {
       "app_name": "豆包",
@@ -6297,11 +6297,11 @@
     },
     "u07lq6bj": {
       "app_name": "喜马拉雅FM",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-16"
+      "last_modify": "2026-03-18"
     },
     "tZIfgySI": {
       "app_name": "百度输入法",
@@ -6339,19 +6339,19 @@
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
-      "status": "D",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-17"
+      "last_modify": "2026-03-18"
     },
     "YYfh75TS": {
       "app_name": "书墨",
-      "status": "D",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-17"
+      "last_modify": "2026-03-18"
     },
     "ckShCX1T": {
       "app_name": "酷我音乐-好音质用酷我",
@@ -6500,11 +6500,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-03-17"
+      "last_modify": "2026-03-18"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
