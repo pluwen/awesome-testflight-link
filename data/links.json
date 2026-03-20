@@ -52,12 +52,12 @@
     },
     "IjXpQtAo": {
       "app_name": "Salam",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "macos",
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-20"
     },
     "7raK338Y": {
       "app_name": "Code Piper",
@@ -549,11 +549,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-03-20"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -1461,11 +1461,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-20"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -2117,11 +2117,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-20"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -4511,11 +4511,11 @@
     },
     "8BOPXsGz": {
       "app_name": "Steam iOS beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-20"
     },
     "sY14cetk": {
       "app_name": "Trackpet",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-14"
+      "last_modify": "2026-03-20"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4967,11 +4967,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-17"
+      "last_modify": "2026-03-20"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5137,11 +5137,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-22"
+      "last_modify": "2026-03-20"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-20"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6113,11 +6113,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-18"
+      "last_modify": "2026-03-20"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
@@ -6153,11 +6153,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-20"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6233,11 +6233,11 @@
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-20"
     },
     "YthnpWFf": {
       "app_name": "豆包",
@@ -6321,11 +6321,11 @@
     },
     "3DtJwCzt": {
       "app_name": "CFlareDNS - Cloudflare DNS",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-03-20"
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
@@ -6387,19 +6387,19 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-03-09"
-    },
-    "wA5dBeFr": {
-      "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-20"
+    },
+    "wA5dBeFr": {
+      "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-03-20"
     },
     "T1JruCw4": {
       "app_name": "SpotiCar",
