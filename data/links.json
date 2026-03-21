@@ -1245,11 +1245,11 @@
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-21"
     },
     "qtUnSjJp": {
       "app_name": "Firewalla",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-03"
+      "last_modify": "2026-03-21"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -4463,11 +4463,11 @@
     },
     "s4rTJVPb": {
       "app_name": "WhatsApp Messenger",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-27"
+      "last_modify": "2026-03-21"
     },
     "eu5rogJB": {
       "app_name": "Ulry",
@@ -4551,11 +4551,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-21"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-21"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4967,11 +4967,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-21"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5137,11 +5137,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-21"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -6153,11 +6153,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-21"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6233,11 +6233,11 @@
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-21"
     },
     "YthnpWFf": {
       "app_name": "豆包",
@@ -6257,11 +6257,11 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-21"
     },
     "C9b7GypS": {
       "app_name": "高德地图",
@@ -6387,11 +6387,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-21"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
