@@ -549,11 +549,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-22"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -4607,11 +4607,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-03-22"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4967,11 +4967,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-21"
+      "last_modify": "2026-03-22"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5529,11 +5529,11 @@
     },
     "bExxpaX1": {
       "app_name": "Lenna - Video Library Player",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-03-22"
     },
     "VnGZhjsZ": {
       "app_name": "Ketro",
@@ -6281,11 +6281,11 @@
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-22"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-17"
+      "last_modify": "2026-03-22"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6524,12 +6524,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-03-06"
+      "last_modify": "2026-03-22"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
