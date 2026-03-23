@@ -549,11 +549,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-22"
+      "last_modify": "2026-03-23"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -1245,11 +1245,11 @@
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-21"
+      "last_modify": "2026-03-23"
     },
     "qtUnSjJp": {
       "app_name": "Firewalla",
@@ -2942,11 +2942,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-23"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3318,11 +3318,11 @@
     },
     "8RcEFqFF": {
       "app_name": "Sleep Cycle alarm clock",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-16"
+      "last_modify": "2026-03-23"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -4463,11 +4463,11 @@
     },
     "s4rTJVPb": {
       "app_name": "WhatsApp Messenger",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-21"
+      "last_modify": "2026-03-23"
     },
     "eu5rogJB": {
       "app_name": "Ulry",
@@ -4567,11 +4567,11 @@
     },
     "tCeANbZi": {
       "app_name": "Sleep Cycle - Sleep Tracker beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-16"
+      "last_modify": "2026-03-23"
     },
     "mnjOJPgH": {
       "app_name": "Launchify: Lock Screen Widgets beta",
@@ -4919,11 +4919,11 @@
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-31"
+      "last_modify": "2026-03-23"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-23"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5833,11 +5833,11 @@
     },
     "K4pM1kHu": {
       "app_name": "哔哩哔哩",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-23"
     },
     "Fwa9TCKU": {
       "app_name": "哔哩哔哩 HD",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-22"
+      "last_modify": "2026-03-23"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6698,13 +6698,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-03-14"
+      "last_modify": "2026-03-23"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
