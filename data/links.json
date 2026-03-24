@@ -2125,11 +2125,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-05"
+      "last_modify": "2026-03-24"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2853,11 +2853,11 @@
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-03-24"
     },
     "8SxXknzD": {
       "app_name": "ProtonMail - Encrypted Email",
@@ -4551,11 +4551,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-21"
+      "last_modify": "2026-03-24"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -4919,11 +4919,11 @@
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-23"
+      "last_modify": "2026-03-24"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-23"
+      "last_modify": "2026-03-24"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5833,11 +5833,11 @@
     },
     "K4pM1kHu": {
       "app_name": "哔哩哔哩",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-23"
+      "last_modify": "2026-03-24"
     },
     "Fwa9TCKU": {
       "app_name": "哔哩哔哩 HD",
@@ -6185,11 +6185,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-14"
+      "last_modify": "2026-03-24"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6281,11 +6281,11 @@
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-22"
+      "last_modify": "2026-03-24"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-23"
+      "last_modify": "2026-03-24"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6698,13 +6698,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-03-23"
+      "last_modify": "2026-03-24"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
