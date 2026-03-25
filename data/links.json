@@ -1861,11 +1861,11 @@
     },
     "pyzrz0oT": {
       "app_name": "Just Timers",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-25"
     },
     "pietJpfN": {
       "app_name": "Jyotish Computer",
@@ -2125,11 +2125,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-24"
+      "last_modify": "2026-03-25"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2853,11 +2853,11 @@
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-24"
+      "last_modify": "2026-03-25"
     },
     "8SxXknzD": {
       "app_name": "ProtonMail - Encrypted Email",
@@ -3478,12 +3478,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-03-25"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -4447,11 +4447,11 @@
     },
     "YSo8aVCS": {
       "app_name": "Notion",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-25"
     },
     "ky5bRwMY": {
       "app_name": "Chanyan",
@@ -5137,11 +5137,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-21"
+      "last_modify": "2026-03-25"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5505,11 +5505,11 @@
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-25"
     },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
@@ -5625,11 +5625,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-15"
+      "last_modify": "2026-03-25"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -6281,11 +6281,11 @@
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-24"
+      "last_modify": "2026-03-25"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
@@ -6339,19 +6339,19 @@
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-18"
+      "last_modify": "2026-03-25"
     },
     "YYfh75TS": {
       "app_name": "书墨",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-18"
+      "last_modify": "2026-03-25"
     },
     "ckShCX1T": {
       "app_name": "酷我音乐-好音质用酷我",
