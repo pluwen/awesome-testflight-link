@@ -2117,11 +2117,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-27"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2133,11 +2133,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-03-27"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2853,11 +2853,11 @@
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-25"
+      "last_modify": "2026-03-27"
     },
     "8SxXknzD": {
       "app_name": "ProtonMail - Encrypted Email",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-27"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3478,12 +3478,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-27"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -3639,11 +3639,11 @@
     },
     "u6iogfd0": {
       "app_name": "Telegram Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-28"
+      "last_modify": "2026-03-27"
     },
     "LQ2GXZag": {
       "app_name": "TelePlus",
@@ -4383,11 +4383,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot - Heart Rate Monitor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-27"
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
@@ -5233,11 +5233,11 @@
     },
     "TFhYeUyJ": {
       "app_name": "AliExpress - Shopping App beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-27"
     },
     "72eyUWVE": {
       "app_name": "Instagram",
@@ -6153,11 +6153,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-27"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6249,11 +6249,11 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-19"
+      "last_modify": "2026-03-27"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -6281,11 +6281,11 @@
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-25"
+      "last_modify": "2026-03-27"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
@@ -6347,11 +6347,11 @@
     },
     "YYfh75TS": {
       "app_name": "书墨",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-27"
     },
     "ckShCX1T": {
       "app_name": "酷我音乐-好音质用酷我",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-27"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6573,11 +6573,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-27"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
