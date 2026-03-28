@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-28"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -2117,27 +2117,27 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-03-27"
-    },
-    "eHAKJBtM": {
-      "app_name": "Microsoft Office",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-25"
+      "last_modify": "2026-03-28"
     },
-    "LtgPLzrQ": {
-      "app_name": "Microsoft OneDrive",
+    "eHAKJBtM": {
+      "app_name": "Microsoft Office",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-03-28"
+    },
+    "LtgPLzrQ": {
+      "app_name": "Microsoft OneDrive",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-03-28"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2853,11 +2853,11 @@
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-03-28"
     },
     "8SxXknzD": {
       "app_name": "ProtonMail - Encrypted Email",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-03-28"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3639,11 +3639,11 @@
     },
     "u6iogfd0": {
       "app_name": "Telegram Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-03-28"
     },
     "LQ2GXZag": {
       "app_name": "TelePlus",
@@ -3711,11 +3711,11 @@
     },
     "wGEkmFU9": {
       "app_name": "Tik-App",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-03-28"
     },
     "ACkjB1Xh": {
       "app_name": "Time for Coffee!",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-09"
+      "last_modify": "2026-03-28"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4767,11 +4767,11 @@
     },
     "ctQoX4vC": {
       "app_name": "Property Finder",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-11"
+      "last_modify": "2026-03-28"
     },
     "w1GVbaMO": {
       "app_name": "Microsoft Loop beta",
@@ -4911,11 +4911,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-21"
+      "last_modify": "2026-03-28"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5169,11 +5169,11 @@
     },
     "2dTbntXZ": {
       "app_name": "Tuttii Beta",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-28"
+      "last_modify": "2026-03-28"
     },
     "bCLmQKfQ": {
       "app_name": "Love2D Game Maker",
@@ -5601,11 +5601,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-17"
+      "last_modify": "2026-03-28"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5625,11 +5625,11 @@
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-28"
     },
     "98X2u19n": {
       "app_name": "PopCin",
@@ -6185,11 +6185,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-24"
+      "last_modify": "2026-03-28"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6257,11 +6257,11 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-28"
     },
     "C9b7GypS": {
       "app_name": "高德地图",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-03-28"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
