@@ -1245,11 +1245,11 @@
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-29"
+      "last_modify": "2026-03-30"
     },
     "qtUnSjJp": {
       "app_name": "Firewalla",
@@ -2117,11 +2117,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-28"
+      "last_modify": "2026-03-30"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2141,11 +2141,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-22"
+      "last_modify": "2026-03-30"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -4463,11 +4463,11 @@
     },
     "s4rTJVPb": {
       "app_name": "WhatsApp Messenger",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-29"
+      "last_modify": "2026-03-30"
     },
     "eu5rogJB": {
       "app_name": "Ulry",
@@ -6169,11 +6169,11 @@
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-29"
+      "last_modify": "2026-03-30"
     },
     "sIj5iOoj": {
       "app_name": "网易爆米花",
@@ -6225,11 +6225,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-03-30"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
@@ -6265,11 +6265,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-29"
+      "last_modify": "2026-03-30"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-29"
+      "last_modify": "2026-03-30"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
