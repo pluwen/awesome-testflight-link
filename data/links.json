@@ -2117,19 +2117,19 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-03-30"
-    },
-    "eHAKJBtM": {
-      "app_name": "Microsoft Office",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-29"
+      "last_modify": "2026-03-31"
+    },
+    "eHAKJBtM": {
+      "app_name": "Microsoft Office",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-03-31"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2141,11 +2141,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-30"
+      "last_modify": "2026-03-31"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -4583,11 +4583,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-13"
+      "last_modify": "2026-03-31"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -4967,11 +4967,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-22"
+      "last_modify": "2026-03-31"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5055,11 +5055,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-13"
+      "last_modify": "2026-03-31"
     },
     "Gu9kI6ky": {
       "app_name": "CapCut - Video Editor",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-24"
+      "last_modify": "2026-03-31"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6395,11 +6395,11 @@
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-20"
+      "last_modify": "2026-03-31"
     },
     "T1JruCw4": {
       "app_name": "SpotiCar",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-30"
+      "last_modify": "2026-03-31"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
