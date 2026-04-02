@@ -2133,11 +2133,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-04-02"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -4679,11 +4679,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-04-02"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
@@ -5657,11 +5657,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-01"
+      "last_modify": "2026-04-02"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -6145,11 +6145,11 @@
     },
     "ZILJgZhU": {
       "app_name": "抖音",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-14"
+      "last_modify": "2026-04-02"
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧",
@@ -6249,11 +6249,11 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-04-02"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
