@@ -6739,6 +6739,14 @@
         "macos"
       ],
       "last_modify": "2026-02-22"
+    },
+    "zlnbGVKx": {
+      "app_name": "Screen Mirror and Control",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-04-02"
     }
   }
 }
