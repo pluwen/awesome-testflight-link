@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-04-03"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2269,11 +2269,11 @@
     },
     "uaazZoIc": {
       "app_name": "Music Harbor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-03"
     },
     "EIEOkKJV": {
       "app_name": "Music Year in Review",
@@ -3663,11 +3663,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-03"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4679,11 +4679,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-02"
+      "last_modify": "2026-04-03"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
@@ -5313,11 +5313,11 @@
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-15"
+      "last_modify": "2026-04-03"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -5657,11 +5657,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-02"
+      "last_modify": "2026-04-03"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -6387,11 +6387,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-21"
+      "last_modify": "2026-04-03"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6541,11 +6541,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-04-03"
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
