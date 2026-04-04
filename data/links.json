@@ -2269,11 +2269,11 @@
     },
     "uaazZoIc": {
       "app_name": "Music Harbor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-03"
+      "last_modify": "2026-04-04"
     },
     "EIEOkKJV": {
       "app_name": "Music Year in Review",
@@ -2429,11 +2429,11 @@
     },
     "i4g2QrrG": {
       "app_name": "NOS",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-04"
     },
     "DGHcr3A1": {
       "app_name": "NoSeen for Facebook Messenger",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-04-04"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -5137,11 +5137,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-04-04"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5609,11 +5609,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-04-04"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
@@ -6257,11 +6257,11 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-04-04"
     },
     "C9b7GypS": {
       "app_name": "高德地图",
@@ -6329,13 +6329,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-03-09"
+      "last_modify": "2026-04-04"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6387,11 +6387,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-03"
+      "last_modify": "2026-04-04"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-31"
+      "last_modify": "2026-04-04"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
