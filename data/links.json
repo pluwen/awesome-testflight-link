@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-04"
+      "last_modify": "2026-04-05"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-28"
+      "last_modify": "2026-04-05"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -5137,11 +5137,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-04"
+      "last_modify": "2026-04-05"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5305,11 +5305,11 @@
     },
     "Pkd9a658": {
       "app_name": "UniFi",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-03"
+      "last_modify": "2026-04-05"
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
@@ -5417,11 +5417,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-08"
+      "last_modify": "2026-04-05"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5609,11 +5609,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-04"
+      "last_modify": "2026-04-05"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
