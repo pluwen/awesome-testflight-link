@@ -3342,11 +3342,11 @@
     },
     "a0zXMXbA": {
       "app_name": "Smart Post: Schedule Media",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-06"
     },
     "53f970RC": {
       "app_name": "Smooz Browser",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-05"
+      "last_modify": "2026-04-06"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3478,12 +3478,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-04-06"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -5217,11 +5217,11 @@
     },
     "syX6IOJF": {
       "app_name": "Life360: Find Friends & Family beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-06"
     },
     "PxpSW79P": {
       "app_name": "Shadow PC beta",
@@ -5305,11 +5305,11 @@
     },
     "Pkd9a658": {
       "app_name": "UniFi",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-05"
+      "last_modify": "2026-04-06"
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
@@ -5417,11 +5417,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-05"
+      "last_modify": "2026-04-06"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -6161,11 +6161,11 @@
     },
     "mAE3jS7i": {
       "app_name": "豆包",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-13"
+      "last_modify": "2026-04-06"
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
@@ -6241,11 +6241,11 @@
     },
     "YthnpWFf": {
       "app_name": "豆包",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-13"
+      "last_modify": "2026-04-06"
     },
     "Hm0miNz8": {
       "app_name": "抖音",
