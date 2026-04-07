@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-03-04"
+      "last_modify": "2026-04-07"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-06"
+      "last_modify": "2026-04-07"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -5087,13 +5087,13 @@
     },
     "xxEw2j1X": {
       "app_name": "ColorSlurp",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-04-07"
     },
     "pBGgMKw2": {
       "app_name": "Sabertooth for Mastodon",
@@ -5313,11 +5313,11 @@
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-03"
+      "last_modify": "2026-04-07"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -5617,11 +5617,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-31"
+      "last_modify": "2026-04-07"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
