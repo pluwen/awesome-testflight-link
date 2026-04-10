@@ -2133,11 +2133,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-09"
+      "last_modify": "2026-04-10"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -3318,11 +3318,11 @@
     },
     "8RcEFqFF": {
       "app_name": "Sleep Cycle alarm clock",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-23"
+      "last_modify": "2026-04-10"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-09"
+      "last_modify": "2026-04-10"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4567,11 +4567,11 @@
     },
     "tCeANbZi": {
       "app_name": "Sleep Cycle - Sleep Tracker beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-23"
+      "last_modify": "2026-04-10"
     },
     "mnjOJPgH": {
       "app_name": "Launchify: Lock Screen Widgets beta",
@@ -5031,11 +5031,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-05"
+      "last_modify": "2026-04-10"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-09"
+      "last_modify": "2026-04-10"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6113,11 +6113,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-09"
+      "last_modify": "2026-04-10"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
@@ -6233,11 +6233,11 @@
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-21"
+      "last_modify": "2026-04-10"
     },
     "YthnpWFf": {
       "app_name": "豆包",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-08"
+      "last_modify": "2026-04-10"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
