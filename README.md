@@ -1,6 +1,7 @@
 # Awesome Testflight App List
 Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=pluwen_awesome-testflight-link) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## 🚀 Quick Navigation
 - [iOS Apps](#ios-app-list)
 - [iPadOS Apps](#ipados-app-list)
