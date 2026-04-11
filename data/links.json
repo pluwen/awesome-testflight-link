@@ -117,11 +117,11 @@
     },
     "JTWaYdDX": {
       "app_name": "Odak - Menu Bar Timer",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-04-11"
     },
     "CtKY8RYh": {
       "app_name": "WPS Office for PC",
@@ -2149,11 +2149,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "N",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-05"
+      "last_modify": "2026-04-11"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -3719,11 +3719,11 @@
     },
     "ACkjB1Xh": {
       "app_name": "Time for Coffee!",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-04-11"
     },
     "8NvVXGgp": {
       "app_name": "Time:Calc",
@@ -4895,11 +4895,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-11"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -5031,11 +5031,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-10"
+      "last_modify": "2026-04-11"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-10"
+      "last_modify": "2026-04-11"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5657,11 +5657,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-03"
+      "last_modify": "2026-04-11"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -6225,11 +6225,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-30"
+      "last_modify": "2026-04-11"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
@@ -6329,13 +6329,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-04-04"
+      "last_modify": "2026-04-11"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6565,11 +6565,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-04-11"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
