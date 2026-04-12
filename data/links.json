@@ -85,11 +85,11 @@
     },
     "GhPcOrwa": {
       "app_name": "Drafts",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "macos"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-12"
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-09"
+      "last_modify": "2026-04-12"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-10"
+      "last_modify": "2026-04-12"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -5305,11 +5305,11 @@
     },
     "Pkd9a658": {
       "app_name": "UniFi",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-06"
+      "last_modify": "2026-04-12"
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
@@ -5353,11 +5353,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-11"
+      "last_modify": "2026-04-12"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5657,11 +5657,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-11"
+      "last_modify": "2026-04-12"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -6225,11 +6225,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-11"
+      "last_modify": "2026-04-12"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说",
@@ -6297,11 +6297,11 @@
     },
     "u07lq6bj": {
       "app_name": "喜马拉雅FM",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-18"
+      "last_modify": "2026-04-12"
     },
     "tZIfgySI": {
       "app_name": "百度输入法",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-10"
+      "last_modify": "2026-04-12"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
