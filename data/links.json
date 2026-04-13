@@ -117,11 +117,11 @@
     },
     "JTWaYdDX": {
       "app_name": "Odak - Menu Bar Timer",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-11"
+      "last_modify": "2026-04-13"
     },
     "CtKY8RYh": {
       "app_name": "WPS Office for PC",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-12"
+      "last_modify": "2026-04-13"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-12"
+      "last_modify": "2026-04-13"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -5481,11 +5481,11 @@
     },
     "pkrdVu0n": {
       "app_name": "Herald: Latest News",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-01"
+      "last_modify": "2026-04-13"
     },
     "jR1MsqSt": {
       "app_name": "MuseoTrack",
@@ -6427,11 +6427,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-12"
+      "last_modify": "2026-04-13"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6698,13 +6698,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-04-08"
+      "last_modify": "2026-04-13"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
