@@ -6747,6 +6747,14 @@
         "macos"
       ],
       "last_modify": "2026-04-02"
+    },
+    "vHkRCZEy": {
+      "app_name": "Kintoun for Cloudflare",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-04-15"
     }
   }
 }
