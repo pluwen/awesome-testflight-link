@@ -854,11 +854,10 @@ _⚠️ These 77 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details >
-<summary><strong>Removed (13 apps)</strong> - Apps that have been removed from TestFlight</summary>
+<summary><strong>Removed (12 apps)</strong> - Apps that have been removed from TestFlight</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
-| Adobe Acrobat Reader: Edit PDF | [https://testflight.apple.com/join/8XhFnQlp](https://testflight.apple.com/join/8XhFnQlp) | D | 2026-01-30 |
 | CapCut - Video Editor | [https://testflight.apple.com/join/Gu9kI6ky](https://testflight.apple.com/join/Gu9kI6ky) | D | 2025-12-22 |
 | CFlareDNS - Cloudflare DNS | [https://testflight.apple.com/join/3DtJwCzt](https://testflight.apple.com/join/3DtJwCzt) | D | 2026-03-20 |
 | Elytra | [https://testflight.apple.com/join/PYYu2Cco](https://testflight.apple.com/join/PYYu2Cco) | D | 2025-12-22 |
