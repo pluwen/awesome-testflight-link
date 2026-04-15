@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository == 'pluwen/awesome-testflight-link'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Setup uv
         uses: astral-sh/setup-uv@v7
         with:
