@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-14"
+      "last_modify": "2026-04-15"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -4495,11 +4495,11 @@
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-04-15"
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
@@ -6395,11 +6395,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-14"
+      "last_modify": "2026-04-15"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6468,11 +6468,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-04-09"
+      "last_modify": "2026-04-15"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6541,11 +6541,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-04-15"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6666,13 +6666,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-04-14"
+      "last_modify": "2026-04-15"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
