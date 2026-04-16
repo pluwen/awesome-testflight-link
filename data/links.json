@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-15"
+      "last_modify": "2026-04-16"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -4223,11 +4223,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-15"
+      "last_modify": "2026-04-16"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4255,11 +4255,11 @@
     },
     "5zhB7sRP": {
       "app_name": "YACReader",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-04-16"
     },
     "eruM03qY": {
       "app_name": "Yamble",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-05"
+      "last_modify": "2026-04-16"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -5289,11 +5289,11 @@
     },
     "Pkd9a658": {
       "app_name": "UniFi",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-14"
+      "last_modify": "2026-04-16"
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
@@ -6297,13 +6297,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-04-11"
+      "last_modify": "2026-04-16"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6541,11 +6541,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-15"
+      "last_modify": "2026-04-16"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
