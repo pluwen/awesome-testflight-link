@@ -138,6 +138,7 @@ _✅ These 165 apps are currently accepting new testers! Click the links to join
 | Ruuvi Station | [https://testflight.apple.com/join/loHFrEV1](https://testflight.apple.com/join/loHFrEV1) | Y | 2025-12-22 |
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
 | Shadow PC beta | [https://testflight.apple.com/join/PxpSW79P](https://testflight.apple.com/join/PxpSW79P) | Y | 2026-01-30 |
+| ShallowTV | [https://testflight.apple.com/join/VGHJ1Rpe](https://testflight.apple.com/join/VGHJ1Rpe) | Y | 2026-04-17 |
 | SHARE NOW (car2go & DriveNow) | [https://testflight.apple.com/join/1SsBDNCj](https://testflight.apple.com/join/1SsBDNCj) | Y | 2025-12-22 |
 | Signal - Private Messenger | [https://testflight.apple.com/join/8FHtd1Jq](https://testflight.apple.com/join/8FHtd1Jq) | Y | 2025-12-22 |
 | Skeypr App | [https://testflight.apple.com/join/SKef9a7B](https://testflight.apple.com/join/SKef9a7B) | Y | 2026-02-02 |
@@ -886,6 +887,7 @@ _✅ These 8 apps are currently accepting new testers! Click the links to join._
 | Ellie - Daily Planner | [https://testflight.apple.com/join/mX1G5TQi](https://testflight.apple.com/join/mX1G5TQi) | Y | 2026-02-02 |
 | Home Assistant | [https://testflight.apple.com/join/1AlPbnLZ](https://testflight.apple.com/join/1AlPbnLZ) | Y | 2026-04-15 |
 | Moon FM - The Podcasts App | [https://testflight.apple.com/join/c6NtF2xP](https://testflight.apple.com/join/c6NtF2xP) | Y | 2026-02-02 |
+| ShallowTV | [https://testflight.apple.com/join/VGHJ1Rpe](https://testflight.apple.com/join/VGHJ1Rpe) | Y | 2026-04-17 |
 | VeSync | [https://testflight.apple.com/join/fJBKUFNX](https://testflight.apple.com/join/fJBKUFNX) | Y | 2026-02-02 |
 | VLC media player | [https://testflight.apple.com/join/q6gm0qgr](https://testflight.apple.com/join/q6gm0qgr) | Y | 2026-03-17 |
 | 钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理 | [https://testflight.apple.com/join/gFZnVU2t](https://testflight.apple.com/join/gFZnVU2t) | Y | 2026-02-02 |
@@ -937,6 +939,8 @@ _✅ These 12 apps are currently accepting new testers! Click the links to join.
 | Ride Wait Times | [https://testflight.apple.com/join/yQNmMRwB](https://testflight.apple.com/join/yQNmMRwB) | Y | 2025-12-22 |
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
 | Screen Mirror and Control | [https://testflight.apple.com/join/zlnbGVKx](https://testflight.apple.com/join/zlnbGVKx) | Y | 2026-04-02 |
+| ShallowTV | [https://testflight.apple.com/join/VGHJ1Rpe](https://testflight.apple.com/join/VGHJ1Rpe) | Y | 2026-04-17 |
+| Streamline - IPTV & M3U Editor | [https://testflight.apple.com/join/RY9c1xAr](https://testflight.apple.com/join/RY9c1xAr) | Y | 2026-04-17 |
 | UTM Virtual Machines | [https://testflight.apple.com/join/Cg7UTrme](https://testflight.apple.com/join/Cg7UTrme) | Y | 2026-02-02 |
 
 </details>
@@ -994,6 +998,7 @@ _✅ These 4 apps are currently accepting new testers! Click the links to join._
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | Angel Live - tvOS | [https://testflight.apple.com/join/2oZuwSHJ](https://testflight.apple.com/join/2oZuwSHJ) | Y | 2026-04-15 |
+| ShallowTV | [https://testflight.apple.com/join/VGHJ1Rpe](https://testflight.apple.com/join/VGHJ1Rpe) | Y | 2026-04-17 |
 | UniFi Protect | [https://testflight.apple.com/join/EkFJsGvX](https://testflight.apple.com/join/EkFJsGvX) | Y | 2025-12-22 |
 | zilazila | [https://testflight.apple.com/join/32EqU7Sw](https://testflight.apple.com/join/32EqU7Sw) | Y | 2026-01-30 |
 | 糖葫芦浏览器 | [https://testflight.apple.com/join/QWne6G6V](https://testflight.apple.com/join/QWne6G6V) | Y | 2026-01-30 |
