@@ -1605,11 +1605,11 @@
     },
     "ixTrfIgF": {
       "app_name": "HexT",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-17"
     },
     "igNR5W26": {
       "app_name": "HeyShare: Send files to anyone",
@@ -2725,11 +2725,11 @@
     },
     "UE75wprO": {
       "app_name": "PDF Expert: PDF Editor",
-      "status": "N",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-17"
     },
     "6IMUtZ8n": {
       "app_name": "PDF Viewer Pro by PSPDFKit",
@@ -3318,11 +3318,11 @@
     },
     "8RcEFqFF": {
       "app_name": "Sleep Cycle alarm clock",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-14"
+      "last_modify": "2026-04-17"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -4223,11 +4223,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-16"
+      "last_modify": "2026-04-17"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-16"
+      "last_modify": "2026-04-17"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4455,11 +4455,11 @@
     },
     "ky5bRwMY": {
       "app_name": "Chanyan",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-17"
     },
     "s4rTJVPb": {
       "app_name": "WhatsApp Messenger",
@@ -4567,11 +4567,11 @@
     },
     "tCeANbZi": {
       "app_name": "Sleep Cycle - Sleep Tracker beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-14"
+      "last_modify": "2026-04-17"
     },
     "mnjOJPgH": {
       "app_name": "Launchify: Lock Screen Widgets beta",
@@ -5023,11 +5023,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-11"
+      "last_modify": "2026-04-17"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5289,11 +5289,11 @@
     },
     "Pkd9a658": {
       "app_name": "UniFi",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-16"
+      "last_modify": "2026-04-17"
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-12"
+      "last_modify": "2026-04-17"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6161,11 +6161,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-14"
+      "last_modify": "2026-04-17"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6395,11 +6395,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-15"
+      "last_modify": "2026-04-17"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6468,11 +6468,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-04-15"
+      "last_modify": "2026-04-17"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6541,11 +6541,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-16"
+      "last_modify": "2026-04-17"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6676,12 +6676,12 @@
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-04-17"
     },
     "mX1G5TQi": {
       "app_name": "Ellie - Daily Planner",
