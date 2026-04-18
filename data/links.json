@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-16"
+      "last_modify": "2026-04-18"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-18"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -5023,11 +5023,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-18"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5289,11 +5289,11 @@
     },
     "Pkd9a658": {
       "app_name": "UniFi",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-18"
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-18"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6161,11 +6161,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-18"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6395,11 +6395,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-18"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6509,11 +6509,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-03"
+      "last_modify": "2026-04-18"
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
@@ -6533,11 +6533,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-11"
+      "last_modify": "2026-04-18"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
@@ -6676,12 +6676,12 @@
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-18"
     },
     "mX1G5TQi": {
       "app_name": "Ellie - Daily Planner",
