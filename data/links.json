@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-18"
+      "last_modify": "2026-04-21"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -1109,11 +1109,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-21"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1373,11 +1373,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-21"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2813,11 +2813,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-04-21"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
