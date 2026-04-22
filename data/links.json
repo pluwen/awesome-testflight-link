@@ -2813,11 +2813,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-21"
+      "last_modify": "2026-04-22"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -3655,11 +3655,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "N",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-04-22"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4823,11 +4823,11 @@
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-22"
     },
     "qQJqMDfX": {
       "app_name": "Clear 2 (Preview) beta",
@@ -5047,11 +5047,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-22"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5201,11 +5201,11 @@
     },
     "syX6IOJF": {
       "app_name": "Life360: Find Friends & Family beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-06"
+      "last_modify": "2026-04-22"
     },
     "PxpSW79P": {
       "app_name": "Shadow PC beta",
@@ -5289,11 +5289,11 @@
     },
     "Pkd9a658": {
       "app_name": "UniFi",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-18"
+      "last_modify": "2026-04-22"
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
@@ -5577,11 +5577,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-22"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6161,11 +6161,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-18"
+      "last_modify": "2026-04-22"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6355,11 +6355,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-04"
+      "last_modify": "2026-04-22"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6541,11 +6541,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-22"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6624,12 +6624,12 @@
     },
     "81Geh1jh": {
       "app_name": "Downcast",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-04-22"
     },
     "xZR12ufn": {
       "app_name": "Overdue: another to-do app",
