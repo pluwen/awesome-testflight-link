@@ -36,11 +36,11 @@
     },
     "Tqr03a4h": {
       "app_name": "MenubarX",
-      "status": "F",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-03-08"
+      "last_modify": "2026-04-23"
     },
     "QN934ULR": {
       "app_name": "APTV-Mac beta",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-13"
+      "last_modify": "2026-04-23"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2725,11 +2725,11 @@
     },
     "UE75wprO": {
       "app_name": "PDF Expert: PDF Editor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-23"
     },
     "6IMUtZ8n": {
       "app_name": "PDF Viewer Pro by PSPDFKit",
@@ -4223,11 +4223,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-23"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4495,11 +4495,11 @@
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-15"
+      "last_modify": "2026-04-23"
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
@@ -5113,11 +5113,11 @@
     },
     "Vlb55Wtr": {
       "app_name": "Soulver 3",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-23"
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
@@ -6201,11 +6201,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-12"
+      "last_modify": "2026-04-23"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6355,11 +6355,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-22"
+      "last_modify": "2026-04-23"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6468,11 +6468,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-04-17"
+      "last_modify": "2026-04-23"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6600,11 +6600,11 @@
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-04-23"
     },
     "SKef9a7B": {
       "app_name": "Skeypr App",
