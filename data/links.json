@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-23"
+      "last_modify": "2026-04-25"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -3519,11 +3519,11 @@
     },
     "Ecz0xXvf": {
       "app_name": "StarPlayrX",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-04-25"
     },
     "3uIaRydA": {
       "app_name": "Stats Tracker for PUBG",
@@ -4223,11 +4223,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-23"
+      "last_modify": "2026-04-25"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4823,11 +4823,11 @@
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-22"
+      "last_modify": "2026-04-25"
     },
     "qQJqMDfX": {
       "app_name": "Clear 2 (Preview) beta",
@@ -5217,11 +5217,11 @@
     },
     "TFhYeUyJ": {
       "app_name": "AliExpress - Shopping App beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-04-25"
     },
     "72eyUWVE": {
       "app_name": "Instagram",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-25"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6201,11 +6201,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-23"
+      "last_modify": "2026-04-25"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6249,11 +6249,11 @@
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-01"
+      "last_modify": "2026-04-25"
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
@@ -6273,11 +6273,11 @@
     },
     "u07lq6bj": {
       "app_name": "喜马拉雅FM",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-12"
+      "last_modify": "2026-04-25"
     },
     "tZIfgySI": {
       "app_name": "百度输入法",
@@ -6297,13 +6297,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-04-16"
+      "last_modify": "2026-04-25"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6403,11 +6403,11 @@
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-04-25"
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
@@ -6468,11 +6468,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-04-23"
+      "last_modify": "2026-04-25"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6509,11 +6509,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-18"
+      "last_modify": "2026-04-25"
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
