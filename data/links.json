@@ -2125,11 +2125,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-04-27"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2725,11 +2725,11 @@
     },
     "UE75wprO": {
       "app_name": "PDF Expert: PDF Editor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-23"
+      "last_modify": "2026-04-27"
     },
     "6IMUtZ8n": {
       "app_name": "PDF Viewer Pro by PSPDFKit",
@@ -4223,11 +4223,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-04-27"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4447,11 +4447,11 @@
     },
     "YSo8aVCS": {
       "app_name": "Notion",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-25"
+      "last_modify": "2026-04-27"
     },
     "ky5bRwMY": {
       "app_name": "Chanyan",
@@ -4679,11 +4679,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-03"
+      "last_modify": "2026-04-27"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
@@ -4887,11 +4887,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-11"
+      "last_modify": "2026-04-27"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -5297,11 +5297,11 @@
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-27"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-04-27"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6089,11 +6089,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-27"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
@@ -6241,11 +6241,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-30"
+      "last_modify": "2026-04-27"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6273,11 +6273,11 @@
     },
     "u07lq6bj": {
       "app_name": "喜马拉雅FM",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-04-27"
     },
     "tZIfgySI": {
       "app_name": "百度输入法",
@@ -6297,13 +6297,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-04-27"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6476,11 +6476,11 @@
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-04-27"
     },
     "UDzzeGjK": {
       "app_name": "TravelTracker Beta",
@@ -6541,11 +6541,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-22"
+      "last_modify": "2026-04-27"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6575,11 +6575,11 @@
     },
     "raZGq35o": {
       "app_name": "Pablo - AI Voice Chat",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-04-27"
     },
     "q6gm0qgr": {
       "app_name": "VLC media player",
