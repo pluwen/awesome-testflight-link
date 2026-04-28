@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-21"
+      "last_modify": "2026-04-28"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -2125,19 +2125,19 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-04-27"
-    },
-    "LtgPLzrQ": {
-      "app_name": "Microsoft OneDrive",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-10"
+      "last_modify": "2026-04-28"
+    },
+    "LtgPLzrQ": {
+      "app_name": "Microsoft OneDrive",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-04-28"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -5385,11 +5385,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-03"
+      "last_modify": "2026-04-28"
     },
     "An0RiOFF": {
       "app_name": "Cash App",
@@ -6161,11 +6161,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-22"
+      "last_modify": "2026-04-28"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6257,11 +6257,11 @@
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-04-28"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
@@ -6533,19 +6533,19 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-19"
+      "last_modify": "2026-04-28"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-27"
+      "last_modify": "2026-04-28"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
