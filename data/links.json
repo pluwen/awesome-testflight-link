@@ -909,11 +909,11 @@
     },
     "NXLBigzY": {
       "app_name": "Day One Journal",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-04-29"
     },
     "FvufwHrV": {
       "app_name": "Debit & Credit",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-04-29"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -4223,11 +4223,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-27"
+      "last_modify": "2026-04-29"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-29"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -5297,11 +5297,11 @@
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-27"
+      "last_modify": "2026-04-29"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -5385,11 +5385,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-28"
+      "last_modify": "2026-04-29"
     },
     "An0RiOFF": {
       "app_name": "Cash App",
@@ -6395,11 +6395,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-04-29"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6533,11 +6533,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-28"
+      "last_modify": "2026-04-29"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
@@ -6558,11 +6558,11 @@
     },
     "nj2tUB4s": {
       "app_name": "OneWeekFocus - 时间记录与节奏可视化",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-04-29"
     },
     "fJBKUFNX": {
       "app_name": "VeSync",
