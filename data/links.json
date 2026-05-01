@@ -11,12 +11,12 @@
     },
     "yQNmMRwB": {
       "app_name": "Ride Wait Times",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "macos",
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-05-01"
     },
     "krUFQpyJ": {
       "app_name": "WhatsApp Messenger",
@@ -5633,11 +5633,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-12"
+      "last_modify": "2026-05-01"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -6089,11 +6089,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-27"
+      "last_modify": "2026-05-01"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
@@ -6257,11 +6257,11 @@
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-28"
+      "last_modify": "2026-05-01"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
@@ -6297,13 +6297,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-04-27"
+      "last_modify": "2026-05-01"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6435,11 +6435,11 @@
     },
     "g1ygf6P7": {
       "app_name": "Affinity Designer 2 iPad Beta",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ipados"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-05-01"
     },
     "qqTPmvCd": {
       "app_name": "PixelHQ",
@@ -6517,11 +6517,11 @@
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-05-01"
     },
     "yXfSFBFp": {
       "app_name": "SwiftServer - Monitoring &amp; SSH",
