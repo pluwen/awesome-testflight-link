@@ -5633,11 +5633,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-01"
+      "last_modify": "2026-05-02"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -6257,11 +6257,11 @@
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-01"
+      "last_modify": "2026-05-02"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
@@ -6297,13 +6297,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-05-01"
+      "last_modify": "2026-05-02"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6451,11 +6451,11 @@
     },
     "IuJCuaVk": {
       "app_name": "Mini Forge: Paint Rack",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-05-02"
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
@@ -6676,12 +6676,12 @@
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-04-18"
+      "last_modify": "2026-05-02"
     },
     "mX1G5TQi": {
       "app_name": "Ellie - Daily Planner",
