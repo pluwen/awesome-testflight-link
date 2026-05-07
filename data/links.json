@@ -549,11 +549,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-07"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -1237,11 +1237,11 @@
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-07"
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
@@ -2125,27 +2125,27 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-05-06"
-    },
-    "LtgPLzrQ": {
-      "app_name": "Microsoft OneDrive",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-03"
+      "last_modify": "2026-05-07"
     },
-    "a9Ef0N3g": {
-      "app_name": "Microsoft PowerPoint",
+    "LtgPLzrQ": {
+      "app_name": "Microsoft OneDrive",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-07"
+    },
+    "a9Ef0N3g": {
+      "app_name": "Microsoft PowerPoint",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-05-07"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -4551,11 +4551,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-24"
+      "last_modify": "2026-05-07"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -4583,11 +4583,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-07"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -5369,11 +5369,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-05"
+      "last_modify": "2026-05-07"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5393,11 +5393,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-07"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5505,11 +5505,11 @@
     },
     "bExxpaX1": {
       "app_name": "Lenna - Video Library Player",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-22"
+      "last_modify": "2026-05-07"
     },
     "VnGZhjsZ": {
       "app_name": "Ketro",
@@ -5585,19 +5585,19 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-07"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-05"
+      "last_modify": "2026-05-07"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -5809,11 +5809,11 @@
     },
     "K4pM1kHu": {
       "app_name": "哔哩哔哩-弹幕番剧直播高清视频",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-03"
+      "last_modify": "2026-05-07"
     },
     "Fwa9TCKU": {
       "app_name": "哔哩哔哩 HD",
@@ -5953,11 +5953,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-07"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6297,13 +6297,13 @@
     },
     "thdxEjTZ": {
       "app_name": "JSTV",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios",
         "ipados",
         "tvos"
       ],
-      "last_modify": "2026-05-02"
+      "last_modify": "2026-05-07"
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
@@ -6468,11 +6468,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-05-07"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6492,12 +6492,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-03-22"
+      "last_modify": "2026-05-07"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6541,11 +6541,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-07"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
