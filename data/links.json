@@ -6803,6 +6803,14 @@
         "ios"
       ],
       "last_modify": "2026-05-08"
+    },
+    "XSdkH7mP": {
+      "app_name": "记忆花园",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-05-08"
     }
   }
 }
