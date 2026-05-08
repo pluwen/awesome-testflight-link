@@ -6771,6 +6771,14 @@
         "ios"
       ],
       "last_modify": "2026-05-08"
+    },
+    "cjHQ9k71": {
+      "app_name": "PowerNFC",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-05-08"
     }
   }
 }
