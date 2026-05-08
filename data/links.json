@@ -6763,6 +6763,14 @@
         "ios"
       ],
       "last_modify": "2026-04-23"
+    },
+    "406CXlN8": {
+      "app_name": "微信输入法",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-05-08"
     }
   }
 }
