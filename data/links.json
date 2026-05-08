@@ -1797,11 +1797,11 @@
     },
     "In6e3GcJ": {
       "app_name": "infltr - Infinite Filters",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-05-08"
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
@@ -2133,11 +2133,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-08"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -4551,11 +4551,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-08"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -4903,11 +4903,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-29"
+      "last_modify": "2026-05-08"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4959,11 +4959,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-31"
+      "last_modify": "2026-05-08"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5369,11 +5369,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-08"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5761,11 +5761,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-05-08"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -6468,11 +6468,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-08"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6492,12 +6492,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-08"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6541,11 +6541,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-08"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
