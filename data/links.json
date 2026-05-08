@@ -6240,12 +6240,12 @@
       "last_modify": "2026-04-04"
     },
     "C9b7GypS": {
-      "app_name": "高德地图",
+      "app_name": "高德地图-高德打车,导航公交地铁出行",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-03"
+      "last_modify": "2026-05-08"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
