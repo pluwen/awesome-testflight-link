@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-09"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -1797,11 +1797,11 @@
     },
     "In6e3GcJ": {
       "app_name": "infltr - Infinite Filters",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-05-09"
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
@@ -6161,11 +6161,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-28"
+      "last_modify": "2026-05-09"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6249,11 +6249,11 @@
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-05-09"
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
@@ -6517,11 +6517,11 @@
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-01"
+      "last_modify": "2026-05-09"
     },
     "yXfSFBFp": {
       "app_name": "SwiftServer - Monitoring &amp; SSH",
@@ -6541,11 +6541,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-05-09"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6774,11 +6774,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-05-09"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
