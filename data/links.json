@@ -4903,11 +4903,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-05-10"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4959,11 +4959,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-05-10"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-05"
+      "last_modify": "2026-05-10"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5369,11 +5369,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-05-10"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5633,11 +5633,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-02"
+      "last_modify": "2026-05-10"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -5761,11 +5761,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-05-10"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -5809,11 +5809,11 @@
     },
     "K4pM1kHu": {
       "app_name": "哔哩哔哩-弹幕番剧直播高清视频",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-10"
     },
     "Fwa9TCKU": {
       "app_name": "哔哩哔哩 HD",
@@ -6249,19 +6249,19 @@
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-05-09"
-    },
-    "RDuRYxRE": {
-      "app_name": "优酷视频HD",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-02"
+      "last_modify": "2026-05-10"
+    },
+    "RDuRYxRE": {
+      "app_name": "优酷视频HD",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-05-10"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼",
@@ -6395,11 +6395,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-05-10"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6624,12 +6624,12 @@
     },
     "81Geh1jh": {
       "app_name": "Downcast",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-04-22"
+      "last_modify": "2026-05-10"
     },
     "xZR12ufn": {
       "app_name": "Overdue: another to-do app",
@@ -6774,11 +6774,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-09"
+      "last_modify": "2026-05-10"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
