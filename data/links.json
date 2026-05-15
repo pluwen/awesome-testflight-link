@@ -2149,11 +2149,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-14"
+      "last_modify": "2026-05-15"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-14"
+      "last_modify": "2026-05-15"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5473,11 +5473,11 @@
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-14"
+      "last_modify": "2026-05-15"
     },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
@@ -6193,11 +6193,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-04"
+      "last_modify": "2026-05-15"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6233,11 +6233,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-14"
+      "last_modify": "2026-05-15"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6493,11 +6493,11 @@
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-05-15"
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
