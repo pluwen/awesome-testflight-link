@@ -853,11 +853,11 @@
     },
     "Lz7WXfXS": {
       "app_name": "Craft Docs",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-05-17"
     },
     "dU2r1pkq": {
       "app_name": "Cs Music Player",
@@ -1109,11 +1109,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-21"
+      "last_modify": "2026-05-17"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -3663,11 +3663,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-20"
+      "last_modify": "2026-05-17"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-15"
+      "last_modify": "2026-05-17"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5393,11 +5393,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-13"
+      "last_modify": "2026-05-17"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -6193,11 +6193,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-15"
+      "last_modify": "2026-05-17"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6484,12 +6484,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-05-17"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
