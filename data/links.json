@@ -1373,11 +1373,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-21"
+      "last_modify": "2026-05-18"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2141,11 +2141,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-18"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -5023,11 +5023,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-14"
+      "last_modify": "2026-05-18"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-17"
+      "last_modify": "2026-05-18"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5497,11 +5497,11 @@
     },
     "bExxpaX1": {
       "app_name": "Lenna - Video Library Player",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-18"
     },
     "VnGZhjsZ": {
       "app_name": "Ketro",
@@ -6484,12 +6484,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-17"
+      "last_modify": "2026-05-18"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6533,11 +6533,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-09"
+      "last_modify": "2026-05-18"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6694,11 +6694,11 @@
     },
     "DhH5pqmu": {
       "app_name": "Fovea - Pro Image Lab",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-02-22"
+      "last_modify": "2026-05-18"
     },
     "zlnbGVKx": {
       "app_name": "Screen Mirror and Control",
@@ -6766,11 +6766,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-10"
+      "last_modify": "2026-05-18"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
