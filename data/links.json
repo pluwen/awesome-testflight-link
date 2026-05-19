@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-16"
+      "last_modify": "2026-05-19"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -2141,11 +2141,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-18"
+      "last_modify": "2026-05-19"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -2429,11 +2429,11 @@
     },
     "i4g2QrrG": {
       "app_name": "NOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-04"
+      "last_modify": "2026-05-19"
     },
     "DGHcr3A1": {
       "app_name": "NoSeen for Facebook Messenger",
@@ -3478,12 +3478,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-04-06"
+      "last_modify": "2026-05-19"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -4391,19 +4391,19 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-29"
+      "last_modify": "2026-05-19"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-05-19"
     },
     "X28MEDeC": {
       "app_name": "Hashtag: Tags For Instagram",
@@ -4431,11 +4431,11 @@
     },
     "7sus3M6q": {
       "app_name": "Newsbite",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-05-19"
     },
     "ruyYHU5E": {
       "app_name": "Flipabit",
@@ -5023,11 +5023,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-18"
+      "last_modify": "2026-05-19"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5121,11 +5121,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-05"
+      "last_modify": "2026-05-19"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5393,11 +5393,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-17"
+      "last_modify": "2026-05-19"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5945,11 +5945,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-19"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6387,11 +6387,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-13"
+      "last_modify": "2026-05-19"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6584,11 +6584,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-05-19"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
