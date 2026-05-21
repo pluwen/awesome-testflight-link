@@ -6835,6 +6835,14 @@
         "ios"
       ],
       "last_modify": "2026-05-20"
+    },
+    "dCGMvyw9": {
+      "app_name": "aDict - Dictionary lookup",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-05-21"
     }
   }
 }
