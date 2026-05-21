@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-09"
+      "last_modify": "2026-05-21"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -1461,11 +1461,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-13"
+      "last_modify": "2026-05-21"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -3663,11 +3663,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-17"
+      "last_modify": "2026-05-21"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-18"
+      "last_modify": "2026-05-21"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5937,11 +5937,11 @@
     },
     "GgBqXAqm": {
       "app_name": "百度贴吧",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20"
+      "last_modify": "2026-05-21"
     },
     "TX83Mn7J": {
       "app_name": "知乎",
