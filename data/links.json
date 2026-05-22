@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-21"
+      "last_modify": "2026-05-22"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -1237,11 +1237,11 @@
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-05-22"
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
@@ -1461,11 +1461,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-21"
+      "last_modify": "2026-05-22"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -2109,11 +2109,11 @@
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-05-22"
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
@@ -2813,11 +2813,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-22"
+      "last_modify": "2026-05-22"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -4047,11 +4047,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-05-22"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4959,11 +4959,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-14"
+      "last_modify": "2026-05-22"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-21"
+      "last_modify": "2026-05-22"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5553,11 +5553,11 @@
     },
     "aaSgUXmq": {
       "app_name": "Pedal - Your cycling companion",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-31"
+      "last_modify": "2026-05-22"
     },
     "dwXDCbv7": {
       "app_name": "Sonic Compass",
@@ -5569,11 +5569,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-13"
+      "last_modify": "2026-05-22"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5841,11 +5841,11 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-13"
+      "last_modify": "2026-05-22"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -6153,11 +6153,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-14"
+      "last_modify": "2026-05-22"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6233,11 +6233,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-15"
+      "last_modify": "2026-05-22"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6347,11 +6347,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-23"
+      "last_modify": "2026-05-22"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6533,11 +6533,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-18"
+      "last_modify": "2026-05-22"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6686,11 +6686,11 @@
     },
     "3WThmhQu": {
       "app_name": "ArcBreaker: Ringfall Arena",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-25"
+      "last_modify": "2026-05-22"
     },
     "DhH5pqmu": {
       "app_name": "Fovea - Pro Image Lab",
