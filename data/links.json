@@ -1797,19 +1797,19 @@
     },
     "In6e3GcJ": {
       "app_name": "infltr - Infinite Filters",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-05-24"
-    },
-    "97i7KM8O": {
-      "app_name": "iSH Shell",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-31"
+      "last_modify": "2026-05-25"
+    },
+    "97i7KM8O": {
+      "app_name": "iSH Shell",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-05-25"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
@@ -2149,11 +2149,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-24"
+      "last_modify": "2026-05-25"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -4047,11 +4047,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-23"
+      "last_modify": "2026-05-25"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4391,11 +4391,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-05-25"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -5297,11 +5297,11 @@
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-11"
+      "last_modify": "2026-05-25"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -5369,11 +5369,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-13"
+      "last_modify": "2026-05-25"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5569,11 +5569,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-23"
+      "last_modify": "2026-05-25"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6081,11 +6081,11 @@
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-01"
+      "last_modify": "2026-05-25"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
@@ -6766,11 +6766,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-24"
+      "last_modify": "2026-05-25"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
