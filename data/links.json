@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-23"
+      "last_modify": "2026-05-28"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -1461,11 +1461,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-22"
+      "last_modify": "2026-05-28"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -2109,11 +2109,11 @@
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-27"
+      "last_modify": "2026-05-28"
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
@@ -2149,11 +2149,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-25"
+      "last_modify": "2026-05-28"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -4951,11 +4951,11 @@
     },
     "9KR0Xx7E": {
       "app_name": "和风天气 - 可视化天气 beta",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-14"
+      "last_modify": "2026-05-28"
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
@@ -5297,11 +5297,11 @@
     },
     "3yl2MSbw": {
       "app_name": "Proton VPN: Fast & Secure",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-25"
+      "last_modify": "2026-05-28"
     },
     "ocBZp14V": {
       "app_name": "Microsoft Dynamics 365",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-24"
+      "last_modify": "2026-05-28"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5945,11 +5945,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20"
+      "last_modify": "2026-05-28"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6153,11 +6153,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-22"
+      "last_modify": "2026-05-28"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6484,12 +6484,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-27"
+      "last_modify": "2026-05-28"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6533,11 +6533,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-27"
+      "last_modify": "2026-05-28"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
