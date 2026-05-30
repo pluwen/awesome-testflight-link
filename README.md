@@ -24,9 +24,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (172 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (171 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 172 apps are currently accepting new testers! Click the links to join._
+_✅ These 171 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -144,7 +144,6 @@ _✅ These 172 apps are currently accepting new testers! Click the links to join
 | Slack | [https://testflight.apple.com/join/QE3kgqJ2](https://testflight.apple.com/join/QE3kgqJ2) | Y | 2025-12-22 |
 | Sleep Cycle - Sleep Tracker beta | [https://testflight.apple.com/join/tCeANbZi](https://testflight.apple.com/join/tCeANbZi) | Y | 2026-04-17 |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | Y | 2026-04-17 |
-| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | Y | 2026-05-29 |
 | Soulver 3 | [https://testflight.apple.com/join/Vlb55Wtr](https://testflight.apple.com/join/Vlb55Wtr) | Y | 2026-04-23 |
 | Spark Mail - Email by Readdle | [https://testflight.apple.com/join/O2wj7i0x](https://testflight.apple.com/join/O2wj7i0x) | Y | 2025-12-22 |
 | SpotiCar | [https://testflight.apple.com/join/T1JruCw4](https://testflight.apple.com/join/T1JruCw4) | Y | 2026-01-30 |
@@ -206,9 +205,9 @@ _✅ These 172 apps are currently accepting new testers! Click the links to join
 </details>
 
 <details >
-<summary><strong>Full (70 apps)</strong> - Apps that have reached their tester limit</summary>
+<summary><strong>Full (71 apps)</strong> - Apps that have reached their tester limit</summary>
 
-_⚠️ These 70 apps have reached their tester limit. Try checking back later._
+_⚠️ These 71 apps have reached their tester limit. Try checking back later._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -260,6 +259,7 @@ _⚠️ These 70 apps have reached their tester limit. Try checking back later._
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | F | 2026-05-08 |
 | Reading List - Book Tracker | [https://testflight.apple.com/join/kBS5mVao](https://testflight.apple.com/join/kBS5mVao) | F | 2026-03-09 |
 | Reddit | [https://testflight.apple.com/join/b9jMyOWt](https://testflight.apple.com/join/b9jMyOWt) | F | 2026-05-26 |
+| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | F | 2026-05-30 |
 | Spectra - System Monitor | [https://testflight.apple.com/join/SHDm9HrJ](https://testflight.apple.com/join/SHDm9HrJ) | F | 2026-05-03 |
 | Spotify - Music and Podcasts | [https://testflight.apple.com/join/1SyedSId](https://testflight.apple.com/join/1SyedSId) | F | 2026-05-25 |
 | Spotify: Music and Podcasts | [https://testflight.apple.com/join/7lt2tesn](https://testflight.apple.com/join/7lt2tesn) | F | 2026-05-24 |
