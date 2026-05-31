@@ -1797,11 +1797,11 @@
     },
     "In6e3GcJ": {
       "app_name": "infltr - Infinite Filters",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-25"
+      "last_modify": "2026-05-31"
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
@@ -4511,11 +4511,11 @@
     },
     "8BOPXsGz": {
       "app_name": "Steam iOS beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29"
+      "last_modify": "2026-05-31"
     },
     "sY14cetk": {
       "app_name": "Trackpet",
@@ -4887,11 +4887,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-27"
+      "last_modify": "2026-05-31"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -4959,11 +4959,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-26"
+      "last_modify": "2026-05-31"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5569,11 +5569,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29"
+      "last_modify": "2026-05-31"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6233,11 +6233,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29"
+      "last_modify": "2026-05-31"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6501,11 +6501,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-05-31"
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
@@ -6525,19 +6525,19 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-05-24"
-    },
-    "MnsYnB0s": {
-      "app_name": "TikTok -Global Video Community",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29"
+      "last_modify": "2026-05-31"
+    },
+    "MnsYnB0s": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-05-31"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
