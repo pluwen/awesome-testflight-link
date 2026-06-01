@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20"
+      "last_modify": "2026-06-01"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1373,11 +1373,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-18"
+      "last_modify": "2026-06-01"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1797,11 +1797,11 @@
     },
     "In6e3GcJ": {
       "app_name": "infltr - Infinite Filters",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31"
+      "last_modify": "2026-06-01"
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
@@ -6525,11 +6525,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31"
+      "last_modify": "2026-06-01"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
