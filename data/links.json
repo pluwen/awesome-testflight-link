@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-01"
+      "last_modify": "2026-06-02"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -2117,11 +2117,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20"
+      "last_modify": "2026-06-02"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -3655,11 +3655,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-06-02"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4487,11 +4487,11 @@
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-06-02"
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
@@ -4679,11 +4679,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-03"
+      "last_modify": "2026-06-02"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
@@ -4783,11 +4783,11 @@
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-03"
+      "last_modify": "2026-06-02"
     },
     "BScDI9fh": {
       "app_name": "Myphysique",
@@ -4887,11 +4887,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31"
+      "last_modify": "2026-06-02"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -5047,11 +5047,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-22"
+      "last_modify": "2026-06-02"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5185,11 +5185,11 @@
     },
     "dqMoJObA": {
       "app_name": "Tunna - Xray/V2ray Proxy Utility",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-28"
+      "last_modify": "2026-06-02"
     },
     "P5UOcDLa": {
       "app_name": "QR File Transfer",
@@ -5337,11 +5337,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29"
+      "last_modify": "2026-06-02"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5609,11 +5609,11 @@
     },
     "5hmQk6ba": {
       "app_name": "Star Wander - AR Night Sky Map",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-06-02"
     },
     "EkFJsGvX": {
       "app_name": "UniFi Protect",
@@ -6501,11 +6501,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-31"
+      "last_modify": "2026-06-02"
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
