@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-29"
+      "last_modify": "2026-06-03"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1485,11 +1485,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-03"
+      "last_modify": "2026-06-03"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2157,11 +2157,11 @@
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-06"
+      "last_modify": "2026-06-03"
     },
     "HSWkbCxV": {
       "app_name": "Microsoft Whiteboard",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-30"
+      "last_modify": "2026-06-03"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3655,11 +3655,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4487,11 +4487,11 @@
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
@@ -4679,11 +4679,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
@@ -4783,11 +4783,11 @@
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "BScDI9fh": {
       "app_name": "Myphysique",
@@ -4823,11 +4823,11 @@
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-06-03"
     },
     "qQJqMDfX": {
       "app_name": "Clear 2 (Preview) beta",
@@ -4903,11 +4903,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-10"
+      "last_modify": "2026-06-03"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -6193,11 +6193,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-17"
+      "last_modify": "2026-06-03"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6846,11 +6846,11 @@
     },
     "e1xFha2v": {
       "app_name": "Habitual: The Grand Journey",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-25"
+      "last_modify": "2026-06-03"
     },
     "n4RGc5gY": {
       "app_name": "S2G - Stay 2 Gether",
