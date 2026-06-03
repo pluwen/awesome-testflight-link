@@ -24,7 +24,7 @@ def parse_platforms_from_string(s: str) -> list:
     if not s:
         return []
     parts = [p.strip().lower() for p in s.split(',') if p.strip()]
-    valid = {'ios', 'ipados', 'macos', 'tvos'}
+    valid = {'ios', 'ipados', 'macos', 'tvos', 'visionos'}
     return [p for p in parts if p in valid]
 
 async def check_status(session, key, retry=10):

@@ -102,6 +102,7 @@ def renew_readme():
         "iPadOS_APPS": ("ipados", "## iPadOS App List\n\n"),
         "macOS_APPS": ("macos", "## macOS App List\n\n"),
         "tvOS_APPS": ("tvos", "## tvOS App List\n\n"),
+        "visionOS_APPS": ("visionos", "## visionOS App List\n\n"),
     }
     
     for placeholder, (table_name, heading) in platform_map.items():

@@ -11,7 +11,7 @@ on:
         description: 'TestFlight 公共测试的完整链接（非 TestFlight 链接请添加到 data/signup.md）'
         required: true
       platforms:
-        description: '选择平台（必填：逗号分隔，多选示例：ios,ipados,macos,tvos）'
+        description: '选择平台（必填：逗号分隔，多选示例：ios,ipados,macos,tvos,visionos）'
         required: true
         default: ''
 
