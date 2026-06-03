@@ -6867,6 +6867,17 @@
         "ios"
       ],
       "last_modify": "2026-06-03"
+    },
+    "fV1dvwAq": {
+      "app_name": "Cali Pages",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos",
+        "visionos"
+      ],
+      "last_modify": "2026-06-03"
     }
   }
 }
