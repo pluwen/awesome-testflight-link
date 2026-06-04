@@ -6942,6 +6942,14 @@
         "ios"
       ],
       "last_modify": "2026-06-04"
+    },
+    "nRiAaxNf": {
+      "app_name": "翼支付",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
     }
   }
 }
