@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       testflight_links:
-        description: '多个 TestFlight 链接（每行一个，支持完整链接或链接 ID）'
+        description: '多个链接 ID，逗号分隔（如：AbcXYZ,Def123,Ghi456），也支持完整 URL'
         required: true
         type: string
       platforms:
@@ -26,18 +26,10 @@ jobs:
       - name: Set up Python with uv
         run: uv venv && uv sync --locked
 
-      - name: Write links to temp file
-        run: |
-          cat > /tmp/batch_links.txt << 'LINKS_EOF'
-          ${{ github.event.inputs.testflight_links }}
-          LINKS_EOF
-          echo "[info] Links file content:"
-          cat /tmp/batch_links.txt
-          echo "[info] Total lines: $(grep -c . /tmp/batch_links.txt || echo 0)"
-
       - name: Batch Add TestFlight Links
         run: |
           set -euo pipefail
+          INPUT_LINKS="${{ github.event.inputs.testflight_links }}"
           INPUT_PLATFORMS="${{ github.event.inputs.platforms }}"
 
           if [ -z "${INPUT_PLATFORMS}" ]; then
@@ -46,7 +38,7 @@ jobs:
           fi
 
           echo "[info] Batch adding links for platforms: ${INPUT_PLATFORMS}"
-          uv run python scripts/batch_add_link.py /tmp/batch_links.txt "${INPUT_PLATFORMS}"
+          uv run python scripts/batch_add_link.py "${INPUT_LINKS}" "${INPUT_PLATFORMS}"
 
       - name: Commit and push changes
         run: |
@@ -54,8 +46,7 @@ jobs:
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
             git config --global user.name "github-actions[bot]"
             git add .
-            LINK_COUNT=$(grep -c . /tmp/batch_links.txt || echo "?")
-            git commit -m "Batch add ${LINK_COUNT} TestFlight links for ${{ github.event.inputs.platforms }}"
+            git commit -m "Batch add TestFlight links for ${{ github.event.inputs.platforms }}"
             git push
           else
             echo "No changes to commit"
