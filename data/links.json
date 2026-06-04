@@ -6966,6 +6966,14 @@
         "ios"
       ],
       "last_modify": "2026-06-04"
+    },
+    "KRAhRAMX": {
+      "app_name": "比亚迪",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
     }
   }
 }
