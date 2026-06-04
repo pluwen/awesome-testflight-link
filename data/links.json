@@ -6910,6 +6910,14 @@
         "ios"
       ],
       "last_modify": "2026-06-04"
+    },
+    "VNDGcHBB": {
+      "app_name": "淘宝闪购-点外卖更优惠",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
     }
   }
 }
