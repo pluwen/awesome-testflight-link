@@ -6878,6 +6878,14 @@
         "ios"
       ],
       "last_modify": "2026-06-04"
+    },
+    "vI2iTOSj": {
+      "app_name": "Dropover - Easier Drag &amp; Drop",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-06-04"
     }
   }
 }
