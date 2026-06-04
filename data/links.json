@@ -6926,6 +6926,14 @@
         "ios"
       ],
       "last_modify": "2026-06-04"
+    },
+    "i6TcrR2L": {
+      "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
     }
   }
 }
