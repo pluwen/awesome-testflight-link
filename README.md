@@ -995,15 +995,6 @@ _⚠️ These 4 apps have reached their tester limit. Try checking back later._
 
 </details>
 
-<details >
-<summary><strong>Removed (1 app)</strong> - Apps that have been removed from TestFlight</summary>
-
-| Name | TestFlight Link | Status | Last Updated |
-| --- | --- | --- | --- |
-| Drafts | [https://testflight.apple.com/join/GhPcOrwa](https://testflight.apple.com/join/GhPcOrwa) | D | 2026-04-12 |
-
-</details>
-
 
 
 ## tvOS App List
