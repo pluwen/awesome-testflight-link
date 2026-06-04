@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-29"
+      "last_modify": "2026-06-03"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -82,14 +82,6 @@
         "macos"
       ],
       "last_modify": "2025-12-22"
-    },
-    "GhPcOrwa": {
-      "app_name": "Drafts",
-      "status": "D",
-      "tables": [
-        "macos"
-      ],
-      "last_modify": "2026-04-12"
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
@@ -851,14 +843,6 @@
       ],
       "last_modify": "2025-12-22"
     },
-    "Lz7WXfXS": {
-      "app_name": "Craft Docs",
-      "status": "D",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-05-17"
-    },
     "dU2r1pkq": {
       "app_name": "Cs Music Player",
       "status": "N",
@@ -973,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1485,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-03"
+      "last_modify": "2026-06-03"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2157,11 +2141,11 @@
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-06"
+      "last_modify": "2026-06-03"
     },
     "HSWkbCxV": {
       "app_name": "Microsoft Whiteboard",
@@ -3358,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-30"
+      "last_modify": "2026-06-03"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3655,11 +3639,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4487,11 +4471,11 @@
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
@@ -4679,11 +4663,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
@@ -4783,11 +4767,11 @@
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-03"
     },
     "BScDI9fh": {
       "app_name": "Myphysique",
@@ -4823,11 +4807,11 @@
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-25"
+      "last_modify": "2026-06-03"
     },
     "qQJqMDfX": {
       "app_name": "Clear 2 (Preview) beta",
@@ -4903,11 +4887,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-10"
+      "last_modify": "2026-06-03"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -6193,11 +6177,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-17"
+      "last_modify": "2026-06-03"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6846,11 +6830,11 @@
     },
     "e1xFha2v": {
       "app_name": "Habitual: The Grand Journey",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-25"
+      "last_modify": "2026-06-03"
     },
     "n4RGc5gY": {
       "app_name": "S2G - Stay 2 Gether",
@@ -6878,6 +6862,198 @@
         "visionos"
       ],
       "last_modify": "2026-06-03"
+    },
+    "kNze5fKq": {
+      "app_name": "Auki",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "A4iGyH2H": {
+      "app_name": "DS Music - Synology群晖NAS音乐播放器",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "vI2iTOSj": {
+      "app_name": "Dropover - Easier Drag &amp; Drop",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "XMVCGAOW": {
+      "app_name": "TrainerRoad",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "IGNkcVTL": {
+      "app_name": "Elevate - Brain Training Games",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "zbUiqcxg": {
+      "app_name": "Tally • Quick Counter",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "VNDGcHBB": {
+      "app_name": "淘宝闪购-点外卖更优惠",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "7tPfWALw": {
+      "app_name": "腾讯自选股-在线炒股票证券交易",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "i6TcrR2L": {
+      "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "N1MkckuA": {
+      "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "nRiAaxNf": {
+      "app_name": "翼支付",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "XplPxabZ": {
+      "app_name": "米兔手表-可以打电话的手表",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "zfzepr74": {
+      "app_name": "深蓝汽车",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "KRAhRAMX": {
+      "app_name": "比亚迪",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "KUFpjlUl": {
+      "app_name": "朴朴超市-30分钟快送",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "Kh2Dft7l": {
+      "app_name": "方太幸福家",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "sx61JrRC": {
+      "app_name": "抖音",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "e86oEq6r": {
+      "app_name": "微泰动态",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "jDWeCxGu": {
+      "app_name": "得物 - 得到美好事物",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "XkGKTA71": {
+      "app_name": "小红书 – 世界杯直播",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "wAYQpuS6": {
+      "app_name": "唱吧",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "KP16A3Nz": {
+      "app_name": "云闪付-银行业统一移动支付App",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "A0Dru9VV": {
+      "app_name": "Ulysses: Writing App",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "YyuuJcC6": {
+      "app_name": "Todo清单 - 跨平台待办事项与番茄钟",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
     }
   }
 }
