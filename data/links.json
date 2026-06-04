@@ -2105,7 +2105,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-04"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -7049,6 +7049,46 @@
     },
     "YyuuJcC6": {
       "app_name": "Todo清单 - 跨平台待办事项与番茄钟",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "K28iQVlZ": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "iT3Y716Q": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "TH2TrW13": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "SqNPfdxq": {
+      "app_name": "Swiftfin",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "rqvYCYOp": {
+      "app_name": "Microsoft Edge",
       "status": "Y",
       "tables": [
         "ios"
