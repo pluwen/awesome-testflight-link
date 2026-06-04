@@ -6886,6 +6886,14 @@
         "macos"
       ],
       "last_modify": "2026-06-04"
+    },
+    "XMVCGAOW": {
+      "app_name": "TrainerRoad",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
     }
   }
 }

@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (180 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (181 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 180 apps are currently accepting new testers! Click the links to join._
+_✅ These 181 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -165,6 +165,7 @@ _✅ These 180 apps are currently accepting new testers! Click the links to join
 | The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | Y | 2025-12-22 |
 | Thunderbird: Free Your Inbox | [https://testflight.apple.com/join/ER3hRBSz](https://testflight.apple.com/join/ER3hRBSz) | Y | 2026-05-09 |
 | TP-Link Deco | [https://testflight.apple.com/join/2xC6J4zN](https://testflight.apple.com/join/2xC6J4zN) | Y | 2026-02-02 |
+| TrainerRoad | [https://testflight.apple.com/join/XMVCGAOW](https://testflight.apple.com/join/XMVCGAOW) | Y | 2026-06-04 |
 | Transition Journey | [https://testflight.apple.com/join/SPGZysjK](https://testflight.apple.com/join/SPGZysjK) | Y | 2026-05-08 |
 | Trello — Organize anything! | [https://testflight.apple.com/join/cRWMcQsr](https://testflight.apple.com/join/cRWMcQsr) | Y | 2025-12-22 |
 | Tunna - Xray/V2ray Proxy Utility | [https://testflight.apple.com/join/dqMoJObA](https://testflight.apple.com/join/dqMoJObA) | Y | 2026-06-02 |
