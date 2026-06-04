@@ -1,0 +1,62 @@
+name: Batch Add TestFlight Links
+
+on:
+  workflow_dispatch:
+    inputs:
+      testflight_links:
+        description: '多个 TestFlight 链接（每行一个，支持完整链接或链接 ID）'
+        required: true
+        type: string
+      platforms:
+        description: '选择平台（必填：逗号分隔，多选示例：ios,ipados,macos,tvos,visionos）'
+        required: true
+        default: ''
+        type: string
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    if: github.repository == 'pluwen/awesome-testflight-link'
+    steps:
+      - uses: actions/checkout@v6
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+      - name: Set up Python with uv
+        run: uv venv && uv sync --locked
+
+      - name: Write links to temp file
+        run: |
+          cat > /tmp/batch_links.txt << 'LINKS_EOF'
+          ${{ github.event.inputs.testflight_links }}
+          LINKS_EOF
+          echo "[info] Links file content:"
+          cat /tmp/batch_links.txt
+          echo "[info] Total lines: $(grep -c . /tmp/batch_links.txt || echo 0)"
+
+      - name: Batch Add TestFlight Links
+        run: |
+          set -euo pipefail
+          INPUT_PLATFORMS="${{ github.event.inputs.platforms }}"
+
+          if [ -z "${INPUT_PLATFORMS}" ]; then
+            echo "[error] No platforms specified."
+            exit 1
+          fi
+
+          echo "[info] Batch adding links for platforms: ${INPUT_PLATFORMS}"
+          uv run python scripts/batch_add_link.py /tmp/batch_links.txt "${INPUT_PLATFORMS}"
+
+      - name: Commit and push changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            git add .
+            LINK_COUNT=$(grep -c . /tmp/batch_links.txt || echo "?")
+            git commit -m "Batch add ${LINK_COUNT} TestFlight links for ${{ github.event.inputs.platforms }}"
+            git push
+          else
+            echo "No changes to commit"
+          fi
