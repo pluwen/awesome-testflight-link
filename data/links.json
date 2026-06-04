@@ -7030,6 +7030,14 @@
         "ios"
       ],
       "last_modify": "2026-06-04"
+    },
+    "KP16A3Nz": {
+      "app_name": "云闪付-银行业统一移动支付App",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
     }
   }
 }
