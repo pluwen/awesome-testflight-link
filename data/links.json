@@ -7046,6 +7046,14 @@
         "ios"
       ],
       "last_modify": "2026-06-04"
+    },
+    "YyuuJcC6": {
+      "app_name": "Todo清单 - 跨平台待办事项与番茄钟",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
     }
   }
 }
