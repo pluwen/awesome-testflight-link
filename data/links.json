@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-05"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-05"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1085,11 +1085,11 @@
     },
     "NRswe1IZ": {
       "app_name": "F1ATV",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-06-05"
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
@@ -2093,11 +2093,11 @@
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-28"
+      "last_modify": "2026-06-05"
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
@@ -2117,11 +2117,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-06-05"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -3342,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-05"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3775,11 +3775,11 @@
     },
     "tv9dt6po": {
       "app_name": "TrackMyTour",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-25"
+      "last_modify": "2026-06-05"
     },
     "7s1wL3HL": {
       "app_name": "Träning",
@@ -4807,11 +4807,11 @@
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-05"
     },
     "qQJqMDfX": {
       "app_name": "Clear 2 (Preview) beta",
@@ -4919,11 +4919,11 @@
     },
     "QvKyRJ8x": {
       "app_name": "Meditation Timer Zenzitizer",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-06-05"
     },
     "KsuaylTZ": {
       "app_name": "Microsoft Designer beta",
@@ -5031,11 +5031,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-05"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5321,11 +5321,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-05"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5569,11 +5569,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-06-05"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -6137,11 +6137,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-28"
+      "last_modify": "2026-06-05"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6177,11 +6177,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-05"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6468,12 +6468,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-28"
+      "last_modify": "2026-06-05"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-06-05"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -6929,19 +6929,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-05"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-05"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -7057,19 +7057,19 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-05"
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-05"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
