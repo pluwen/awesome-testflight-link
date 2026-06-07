@@ -413,11 +413,11 @@
     },
     "ICUaKS17": {
       "app_name": "BeSafe",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-06-07"
     },
     "avYAAwEt": {
       "app_name": "BestOf-Private Travelogue",
@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-06-07"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1093,11 +1093,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-17"
+      "last_modify": "2026-06-07"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-07"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2125,11 +2125,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-06-07"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -3342,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-06-07"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3647,11 +3647,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-21"
+      "last_modify": "2026-06-07"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4487,11 +4487,11 @@
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-06-07"
     },
     "8BOPXsGz": {
       "app_name": "Steam iOS beta",
@@ -4567,11 +4567,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-06-07"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -5737,11 +5737,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-10"
+      "last_modify": "2026-06-07"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -6225,11 +6225,11 @@
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-06-07"
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
@@ -7057,11 +7057,11 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-06-07"
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
