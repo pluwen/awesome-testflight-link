@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-08"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1357,11 +1357,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-01"
+      "last_modify": "2026-06-08"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2093,11 +2093,11 @@
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-06-08"
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
@@ -3647,11 +3647,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-08"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4535,11 +4535,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-06-08"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -5007,11 +5007,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-06-08"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5737,11 +5737,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-08"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -6517,11 +6517,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31"
+      "last_modify": "2026-06-08"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6953,11 +6953,11 @@
     },
     "XplPxabZ": {
       "app_name": "米兔手表-可以打电话的手表",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-08"
     },
     "zfzepr74": {
       "app_name": "深蓝汽车",
@@ -7001,11 +7001,11 @@
     },
     "e86oEq6r": {
       "app_name": "微泰动态",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-08"
     },
     "jDWeCxGu": {
       "app_name": "得物 - 得到美好事物",
@@ -7057,11 +7057,11 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-08"
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
