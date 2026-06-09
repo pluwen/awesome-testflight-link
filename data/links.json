@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-09"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2093,11 +2093,11 @@
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08"
+      "last_modify": "2026-06-09"
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
@@ -4535,11 +4535,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08"
+      "last_modify": "2026-06-09"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -4943,11 +4943,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31"
+      "last_modify": "2026-06-09"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5007,11 +5007,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08"
+      "last_modify": "2026-06-09"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5031,11 +5031,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-06-09"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5105,11 +5105,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20"
+      "last_modify": "2026-06-09"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5321,11 +5321,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-06-09"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5561,11 +5561,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-06-09"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
@@ -6435,12 +6435,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-06-09"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6517,11 +6517,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08"
+      "last_modify": "2026-06-09"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -7065,11 +7065,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-06-09"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
