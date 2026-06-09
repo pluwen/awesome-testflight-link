@@ -7102,6 +7102,15 @@
         "tvos"
       ],
       "last_modify": "2026-06-09"
+    },
+    "BkXvMy3S": {
+      "app_name": "My Vinyl+ Scanner for Discogs",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-06-09"
     }
   }
 }
