@@ -7111,6 +7111,15 @@
         "ipados"
       ],
       "last_modify": "2026-06-09"
+    },
+    "S6tHHU5e": {
+      "app_name": "Talking Frog",
+      "status": "Y",
+      "tables": [
+        "macos",
+        "ios"
+      ],
+      "last_modify": "2026-06-09"
     }
   }
 }
