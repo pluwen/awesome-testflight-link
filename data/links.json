@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-05"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -413,11 +413,11 @@
     },
     "ICUaKS17": {
       "app_name": "BeSafe",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19"
+      "last_modify": "2026-06-07"
     },
     "avYAAwEt": {
       "app_name": "BestOf-Private Travelogue",
@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-08"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1085,19 +1085,19 @@
     },
     "NRswe1IZ": {
       "app_name": "F1ATV",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07"
+      "last_modify": "2026-06-05"
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-17"
+      "last_modify": "2026-06-07"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1357,11 +1357,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-01"
+      "last_modify": "2026-06-08"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-07"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2097,7 +2097,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-28"
+      "last_modify": "2026-06-08"
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
@@ -2105,7 +2105,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-04"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2121,7 +2121,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-06-06"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2129,7 +2129,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-06-07"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -3342,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-07"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3651,7 +3651,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-21"
+      "last_modify": "2026-06-08"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -3775,11 +3775,11 @@
     },
     "tv9dt6po": {
       "app_name": "TrackMyTour",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-25"
+      "last_modify": "2026-06-05"
     },
     "7s1wL3HL": {
       "app_name": "Träning",
@@ -4487,11 +4487,11 @@
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-06-07"
     },
     "8BOPXsGz": {
       "app_name": "Steam iOS beta",
@@ -4535,11 +4535,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-06-08"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -4571,7 +4571,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-13"
+      "last_modify": "2026-06-07"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -4807,11 +4807,11 @@
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-05"
     },
     "qQJqMDfX": {
       "app_name": "Clear 2 (Preview) beta",
@@ -4919,11 +4919,11 @@
     },
     "QvKyRJ8x": {
       "app_name": "Meditation Timer Zenzitizer",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-06-05"
     },
     "KsuaylTZ": {
       "app_name": "Microsoft Designer beta",
@@ -5007,11 +5007,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-06-08"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5031,11 +5031,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-05"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5325,7 +5325,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-06"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5573,7 +5573,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-06-06"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -5741,7 +5741,7 @@
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-10"
+      "last_modify": "2026-06-08"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -6137,11 +6137,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-28"
+      "last_modify": "2026-06-05"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6177,11 +6177,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-05"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6229,7 +6229,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-10"
+      "last_modify": "2026-06-07"
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
@@ -6468,12 +6468,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-28"
+      "last_modify": "2026-06-05"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6485,11 +6485,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-06"
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
@@ -6517,11 +6517,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31"
+      "last_modify": "2026-06-08"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6572,7 +6572,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-06-06"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -6929,19 +6929,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-05"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-05"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -6953,11 +6953,11 @@
     },
     "XplPxabZ": {
       "app_name": "米兔手表-可以打电话的手表",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-08"
     },
     "zfzepr74": {
       "app_name": "深蓝汽车",
@@ -7001,11 +7001,11 @@
     },
     "e86oEq6r": {
       "app_name": "微泰动态",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-08"
     },
     "jDWeCxGu": {
       "app_name": "得物 - 得到美好事物",
@@ -7054,6 +7054,72 @@
         "ios"
       ],
       "last_modify": "2026-06-04"
+    },
+    "K28iQVlZ": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-08"
+    },
+    "iT3Y716Q": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-05"
+    },
+    "TH2TrW13": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "SqNPfdxq": {
+      "app_name": "Swiftfin",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "rqvYCYOp": {
+      "app_name": "Microsoft Edge",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-04"
+    },
+    "xFzk8KQd": {
+      "app_name": "网易爆米花-智能媒体库，全能云盘&amp;网盘播放器",
+      "status": "Y",
+      "tables": [
+        "tvos"
+      ],
+      "last_modify": "2026-06-09"
+    },
+    "BkXvMy3S": {
+      "app_name": "My Vinyl+ Scanner for Discogs",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-06-09"
+    },
+    "S6tHHU5e": {
+      "app_name": "Talking Frog",
+      "status": "Y",
+      "tables": [
+        "macos",
+        "ios"
+      ],
+      "last_modify": "2026-06-09"
     }
   }
 }
