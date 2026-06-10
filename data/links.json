@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08"
+      "last_modify": "2026-06-10"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1365,11 +1365,11 @@
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-06-10"
     },
     "HktpUEoB": {
       "app_name": "FullPlayer",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09"
+      "last_modify": "2026-06-10"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2133,11 +2133,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29"
+      "last_modify": "2026-06-10"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -5105,11 +5105,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09"
+      "last_modify": "2026-06-10"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5561,11 +5561,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09"
+      "last_modify": "2026-06-10"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
@@ -5929,11 +5929,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29"
+      "last_modify": "2026-06-10"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6217,19 +6217,19 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31"
+      "last_modify": "2026-06-10"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-10"
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
@@ -6509,11 +6509,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-01"
+      "last_modify": "2026-06-10"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-06-10"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -6652,12 +6652,12 @@
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-03"
+      "last_modify": "2026-06-10"
     },
     "mX1G5TQi": {
       "app_name": "Ellie - Daily Planner",
@@ -7065,11 +7065,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09"
+      "last_modify": "2026-06-10"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
