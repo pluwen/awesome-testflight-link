@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-06-11"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1133,11 +1133,11 @@
     },
     "xsSlT2sX": {
       "app_name": "FE File Explorer Pro",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-06-11"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-06-11"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2117,11 +2117,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-06-11"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2133,11 +2133,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-06-11"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -4415,11 +4415,11 @@
     },
     "7sus3M6q": {
       "app_name": "Newsbite",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-06-11"
     },
     "ruyYHU5E": {
       "app_name": "Flipabit",
@@ -4943,11 +4943,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09"
+      "last_modify": "2026-06-11"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5031,11 +5031,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09"
+      "last_modify": "2026-06-11"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5929,11 +5929,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-06-11"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6137,11 +6137,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-06-11"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6217,11 +6217,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-06-11"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6509,11 +6509,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-06-11"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-06-11"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-25"
+      "last_modify": "2026-06-11"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -7065,11 +7065,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-06-11"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
