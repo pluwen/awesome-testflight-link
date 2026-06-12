@@ -1093,11 +1093,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-12"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -3342,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-12"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3647,11 +3647,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08"
+      "last_modify": "2026-06-12"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4887,11 +4887,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-06-12"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5377,11 +5377,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-06-12"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -6509,19 +6509,19 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-06-12"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09"
+      "last_modify": "2026-06-12"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6633,12 +6633,12 @@
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-27"
+      "last_modify": "2026-06-12"
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
@@ -6806,11 +6806,11 @@
     },
     "nnDAn7ZH": {
       "app_name": "Meow (Clash)",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20"
+      "last_modify": "2026-06-12"
     },
     "VeVxYFXP": {
       "app_name": "Ritual Buff",
@@ -6929,19 +6929,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-06-12"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-06-12"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -7065,11 +7065,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-06-12"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
