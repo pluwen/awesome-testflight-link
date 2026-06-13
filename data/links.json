@@ -7120,6 +7120,14 @@
         "ios"
       ],
       "last_modify": "2026-06-09"
+    },
+    "vyYEyN5Z": {
+      "app_name": "Advanced State Machine Editor",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-06-13"
     }
   }
 }
