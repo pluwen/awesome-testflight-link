@@ -85,11 +85,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "N",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-03-03"
+      "last_modify": "2026-06-14"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-06-14"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2101,11 +2101,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-14"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2982,11 +2982,11 @@
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-09"
+      "last_modify": "2026-06-14"
     },
     "iow1BtFD": {
       "app_name": "REAL Shuffle Player PRO",
@@ -3342,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-12"
+      "last_modify": "2026-06-14"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4887,11 +4887,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13"
+      "last_modify": "2026-06-14"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5031,11 +5031,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-06-14"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5201,11 +5201,11 @@
     },
     "TFhYeUyJ": {
       "app_name": "AliExpress - Shopping App beta",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13"
+      "last_modify": "2026-06-14"
     },
     "72eyUWVE": {
       "app_name": "Instagram",
@@ -5321,11 +5321,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13"
+      "last_modify": "2026-06-14"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
