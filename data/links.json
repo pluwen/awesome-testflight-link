@@ -85,11 +85,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-06-15"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-06-15"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2982,11 +2982,11 @@
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-06-15"
     },
     "iow1BtFD": {
       "app_name": "REAL Shuffle Player PRO",
@@ -5031,11 +5031,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-06-15"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5553,11 +5553,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13"
+      "last_modify": "2026-06-15"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6444,11 +6444,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-06-15"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-06-15"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -6929,19 +6929,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-12"
+      "last_modify": "2026-06-15"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-12"
+      "last_modify": "2026-06-15"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -7089,11 +7089,11 @@
     },
     "rqvYCYOp": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-06-15"
     },
     "xFzk8KQd": {
       "app_name": "网易爆米花-智能媒体库，全能云盘&amp;网盘播放器",
