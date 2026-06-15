@@ -7128,6 +7128,14 @@
         "macos"
       ],
       "last_modify": "2026-06-13"
+    },
+    "yYrE4GXV": {
+      "app_name": "CardHabit: TCG Habit Tracker",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-15"
     }
   }
 }
