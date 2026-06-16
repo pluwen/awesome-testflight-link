@@ -85,11 +85,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-15"
+      "last_modify": "2026-06-16"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-06-16"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1429,11 +1429,11 @@
     },
     "mmJ9mS6M": {
       "app_name": "GIFwrapped",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-06-16"
     },
     "QIVXLkkn": {
       "app_name": "GitHawk for GitHub",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-15"
+      "last_modify": "2026-06-16"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2125,11 +2125,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-16"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -5105,11 +5105,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-06-16"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5457,11 +5457,11 @@
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-15"
+      "last_modify": "2026-06-16"
     },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
@@ -6444,11 +6444,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-06-15"
+      "last_modify": "2026-06-16"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6517,11 +6517,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13"
+      "last_modify": "2026-06-16"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -7057,19 +7057,19 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-06-08"
-    },
-    "iT3Y716Q": {
-      "app_name": "TikTok -Global Video Community",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-12"
+      "last_modify": "2026-06-16"
+    },
+    "iT3Y716Q": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-16"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
@@ -7089,11 +7089,11 @@
     },
     "rqvYCYOp": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-15"
+      "last_modify": "2026-06-16"
     },
     "xFzk8KQd": {
       "app_name": "网易爆米花-智能媒体库，全能云盘&amp;网盘播放器",
