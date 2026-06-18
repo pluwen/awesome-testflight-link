@@ -973,15 +973,16 @@ _⚠️ These 1 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (12 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (13 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 12 apps are currently accepting new testers! Click the links to join._
+_✅ These 13 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | Advanced State Machine Editor | [https://testflight.apple.com/join/vyYEyN5Z](https://testflight.apple.com/join/vyYEyN5Z) | Y | 2026-06-13 |
 | Brutify | [https://testflight.apple.com/join/PapsDHQ3](https://testflight.apple.com/join/PapsDHQ3) | Y | 2026-06-06 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
+| CaptainLocalAI | [https://testflight.apple.com/join/FVkFHKT6](https://testflight.apple.com/join/FVkFHKT6) | Y | 2026-06-18 |
 | Distill Player | [https://testflight.apple.com/join/TkBNQZP2](https://testflight.apple.com/join/TkBNQZP2) | Y | 2026-02-02 |
 | Dropover - Easier Drag &amp; Drop | [https://testflight.apple.com/join/vI2iTOSj](https://testflight.apple.com/join/vI2iTOSj) | Y | 2026-06-04 |
 | Home Assistant | [https://testflight.apple.com/join/1AlPbnLZ](https://testflight.apple.com/join/1AlPbnLZ) | Y | 2026-04-15 |

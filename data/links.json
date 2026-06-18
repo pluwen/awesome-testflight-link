@@ -7144,6 +7144,14 @@
         "ios"
       ],
       "last_modify": "2026-06-17"
+    },
+    "FVkFHKT6": {
+      "app_name": "CaptainLocalAI",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-06-18"
     }
   }
 }
