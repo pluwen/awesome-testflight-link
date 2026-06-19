@@ -3647,11 +3647,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13"
+      "last_modify": "2026-06-19"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4031,11 +4031,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-26"
+      "last_modify": "2026-06-19"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -5105,11 +5105,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-17"
+      "last_modify": "2026-06-19"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -6485,11 +6485,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-06-19"
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-06-19"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -7057,19 +7057,19 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-06-16"
-    },
-    "iT3Y716Q": {
-      "app_name": "TikTok -Global Video Community",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-06-19"
+    },
+    "iT3Y716Q": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-19"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
