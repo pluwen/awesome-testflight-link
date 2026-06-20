@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (779 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (780 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 779 apps are currently accepting new testers! Click the links to join._
+_✅ These 780 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -573,6 +573,7 @@ _✅ These 779 apps are currently accepting new testers! Click the links to join
 | Smooz Browser | [https://testflight.apple.com/join/53f970RC](https://testflight.apple.com/join/53f970RC) | Y | 2026-06-18 |
 | Snackroach | [https://testflight.apple.com/join/0j5e7uc0](https://testflight.apple.com/join/0j5e7uc0) | Y | 2026-06-18 |
 | Snapthread | [https://testflight.apple.com/join/nOZ0d7n7](https://testflight.apple.com/join/nOZ0d7n7) | Y | 2026-06-18 |
+| Sniper Duel | [https://testflight.apple.com/join/9W5p641z](https://testflight.apple.com/join/9W5p641z) | Y | 2026-06-20 |
 | Social Dummy | [https://testflight.apple.com/join/lQu46sXI](https://testflight.apple.com/join/lQu46sXI) | Y | 2026-06-18 |
 | SocialBuzz-Social Network | [https://testflight.apple.com/join/HEZbtISZ](https://testflight.apple.com/join/HEZbtISZ) | Y | 2026-06-18 |
 | Sonic Compass | [https://testflight.apple.com/join/dwXDCbv7](https://testflight.apple.com/join/dwXDCbv7) | Y | 2026-06-18 |
