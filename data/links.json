@@ -133,11 +133,11 @@
     },
     "KjmVWFnT": {
       "app_name": "1Blocker",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-06-20"
     },
     "flDiG5AU": {
       "app_name": "1Password - Password Manager",
@@ -2253,11 +2253,11 @@
     },
     "uaazZoIc": {
       "app_name": "Music Harbor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-04"
+      "last_modify": "2026-06-20"
     },
     "EIEOkKJV": {
       "app_name": "Music Year in Review",
@@ -2413,11 +2413,11 @@
     },
     "i4g2QrrG": {
       "app_name": "NOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-06-20"
     },
     "DGHcr3A1": {
       "app_name": "NoSeen for Facebook Messenger",
@@ -3647,11 +3647,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-19"
+      "last_modify": "2026-06-20"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4031,11 +4031,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-19"
+      "last_modify": "2026-06-20"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -5105,11 +5105,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-19"
+      "last_modify": "2026-06-20"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5553,11 +5553,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-15"
+      "last_modify": "2026-06-20"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6485,11 +6485,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "F",
+      "status": "D",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-19"
+      "last_modify": "2026-06-20"
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-06-20"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -7057,19 +7057,19 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-06-19"
-    },
-    "iT3Y716Q": {
-      "app_name": "TikTok -Global Video Community",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-19"
+      "last_modify": "2026-06-20"
+    },
+    "iT3Y716Q": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-20"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
