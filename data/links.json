@@ -85,11 +85,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-06-21"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -133,11 +133,11 @@
     },
     "KjmVWFnT": {
       "app_name": "1Blocker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20"
+      "last_modify": "2026-06-21"
     },
     "flDiG5AU": {
       "app_name": "1Password - Password Manager",
