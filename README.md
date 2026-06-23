@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (783 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (784 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 783 apps are currently accepting new testers! Click the links to join._
+_✅ These 784 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -67,6 +67,7 @@ _✅ These 783 apps are currently accepting new testers! Click the links to join
 | AsK LaVOISiEr | [https://testflight.apple.com/join/7KV7rZ88](https://testflight.apple.com/join/7KV7rZ88) | Y | 2026-06-18 |
 | Attrct-The Story Dating App | [https://testflight.apple.com/join/wLLhCLRz](https://testflight.apple.com/join/wLLhCLRz) | Y | 2026-06-18 |
 | Auki | [https://testflight.apple.com/join/kNze5fKq](https://testflight.apple.com/join/kNze5fKq) | Y | 2026-06-04 |
+| auth. - 2FA Smart Sync | [https://testflight.apple.com/join/8XDBCC4Q](https://testflight.apple.com/join/8XDBCC4Q) | Y | 2026-06-23 |
 | Axie infinity | [https://testflight.apple.com/join/5tEPyIU2](https://testflight.apple.com/join/5tEPyIU2) | Y | 2026-06-18 |
 | Balance Ethereum Wallet | [https://testflight.apple.com/join/QXCgM6bu](https://testflight.apple.com/join/QXCgM6bu) | Y | 2026-06-18 |
 | BalloonPopp-AR | [https://testflight.apple.com/join/h4FdKDMN](https://testflight.apple.com/join/h4FdKDMN) | Y | 2026-06-18 |

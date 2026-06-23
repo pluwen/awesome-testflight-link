@@ -7200,6 +7200,14 @@
         "ios"
       ],
       "last_modify": "2026-06-23"
+    },
+    "8XDBCC4Q": {
+      "app_name": "auth. - 2FA Smart Sync",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-23"
     }
   }
 }
