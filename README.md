@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (778 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (779 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 778 apps are currently accepting new testers! Click the links to join._
+_✅ These 779 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -210,6 +210,7 @@ _✅ These 778 apps are currently accepting new testers! Click the links to join
 | Feedly Lab | [https://testflight.apple.com/join/DcxRQdP9](https://testflight.apple.com/join/DcxRQdP9) | Y | 2026-06-18 |
 | Feeds - All the Web, One Feed | [https://testflight.apple.com/join/YBFNq1bw](https://testflight.apple.com/join/YBFNq1bw) | Y | 2026-06-18 |
 | feeeed | [https://testflight.apple.com/join/ixRrWfQL](https://testflight.apple.com/join/ixRrWfQL) | Y | 2026-06-18 |
+| FeltIQ: Bankroll Tracker | [https://testflight.apple.com/join/XzDHuAUb](https://testflight.apple.com/join/XzDHuAUb) | Y | 2026-06-23 |
 | Fenix for | [https://testflight.apple.com/join/poQA1Iml](https://testflight.apple.com/join/poQA1Iml) | Y | 2026-06-18 |
 | Feud | [https://testflight.apple.com/join/xPGpKq8Z](https://testflight.apple.com/join/xPGpKq8Z) | Y | 2026-06-18 |
 | Fight Back to the 80's Match 3 | [https://testflight.apple.com/join/xt9cIUk1](https://testflight.apple.com/join/xt9cIUk1) | Y | 2026-06-18 |
