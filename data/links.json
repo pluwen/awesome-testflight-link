@@ -7208,6 +7208,15 @@
         "ios"
       ],
       "last_modify": "2026-06-23"
+    },
+    "tLcYLZJV": {
+      "app_name": "Tailscale",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "tvos"
+      ],
+      "last_modify": "2026-06-23"
     }
   }
 }
