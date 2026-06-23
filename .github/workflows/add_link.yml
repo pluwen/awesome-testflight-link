@@ -3,10 +3,6 @@ name: Add A TestFlight Link
 on:
   workflow_dispatch:
     inputs:
-      app_name:
-        description: '应用名称（可选，如不填则自动提取）'
-        required: false
-        default: 'None'
       testflight_link:
         description: 'TestFlight 公共测试的完整链接（非 TestFlight 链接请添加到 data/signup.md）'
         required: true
@@ -31,7 +27,6 @@ jobs:
         run: |
           set -euo pipefail
           TF_LINK="${{ github.event.inputs.testflight_link }}"
-          APP_NAME="${{ github.event.inputs.app_name }}"
           INPUT_PLATFORMS="${{ github.event.inputs.platforms }}"
 
           if [ "${INPUT_PLATFORMS}" = "auto" ]; then
@@ -39,7 +34,7 @@ jobs:
             exit 1
           else
             echo "[info] Adding link for platforms: ${INPUT_PLATFORMS}"
-            uv run python scripts/add_link.py "$TF_LINK" "$INPUT_PLATFORMS" "$APP_NAME"
+            uv run python scripts/add_link.py "$TF_LINK" "$INPUT_PLATFORMS" 2>&1 | tee add_link.log
           fi
 
       - name: Commit and push changes
@@ -48,7 +43,9 @@ jobs:
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
             git config --global user.name "github-actions[bot]"
             git add .
-            git commit -m "Add new TestFlight link: ${{ github.event.inputs.app_name }}"
+            # Resolve app name from script output (extracted from the TestFlight page).
+            APP_NAME=$(grep -oP '^APP_NAME=\K.*' add_link.log || echo "Unknown")
+            git commit -m "Add new TestFlight link: ${APP_NAME}"
             git push
           else
             echo "No changes to commit"

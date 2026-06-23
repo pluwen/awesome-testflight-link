@@ -28,7 +28,7 @@ def parse_platforms_from_string(s: str) -> list:
     return [p for p in parts if p in valid]
 
 async def check_status(session, key, retry=10):
-    app_name = "None"
+    app_name = ""
     html_content = ""
     ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
@@ -70,26 +70,23 @@ async def check_status(session, key, retry=10):
     return (key, status, app_name, "")
 
 async def main():
-    # Parse arguments - link, platforms (comma-separated), and optional app_name
+    # Parse arguments - link and platforms (comma-separated)
     args = sys.argv[1:]
 
     if len(args) < 1:
-        print("Usage: python add_link.py <link> <platforms> [app_name]")
+        print("Usage: python add_link.py <link> <platforms>")
         print()
         print("Examples:")
         print("  python3 add_link.py AbcXYZ ios")
         print("  python3 add_link.py AbcXYZ ios,ipados,macos")
-        print("  python3 add_link.py AbcXYZ ios 'Day One Journal'")
         print()
         print("Note: Platforms must be provided (comma-separated, e.g. ios,ipados,macos,tvos)")
+        print("      App name is auto-extracted from the TestFlight page.")
         sys.exit(1)
 
     testflight_link = args[0]
-    # If platforms provided as second arg, app_name may be third arg
-    if len(args) > 2:
-        app_name = args[2]
-    else:
-        app_name = None
+    # App name is always auto-extracted from the TestFlight page (no manual input).
+    app_name = None
 
     # Extract link ID from URL
     link_id_match = re.search(r"join/(.*)$", testflight_link, re.I)
@@ -105,8 +102,8 @@ async def main():
     async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config, headers=headers) as session:
         _, status, fetched_name, html_content = await check_status(session, testflight_link)
 
-        if not app_name or app_name.lower() == "none":
-            app_name = fetched_name
+        # Always use the name extracted from the page (fallback only if extraction failed).
+        app_name = fetched_name if fetched_name and fetched_name != "None" else None
 
         # Determine platforms: prefer PLATFORMS env, then CLI arg
         platforms_from_env = None
@@ -114,7 +111,7 @@ async def main():
         if env_val:
             platforms_from_env = parse_platforms_from_string(env_val)
 
-        # CLI: second arg is platforms (comma separated), third arg is app_name
+        # CLI: second arg is platforms (comma separated)
         cli_platforms = None
         if len(args) >= 2:
             cli_platforms = parse_platforms_from_string(args[1])
@@ -127,8 +124,13 @@ async def main():
             print(f"[info] Using platforms from PLATFORMS env: {', '.join(tables)}")
         else:
             print("[error] No platforms specified. Please provide platforms as the second argument or set PLATFORMS env.")
-            print("Usage: python add_link.py <link> <platforms_comma_separated> [app_name]")
+            print("Usage: python add_link.py <link> <platforms_comma_separated>")
             sys.exit(1)
+
+    # Fall back to a placeholder if the name could not be extracted.
+    if not app_name:
+        app_name = "Unknown"
+        print(f"[warn] Could not extract app name from TestFlight page, using '{app_name}'")
 
     # Load and update data
     links_data = load_links()
@@ -136,7 +138,6 @@ async def main():
         links_data["_links"] = {}
 
     # Check if link already exists
-    link_exists = testflight_link in links_data["_links"]
     link_info = links_data["_links"].get(testflight_link)
 
     if link_info is None:
@@ -163,6 +164,8 @@ async def main():
     links_data["_links"][testflight_link] = link_info
     save_links(links_data)
     print(f"[info] {action} '{app_name}' with platforms: {', '.join(link_info['tables'])}")
+    # Emit the resolved app name on its own line so CI can use it for the commit message.
+    print(f"APP_NAME={app_name}")
 
     # 直接生成 README
     renew_readme()

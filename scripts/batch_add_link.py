@@ -46,7 +46,7 @@ def parse_links(raw: str) -> list[str]:
 
 async def check_status(session, key, retry=10):
     """Fetch status and app name for a single link."""
-    app_name = "None"
+    app_name = ""
     ua = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
           "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
@@ -169,6 +169,11 @@ async def main():
     for key, status, app_name in results:
         if key is None:
             continue
+
+        # Fall back to a placeholder if the name could not be extracted.
+        if not app_name:
+            app_name = "Unknown"
+            print(f"  [warn] Could not extract app name for {key}, using '{app_name}'")
 
         link_info = links_data["_links"].get(key)
 
