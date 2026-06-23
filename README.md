@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (780 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (781 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 780 apps are currently accepting new testers! Click the links to join._
+_✅ These 781 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -477,6 +477,7 @@ _✅ These 780 apps are currently accepting new testers! Click the links to join
 | Piano – Note Taking | [https://testflight.apple.com/join/eDPJ91Xt](https://testflight.apple.com/join/eDPJ91Xt) | Y | 2026-06-18 |
 | Picable | [https://testflight.apple.com/join/vWjowKge](https://testflight.apple.com/join/vWjowKge) | Y | 2026-06-18 |
 | Pigeon | [https://testflight.apple.com/join/fQQrtZMS](https://testflight.apple.com/join/fQQrtZMS) | Y | 2026-06-18 |
+| Pingroom | [https://testflight.apple.com/join/UW186HBe](https://testflight.apple.com/join/UW186HBe) | Y | 2026-06-23 |
 | Planet Runners | [https://testflight.apple.com/join/4zAP9kBW](https://testflight.apple.com/join/4zAP9kBW) | Y | 2026-06-18 |
 | Plant Identifier & Care | [https://testflight.apple.com/join/vYqAc3Lf](https://testflight.apple.com/join/vYqAc3Lf) | Y | 2026-06-18 |
 | Playerly | [https://testflight.apple.com/join/8TOnyruA](https://testflight.apple.com/join/8TOnyruA) | Y | 2026-06-18 |

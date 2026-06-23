@@ -7176,6 +7176,14 @@
         "ios"
       ],
       "last_modify": "2026-06-23"
+    },
+    "UW186HBe": {
+      "app_name": "Pingroom",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-23"
     }
   }
 }
