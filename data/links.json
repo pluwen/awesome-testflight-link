@@ -85,11 +85,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-21"
+      "last_modify": "2026-06-24"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -117,11 +117,11 @@
     },
     "CtKY8RYh": {
       "app_name": "WPS Office for PC",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-06-24"
     },
     "QKqitFwc": {
       "app_name": "1.1.1.1: Faster Internet",
@@ -2413,11 +2413,11 @@
     },
     "i4g2QrrG": {
       "app_name": "NOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-06-24"
     },
     "DGHcr3A1": {
       "app_name": "NoSeen for Facebook Messenger",
@@ -3647,11 +3647,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20"
+      "last_modify": "2026-06-24"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4567,11 +4567,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-06-24"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -4871,11 +4871,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-24"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -6633,12 +6633,12 @@
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-06-24"
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
@@ -7057,11 +7057,11 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-23"
+      "last_modify": "2026-06-24"
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
