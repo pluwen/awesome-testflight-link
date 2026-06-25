@@ -7217,6 +7217,14 @@
         "tvos"
       ],
       "last_modify": "2026-06-23"
+    },
+    "vrehhvsY": {
+      "app_name": "WatchAmp for Plex",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-25"
     }
   }
 }
