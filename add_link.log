@@ -1,3 +1,3 @@
-[info] Using platforms from CLI arg: ipados
-[info] Added new link 'Home Floorplan' with platforms: ipados
-APP_NAME=Home Floorplan
+[info] Using platforms from CLI arg: ios
+[info] Added new link 'Mithka' with platforms: ios
+APP_NAME=Mithka

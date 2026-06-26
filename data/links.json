@@ -7233,6 +7233,14 @@
         "ipados"
       ],
       "last_modify": "2026-06-25"
+    },
+    "tVC8WkbW": {
+      "app_name": "Mithka",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-26"
     }
   }
 }

@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (787 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (788 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 787 apps are currently accepting new testers! Click the links to join._
+_✅ These 788 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -388,6 +388,7 @@ _✅ These 787 apps are currently accepting new testers! Click the links to join
 | Minecraft: Education Edition beta | [https://testflight.apple.com/join/sBDlEXYr](https://testflight.apple.com/join/sBDlEXYr) | Y | 2026-06-18 |
 | Mini Forge: Paint Rack | [https://testflight.apple.com/join/IuJCuaVk](https://testflight.apple.com/join/IuJCuaVk) | Y | 2026-06-18 |
 | MiniBili | [https://testflight.apple.com/join/TgcHSGwb](https://testflight.apple.com/join/TgcHSGwb) | Y | 2026-03-08 |
+| Mithka | [https://testflight.apple.com/join/tVC8WkbW](https://testflight.apple.com/join/tVC8WkbW) | Y | 2026-06-26 |
 | Mixtapes: Music Player | [https://testflight.apple.com/join/wpAW2GRx](https://testflight.apple.com/join/wpAW2GRx) | Y | 2026-06-18 |
 | MK播放器 | [https://testflight.apple.com/join/qUEu2p3L](https://testflight.apple.com/join/qUEu2p3L) | Y | 2026-06-18 |
 | Mojo - Create Video Stories | [https://testflight.apple.com/join/AJlrDMao](https://testflight.apple.com/join/AJlrDMao) | Y | 2026-06-18 |
