@@ -7241,6 +7241,15 @@
         "ios"
       ],
       "last_modify": "2026-06-26"
+    },
+    "KKadvzpd": {
+      "app_name": "Tessa - Jigsaw Photo Puzzles",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-06-27"
     }
   }
 }
