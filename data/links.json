@@ -3342,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-06-28"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4375,11 +4375,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-25"
+      "last_modify": "2026-06-28"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4479,11 +4479,11 @@
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-13"
+      "last_modify": "2026-06-28"
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
@@ -6509,19 +6509,19 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-06-13"
-    },
-    "MnsYnB0s": {
-      "app_name": "TikTok -Global Video Community",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-28"
+    },
+    "MnsYnB0s": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-28"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-27"
+      "last_modify": "2026-06-28"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
