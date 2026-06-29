@@ -85,11 +85,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-29"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -3342,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-28"
+      "last_modify": "2026-06-29"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4119,11 +4119,11 @@
     },
     "oscYikr0": {
       "app_name": "WhatsApp Business",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-25"
+      "last_modify": "2026-06-29"
     },
     "mQX0NKjP": {
       "app_name": "Widget Wizard",
@@ -4375,11 +4375,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-28"
+      "last_modify": "2026-06-29"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4479,11 +4479,11 @@
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-28"
+      "last_modify": "2026-06-29"
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
@@ -5321,11 +5321,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-29"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6177,11 +6177,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-06-29"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6509,11 +6509,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-28"
+      "last_modify": "2026-06-29"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
@@ -6633,12 +6633,12 @@
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-06-24"
+      "last_modify": "2026-06-29"
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
@@ -6913,11 +6913,11 @@
     },
     "VNDGcHBB": {
       "app_name": "淘宝闪购-点外卖更优惠",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-06-29"
     },
     "7tPfWALw": {
       "app_name": "腾讯自选股-在线炒股票证券交易",
