@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (786 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (787 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 786 apps are currently accepting new testers! Click the links to join._
+_✅ These 787 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -657,6 +657,7 @@ _✅ These 786 apps are currently accepting new testers! Click the links to join
 | Truecaller | [https://testflight.apple.com/join/EvXKvGti](https://testflight.apple.com/join/EvXKvGti) | Y | 2026-06-18 |
 | Träning | [https://testflight.apple.com/join/7s1wL3HL](https://testflight.apple.com/join/7s1wL3HL) | Y | 2026-06-18 |
 | ttte for | [https://testflight.apple.com/join/YsHONy5I](https://testflight.apple.com/join/YsHONy5I) | Y | 2026-06-18 |
+| TubeCast | [https://testflight.apple.com/join/Pze9SjbP](https://testflight.apple.com/join/Pze9SjbP) | Y | 2026-06-29 |
 | Tumblr | [https://testflight.apple.com/join/nTNSXGV3](https://testflight.apple.com/join/nTNSXGV3) | Y | 2026-06-18 |
 | Tunna - Xray/V2ray Proxy Utility | [https://testflight.apple.com/join/dqMoJObA](https://testflight.apple.com/join/dqMoJObA) | Y | 2026-06-02 |
 | TunSafe VPN | [https://testflight.apple.com/join/9gbYAJLB](https://testflight.apple.com/join/9gbYAJLB) | Y | 2026-06-18 |
