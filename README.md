@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (783 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (784 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 783 apps are currently accepting new testers! Click the links to join._
+_✅ These 784 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -803,6 +803,7 @@ _✅ These 783 apps are currently accepting new testers! Click the links to join
 | 豆瓣 | [https://testflight.apple.com/join/w5En3SPV](https://testflight.apple.com/join/w5En3SPV) | Y | 2026-04-01 |
 | 豆瓣阅读 | [https://testflight.apple.com/join/Bh2Bo9ab](https://testflight.apple.com/join/Bh2Bo9ab) | Y | 2026-01-30 |
 | 豌豆多多 | [https://testflight.apple.com/join/gbcprIXM](https://testflight.apple.com/join/gbcprIXM) | Y | 2026-06-18 |
+| 赶场 - 影展日程管理 | [https://testflight.apple.com/join/MP1BapP6](https://testflight.apple.com/join/MP1BapP6) | Y | 2026-07-02 |
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) | Y | 2026-06-18 |
 | 迅雷浏览器 | [https://testflight.apple.com/join/TX6YlL2B](https://testflight.apple.com/join/TX6YlL2B) | Y | 2026-06-30 |
 | 酷我音乐 | [https://testflight.apple.com/join/XWYSZMaS](https://testflight.apple.com/join/XWYSZMaS) | Y | 2025-12-22 |

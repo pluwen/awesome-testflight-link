@@ -7266,6 +7266,14 @@
         "macos"
       ],
       "last_modify": "2026-07-02"
+    },
+    "MP1BapP6": {
+      "app_name": "赶场 - 影展日程管理",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-02"
     }
   }
 }
