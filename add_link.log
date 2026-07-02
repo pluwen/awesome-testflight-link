@@ -1,3 +1,3 @@
-[info] Using platforms from CLI arg: ios
-[info] Added new link 'TubeCast' with platforms: ios
-APP_NAME=TubeCast
+[info] Using platforms from CLI arg: macos
+[info] Added new link 'plsql2pgsql' with platforms: macos
+APP_NAME=plsql2pgsql

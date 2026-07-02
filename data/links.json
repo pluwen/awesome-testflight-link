@@ -7258,6 +7258,14 @@
         "ios"
       ],
       "last_modify": "2026-06-29"
+    },
+    "UeJHZ2vQ": {
+      "app_name": "plsql2pgsql",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-07-02"
     }
   }
 }
