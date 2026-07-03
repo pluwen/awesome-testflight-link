@@ -4567,11 +4567,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-02"
+      "last_modify": "2026-07-03"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -5553,11 +5553,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-07-03"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6435,12 +6435,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-07-02"
+      "last_modify": "2026-07-03"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-28"
+      "last_modify": "2026-07-03"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -6913,11 +6913,11 @@
     },
     "VNDGcHBB": {
       "app_name": "淘宝闪购-点外卖更优惠",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-30"
+      "last_modify": "2026-07-03"
     },
     "7tPfWALw": {
       "app_name": "腾讯自选股-在线炒股票证券交易",
@@ -7073,11 +7073,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-02"
+      "last_modify": "2026-07-03"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
