@@ -4367,11 +4367,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot - Heart Rate Monitor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01"
+      "last_modify": "2026-07-04"
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
@@ -4567,11 +4567,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-03"
+      "last_modify": "2026-07-04"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -6435,12 +6435,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-07-03"
+      "last_modify": "2026-07-04"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-03"
+      "last_modify": "2026-07-04"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
