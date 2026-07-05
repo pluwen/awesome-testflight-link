@@ -85,11 +85,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-07-02"
+      "last_modify": "2026-07-05"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -2109,11 +2109,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-07-05"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2926,11 +2926,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-07-05"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -4567,11 +4567,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-04"
+      "last_modify": "2026-07-05"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -6217,11 +6217,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-07-05"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-07-05"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
