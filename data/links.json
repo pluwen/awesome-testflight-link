@@ -2109,11 +2109,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-05"
+      "last_modify": "2026-07-06"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2125,11 +2125,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-17"
+      "last_modify": "2026-07-06"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -2926,11 +2926,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-05"
+      "last_modify": "2026-07-06"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3639,11 +3639,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-23"
+      "last_modify": "2026-07-06"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4207,11 +4207,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-12"
+      "last_modify": "2026-07-06"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4567,11 +4567,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-05"
+      "last_modify": "2026-07-06"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -4887,11 +4887,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-07-06"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5369,11 +5369,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-29"
+      "last_modify": "2026-07-06"
     },
     "An0RiOFF": {
       "app_name": "Cash App",
@@ -6217,11 +6217,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-05"
+      "last_modify": "2026-07-06"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-04"
+      "last_modify": "2026-07-06"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -7073,11 +7073,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-03"
+      "last_modify": "2026-07-06"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
