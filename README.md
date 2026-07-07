@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (792 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (793 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 792 apps are currently accepting new testers! Click the links to join._
+_✅ These 793 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -125,6 +125,7 @@ _✅ These 792 apps are currently accepting new testers! Click the links to join
 | Cheatsheet | [https://testflight.apple.com/join/E7AnyPlA](https://testflight.apple.com/join/E7AnyPlA) | Y | 2025-12-22 |
 | Chirp for | [https://testflight.apple.com/join/K120Muoy](https://testflight.apple.com/join/K120Muoy) | Y | 2026-06-18 |
 | Choc | [https://testflight.apple.com/join/J5QPqXKO](https://testflight.apple.com/join/J5QPqXKO) | Y | 2026-06-18 |
+| Chronicle | [https://testflight.apple.com/join/93p77fVF](https://testflight.apple.com/join/93p77fVF) | Y | 2026-07-07 |
 | CHUNE | [https://testflight.apple.com/join/7gH8i3pN](https://testflight.apple.com/join/7gH8i3pN) | Y | 2026-06-18 |
 | Cinema Time | [https://testflight.apple.com/join/wcY5wC6H](https://testflight.apple.com/join/wcY5wC6H) | Y | 2026-06-18 |
 | Classic Euchre | [https://testflight.apple.com/join/0Ip6r1tw](https://testflight.apple.com/join/0Ip6r1tw) | Y | 2026-06-18 |

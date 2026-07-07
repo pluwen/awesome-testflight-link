@@ -1,4 +1,3 @@
-[info] Using platforms from CLI arg: ios, ipados
-[info] Updated platforms for 'Home Floorplan': ['ipados'] → ['ios', 'ipados']
-[info] Updated existing link 'Home Floorplan' with platforms: ios, ipados
-APP_NAME=Home Floorplan
+[info] Using platforms from CLI arg: ios
+[info] Added new link 'Chronicle' with platforms: ios
+APP_NAME=Chronicle
