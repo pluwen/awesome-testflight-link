@@ -7230,9 +7230,10 @@
       "app_name": "Home Floorplan",
       "status": "Y",
       "tables": [
+        "ios",
         "ipados"
       ],
-      "last_modify": "2026-06-25"
+      "last_modify": "2026-07-07"
     },
     "tVC8WkbW": {
       "app_name": "Mithka",
