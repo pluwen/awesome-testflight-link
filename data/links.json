@@ -3639,11 +3639,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-06"
+      "last_modify": "2026-07-07"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -5369,11 +5369,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-06"
+      "last_modify": "2026-07-07"
     },
     "An0RiOFF": {
       "app_name": "Cash App",
@@ -5481,11 +5481,11 @@
     },
     "bExxpaX1": {
       "app_name": "Lenna - Video Library Player",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-07-07"
     },
     "VnGZhjsZ": {
       "app_name": "Ketro",
