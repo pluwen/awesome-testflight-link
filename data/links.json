@@ -2093,11 +2093,11 @@
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-07-08"
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
@@ -2125,11 +2125,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-06"
+      "last_modify": "2026-07-08"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -4031,11 +4031,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20"
+      "last_modify": "2026-07-08"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4207,11 +4207,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-06"
+      "last_modify": "2026-07-08"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4479,11 +4479,11 @@
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-29"
+      "last_modify": "2026-07-08"
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
@@ -6217,11 +6217,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-06"
+      "last_modify": "2026-07-08"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6331,11 +6331,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01"
+      "last_modify": "2026-07-08"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6517,11 +6517,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-02"
+      "last_modify": "2026-07-08"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -7073,11 +7073,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-06"
+      "last_modify": "2026-07-08"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
