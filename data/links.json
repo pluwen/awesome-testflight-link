@@ -7291,6 +7291,15 @@
         "ios"
       ],
       "last_modify": "2026-07-07"
+    },
+    "3NYaY11c": {
+      "app_name": "OpenDisplay",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-08"
     }
   }
 }
