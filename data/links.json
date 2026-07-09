@@ -1445,11 +1445,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-28"
+      "last_modify": "2026-07-09"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -4031,11 +4031,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-08"
+      "last_modify": "2026-07-09"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4479,11 +4479,11 @@
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-08"
+      "last_modify": "2026-07-09"
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
@@ -4799,11 +4799,11 @@
     },
     "fzDLkIVK": {
       "app_name": "1Password - Password Manager beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-07-09"
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
@@ -4887,11 +4887,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-06"
+      "last_modify": "2026-07-09"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -6209,19 +6209,19 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-30"
+      "last_modify": "2026-07-09"
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-08"
+      "last_modify": "2026-07-09"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6331,11 +6331,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-08"
+      "last_modify": "2026-07-09"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6517,11 +6517,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-08"
+      "last_modify": "2026-07-09"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-06"
+      "last_modify": "2026-07-09"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-05"
+      "last_modify": "2026-07-09"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
