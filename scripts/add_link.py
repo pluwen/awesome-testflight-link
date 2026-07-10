@@ -7,67 +7,16 @@ import asyncio
 import aiohttp
 import re
 import sys
-import random
-from utils import TODAY, renew_readme, load_links, save_links
+from utils import (
+    BASE_URL,
+    TODAY,
+    check_testflight_status,
+    parse_platforms_from_string,
+    renew_readme,
+    load_links,
+    save_links,
+)
 import os
-
-BASE_URL = "https://testflight.apple.com/"
-
-FULL_PATTERN = re.compile(r"版本的测试员已满|This beta is full")
-NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn't accepting any new testers right now")
-APP_NAME_PATTERN = re.compile(r"Join the (.+) beta - TestFlight - Apple")
-APP_NAME_CH_PATTERN = re.compile(r'加入 Beta 版"(.+)" - TestFlight - Apple')
-
-# Parse comma-separated platform string from CLI or env
-def parse_platforms_from_string(s: str) -> list:
-    """Parse comma-separated platform string into validated list."""
-    if not s:
-        return []
-    parts = [p.strip().lower() for p in s.split(',') if p.strip()]
-    valid = {'ios', 'ipados', 'macos', 'tvos', 'visionos'}
-    return [p for p in parts if p in valid]
-
-async def check_status(session, key, retry=10):
-    app_name = ""
-    html_content = ""
-    ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-
-    for i in range(retry):
-        try:
-            async with session.get(f'/join/{key}', headers={'User-Agent': ua}, timeout=aiohttp.ClientTimeout(total=10)) as resp:
-                if resp.status == 404:
-                    return (key, 'D', app_name, "")
-                resp.raise_for_status()
-                html_content = await resp.text()
-
-                if NO_PATTERN.search(html_content) is not None:
-                    status = 'N'
-                elif FULL_PATTERN.search(html_content) is not None:
-                    status = 'F'
-                else:
-                    status = 'Y'
-
-                app_name_search = APP_NAME_PATTERN.search(html_content)
-                app_name_ch_search = APP_NAME_CH_PATTERN.search(html_content)
-                if app_name_search:
-                    app_name = app_name_search.group(1)
-                elif app_name_ch_search:
-                    app_name = app_name_ch_search.group(1)
-
-                return (key, status, app_name, html_content)
-        except asyncio.TimeoutError:
-            if i < retry - 1:
-                wait_time = 2 ** i
-                print(f"[warn] {key} - Timeout, waiting {wait_time}s before retry ({i+1}/{retry})")
-                await asyncio.sleep(wait_time)
-        except Exception as e:
-            if i < retry - 1:
-                wait_time = 2 ** i
-                print(f"[warn] {key} - {type(e).__name__}, waiting {wait_time}s before retry ({i+1}/{retry})")
-                await asyncio.sleep(wait_time)
-
-    print(f"[warn] {key} - Failed after {retry} retries, using default values")
-    return (key, status, app_name, "")
 
 async def main():
     # Parse arguments - link and platforms (comma-separated)
@@ -100,7 +49,12 @@ async def main():
     }
 
     async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config, headers=headers) as session:
-        _, status, fetched_name, html_content = await check_status(session, testflight_link)
+        _, status, fetched_name, html_content = await check_testflight_status(
+            session,
+            testflight_link,
+            retry=10,
+            include_html=True,
+        )
 
         # Always use the name extracted from the page (fallback only if extraction failed).
         app_name = fetched_name if fetched_name and fetched_name != "None" else None

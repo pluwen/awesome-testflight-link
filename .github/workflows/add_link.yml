@@ -39,12 +39,13 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
+          # Resolve app name from script output (extracted from the TestFlight page).
+          APP_NAME=$(grep -oP '^APP_NAME=\K.*' add_link.log || echo "Unknown")
+
+          if [ -n "$(git status --porcelain README.md data/links.json)" ]; then
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
             git config --global user.name "github-actions[bot]"
-            git add .
-            # Resolve app name from script output (extracted from the TestFlight page).
-            APP_NAME=$(grep -oP '^APP_NAME=\K.*' add_link.log || echo "Unknown")
+            git add README.md data/links.json
             git commit -m "Add new TestFlight link: ${APP_NAME}"
             git push
           else

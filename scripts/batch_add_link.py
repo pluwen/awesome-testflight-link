@@ -8,24 +8,15 @@ import asyncio
 import aiohttp
 import re
 import sys
-import random
-from utils import TODAY, renew_readme, load_links, save_links
-
-BASE_URL = "https://testflight.apple.com/"
-
-FULL_PATTERN = re.compile(r"版本的测试员已满|This beta is full")
-NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn't accepting any new testers right now")
-APP_NAME_PATTERN = re.compile(r"Join the (.+) beta - TestFlight - Apple")
-APP_NAME_CH_PATTERN = re.compile(r'加入 Beta 版"(.+)" - TestFlight - Apple')
-
-
-def parse_platforms_from_string(s: str) -> list:
-    """Parse comma-separated platform string into validated list."""
-    if not s:
-        return []
-    parts = [p.strip().lower() for p in s.split(',') if p.strip()]
-    valid = {'ios', 'ipados', 'macos', 'tvos', 'visionos'}
-    return [p for p in parts if p in valid]
+from utils import (
+    BASE_URL,
+    TODAY,
+    check_testflight_status,
+    parse_platforms_from_string,
+    renew_readme,
+    load_links,
+    save_links,
+)
 
 
 def parse_links(raw: str) -> list[str]:
@@ -42,55 +33,6 @@ def parse_links(raw: str) -> list[str]:
         elif re.fullmatch(r"[A-Za-z0-9]+", line):
             link_ids.append(line)
     return link_ids
-
-
-async def check_status(session, key, retry=10):
-    """Fetch status and app name for a single link."""
-    app_name = ""
-    ua = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-
-    for i in range(retry):
-        try:
-            async with session.get(
-                f'/join/{key}',
-                headers={'User-Agent': ua},
-                timeout=aiohttp.ClientTimeout(total=10),
-            ) as resp:
-                if resp.status == 404:
-                    return (key, 'D', app_name)
-
-                resp.raise_for_status()
-                html_content = await resp.text()
-
-                if NO_PATTERN.search(html_content) is not None:
-                    status = 'N'
-                elif FULL_PATTERN.search(html_content) is not None:
-                    status = 'F'
-                else:
-                    status = 'Y'
-
-                app_name_search = APP_NAME_PATTERN.search(html_content)
-                app_name_ch_search = APP_NAME_CH_PATTERN.search(html_content)
-                if app_name_search:
-                    app_name = app_name_search.group(1)
-                elif app_name_ch_search:
-                    app_name = app_name_ch_search.group(1)
-
-                return (key, status, app_name)
-        except asyncio.TimeoutError:
-            if i < retry - 1:
-                wait_time = 2 ** i
-                print(f"[warn] {key} - Timeout, waiting {wait_time}s before retry ({i+1}/{retry})")
-                await asyncio.sleep(wait_time)
-        except Exception as e:
-            if i < retry - 1:
-                wait_time = 2 ** i
-                print(f"[warn] {key} - {type(e).__name__}, waiting {wait_time}s before retry ({i+1}/{retry})")
-                await asyncio.sleep(wait_time)
-
-    print(f"[warn] {key} - Failed after {retry} retries, using default values")
-    return (key, 'N', app_name)
 
 
 async def main():
@@ -154,7 +96,7 @@ async def main():
     # Fetch status for all links concurrently
     conn_config = aiohttp.TCPConnector(limit=5, limit_per_host=2)
     async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config) as session:
-        tasks = [check_status(session, key) for key in link_ids]
+        tasks = [check_testflight_status(session, key, retry=10) for key in link_ids]
         results = await asyncio.gather(*tasks)
 
     # Load existing data
@@ -164,7 +106,6 @@ async def main():
 
     added_count = 0
     updated_count = 0
-    skipped_count = 0
 
     for key, status, app_name in results:
         if key is None:
