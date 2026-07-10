@@ -85,11 +85,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-21"
+      "last_modify": "2026-07-05"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -121,7 +121,7 @@
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-06-25"
     },
     "QKqitFwc": {
       "app_name": "1.1.1.1: Faster Internet",
@@ -1093,11 +1093,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-12"
+      "last_modify": "2026-06-26"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1445,11 +1445,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-28"
+      "last_modify": "2026-07-09"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-17"
+      "last_modify": "2026-06-26"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2097,15 +2097,15 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09"
+      "last_modify": "2026-07-08"
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-07-02"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2113,7 +2113,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07"
+      "last_modify": "2026-07-06"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2129,7 +2129,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-17"
+      "last_modify": "2026-07-08"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -2277,11 +2277,11 @@
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Lyrics Finder",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-12"
+      "last_modify": "2026-06-23"
     },
     "DJoozd8u": {
       "app_name": "My Movies 4 Pro - Movie & TV",
@@ -2417,7 +2417,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-06-26"
     },
     "DGHcr3A1": {
       "app_name": "NoSeen for Facebook Messenger",
@@ -2926,11 +2926,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-07-06"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3346,7 +3346,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-06-29"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3639,19 +3639,19 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-06-22"
-    },
-    "MnuClabg": {
-      "app_name": "Termius – SSH client",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20"
+      "last_modify": "2026-07-07"
+    },
+    "MnuClabg": {
+      "app_name": "Termius – SSH client",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-24"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4035,7 +4035,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20"
+      "last_modify": "2026-07-09"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4123,7 +4123,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-25"
+      "last_modify": "2026-06-30"
     },
     "mQX0NKjP": {
       "app_name": "Widget Wizard",
@@ -4211,7 +4211,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-12"
+      "last_modify": "2026-07-08"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4371,7 +4371,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-14"
+      "last_modify": "2026-07-04"
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
@@ -4379,7 +4379,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-25"
+      "last_modify": "2026-06-29"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4483,7 +4483,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-13"
+      "last_modify": "2026-07-09"
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
@@ -4539,7 +4539,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09"
+      "last_modify": "2026-07-02"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -4571,7 +4571,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07"
+      "last_modify": "2026-07-06"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -4799,11 +4799,11 @@
     },
     "fzDLkIVK": {
       "app_name": "1Password - Password Manager beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-16"
+      "last_modify": "2026-07-09"
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
@@ -4875,7 +4875,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02"
+      "last_modify": "2026-06-26"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -4891,7 +4891,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-07-09"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4943,11 +4943,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-06-26"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5105,11 +5105,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-06-23"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5325,7 +5325,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-14"
+      "last_modify": "2026-06-29"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5353,11 +5353,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-26"
+      "last_modify": "2026-07-01"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5373,7 +5373,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-29"
+      "last_modify": "2026-07-07"
     },
     "An0RiOFF": {
       "app_name": "Cash App",
@@ -5481,11 +5481,11 @@
     },
     "bExxpaX1": {
       "app_name": "Lenna - Video Library Player",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-07-07"
     },
     "VnGZhjsZ": {
       "app_name": "Ketro",
@@ -5557,7 +5557,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-07-03"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5613,7 +5613,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-11"
+      "last_modify": "2026-07-02"
     },
     "0trOIdJj": {
       "app_name": "Locus",
@@ -6181,7 +6181,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-06-30"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6209,11 +6209,11 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-04"
+      "last_modify": "2026-07-09"
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
@@ -6221,7 +6221,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-07-09"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6335,7 +6335,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-27"
+      "last_modify": "2026-07-09"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6435,12 +6435,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-07-04"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6448,7 +6448,7 @@
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-06-16"
+      "last_modify": "2026-07-02"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6513,15 +6513,15 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13"
+      "last_modify": "2026-06-29"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-07-09"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6572,7 +6572,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-07-09"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -6633,12 +6633,12 @@
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-06-30"
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
@@ -6754,7 +6754,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-07-09"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -6790,11 +6790,11 @@
     },
     "SBhsGn9q": {
       "app_name": "Macroline",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-11"
+      "last_modify": "2026-06-27"
     },
     "f3fgN8u4": {
       "app_name": "HankyDoodle",
@@ -6913,11 +6913,11 @@
     },
     "VNDGcHBB": {
       "app_name": "淘宝闪购-点外卖更优惠",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-07-03"
     },
     "7tPfWALw": {
       "app_name": "腾讯自选股-在线炒股票证券交易",
@@ -7057,11 +7057,11 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20"
+      "last_modify": "2026-06-25"
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
@@ -7069,7 +7069,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-07-01"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
@@ -7077,7 +7077,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-07-08"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7089,11 +7089,11 @@
     },
     "rqvYCYOp": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-17"
+      "last_modify": "2026-07-02"
     },
     "xFzk8KQd": {
       "app_name": "网易爆米花-智能媒体库，全能云盘&amp;网盘播放器",
@@ -7168,6 +7168,138 @@
         "ios"
       ],
       "last_modify": "2026-06-23"
+    },
+    "u9AdX6nz": {
+      "app_name": "SIMKit",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-23"
+    },
+    "UW186HBe": {
+      "app_name": "Pingroom",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-23"
+    },
+    "v3zbr8YC": {
+      "app_name": "Ōree",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-23"
+    },
+    "9QGyahYr": {
+      "app_name": "Slips - Quick Notes",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-23"
+    },
+    "8XDBCC4Q": {
+      "app_name": "auth. - 2FA Smart Sync",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-23"
+    },
+    "tLcYLZJV": {
+      "app_name": "Tailscale",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "tvos"
+      ],
+      "last_modify": "2026-06-23"
+    },
+    "vrehhvsY": {
+      "app_name": "WatchAmp for Plex",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-07"
+    },
+    "fqDXYaDV": {
+      "app_name": "Home Floorplan",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-07"
+    },
+    "tVC8WkbW": {
+      "app_name": "Mithka",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-26"
+    },
+    "KKadvzpd": {
+      "app_name": "Tessa - Jigsaw Photo Puzzles",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-06-27"
+    },
+    "Pze9SjbP": {
+      "app_name": "TubeCast",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-29"
+    },
+    "UeJHZ2vQ": {
+      "app_name": "plsql2pgsql",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-07-02"
+    },
+    "MP1BapP6": {
+      "app_name": "赶场 - 影展日程管理",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-02"
+    },
+    "anD9vU5M": {
+      "app_name": "ShadowVPN - Fast Proxy",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-03"
+    },
+    "93p77fVF": {
+      "app_name": "Chronicle",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-07"
+    },
+    "3NYaY11c": {
+      "app_name": "OpenDisplay",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-08"
     }
   }
 }
