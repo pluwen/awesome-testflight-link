@@ -1445,11 +1445,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-10"
+      "last_modify": "2026-07-11"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -4799,11 +4799,11 @@
     },
     "fzDLkIVK": {
       "app_name": "1Password - Password Manager beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-09"
+      "last_modify": "2026-07-11"
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-09"
+      "last_modify": "2026-07-11"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
