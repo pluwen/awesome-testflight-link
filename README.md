@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (790 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (791 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 790 apps are currently accepting new testers! Click the links to join._
+_✅ These 791 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -51,6 +51,7 @@ _✅ These 790 apps are currently accepting new testers! Click the links to join
 | Airmail - Your Mail With You | [https://testflight.apple.com/join/wRiLlWPE](https://testflight.apple.com/join/wRiLlWPE) | Y | 2025-12-22 |
 | AirPlay 便捷切换工具 | [https://testflight.apple.com/join/E7U0UsBs](https://testflight.apple.com/join/E7U0UsBs) | Y | 2026-06-18 |
 | Airport: Discover TestFlights | [https://testflight.apple.com/join/cGjLJ4UV](https://testflight.apple.com/join/cGjLJ4UV) | Y | 2026-06-18 |
+| Airtxt | [https://testflight.apple.com/join/zBH718yX](https://testflight.apple.com/join/zBH718yX) | Y | 2026-07-13 |
 | AliExpress - Shopping App beta | [https://testflight.apple.com/join/TFhYeUyJ](https://testflight.apple.com/join/TFhYeUyJ) | Y | 2026-06-14 |
 | all 4 hue (for Philips Hue) | [https://testflight.apple.com/join/4Jc5hX2s](https://testflight.apple.com/join/4Jc5hX2s) | Y | 2026-06-18 |
 | Allegory | [https://testflight.apple.com/join/FsXXat52](https://testflight.apple.com/join/FsXXat52) | Y | 2026-06-18 |
