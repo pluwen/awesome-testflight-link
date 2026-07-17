@@ -133,11 +133,11 @@
     },
     "KjmVWFnT": {
       "app_name": "1Blocker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-16"
+      "last_modify": "2026-07-17"
     },
     "flDiG5AU": {
       "app_name": "1Password - Password Manager",
@@ -1501,11 +1501,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-15"
+      "last_modify": "2026-07-17"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
@@ -2926,11 +2926,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-12"
+      "last_modify": "2026-07-17"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -4887,11 +4887,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-15"
+      "last_modify": "2026-07-17"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5321,11 +5321,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-15"
+      "last_modify": "2026-07-17"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5553,11 +5553,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-03"
+      "last_modify": "2026-07-17"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6444,11 +6444,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-07-15"
+      "last_modify": "2026-07-17"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6517,11 +6517,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-09"
+      "last_modify": "2026-07-17"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6568,11 +6568,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-09"
+      "last_modify": "2026-07-17"
     },
     "kbVm551z": {
       "app_name": "Orange Intelligence",
@@ -7203,11 +7203,11 @@
     },
     "8XDBCC4Q": {
       "app_name": "auth. - 2FA Smart Sync",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-23"
+      "last_modify": "2026-07-17"
     },
     "tLcYLZJV": {
       "app_name": "Tailscale",
