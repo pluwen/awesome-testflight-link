@@ -7308,6 +7308,15 @@
         "ios"
       ],
       "last_modify": "2026-07-13"
+    },
+    "EGSsGRn7": {
+      "app_name": "CoMaps",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-20"
     }
   }
 }
