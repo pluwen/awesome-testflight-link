@@ -7333,6 +7333,14 @@
         "ios"
       ],
       "last_modify": "2026-07-20"
+    },
+    "uUT5BGem": {
+      "app_name": "SayCard",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-20"
     }
   }
 }

@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (798 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (799 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 798 apps are currently accepting new testers! Click the links to join._
+_✅ These 799 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -544,6 +544,7 @@ _✅ These 798 apps are currently accepting new testers! Click the links to join
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
 | SALY-Machine Learning | [https://testflight.apple.com/join/uwrch7rF](https://testflight.apple.com/join/uwrch7rF) | Y | 2026-06-18 |
 | Sangoma Meet | [https://testflight.apple.com/join/BEd12vi5](https://testflight.apple.com/join/BEd12vi5) | Y | 2026-06-18 |
+| SayCard | [https://testflight.apple.com/join/uUT5BGem](https://testflight.apple.com/join/uUT5BGem) | Y | 2026-07-20 |
 | Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ](https://testflight.apple.com/join/6YzgDpdZ) | Y | 2026-06-18 |
 | Scavengar – Easy AR Creation | [https://testflight.apple.com/join/5avcwZpk](https://testflight.apple.com/join/5avcwZpk) | Y | 2026-06-18 |
 | Screen Mirroring - 1001 TVs | [https://testflight.apple.com/join/Nf1dKOBG](https://testflight.apple.com/join/Nf1dKOBG) | Y | 2026-06-18 |
