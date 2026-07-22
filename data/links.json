@@ -7341,6 +7341,15 @@
         "ios"
       ],
       "last_modify": "2026-07-20"
+    },
+    "wqnfUFwe": {
+      "app_name": "Hopbit",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-22"
     }
   }
 }
