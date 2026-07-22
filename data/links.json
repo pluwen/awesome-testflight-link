@@ -7358,6 +7358,15 @@
         "ios"
       ],
       "last_modify": "2026-07-22"
+    },
+    "bKeCDTcj": {
+      "app_name": "CubeRoots Ivy",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-22"
     }
   }
 }
