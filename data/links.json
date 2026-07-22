@@ -7350,6 +7350,14 @@
         "ipados"
       ],
       "last_modify": "2026-07-22"
+    },
+    "t7mNuk5d": {
+      "app_name": "Tempo Tunes: BPM Playlists",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-22"
     }
   }
 }

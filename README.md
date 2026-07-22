@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (800 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (801 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 800 apps are currently accepting new testers! Click the links to join._
+_✅ These 801 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -631,6 +631,7 @@ _✅ These 800 apps are currently accepting new testers! Click the links to join
 | Teamup Calendar | [https://testflight.apple.com/join/1X8lXUJI](https://testflight.apple.com/join/1X8lXUJI) | Y | 2026-06-18 |
 | Tee-Timer | [https://testflight.apple.com/join/wzyzzspP](https://testflight.apple.com/join/wzyzzspP) | Y | 2026-03-05 |
 | TelePlus | [https://testflight.apple.com/join/LQ2GXZag](https://testflight.apple.com/join/LQ2GXZag) | Y | 2026-06-18 |
+| Tempo Tunes: BPM Playlists | [https://testflight.apple.com/join/t7mNuk5d](https://testflight.apple.com/join/t7mNuk5d) | Y | 2026-07-22 |
 | Termius – SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | Y | 2026-06-24 |
 | Tessa - Jigsaw Photo Puzzles | [https://testflight.apple.com/join/KKadvzpd](https://testflight.apple.com/join/KKadvzpd) | Y | 2026-06-27 |
 | Textulator iMessage | [https://testflight.apple.com/join/yo6Od7Pt](https://testflight.apple.com/join/yo6Od7Pt) | Y | 2026-06-18 |
