@@ -1781,11 +1781,11 @@
     },
     "In6e3GcJ": {
       "app_name": "infltr - Infinite Filters",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-01"
+      "last_modify": "2026-07-22"
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
@@ -2109,19 +2109,19 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-06"
+      "last_modify": "2026-07-22"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13"
+      "last_modify": "2026-07-22"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2277,11 +2277,11 @@
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Lyrics Finder",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-19"
+      "last_modify": "2026-07-22"
     },
     "DJoozd8u": {
       "app_name": "My Movies 4 Pro - Movie & TV",
@@ -2926,11 +2926,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-17"
+      "last_modify": "2026-07-22"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3342,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-18"
+      "last_modify": "2026-07-22"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3639,11 +3639,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-07"
+      "last_modify": "2026-07-22"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -3799,11 +3799,11 @@
     },
     "cRWMcQsr": {
       "app_name": "Trello: Daily Task Tracker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-10"
+      "last_modify": "2026-07-22"
     },
     "u4DHLMj1": {
       "app_name": "tripmind",
@@ -4031,11 +4031,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-09"
+      "last_modify": "2026-07-22"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4807,11 +4807,11 @@
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05"
+      "last_modify": "2026-07-22"
     },
     "qQJqMDfX": {
       "app_name": "Clear 2 (Preview) beta",
@@ -4887,11 +4887,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-17"
+      "last_modify": "2026-07-22"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5031,11 +5031,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-15"
+      "last_modify": "2026-07-22"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5321,11 +5321,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-17"
+      "last_modify": "2026-07-22"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5481,11 +5481,11 @@
     },
     "bExxpaX1": {
       "app_name": "Lenna - Video Library Player",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-10"
+      "last_modify": "2026-07-22"
     },
     "VnGZhjsZ": {
       "app_name": "Ketro",
@@ -5569,11 +5569,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06"
+      "last_modify": "2026-07-22"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -6209,11 +6209,11 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-10"
+      "last_modify": "2026-07-22"
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-15"
+      "last_modify": "2026-07-22"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -6929,19 +6929,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-18"
+      "last_modify": "2026-07-22"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-18"
+      "last_modify": "2026-07-22"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -7073,11 +7073,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-19"
+      "last_modify": "2026-07-22"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7319,7 +7319,7 @@
       "last_modify": "2026-07-20"
     },
     "MJYg86PA": {
-      "app_name": "Unknown",
+      "app_name": "WhoWhom",
       "status": "Y",
       "tables": [
         "ios"
