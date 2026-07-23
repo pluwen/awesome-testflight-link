@@ -7367,6 +7367,15 @@
         "ipados"
       ],
       "last_modify": "2026-07-22"
+    },
+    "69PadvA5": {
+      "app_name": "Emma’s Library",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-23"
     }
   }
 }
