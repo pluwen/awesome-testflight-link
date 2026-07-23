@@ -1445,11 +1445,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-11"
+      "last_modify": "2026-07-23"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-07-23"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -1781,11 +1781,11 @@
     },
     "In6e3GcJ": {
       "app_name": "infltr - Infinite Filters",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-23"
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
@@ -2109,11 +2109,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-23"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2277,11 +2277,11 @@
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Lyrics Finder",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-23"
     },
     "DJoozd8u": {
       "app_name": "My Movies 4 Pro - Movie & TV",
@@ -2982,11 +2982,11 @@
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-15"
+      "last_modify": "2026-07-23"
     },
     "iow1BtFD": {
       "app_name": "REAL Shuffle Player PRO",
@@ -3462,12 +3462,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-05-24"
+      "last_modify": "2026-07-23"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -3623,11 +3623,11 @@
     },
     "u6iogfd0": {
       "app_name": "Telegram Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-28"
+      "last_modify": "2026-07-23"
     },
     "LQ2GXZag": {
       "app_name": "TelePlus",
@@ -3639,11 +3639,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-23"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4031,11 +4031,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-23"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4119,11 +4119,11 @@
     },
     "oscYikr0": {
       "app_name": "WhatsApp Business",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-30"
+      "last_modify": "2026-07-23"
     },
     "mQX0NKjP": {
       "app_name": "Widget Wizard",
@@ -4887,11 +4887,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-23"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5031,11 +5031,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-23"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5321,11 +5321,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-23"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6209,19 +6209,19 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-07-22"
-    },
-    "C9b7GypS": {
-      "app_name": "高德地图-高德打车,导航公交地铁出行",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-20"
+      "last_modify": "2026-07-23"
+    },
+    "C9b7GypS": {
+      "app_name": "高德地图-高德打车,导航公交地铁出行",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-23"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6517,11 +6517,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-18"
+      "last_modify": "2026-07-23"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-23"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -7065,11 +7065,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01"
+      "last_modify": "2026-07-23"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
