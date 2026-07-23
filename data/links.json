@@ -7376,6 +7376,15 @@
         "ipados"
       ],
       "last_modify": "2026-07-23"
+    },
+    "nmkzuzVj": {
+      "app_name": "Kitchen Agent for Chefs",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-23"
     }
   }
 }
