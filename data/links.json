@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-24"
+      "last_modify": "2026-07-25"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -2117,11 +2117,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-25"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2413,11 +2413,11 @@
     },
     "i4g2QrrG": {
       "app_name": "NOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-07-25"
     },
     "DGHcr3A1": {
       "app_name": "NoSeen for Facebook Messenger",
@@ -2982,11 +2982,11 @@
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-07-25"
     },
     "iow1BtFD": {
       "app_name": "REAL Shuffle Player PRO",
@@ -3462,12 +3462,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-07-25"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -3623,11 +3623,11 @@
     },
     "u6iogfd0": {
       "app_name": "Telegram Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-07-25"
     },
     "LQ2GXZag": {
       "app_name": "TelePlus",
@@ -4119,11 +4119,11 @@
     },
     "oscYikr0": {
       "app_name": "WhatsApp Business",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-07-25"
     },
     "mQX0NKjP": {
       "app_name": "Widget Wizard",
@@ -4463,11 +4463,11 @@
     },
     "YAKT5ew9": {
       "app_name": "Microsoft Bing Search",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-07-25"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -4871,11 +4871,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-07-25"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -4887,11 +4887,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-07-25"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5569,11 +5569,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-07-25"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
