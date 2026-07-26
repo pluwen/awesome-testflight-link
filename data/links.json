@@ -6435,12 +6435,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-07-04"
+      "last_modify": "2026-07-26"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-07-26"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
