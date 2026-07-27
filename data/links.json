@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-07-27"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -6642,13 +6642,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-04-15"
+      "last_modify": "2026-07-27"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
@@ -6750,11 +6750,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-26"
+      "last_modify": "2026-07-27"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
