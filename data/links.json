@@ -7385,6 +7385,14 @@
         "ipados"
       ],
       "last_modify": "2026-07-23"
+    },
+    "ZtGfhNkH": {
+      "app_name": "iSH ARM64",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-28"
     }
   }
 }
