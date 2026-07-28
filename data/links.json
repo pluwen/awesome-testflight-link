@@ -2069,11 +2069,11 @@
     },
     "4x1P5Tnx": {
       "app_name": "MEGA",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-07-28"
     },
     "Qusn9Bkt": {
       "app_name": "MFC Deck",
@@ -3462,12 +3462,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-07-25"
+      "last_modify": "2026-07-28"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -3647,11 +3647,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-24"
+      "last_modify": "2026-07-28"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4375,11 +4375,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-29"
+      "last_modify": "2026-07-28"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4871,11 +4871,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-25"
+      "last_modify": "2026-07-28"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -6217,11 +6217,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-07-28"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6435,12 +6435,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-07-26"
+      "last_modify": "2026-07-28"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6517,11 +6517,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-07-28"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6642,13 +6642,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-07-27"
+      "last_modify": "2026-07-28"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
