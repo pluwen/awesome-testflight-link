@@ -1093,11 +1093,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-12"
+      "last_modify": "2026-07-30"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -7203,11 +7203,11 @@
     },
     "8XDBCC4Q": {
       "app_name": "auth. - 2FA Smart Sync",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-17"
+      "last_modify": "2026-07-30"
     },
     "tLcYLZJV": {
       "app_name": "Tailscale",
