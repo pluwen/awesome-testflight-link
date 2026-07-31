@@ -3150,11 +3150,11 @@
     },
     "uN1vTqxk": {
       "app_name": "Scriptable",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-07-31"
     },
     "mE5hKgqL": {
       "app_name": "Scruge",
@@ -6217,11 +6217,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-28"
+      "last_modify": "2026-07-31"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
