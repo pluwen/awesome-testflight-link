@@ -541,11 +541,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-08-02"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -1093,11 +1093,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-30"
+      "last_modify": "2026-08-02"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -4767,11 +4767,11 @@
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-01"
+      "last_modify": "2026-08-02"
     },
     "BScDI9fh": {
       "app_name": "Myphysique",
@@ -5321,11 +5321,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-08-02"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6444,11 +6444,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-08-01"
+      "last_modify": "2026-08-02"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
