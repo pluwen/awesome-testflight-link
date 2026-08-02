@@ -7401,6 +7401,14 @@
         "ios"
       ],
       "last_modify": "2026-07-30"
+    },
+    "aSybKA8y": {
+      "app_name": "Workout Narrator: Rep Timer",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-02"
     }
   }
 }
