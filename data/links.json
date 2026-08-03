@@ -7409,6 +7409,16 @@
         "ios"
       ],
       "last_modify": "2026-08-02"
+    },
+    "VfQwnC67": {
+      "app_name": "Starlight VPN",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos"
+      ],
+      "last_modify": "2026-08-03"
     }
   }
 }
