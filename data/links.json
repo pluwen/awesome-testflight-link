@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-25"
+      "last_modify": "2026-08-04"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -2253,11 +2253,11 @@
     },
     "uaazZoIc": {
       "app_name": "Music Harbor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22"
+      "last_modify": "2026-08-04"
     },
     "EIEOkKJV": {
       "app_name": "Music Year in Review",
@@ -2277,11 +2277,11 @@
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Lyrics Finder",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-08-04"
     },
     "DJoozd8u": {
       "app_name": "My Movies 4 Pro - Movie & TV",
@@ -3342,11 +3342,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-03"
+      "last_modify": "2026-08-04"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3647,11 +3647,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-03"
+      "last_modify": "2026-08-04"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4663,11 +4663,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-08-04"
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
@@ -5031,11 +5031,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-01"
+      "last_modify": "2026-08-04"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5105,11 +5105,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-03"
+      "last_modify": "2026-08-04"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5369,11 +5369,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-03"
+      "last_modify": "2026-08-04"
     },
     "An0RiOFF": {
       "app_name": "Cash App",
@@ -5785,11 +5785,11 @@
     },
     "K4pM1kHu": {
       "app_name": "哔哩哔哩-弹幕番剧直播高清视频",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-11"
+      "last_modify": "2026-08-04"
     },
     "Fwa9TCKU": {
       "app_name": "哔哩哔哩 HD",
@@ -6642,13 +6642,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-07-28"
+      "last_modify": "2026-08-04"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
