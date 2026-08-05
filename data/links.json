@@ -957,11 +957,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-04"
+      "last_modify": "2026-08-05"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1357,11 +1357,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08"
+      "last_modify": "2026-08-05"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1469,11 +1469,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-01"
+      "last_modify": "2026-08-05"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -3647,11 +3647,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-04"
+      "last_modify": "2026-08-05"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4471,11 +4471,11 @@
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03"
+      "last_modify": "2026-08-05"
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
@@ -5737,11 +5737,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-08"
+      "last_modify": "2026-08-05"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -6742,11 +6742,11 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-08-05"
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
@@ -7270,11 +7270,11 @@
     },
     "MP1BapP6": {
       "app_name": "赶场 - 影展日程管理",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-02"
+      "last_modify": "2026-08-05"
     },
     "anD9vU5M": {
       "app_name": "ShadowVPN - Fast Proxy",
