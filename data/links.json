@@ -7419,6 +7419,15 @@
         "macos"
       ],
       "last_modify": "2026-08-03"
+    },
+    "HSptQN3h": {
+      "app_name": "Meow - Smart VPN",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-08-05"
     }
   }
 }

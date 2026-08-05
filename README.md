@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (811 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (812 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 811 apps are currently accepting new testers! Click the links to join._
+_✅ These 812 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -381,6 +381,7 @@ _✅ These 811 apps are currently accepting new testers! Click the links to join
 | Me@Walmart | [https://testflight.apple.com/join/bqo4smK7](https://testflight.apple.com/join/bqo4smK7) | Y | 2025-12-22 |
 | Meditation Timer Zenzitizer | [https://testflight.apple.com/join/QvKyRJ8x](https://testflight.apple.com/join/QvKyRJ8x) | Y | 2026-06-05 |
 | Meow (Clash) | [https://testflight.apple.com/join/nnDAn7ZH](https://testflight.apple.com/join/nnDAn7ZH) | Y | 2026-06-18 |
+| Meow - Smart VPN | [https://testflight.apple.com/join/HSptQN3h](https://testflight.apple.com/join/HSptQN3h) | Y | 2026-08-05 |
 | MFC Deck | [https://testflight.apple.com/join/Qusn9Bkt](https://testflight.apple.com/join/Qusn9Bkt) | Y | 2026-06-18 |
 | Microcosm – AR Voxel Drawing | [https://testflight.apple.com/join/PIojYHhU](https://testflight.apple.com/join/PIojYHhU) | Y | 2026-06-18 |
 | Microsoft Authenticator | [https://testflight.apple.com/join/Coqmmppd](https://testflight.apple.com/join/Coqmmppd) | Y | 2026-07-08 |
@@ -949,9 +950,9 @@ _⚠️ These 66 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (21 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (22 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 21 apps are currently accepting new testers! Click the links to join._
+_✅ These 22 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -968,6 +969,7 @@ _✅ These 21 apps are currently accepting new testers! Click the links to join.
 | Hopbit | [https://testflight.apple.com/join/wqnfUFwe](https://testflight.apple.com/join/wqnfUFwe) | Y | 2026-07-22 |
 | JSTV | [https://testflight.apple.com/join/thdxEjTZ](https://testflight.apple.com/join/thdxEjTZ) | Y | 2026-06-18 |
 | Kitchen Agent for Chefs | [https://testflight.apple.com/join/nmkzuzVj](https://testflight.apple.com/join/nmkzuzVj) | Y | 2026-07-23 |
+| Meow - Smart VPN | [https://testflight.apple.com/join/HSptQN3h](https://testflight.apple.com/join/HSptQN3h) | Y | 2026-08-05 |
 | My Vinyl+ Scanner for Discogs | [https://testflight.apple.com/join/BkXvMy3S](https://testflight.apple.com/join/BkXvMy3S) | Y | 2026-06-09 |
 | OpenDisplay | [https://testflight.apple.com/join/3NYaY11c](https://testflight.apple.com/join/3NYaY11c) | Y | 2026-07-08 |
 | Spectra - System Monitor | [https://testflight.apple.com/join/SHDm9HrJ](https://testflight.apple.com/join/SHDm9HrJ) | Y | 2026-06-18 |
