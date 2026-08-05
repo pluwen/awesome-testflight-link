@@ -923,7 +923,7 @@ _⚠️ These 64 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details >
-<summary><strong>Removed (10 apps)</strong> - Apps that have been removed from TestFlight</summary>
+<summary><strong>Removed (9 apps)</strong> - Apps that have been removed from TestFlight</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -932,7 +932,6 @@ _⚠️ These 64 apps have reached their tester limit. Try checking back later._
 | Momento - GIF Maker & Creator | [https://testflight.apple.com/join/HzErGQWT](https://testflight.apple.com/join/HzErGQWT) | D | 2026-01-30 |
 | Monosnap - screenshot editor | [https://testflight.apple.com/join/qQzBVHZs](https://testflight.apple.com/join/qQzBVHZs) | D | 2025-12-22 |
 | Notes Plus | [https://testflight.apple.com/join/DHJexhQq](https://testflight.apple.com/join/DHJexhQq) | D | 2026-02-05 |
-| Pillow | [https://testflight.apple.com/join/apGxTqB1](https://testflight.apple.com/join/apGxTqB1) | D | 2026-03-07 |
 | Rapchat | [https://testflight.apple.com/join/JjPmPBK5](https://testflight.apple.com/join/JjPmPBK5) | D | 2026-03-08 |
 | Retro 2 | [https://testflight.apple.com/join/IjV5V0zL](https://testflight.apple.com/join/IjV5V0zL) | D | 2026-03-09 |
 | Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | D | 2026-04-06 |
