@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import asyncio
-import aiohttp
+import httpx
 from utils import (
     BASE_URL,
     MISSING_NAMES,
@@ -21,8 +21,8 @@ async def update_all_links(links_data):
         print("[warn] No links found")
         return
 
-    conn_config = aiohttp.TCPConnector(limit=5, limit_per_host=2)
-    async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config) as session:
+    conn_config = httpx.Limits(max_connections=5, max_keepalive_connections=2)
+    async with httpx.AsyncClient(base_url=BASE_URL, limits=conn_config, follow_redirects=True) as session:
         tasks = [
             check_testflight_status(
                 session,

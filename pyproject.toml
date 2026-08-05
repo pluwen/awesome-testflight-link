@@ -5,5 +5,5 @@ description = "A curated list of TestFlight public beta links"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "aiohttp[speedups]",
+    "httpx",
 ]

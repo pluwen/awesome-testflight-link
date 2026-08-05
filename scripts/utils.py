@@ -4,7 +4,7 @@ import asyncio
 import re
 from pathlib import Path
 
-import aiohttp
+import httpx
 
 # Paths
 SCRIPT_DIR = Path(__file__).parent
@@ -84,26 +84,26 @@ async def check_testflight_status(
 
     for i in range(retry):
         try:
-            async with session.get(
+            resp = await session.get(
                 f'/join/{key}',
                 headers={'User-Agent': TESTFLIGHT_USER_AGENT},
-                timeout=aiohttp.ClientTimeout(total=10),
-            ) as resp:
-                if resp.status == 404:
-                    result = (key, 'D', resolved_name)
-                    return (*result, "") if include_html else result
+                timeout=10.0,
+            )
+            if resp.status_code == 404:
+                result = (key, 'D', resolved_name)
+                return (*result, "") if include_html else result
 
-                resp.raise_for_status()
-                html_content = await resp.text()
-                status = detect_testflight_status(html_content, current_status)
-                fetched_name = extract_app_name(html_content)
+            resp.raise_for_status()
+            html_content = resp.text
+            status = detect_testflight_status(html_content, current_status)
+            fetched_name = extract_app_name(html_content)
 
-                if (not resolved_name or resolved_name in MISSING_NAMES) and fetched_name:
-                    resolved_name = fetched_name
+            if (not resolved_name or resolved_name in MISSING_NAMES) and fetched_name:
+                resolved_name = fetched_name
 
-                result = (key, status, resolved_name)
-                return (*result, html_content) if include_html else result
-        except asyncio.TimeoutError:
+            result = (key, status, resolved_name)
+            return (*result, html_content) if include_html else result
+        except httpx.TimeoutException:
             error_name = "Timeout"
         except Exception as e:
             error_name = type(e).__name__

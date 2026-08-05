@@ -5,7 +5,7 @@ Accepts multiple links (one per line) and applies the same platform to all.
 Optimized for GitHub Actions environment.
 """
 import asyncio
-import aiohttp
+import httpx
 import re
 import sys
 from utils import (
@@ -94,8 +94,8 @@ async def main():
     print(f"[info] Batch adding {len(link_ids)} link(s) for platform(s): {', '.join(tables)}")
 
     # Fetch status for all links concurrently
-    conn_config = aiohttp.TCPConnector(limit=5, limit_per_host=2)
-    async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config) as session:
+    conn_config = httpx.Limits(max_connections=5, max_keepalive_connections=2)
+    async with httpx.AsyncClient(base_url=BASE_URL, limits=conn_config, follow_redirects=True) as session:
         tasks = [check_testflight_status(session, key, retry=10) for key in link_ids]
         results = await asyncio.gather(*tasks)
 

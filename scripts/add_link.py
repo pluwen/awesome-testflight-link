@@ -4,7 +4,7 @@ Add TestFlight links with manual platform input.
 Optimized for GitHub Actions environment.
 """
 import asyncio
-import aiohttp
+import httpx
 import re
 import sys
 from utils import (
@@ -43,12 +43,12 @@ async def main():
         testflight_link = link_id_match.group(1)
 
     # Fetch page info
-    conn_config = aiohttp.TCPConnector(limit=5, limit_per_host=2)
+    limits = httpx.Limits(max_connections=5, max_keepalive_connections=2)
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
 
-    async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config, headers=headers) as session:
+    async with httpx.AsyncClient(base_url=BASE_URL, limits=limits, headers=headers, follow_redirects=True) as session:
         _, status, fetched_name, html_content = await check_testflight_status(
             session,
             testflight_link,
