@@ -1046,15 +1046,6 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 
 </details>
 
-<details >
-<summary><strong>Removed (1 app)</strong> - Apps that have been removed from TestFlight</summary>
-
-| Name | TestFlight Link | Status | Last Updated |
-| --- | --- | --- | --- |
-| Brutify | [https://testflight.apple.com/join/PapsDHQ3](https://testflight.apple.com/join/PapsDHQ3) | D | 2026-06-20 |
-
-</details>
-
 
 
 ## tvOS App List
