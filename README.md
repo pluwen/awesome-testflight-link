@@ -923,11 +923,10 @@ _⚠️ These 64 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details >
-<summary><strong>Removed (15 apps)</strong> - Apps that have been removed from TestFlight</summary>
+<summary><strong>Removed (14 apps)</strong> - Apps that have been removed from TestFlight</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
-| Confluence by Atlassian | [https://testflight.apple.com/join/BP8yM5kF](https://testflight.apple.com/join/BP8yM5kF) | D | 2026-05-12 |
 | Gospel Living | [https://testflight.apple.com/join/hTa12wLY](https://testflight.apple.com/join/hTa12wLY) | D | 2026-05-19 |
 | Microsoft Bing Search | [https://testflight.apple.com/join/YAKT5ew9](https://testflight.apple.com/join/YAKT5ew9) | D | 2026-07-25 |
 | Momento - GIF Maker & Creator | [https://testflight.apple.com/join/HzErGQWT](https://testflight.apple.com/join/HzErGQWT) | D | 2026-01-30 |
