@@ -770,7 +770,7 @@ _✅ These 814 apps are currently accepting new testers! Click the links to join
 | Ōree | [https://testflight.apple.com/join/v3zbr8YC](https://testflight.apple.com/join/v3zbr8YC) | Y | 2026-06-23 |
 | 中关村在线 | [https://testflight.apple.com/join/0wbi7WuC](https://testflight.apple.com/join/0wbi7WuC) | Y | 2026-06-18 |
 | 书墨 | [https://testflight.apple.com/join/YYfh75TS](https://testflight.apple.com/join/YYfh75TS) | Y | 2026-03-27 |
-| 事线 - 串事成线 | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | Y | 2025-12-22 |
+| 事线 - 串事成线 | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | Y | 2026-08-05 |
 | 云闪付-银行业统一移动支付App | [https://testflight.apple.com/join/KP16A3Nz](https://testflight.apple.com/join/KP16A3Nz) | Y | 2026-06-04 |
 | 企鹅电竞 | [https://testflight.apple.com/join/yjtogTGe](https://testflight.apple.com/join/yjtogTGe) | Y | 2026-06-18 |
 | 优酷视频HD | [https://testflight.apple.com/join/RDuRYxRE](https://testflight.apple.com/join/RDuRYxRE) | Y | 2026-05-10 |
