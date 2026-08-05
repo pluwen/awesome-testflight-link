@@ -7428,6 +7428,15 @@
         "ipados"
       ],
       "last_modify": "2026-08-05"
+    },
+    "YjeGMQBA": {
+      "app_name": "Orca IDE",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-08-05"
     }
   }
 }
