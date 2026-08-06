@@ -7357,6 +7357,14 @@
         "ipados"
       ],
       "last_modify": "2026-08-05"
+    },
+    "TnB7zcye": {
+      "app_name": "FlipTalk - Reverse Your Speech",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-06"
     }
   }
 }

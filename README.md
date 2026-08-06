@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (814 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (815 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 814 apps are currently accepting new testers! Click the links to join._
+_✅ These 815 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -230,6 +230,7 @@ _✅ These 814 apps are currently accepting new testers! Click the links to join
 | FlexicX | [https://testflight.apple.com/join/YSaEbc8C](https://testflight.apple.com/join/YSaEbc8C) | Y | 2026-06-18 |
 | Fleх beta | [https://testflight.apple.com/join/2g7cQfvC](https://testflight.apple.com/join/2g7cQfvC) | Y | 2026-06-18 |
 | Flipabit | [https://testflight.apple.com/join/ruyYHU5E](https://testflight.apple.com/join/ruyYHU5E) | Y | 2026-06-18 |
+| FlipTalk - Reverse Your Speech | [https://testflight.apple.com/join/TnB7zcye](https://testflight.apple.com/join/TnB7zcye) | Y | 2026-08-06 |
 | FLOCK INC. | [https://testflight.apple.com/join/9ZixcXRI](https://testflight.apple.com/join/9ZixcXRI) | Y | 2026-06-18 |
 | flomo浮墨 | [https://testflight.apple.com/join/Ioh7cC6o](https://testflight.apple.com/join/Ioh7cC6o) | Y | 2026-06-18 |
 | Flow Work | [https://testflight.apple.com/join/R7lKtZdJ](https://testflight.apple.com/join/R7lKtZdJ) | Y | 2026-06-18 |
