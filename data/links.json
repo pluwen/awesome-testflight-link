@@ -3446,12 +3446,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-07-28"
+      "last_modify": "2026-08-06"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
