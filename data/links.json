@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-05"
+      "last_modify": "2026-08-10"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1437,11 +1437,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-24"
+      "last_modify": "2026-08-10"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -3631,11 +3631,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-05"
+      "last_modify": "2026-08-10"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-28"
+      "last_modify": "2026-08-10"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-25"
+      "last_modify": "2026-08-10"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5329,11 +5329,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-04"
+      "last_modify": "2026-08-10"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5689,11 +5689,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-08-05"
+      "last_modify": "2026-08-10"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -5737,11 +5737,11 @@
     },
     "K4pM1kHu": {
       "app_name": "哔哩哔哩-弹幕番剧直播高清视频",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-04"
+      "last_modify": "2026-08-10"
     },
     "Fwa9TCKU": {
       "app_name": "哔哩哔哩 HD",
@@ -6121,11 +6121,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-03"
+      "last_modify": "2026-08-10"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6161,11 +6161,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-31"
+      "last_modify": "2026-08-10"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6561,12 +6561,12 @@
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-06-30"
+      "last_modify": "2026-08-10"
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
@@ -6670,11 +6670,11 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-05"
+      "last_modify": "2026-08-10"
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
@@ -7198,11 +7198,11 @@
     },
     "anD9vU5M": {
       "app_name": "ShadowVPN - Fast Proxy",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-03"
+      "last_modify": "2026-08-10"
     },
     "93p77fVF": {
       "app_name": "Chronicle",
