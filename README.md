@@ -1106,7 +1106,7 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/awesome-testflight-link&type=Date)](https://star-history.com/#pluwen/awesome-testflight-link&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=pluwen/awesome-testflight-link&type=Date)](https://star-history.dera.page/#pluwen/awesome-testflight-link&Date)
 
 ## Author
 
