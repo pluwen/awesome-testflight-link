@@ -949,11 +949,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-11"
+      "last_modify": "2026-08-12"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1101,11 +1101,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-25"
+      "last_modify": "2026-08-12"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
