@@ -7373,6 +7373,14 @@
         "macos"
       ],
       "last_modify": "2026-08-08"
+    },
+    "JCFgBW83": {
+      "app_name": "AudioRoo",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-08-12"
     }
   }
 }
