@@ -27,6 +27,13 @@ APP_NAME_CH_PATTERN = re.compile(r'加入 Beta 版"(.+)" - TestFlight - Apple')
 MISSING_NAMES = {"", "None", "none", "Unknown"}
 VALID_PLATFORMS = {'ios', 'ipados', 'macos', 'tvos', 'visionos'}
 
+# Throttling: under burst load Apple serves a generic anti-bot interstitial page
+# (title "TestFlight - Apple", no app name) that we cannot read a status from.
+# Serialize requests and pace them so we fetch real beta pages.
+MAX_CONNECTIONS = 1
+MAX_KEEPALIVE_CONNECTIONS = 1
+REQUEST_DELAY = 1.0  # seconds waited before each request
+
 STATUS_INFO = {
     'Y': {'name': 'Available', 'description': 'Apps currently accepting new testers'},
     'F': {'name': 'Full', 'description': 'Apps that have reached their tester limit'},
@@ -66,7 +73,10 @@ def detect_testflight_status(html: str, fallback_status: str = 'N') -> str:
         return 'N'
     if FULL_PATTERN.search(html):
         return 'F'
-    if "TestFlight" in html:
+    # A genuine beta page always carries the app-specific title; only then is it
+    # truly accepting. The generic interstitial/help page Apple serves under
+    # rate-limiting contains "TestFlight" but no app name — it must NOT be 'Y'.
+    if APP_NAME_PATTERN.search(html) or APP_NAME_CH_PATTERN.search(html):
         return 'Y'
     return fallback_status
 
@@ -81,6 +91,9 @@ async def check_testflight_status(
 ):
     """Fetch TestFlight status and app name for a join code."""
     resolved_name = app_name or ""
+
+    # Pace requests to avoid Apple's anti-bot interstitial page.
+    await asyncio.sleep(REQUEST_DELAY)
 
     for i in range(retry):
         try:

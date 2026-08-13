@@ -3,6 +3,8 @@ import asyncio
 import httpx
 from utils import (
     BASE_URL,
+    MAX_CONNECTIONS,
+    MAX_KEEPALIVE_CONNECTIONS,
     MISSING_NAMES,
     TODAY,
     check_testflight_status,
@@ -21,7 +23,10 @@ async def update_all_links(links_data):
         print("[warn] No links found")
         return
 
-    conn_config = httpx.Limits(max_connections=5, max_keepalive_connections=2)
+    conn_config = httpx.Limits(
+        max_connections=MAX_CONNECTIONS,
+        max_keepalive_connections=MAX_KEEPALIVE_CONNECTIONS,
+    )
     async with httpx.AsyncClient(base_url=BASE_URL, limits=conn_config, follow_redirects=True) as session:
         tasks = [
             check_testflight_status(

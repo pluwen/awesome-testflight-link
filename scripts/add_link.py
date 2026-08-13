@@ -9,6 +9,8 @@ import re
 import sys
 from utils import (
     BASE_URL,
+    MAX_CONNECTIONS,
+    MAX_KEEPALIVE_CONNECTIONS,
     TODAY,
     check_testflight_status,
     parse_platforms_from_string,
@@ -43,7 +45,10 @@ async def main():
         testflight_link = link_id_match.group(1)
 
     # Fetch page info
-    limits = httpx.Limits(max_connections=5, max_keepalive_connections=2)
+    limits = httpx.Limits(
+        max_connections=MAX_CONNECTIONS,
+        max_keepalive_connections=MAX_KEEPALIVE_CONNECTIONS,
+    )
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
