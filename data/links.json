@@ -7381,6 +7381,15 @@
         "macos"
       ],
       "last_modify": "2026-08-12"
+    },
+    "ypzb4Npw": {
+      "app_name": "FaithVoice",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-08-14"
     }
   }
 }

@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (243 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (244 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 243 apps are currently accepting new testers! Click the links to join._
+_✅ These 244 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -77,6 +77,7 @@ _✅ These 243 apps are currently accepting new testers! Click the links to join
 | F1ATV | [https://testflight.apple.com/join/NRswe1IZ](https://testflight.apple.com/join/NRswe1IZ) | Y | 2026-06-13 |
 | Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | Y | 2026-08-07 |
 | Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | Y | 2026-08-13 |
+| FaithVoice | [https://testflight.apple.com/join/ypzb4Npw](https://testflight.apple.com/join/ypzb4Npw) | Y | 2026-08-14 |
 | FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | Y | 2026-06-11 |
 | Fedicat | [https://testflight.apple.com/join/b6GatWTY](https://testflight.apple.com/join/b6GatWTY) | Y | 2025-12-22 |
 | Feedly | [https://testflight.apple.com/join/03ER1aUo](https://testflight.apple.com/join/03ER1aUo) | Y | 2025-12-22 |
@@ -951,9 +952,9 @@ _⚠️ These 68 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (19 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (20 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 19 apps are currently accepting new testers! Click the links to join._
+_✅ These 20 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -963,6 +964,7 @@ _✅ These 19 apps are currently accepting new testers! Click the links to join.
 | Downcast | [https://testflight.apple.com/join/81Geh1jh](https://testflight.apple.com/join/81Geh1jh) | Y | 2026-05-10 |
 | Ellie - Daily Planner | [https://testflight.apple.com/join/mX1G5TQi](https://testflight.apple.com/join/mX1G5TQi) | Y | 2026-02-02 |
 | Emma’s Library | [https://testflight.apple.com/join/69PadvA5](https://testflight.apple.com/join/69PadvA5) | Y | 2026-07-23 |
+| FaithVoice | [https://testflight.apple.com/join/ypzb4Npw](https://testflight.apple.com/join/ypzb4Npw) | Y | 2026-08-14 |
 | Home Floorplan | [https://testflight.apple.com/join/fqDXYaDV](https://testflight.apple.com/join/fqDXYaDV) | Y | 2026-07-07 |
 | Hopbit | [https://testflight.apple.com/join/wqnfUFwe](https://testflight.apple.com/join/wqnfUFwe) | Y | 2026-07-22 |
 | Kitchen Agent for Chefs | [https://testflight.apple.com/join/nmkzuzVj](https://testflight.apple.com/join/nmkzuzVj) | Y | 2026-07-23 |
