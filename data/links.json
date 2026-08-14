@@ -541,11 +541,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-03"
+      "last_modify": "2026-08-14"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -1101,11 +1101,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1461,11 +1461,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-05"
+      "last_modify": "2026-08-14"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2133,11 +2133,11 @@
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "HSWkbCxV": {
       "app_name": "Microsoft Whiteboard",
@@ -2269,11 +2269,11 @@
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Lyrics Finder",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-07"
+      "last_modify": "2026-08-14"
     },
     "DJoozd8u": {
       "app_name": "My Movies 4 Pro - Movie & TV",
@@ -2877,11 +2877,11 @@
     },
     "Kts3HqEj": {
       "app_name": "Pyto-Python IDE",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
@@ -3871,11 +3871,11 @@
     },
     "YKH3kGpt": {
       "app_name": "Unicode Keyboard",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "Z4GkEGfR": {
       "app_name": "Unionistas CF",
@@ -4383,11 +4383,11 @@
     },
     "KwboYTNt": {
       "app_name": "S1 Mufu",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "7sus3M6q": {
       "app_name": "Newsbite",
@@ -4407,11 +4407,11 @@
     },
     "YSo8aVCS": {
       "app_name": "Notion",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-27"
+      "last_modify": "2026-08-14"
     },
     "ky5bRwMY": {
       "app_name": "Chanyan",
@@ -4455,11 +4455,11 @@
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "8BOPXsGz": {
       "app_name": "Steam iOS beta",
@@ -4599,11 +4599,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-09"
+      "last_modify": "2026-08-14"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -4615,11 +4615,11 @@
     },
     "cw8X7LeO": {
       "app_name": "Katunizer",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "drGYCl49": {
       "app_name": "Yala!",
@@ -4903,11 +4903,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5329,11 +5329,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5585,11 +5585,11 @@
     },
     "sBDlEXYr": {
       "app_name": "Minecraft: Education Edition beta",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "Dc1K5L3N": {
       "app_name": "Royal Commando",
@@ -6121,11 +6121,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6275,19 +6275,19 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-09"
+      "last_modify": "2026-08-14"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "T1JruCw4": {
       "app_name": "SpotiCar",
@@ -6379,12 +6379,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-07-28"
+      "last_modify": "2026-08-14"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6421,11 +6421,11 @@
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "ER3hRBSz": {
       "app_name": "Thunderbird: Free Your Inbox",
@@ -6881,11 +6881,11 @@
     },
     "XplPxabZ": {
       "app_name": "米兔手表-可以打电话的手表",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "zfzepr74": {
       "app_name": "深蓝汽车",
@@ -6929,11 +6929,11 @@
     },
     "e86oEq6r": {
       "app_name": "微泰动态",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "jDWeCxGu": {
       "app_name": "得物 - 得到美好事物",
@@ -6985,19 +6985,19 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-14"
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-24"
+      "last_modify": "2026-08-14"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
@@ -7131,11 +7131,11 @@
     },
     "8XDBCC4Q": {
       "app_name": "auth. - 2FA Smart Sync",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-30"
+      "last_modify": "2026-08-14"
     },
     "tLcYLZJV": {
       "app_name": "Tailscale",
