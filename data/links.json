@@ -2101,11 +2101,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-17"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2125,11 +2125,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-16"
+      "last_modify": "2026-08-17"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -3631,11 +3631,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-16"
+      "last_modify": "2026-08-17"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4599,11 +4599,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-14"
+      "last_modify": "2026-08-17"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -5881,11 +5881,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-16"
+      "last_modify": "2026-08-17"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6121,11 +6121,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-16"
+      "last_modify": "2026-08-17"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6331,11 +6331,11 @@
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-15"
+      "last_modify": "2026-08-17"
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
@@ -6404,11 +6404,11 @@
     },
     "UDzzeGjK": {
       "app_name": "TravelTracker Beta",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-17"
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
@@ -6678,11 +6678,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-16"
+      "last_modify": "2026-08-17"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
