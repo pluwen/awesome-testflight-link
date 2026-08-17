@@ -7390,6 +7390,14 @@
         "ipados"
       ],
       "last_modify": "2026-08-14"
+    },
+    "aJTSf47G": {
+      "app_name": "Catch: Grocery Lists",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-17"
     }
   }
 }
