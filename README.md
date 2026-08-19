@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (254 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (255 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 254 apps are currently accepting new testers! Click the links to join._
+_✅ These 255 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -238,6 +238,7 @@ _✅ These 254 apps are currently accepting new testers! Click the links to join
 | Workout Narrator: Rep Timer | [https://testflight.apple.com/join/aSybKA8y](https://testflight.apple.com/join/aSybKA8y) | Y | 2026-08-03 |
 | YACReader | [https://testflight.apple.com/join/5zhB7sRP](https://testflight.apple.com/join/5zhB7sRP) | Y | 2026-04-16 |
 | Zombies Endless | [https://testflight.apple.com/join/6Ya9E8jU](https://testflight.apple.com/join/6Ya9E8jU) | Y | 2025-12-22 |
+| Zoomie | [https://testflight.apple.com/join/hpcJFGFJ](https://testflight.apple.com/join/hpcJFGFJ) | Y | 2026-08-19 |
 | Ōree | [https://testflight.apple.com/join/v3zbr8YC](https://testflight.apple.com/join/v3zbr8YC) | Y | 2026-06-23 |
 | 书墨 | [https://testflight.apple.com/join/YYfh75TS](https://testflight.apple.com/join/YYfh75TS) | Y | 2026-03-27 |
 | 事线 - 串事成线 | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | Y | 2026-08-05 |
