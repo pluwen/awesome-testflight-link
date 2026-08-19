@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (255 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (256 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 255 apps are currently accepting new testers! Click the links to join._
+_✅ These 256 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -176,6 +176,7 @@ _✅ These 255 apps are currently accepting new testers! Click the links to join
 | Ritual Buff | [https://testflight.apple.com/join/VeVxYFXP](https://testflight.apple.com/join/VeVxYFXP) | Y | 2026-05-20 |
 | RocketChat | [https://testflight.apple.com/join/3gcYeoMr](https://testflight.apple.com/join/3gcYeoMr) | Y | 2025-12-22 |
 | RocketSim for Xcode | [https://testflight.apple.com/join/ORz3QWRv](https://testflight.apple.com/join/ORz3QWRv) | Y | 2026-02-24 |
+| Rukn ERM Risk Register | [https://testflight.apple.com/join/ZsFnfJeX](https://testflight.apple.com/join/ZsFnfJeX) | Y | 2026-08-19 |
 | Ruuvi Station | [https://testflight.apple.com/join/loHFrEV1](https://testflight.apple.com/join/loHFrEV1) | Y | 2025-12-22 |
 | S1 Mufu | [https://testflight.apple.com/join/KwboYTNt](https://testflight.apple.com/join/KwboYTNt) | Y | 2026-08-14 |
 | S2G - Stay 2 Gether | [https://testflight.apple.com/join/n4RGc5gY](https://testflight.apple.com/join/n4RGc5gY) | Y | 2026-05-26 |
