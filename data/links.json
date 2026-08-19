@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-08-19"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2125,11 +2125,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-08-19"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-08-19"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5329,11 +5329,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-08-19"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5881,11 +5881,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-08-19"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6445,11 +6445,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-29"
+      "last_modify": "2026-08-19"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-08-19"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-08-19"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -6993,11 +6993,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-08-19"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
