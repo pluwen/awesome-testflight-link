@@ -949,11 +949,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-12"
+      "last_modify": "2026-08-20"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1781,11 +1781,11 @@
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-26"
+      "last_modify": "2026-08-20"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
@@ -2245,11 +2245,11 @@
     },
     "uaazZoIc": {
       "app_name": "Music Harbor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-07"
+      "last_modify": "2026-08-20"
     },
     "EIEOkKJV": {
       "app_name": "Music Year in Review",
@@ -3326,11 +3326,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-04"
+      "last_modify": "2026-08-20"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -4831,11 +4831,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-28"
+      "last_modify": "2026-08-20"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -4847,19 +4847,19 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-20"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-20"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -6025,11 +6025,11 @@
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-08-20"
     },
     "IOgbaxds": {
       "app_name": "酷狗概念版",
@@ -6121,11 +6121,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-17"
+      "last_modify": "2026-08-20"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6283,11 +6283,11 @@
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-14"
+      "last_modify": "2026-08-20"
     },
     "T1JruCw4": {
       "app_name": "SpotiCar",
@@ -6379,12 +6379,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-08-15"
+      "last_modify": "2026-08-20"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
