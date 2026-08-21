@@ -949,11 +949,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-08-21"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1461,11 +1461,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-15"
+      "last_modify": "2026-08-21"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -1781,11 +1781,11 @@
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-08-21"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
@@ -2245,11 +2245,11 @@
     },
     "uaazZoIc": {
       "app_name": "Music Harbor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-08-21"
     },
     "EIEOkKJV": {
       "app_name": "Music Year in Review",
@@ -4831,11 +4831,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-08-21"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -6025,11 +6025,11 @@
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-08-21"
     },
     "IOgbaxds": {
       "app_name": "酷狗概念版",
@@ -6121,11 +6121,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-08-21"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6379,12 +6379,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-08-21"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6445,11 +6445,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19"
+      "last_modify": "2026-08-21"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19"
+      "last_modify": "2026-08-21"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19"
+      "last_modify": "2026-08-21"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -7131,11 +7131,11 @@
     },
     "8XDBCC4Q": {
       "app_name": "auth. - 2FA Smart Sync",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-14"
+      "last_modify": "2026-08-21"
     },
     "tLcYLZJV": {
       "app_name": "Tailscale",
@@ -7351,12 +7351,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-08-05"
+      "last_modify": "2026-08-21"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
