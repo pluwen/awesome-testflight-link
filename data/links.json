@@ -2269,11 +2269,11 @@
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Lyrics Finder",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-15"
+      "last_modify": "2026-08-22"
     },
     "DJoozd8u": {
       "app_name": "My Movies 4 Pro - Movie & TV",
@@ -3446,12 +3446,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-08-06"
+      "last_modify": "2026-08-22"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-10"
+      "last_modify": "2026-08-22"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-08-22"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-01"
+      "last_modify": "2026-08-22"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-08-22"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6161,11 +6161,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-22"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6388,11 +6388,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-08-02"
+      "last_modify": "2026-08-22"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-08-22"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-21"
+      "last_modify": "2026-08-22"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-21"
+      "last_modify": "2026-08-22"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
