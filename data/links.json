@@ -2269,11 +2269,11 @@
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Lyrics Finder",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-22"
+      "last_modify": "2026-08-23"
     },
     "DJoozd8u": {
       "app_name": "My Movies 4 Pro - Movie & TV",
@@ -3326,11 +3326,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-08-23"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-22"
+      "last_modify": "2026-08-23"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6121,11 +6121,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-21"
+      "last_modify": "2026-08-23"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6161,11 +6161,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-22"
+      "last_modify": "2026-08-23"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6388,11 +6388,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-08-22"
+      "last_modify": "2026-08-23"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6670,11 +6670,11 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-10"
+      "last_modify": "2026-08-23"
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-22"
+      "last_modify": "2026-08-23"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-22"
+      "last_modify": "2026-08-23"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -6945,11 +6945,11 @@
     },
     "XkGKTA71": {
       "app_name": "小红书 – 世界杯直播",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-08-23"
     },
     "wAYQpuS6": {
       "app_name": "唱吧",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-23"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
