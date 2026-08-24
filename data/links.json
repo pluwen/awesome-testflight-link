@@ -7534,6 +7534,14 @@
         "ios"
       ],
       "last_modify": "2026-08-24"
+    },
+    "BBV2Cdfc": {
+      "app_name": "Mandala Garden",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-24"
     }
   }
 }
