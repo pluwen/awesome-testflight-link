@@ -7470,6 +7470,14 @@
         "visionos"
       ],
       "last_modify": "2026-08-24"
+    },
+    "bTR3EvVd": {
+      "app_name": "Cards Oracle",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-24"
     }
   }
 }
