@@ -394,7 +394,7 @@ _⚠️ These 67 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details >
-<summary><strong>No (557 apps)</strong> - Apps not currently accepting testers</summary>
+<summary><strong>No (558 apps)</strong> - Apps not currently accepting testers</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -871,6 +871,7 @@ _⚠️ These 67 apps have reached their tester limit. Try checking back later._
 | UniversalCoin | [https://testflight.apple.com/join/7Kvdt0E9](https://testflight.apple.com/join/7Kvdt0E9) | N | 2026-08-13 |
 | univy | [https://testflight.apple.com/join/srPJRks9](https://testflight.apple.com/join/srPJRks9) | N | 2026-08-13 |
 | Unknown | [https://testflight.apple.com/join/a9r8MH2Y](https://testflight.apple.com/join/a9r8MH2Y) | N | 2026-08-24 |
+| Unknown | [https://testflight.apple.com/join/3JR2HxjZ](https://testflight.apple.com/join/3JR2HxjZ) | N | 2026-08-24 |
 | Unomo | [https://testflight.apple.com/join/qbYJl8sX](https://testflight.apple.com/join/qbYJl8sX) | N | 2026-08-13 |
 | Unwind | [https://testflight.apple.com/join/g6EBWpjP](https://testflight.apple.com/join/g6EBWpjP) | N | 2026-08-13 |
 | Up – File transfer & sharing | [https://testflight.apple.com/join/pgni34xJ](https://testflight.apple.com/join/pgni34xJ) | N | 2026-08-13 |
