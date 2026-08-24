@@ -7526,6 +7526,14 @@
         "ios"
       ],
       "last_modify": "2026-08-24"
+    },
+    "vNCttFNB": {
+      "app_name": "Overlay Expert",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-24"
     }
   }
 }

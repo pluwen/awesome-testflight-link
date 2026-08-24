@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (271 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (272 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 271 apps are currently accepting new testers! Click the links to join._
+_✅ These 272 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -169,6 +169,7 @@ _✅ These 271 apps are currently accepting new testers! Click the links to join
 | Opera GX | [https://testflight.apple.com/join/t3k1AVL3](https://testflight.apple.com/join/t3k1AVL3) | Y | 2025-12-22 |
 | Opera Touch web browser | [https://testflight.apple.com/join/ASrCFVHB](https://testflight.apple.com/join/ASrCFVHB) | Y | 2025-12-22 |
 | Oura | [https://testflight.apple.com/join/NPhd6XTF](https://testflight.apple.com/join/NPhd6XTF) | Y | 2025-12-22 |
+| Overlay Expert | [https://testflight.apple.com/join/vNCttFNB](https://testflight.apple.com/join/vNCttFNB) | Y | 2026-08-24 |
 | Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | Y | 2025-12-22 |
 | PDF Viewer Pro by PSPDFKit | [https://testflight.apple.com/join/6IMUtZ8n](https://testflight.apple.com/join/6IMUtZ8n) | Y | 2026-05-06 |
 | Pingroom | [https://testflight.apple.com/join/UW186HBe](https://testflight.apple.com/join/UW186HBe) | Y | 2026-06-23 |
