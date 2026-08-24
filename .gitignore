@@ -4,4 +4,6 @@ __pycache__/
 .DS_Store
 .vscode/
 .venv/
+.claude/
+.agents/
 *.log
