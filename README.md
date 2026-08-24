@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (268 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (269 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 268 apps are currently accepting new testers! Click the links to join._
+_✅ These 269 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -235,6 +235,7 @@ _✅ These 268 apps are currently accepting new testers! Click the links to join
 | TubeCast | [https://testflight.apple.com/join/Pze9SjbP](https://testflight.apple.com/join/Pze9SjbP) | Y | 2026-06-29 |
 | Tunna - Xray/V2ray Proxy Utility | [https://testflight.apple.com/join/dqMoJObA](https://testflight.apple.com/join/dqMoJObA) | Y | 2026-06-02 |
 | Twitch Beta | [https://testflight.apple.com/join/8vRKFAiY](https://testflight.apple.com/join/8vRKFAiY) | Y | 2026-07-10 |
+| UboPod | [https://testflight.apple.com/join/DDPbpKf3](https://testflight.apple.com/join/DDPbpKf3) | Y | 2026-08-24 |
 | Ulysses | [https://testflight.apple.com/join/r7ehG0dQ](https://testflight.apple.com/join/r7ehG0dQ) | Y | 2025-12-22 |
 | Ulysses: Writing App | [https://testflight.apple.com/join/A0Dru9VV](https://testflight.apple.com/join/A0Dru9VV) | Y | 2026-06-04 |
 | Unicode Keyboard | [https://testflight.apple.com/join/YKH3kGpt](https://testflight.apple.com/join/YKH3kGpt) | Y | 2026-08-14 |
