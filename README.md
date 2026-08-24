@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (274 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (275 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 274 apps are currently accepting new testers! Click the links to join._
+_✅ These 275 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -113,6 +113,7 @@ _✅ These 274 apps are currently accepting new testers! Click the links to join
 | HexT | [https://testflight.apple.com/join/ixTrfIgF](https://testflight.apple.com/join/ixTrfIgF) | Y | 2026-04-17 |
 | Home Floorplan | [https://testflight.apple.com/join/fqDXYaDV](https://testflight.apple.com/join/fqDXYaDV) | Y | 2026-07-07 |
 | Hopbit | [https://testflight.apple.com/join/wqnfUFwe](https://testflight.apple.com/join/wqnfUFwe) | Y | 2026-07-22 |
+| HStudio | [https://testflight.apple.com/join/Xh5TCUJ4](https://testflight.apple.com/join/Xh5TCUJ4) | Y | 2026-08-24 |
 | IMDb: Movies & TV Shows | [https://testflight.apple.com/join/Y9yo0X5t](https://testflight.apple.com/join/Y9yo0X5t) | Y | 2025-12-22 |
 | Intuit Credit Karma | [https://testflight.apple.com/join/JrqR9vkv](https://testflight.apple.com/join/JrqR9vkv) | Y | 2025-12-22 |
 | iSH ARM64 | [https://testflight.apple.com/join/ZtGfhNkH](https://testflight.apple.com/join/ZtGfhNkH) | Y | 2026-07-28 |
