@@ -7,7 +7,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 - [macOS Apps](#macos-app-list)
 - [tvOS Apps](#tvos-app-list)
 - [visionOS Apps](#visionos-app-list)
-- [Signup Required Apps](#signup-required-apps)
+- [Signup Required Apps](#signup-app-list)
 
 ## 📊 Available Status
 * **Y: Yes** - Apps currently accepting new testers
