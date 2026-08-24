@@ -7454,6 +7454,14 @@
         "ios"
       ],
       "last_modify": "2026-08-24"
+    },
+    "StmCpgpn": {
+      "app_name": "Stash — Visual Bookmarks",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-08-24"
     }
   }
 }

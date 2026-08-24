@@ -1019,9 +1019,9 @@ _⚠️ These 3 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (16 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (17 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 16 apps are currently accepting new testers! Click the links to join._
+_✅ These 17 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1038,6 +1038,7 @@ _✅ These 16 apps are currently accepting new testers! Click the links to join.
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
 | Screen Mirror and Control | [https://testflight.apple.com/join/zlnbGVKx](https://testflight.apple.com/join/zlnbGVKx) | Y | 2026-04-02 |
 | Starlight VPN | [https://testflight.apple.com/join/VfQwnC67](https://testflight.apple.com/join/VfQwnC67) | Y | 2026-08-03 |
+| Stash — Visual Bookmarks | [https://testflight.apple.com/join/StmCpgpn](https://testflight.apple.com/join/StmCpgpn) | Y | 2026-08-24 |
 | Talking Frog | [https://testflight.apple.com/join/S6tHHU5e](https://testflight.apple.com/join/S6tHHU5e) | Y | 2026-06-09 |
 | UTM Virtual Machines | [https://testflight.apple.com/join/Cg7UTrme](https://testflight.apple.com/join/Cg7UTrme) | Y | 2026-02-02 |
 | WPS Office for PC | [https://testflight.apple.com/join/CtKY8RYh](https://testflight.apple.com/join/CtKY8RYh) | Y | 2026-06-25 |
