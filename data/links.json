@@ -7430,6 +7430,14 @@
         "ios"
       ],
       "last_modify": "2026-08-24"
+    },
+    "hdUaxTTc": {
+      "app_name": "Sorven: Home Asset Inventory",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-24"
     }
   }
 }

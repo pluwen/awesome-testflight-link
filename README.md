@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (256 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (257 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 256 apps are currently accepting new testers! Click the links to join._
+_✅ These 257 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -194,6 +194,7 @@ _✅ These 256 apps are currently accepting new testers! Click the links to join
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | Y | 2026-04-17 |
 | Slips - Quick Notes | [https://testflight.apple.com/join/9QGyahYr](https://testflight.apple.com/join/9QGyahYr) | Y | 2026-06-23 |
 | Sniper Duel | [https://testflight.apple.com/join/9W5p641z](https://testflight.apple.com/join/9W5p641z) | Y | 2026-06-20 |
+| Sorven: Home Asset Inventory | [https://testflight.apple.com/join/hdUaxTTc](https://testflight.apple.com/join/hdUaxTTc) | Y | 2026-08-24 |
 | Soulver 3 | [https://testflight.apple.com/join/Vlb55Wtr](https://testflight.apple.com/join/Vlb55Wtr) | Y | 2026-04-23 |
 | Spark Mail - Email by Readdle | [https://testflight.apple.com/join/O2wj7i0x](https://testflight.apple.com/join/O2wj7i0x) | Y | 2025-12-22 |
 | SpotiCar | [https://testflight.apple.com/join/T1JruCw4](https://testflight.apple.com/join/T1JruCw4) | Y | 2026-01-30 |
