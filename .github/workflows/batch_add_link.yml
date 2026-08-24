@@ -19,12 +19,8 @@ jobs:
     if: github.repository == 'pluwen/awesome-testflight-link'
     steps:
       - uses: actions/checkout@v6
-      - name: Setup uv
-        uses: astral-sh/setup-uv@v7
-        with:
-          enable-cache: true
-      - name: Set up Python with uv
-        run: uv venv && uv sync --locked
+      - name: Install dependencies
+        run: python3 -m pip install httpx
 
       - name: Batch Add TestFlight Links
         env:
@@ -38,7 +34,7 @@ jobs:
           fi
 
           echo "[info] Batch adding links for platforms: ${INPUT_PLATFORMS}"
-          uv run python scripts/batch_add_link.py "${INPUT_LINKS}" "${INPUT_PLATFORMS}"
+          python3 scripts/batch_add_link.py "${INPUT_LINKS}" "${INPUT_PLATFORMS}"
 
       - name: Commit and push changes
         env:
