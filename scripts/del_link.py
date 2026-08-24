@@ -15,7 +15,7 @@ def main():
     testflight_link = sys.argv[1]
 
     # Extract link ID from URL if needed
-    link_id_match = re.search(r"join/(.*)$", testflight_link, re.I)
+    link_id_match = re.search(r"join/([A-Za-z0-9]+)$", testflight_link, re.I)
     if link_id_match:
         testflight_link = link_id_match.group(1)
 

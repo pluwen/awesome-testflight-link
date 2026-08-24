@@ -40,9 +40,13 @@ async def main():
     app_name = None
 
     # Extract link ID from URL
-    link_id_match = re.search(r"join/(.*)$", testflight_link, re.I)
+    link_id_match = re.search(r"join/([A-Za-z0-9]+)$", testflight_link, re.I)
     if link_id_match:
         testflight_link = link_id_match.group(1)
+    elif not re.fullmatch(r"[A-Za-z0-9]+", testflight_link):
+        print(f"[error] Invalid TestFlight link: {testflight_link}")
+        print("        Expected a join URL or a bare alphanumeric join code.")
+        sys.exit(1)
 
     # Fetch page info
     limits = httpx.Limits(

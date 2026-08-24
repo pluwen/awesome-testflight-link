@@ -13,7 +13,7 @@ LINKS_JSON = DATA_DIR / "links.json"
 README_TEMPLATE_FILE = DATA_DIR / "README.template"
 README_FILE = SCRIPT_DIR.parent / "README.md"
 
-TODAY = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
+TODAY = datetime.datetime.now(datetime.timezone.utc).date().strftime("%Y-%m-%d")
 BASE_URL = "https://testflight.apple.com/"
 TESTFLIGHT_USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -32,7 +32,13 @@ VALID_PLATFORMS = {'ios', 'ipados', 'macos', 'tvos', 'visionos'}
 # Serialize requests and pace them so we fetch real beta pages.
 MAX_CONNECTIONS = 1
 MAX_KEEPALIVE_CONNECTIONS = 1
-REQUEST_DELAY = 1.0  # seconds waited before each request
+REQUEST_DELAY = 1.0  # minimum gap between two requests, enforced via _REQUEST_LOCK
+# asyncio.gather() runs all checks concurrently: a bare "await sleep(DELAY)" in
+# each coroutine paces nothing (every task sleeps at t=0, then the requests fire
+# back-to-back through the connection pool). Holding this lock across the
+# sleep+request pair is what guarantees the gap. This is what let the 2026-06-18
+# mass false-flip happen before the lock existed.
+_REQUEST_LOCK = asyncio.Lock()
 
 STATUS_INFO = {
     'Y': {'name': 'Available', 'description': 'Apps currently accepting new testers'},
@@ -92,16 +98,16 @@ async def check_testflight_status(
     """Fetch TestFlight status and app name for a join code."""
     resolved_name = app_name or ""
 
-    # Pace requests to avoid Apple's anti-bot interstitial page.
-    await asyncio.sleep(REQUEST_DELAY)
-
     for i in range(retry):
         try:
-            resp = await session.get(
-                f'/join/{key}',
-                headers={'User-Agent': TESTFLIGHT_USER_AGENT},
-                timeout=10.0,
-            )
+            async with _REQUEST_LOCK:
+                await asyncio.sleep(REQUEST_DELAY)
+                resp = await session.get(
+                    f'/join/{key}',
+                    headers={'User-Agent': TESTFLIGHT_USER_AGENT},
+                    timeout=10.0,
+                )
+
             if resp.status_code == 404:
                 result = (key, 'D', resolved_name)
                 return (*result, "") if include_html else result
