@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (278 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (279 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 278 apps are currently accepting new testers! Click the links to join._
+_✅ These 279 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -47,6 +47,7 @@ _✅ These 278 apps are currently accepting new testers! Click the links to join
 | BeReal | [https://testflight.apple.com/join/IM4jE5XY](https://testflight.apple.com/join/IM4jE5XY) | Y | 2025-12-22 |
 | Buffer: Social Media Manager | [https://testflight.apple.com/join/DOpMcusn](https://testflight.apple.com/join/DOpMcusn) | Y | 2025-12-22 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
+| Canvases | [https://testflight.apple.com/join/65RCk8Xh](https://testflight.apple.com/join/65RCk8Xh) | Y | 2026-08-24 |
 | CardHabit: TCG Habit Tracker | [https://testflight.apple.com/join/yYrE4GXV](https://testflight.apple.com/join/yYrE4GXV) | Y | 2026-06-15 |
 | CardioBot - Heart Rate Monitor | [https://testflight.apple.com/join/H82FVVt6](https://testflight.apple.com/join/H82FVVt6) | Y | 2026-07-04 |
 | Cards Oracle | [https://testflight.apple.com/join/bTR3EvVd](https://testflight.apple.com/join/bTR3EvVd) | Y | 2026-08-24 |
