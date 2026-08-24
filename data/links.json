@@ -7558,6 +7558,14 @@
         "ios"
       ],
       "last_modify": "2026-08-24"
+    },
+    "S2gEF65P": {
+      "app_name": "Inventury",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-24"
     }
   }
 }
