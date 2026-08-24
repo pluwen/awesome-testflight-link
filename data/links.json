@@ -7566,6 +7566,14 @@
         "ios"
       ],
       "last_modify": "2026-08-24"
+    },
+    "RXCX9hyK": {
+      "app_name": "Grok Usage",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-24"
     }
   }
 }

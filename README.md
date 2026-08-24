@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (276 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (277 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 276 apps are currently accepting new testers! Click the links to join._
+_✅ These 277 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -105,6 +105,7 @@ _✅ These 276 apps are currently accepting new testers! Click the links to join
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | Y | 2025-12-22 |
 | Grippe: Speedrun | [https://testflight.apple.com/join/udVFMftV](https://testflight.apple.com/join/udVFMftV) | Y | 2026-07-30 |
 | Grocery-Smart Grocery List | [https://testflight.apple.com/join/v29eXz9t](https://testflight.apple.com/join/v29eXz9t) | Y | 2026-07-17 |
+| Grok Usage | [https://testflight.apple.com/join/RXCX9hyK](https://testflight.apple.com/join/RXCX9hyK) | Y | 2026-08-24 |
 | GroupMe | [https://testflight.apple.com/join/6CcTotfX](https://testflight.apple.com/join/6CcTotfX) | Y | 2025-12-22 |
 | Hadge | [https://testflight.apple.com/join/rFLkfNSu](https://testflight.apple.com/join/rFLkfNSu) | Y | 2026-03-10 |
 | HankyDoodle | [https://testflight.apple.com/join/f3fgN8u4](https://testflight.apple.com/join/f3fgN8u4) | Y | 2026-05-13 |
