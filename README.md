@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (281 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (282 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 281 apps are currently accepting new testers! Click the links to join._
+_✅ These 282 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -62,6 +62,7 @@ _✅ These 281 apps are currently accepting new testers! Click the links to join
 | CoMaps | [https://testflight.apple.com/join/EGSsGRn7](https://testflight.apple.com/join/EGSsGRn7) | Y | 2026-07-20 |
 | Core Breach | [https://testflight.apple.com/join/VpxaqBp7](https://testflight.apple.com/join/VpxaqBp7) | Y | 2026-06-17 |
 | CubeRoots Ivy | [https://testflight.apple.com/join/bKeCDTcj](https://testflight.apple.com/join/bKeCDTcj) | Y | 2026-07-22 |
+| Databank Group | [https://testflight.apple.com/join/9ChV5vXQ](https://testflight.apple.com/join/9ChV5vXQ) | Y | 2026-08-24 |
 | Debit & Credit | [https://testflight.apple.com/join/FvufwHrV](https://testflight.apple.com/join/FvufwHrV) | Y | 2025-12-22 |
 | Deezer | [https://testflight.apple.com/join/e7mCOEeg](https://testflight.apple.com/join/e7mCOEeg) | Y | 2026-02-19 |
 | Desperse | [https://testflight.apple.com/join/27uRZQ45](https://testflight.apple.com/join/27uRZQ45) | Y | 2026-05-08 |
