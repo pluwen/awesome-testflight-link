@@ -22,10 +22,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
+          if [ -n "$(git status --porcelain README.md data/links.json)" ]; then
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
             git config --global user.name "github-actions[bot]"
-            git add .
+            git add README.md data/links.json
             git commit -m "Auto-update TestFlight link status: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
           else

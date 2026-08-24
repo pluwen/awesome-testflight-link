@@ -27,11 +27,11 @@ jobs:
         run: uv venv && uv sync --locked
 
       - name: Batch Add TestFlight Links
+        env:
+          INPUT_LINKS: ${{ github.event.inputs.testflight_links }}
+          INPUT_PLATFORMS: ${{ github.event.inputs.platforms }}
         run: |
           set -euo pipefail
-          INPUT_LINKS="${{ github.event.inputs.testflight_links }}"
-          INPUT_PLATFORMS="${{ github.event.inputs.platforms }}"
-
           if [ -z "${INPUT_PLATFORMS}" ]; then
             echo "[error] No platforms specified."
             exit 1
@@ -41,12 +41,14 @@ jobs:
           uv run python scripts/batch_add_link.py "${INPUT_LINKS}" "${INPUT_PLATFORMS}"
 
       - name: Commit and push changes
+        env:
+          INPUT_PLATFORMS: ${{ github.event.inputs.platforms }}
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
+          if [ -n "$(git status --porcelain README.md data/links.json)" ]; then
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
             git config --global user.name "github-actions[bot]"
-            git add .
-            git commit -m "Batch add TestFlight links for ${{ github.event.inputs.platforms }}"
+            git add README.md data/links.json
+            git commit -m "Batch add TestFlight links for ${INPUT_PLATFORMS}"
             git push
           else
             echo "No changes to commit"

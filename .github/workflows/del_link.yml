@@ -20,15 +20,19 @@ jobs:
       - name: Set up Python with uv
         run: uv venv && uv sync --locked
       - name: Delete TestFlight Link
-        run: uv run python scripts/del_link.py "${{ github.event.inputs.testflight_link }}"
+        env:
+          TF_LINK: ${{ github.event.inputs.testflight_link }}
+        run: uv run python scripts/del_link.py "$TF_LINK"
 
       - name: Commit and push changes
+        env:
+          TF_LINK: ${{ github.event.inputs.testflight_link }}
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
+          if [ -n "$(git status --porcelain README.md data/links.json)" ]; then
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
             git config --global user.name "github-actions[bot]"
-            git add .
-            git commit -m "Delete TestFlight link: ${{ github.event.inputs.testflight_link }}"
+            git add README.md data/links.json
+            git commit -m "Delete TestFlight link: ${TF_LINK}"
             git push
           else
             echo "No changes to commit"
