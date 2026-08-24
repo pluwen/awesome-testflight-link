@@ -1127,12 +1127,13 @@ _⚠️ These 3 apps have reached their tester limit. Try checking back later._
 ## visionOS App List
 
 <details open>
-<summary><strong>Available (1 app)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (2 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 1 apps are currently accepting new testers! Click the links to join._
+_✅ These 2 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
+| 4DGB | [https://testflight.apple.com/join/kHSTmYJ4](https://testflight.apple.com/join/kHSTmYJ4) | Y | 2026-08-24 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
 
 </details>

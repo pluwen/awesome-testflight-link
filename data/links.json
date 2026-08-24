@@ -7462,6 +7462,14 @@
         "macos"
       ],
       "last_modify": "2026-08-24"
+    },
+    "kHSTmYJ4": {
+      "app_name": "4DGB",
+      "status": "Y",
+      "tables": [
+        "visionos"
+      ],
+      "last_modify": "2026-08-24"
     }
   }
 }
