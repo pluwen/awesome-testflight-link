@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (283 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (284 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 283 apps are currently accepting new testers! Click the links to join._
+_✅ These 284 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -72,6 +72,7 @@ _✅ These 283 apps are currently accepting new testers! Click the links to join
 | Drippi: Liquid Timer | [https://testflight.apple.com/join/k4JX7jYx](https://testflight.apple.com/join/k4JX7jYx) | Y | 2026-01-30 |
 | Dropbox | [https://testflight.apple.com/join/LBZaRq4I](https://testflight.apple.com/join/LBZaRq4I) | Y | 2026-02-28 |
 | DS Music - Synology群晖NAS音乐播放器 | [https://testflight.apple.com/join/A4iGyH2H](https://testflight.apple.com/join/A4iGyH2H) | Y | 2026-06-04 |
+| DuckRead: AI Focus Reader | [https://testflight.apple.com/join/wYsSXUB5](https://testflight.apple.com/join/wYsSXUB5) | Y | 2026-08-24 |
 | Easy List Plan | [https://testflight.apple.com/join/7qcqzkuD](https://testflight.apple.com/join/7qcqzkuD) | Y | 2026-06-03 |
 | Element Messenger | [https://testflight.apple.com/join/lCeTuDKM](https://testflight.apple.com/join/lCeTuDKM) | Y | 2025-12-22 |
 | Element X - Secure Chat & Call | [https://testflight.apple.com/join/uZbeZCOi](https://testflight.apple.com/join/uZbeZCOi) | Y | 2025-12-22 |
