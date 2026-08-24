@@ -1,0 +1,3 @@
+# Keep these files on LF so ignore patterns don't break on Windows checkouts
+.gitignore text eol=lf
+.gitattributes text eol=lf
