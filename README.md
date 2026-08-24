@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (282 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (283 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 282 apps are currently accepting new testers! Click the links to join._
+_✅ These 283 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -38,6 +38,7 @@ _✅ These 282 apps are currently accepting new testers! Click the links to join
 | Airmail - Your Mail With You | [https://testflight.apple.com/join/wRiLlWPE](https://testflight.apple.com/join/wRiLlWPE) | Y | 2025-12-22 |
 | Airtxt | [https://testflight.apple.com/join/zBH718yX](https://testflight.apple.com/join/zBH718yX) | Y | 2026-07-13 |
 | AliExpress - Shopping App beta | [https://testflight.apple.com/join/TFhYeUyJ](https://testflight.apple.com/join/TFhYeUyJ) | Y | 2026-06-14 |
+| Allspark | [https://testflight.apple.com/join/29gE9tQ4](https://testflight.apple.com/join/29gE9tQ4) | Y | 2026-08-24 |
 | AmazFaces | [https://testflight.apple.com/join/4hBEKHHg](https://testflight.apple.com/join/4hBEKHHg) | Y | 2025-12-22 |
 | AnyList | [https://testflight.apple.com/join/xwvLPc6o](https://testflight.apple.com/join/xwvLPc6o) | Y | 2025-12-22 |
 | AppRaven 2.0 | [https://testflight.apple.com/join/8uVQrfHu](https://testflight.apple.com/join/8uVQrfHu) | Y | 2026-07-22 |
