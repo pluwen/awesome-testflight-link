@@ -7414,6 +7414,14 @@
         "ios"
       ],
       "last_modify": "2026-08-19"
+    },
+    "cpPS8YnX": {
+      "app_name": "La Terminal: Mosh &amp; SSH Client",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-24"
     }
   }
 }
