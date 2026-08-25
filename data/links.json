@@ -2117,11 +2117,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -3422,11 +3422,11 @@
     },
     "qsfCtbEy": {
       "app_name": "Spendee Budget Money Tracker",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-25"
     },
     "hgN6jGHY": {
       "app_name": "Spendy",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -3959,11 +3959,11 @@
     },
     "ZdC5U0fR": {
       "app_name": "VFeed",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30"
+      "last_modify": "2026-08-25"
     },
     "ihYruvVN": {
       "app_name": "ViciniT",
@@ -4007,11 +4007,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-08-25"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-03"
+      "last_modify": "2026-08-25"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5329,11 +5329,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -6445,11 +6445,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -6945,11 +6945,11 @@
     },
     "XkGKTA71": {
       "app_name": "小红书 – 世界杯直播",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-23"
+      "last_modify": "2026-08-25"
     },
     "wAYQpuS6": {
       "app_name": "唱吧",
@@ -7521,11 +7521,11 @@
     },
     "Nxfyd62y": {
       "app_name": "Folium",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "vNCttFNB": {
       "app_name": "Overlay Expert",
@@ -7608,12 +7608,12 @@
       "last_modify": "2026-08-24"
     },
     "a9r8MH2Y": {
-      "app_name": "Unknown",
-      "status": "N",
+      "app_name": "Monologue: Smart Dictation",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "9ChV5vXQ": {
       "app_name": "Databank Group",
@@ -7624,12 +7624,12 @@
       "last_modify": "2026-08-24"
     },
     "3JR2HxjZ": {
-      "app_name": "Unknown",
-      "status": "N",
+      "app_name": "Avec: Best way to write emails",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "29gE9tQ4": {
       "app_name": "Allspark",
@@ -7640,12 +7640,12 @@
       "last_modify": "2026-08-24"
     },
     "uGKFF4cw": {
-      "app_name": "Unknown",
-      "status": "N",
+      "app_name": "OvenApp",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "wYsSXUB5": {
       "app_name": "DuckRead: AI Focus Reader",
@@ -7784,12 +7784,12 @@
       "last_modify": "2026-08-24"
     },
     "7YVCwq1M": {
-      "app_name": "Unknown",
-      "status": "N",
+      "app_name": "drift - Offline Music Player",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-25"
     },
     "9GTuC9Ri": {
       "app_name": "微博",
