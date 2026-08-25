@@ -7806,6 +7806,17 @@
         "ios"
       ],
       "last_modify": "2026-08-24"
+    },
+    "QJWrVrxT": {
+      "app_name": "Clash Rule based proxy utility",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos",
+        "tvos"
+      ],
+      "last_modify": "2026-08-25"
     }
   }
 }
