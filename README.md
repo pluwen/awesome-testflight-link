@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (303 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (304 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 303 apps are currently accepting new testers! Click the links to join._
+_✅ These 304 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -212,6 +212,7 @@ _✅ These 303 apps are currently accepting new testers! Click the links to join
 | Pyto-Python IDE | [https://testflight.apple.com/join/Kts3HqEj](https://testflight.apple.com/join/Kts3HqEj) | Y | 2026-08-14 |
 | QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | Y | 2026-05-25 |
 | Quizlet | [https://testflight.apple.com/join/mwhcPqxJ](https://testflight.apple.com/join/mwhcPqxJ) | Y | 2026-07-22 |
+| Ralphy | [https://testflight.apple.com/join/YD6CKdCj](https://testflight.apple.com/join/YD6CKdCj) | Y | 2026-08-25 |
 | Readwise Reader beta | [https://testflight.apple.com/join/NSeQo22d](https://testflight.apple.com/join/NSeQo22d) | Y | 2025-12-22 |
 | Reddit | [https://testflight.apple.com/join/b9jMyOWt](https://testflight.apple.com/join/b9jMyOWt) | Y | 2026-07-01 |
 | RepLytics | [https://testflight.apple.com/join/ReeDUsGp](https://testflight.apple.com/join/ReeDUsGp) | Y | 2026-04-21 |
