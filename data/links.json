@@ -7817,6 +7817,15 @@
         "tvos"
       ],
       "last_modify": "2026-08-25"
+    },
+    "Dtc4ZCFu": {
+      "app_name": "Accretion: The Vein",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-08-25"
     }
   }
 }
