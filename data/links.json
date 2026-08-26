@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-08-07"
+      "last_modify": "2026-08-26"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22"
+      "last_modify": "2026-08-26"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-25"
+      "last_modify": "2026-08-26"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5521,11 +5521,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-25"
+      "last_modify": "2026-08-26"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-22"
+      "last_modify": "2026-08-26"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -7836,12 +7836,12 @@
       "last_modify": "2026-08-25"
     },
     "haKP2pHC": {
-      "app_name": "Unknown",
-      "status": "N",
+      "app_name": "Spring Beta for Twitter",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-25"
+      "last_modify": "2026-08-26"
     },
     "Ku4JtTEg": {
       "app_name": "Mobile SSH iOS",
