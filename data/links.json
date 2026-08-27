@@ -2125,11 +2125,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19"
+      "last_modify": "2026-08-27"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -2821,11 +2821,11 @@
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-28"
+      "last_modify": "2026-08-27"
     },
     "8SxXknzD": {
       "app_name": "ProtonMail - Encrypted Email",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-26"
+      "last_modify": "2026-08-27"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -4007,11 +4007,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-25"
+      "last_modify": "2026-08-27"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-22"
+      "last_modify": "2026-08-27"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-27"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5521,11 +5521,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-26"
+      "last_modify": "2026-08-27"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -6121,11 +6121,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-27"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6445,19 +6445,19 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-08-25"
-    },
-    "MnsYnB0s": {
-      "app_name": "TikTok -Global Video Community",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-26"
+      "last_modify": "2026-08-27"
+    },
+    "MnsYnB0s": {
+      "app_name": "TikTok -Global Video Community",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-08-27"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6670,11 +6670,11 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-27"
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
@@ -6993,11 +6993,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19"
+      "last_modify": "2026-08-27"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
@@ -7793,11 +7793,11 @@
     },
     "9GTuC9Ri": {
       "app_name": "微博",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-27"
     },
     "47XmGuKU": {
       "app_name": "Theta Wellness",
@@ -7809,14 +7809,14 @@
     },
     "QJWrVrxT": {
       "app_name": "Clash Rule based proxy utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos",
         "tvos"
       ],
-      "last_modify": "2026-08-25"
+      "last_modify": "2026-08-27"
     },
     "Dtc4ZCFu": {
       "app_name": "Accretion: The Vein",
