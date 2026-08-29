@@ -1437,11 +1437,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28"
+      "last_modify": "2026-08-29"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-23"
+      "last_modify": "2026-08-29"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28"
+      "last_modify": "2026-08-29"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4599,11 +4599,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28"
+      "last_modify": "2026-08-29"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -5585,11 +5585,11 @@
     },
     "sBDlEXYr": {
       "app_name": "Minecraft: Education Edition beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-14"
+      "last_modify": "2026-08-29"
     },
     "Dc1K5L3N": {
       "app_name": "Royal Commando",
@@ -5689,11 +5689,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-08-28"
+      "last_modify": "2026-08-29"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
