@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-29"
+      "last_modify": "2026-08-30"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -2934,11 +2934,11 @@
     },
     "OZ1B4sTS": {
       "app_name": "RainViewer: Live Weather Radar",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-08-30"
     },
     "JjPmPBK5": {
       "app_name": "Rapchat",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-08-30"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
