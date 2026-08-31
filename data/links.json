@@ -7850,6 +7850,14 @@
         "ios"
       ],
       "last_modify": "2026-08-26"
+    },
+    "BzeDCYX4": {
+      "app_name": "NPMusic",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-08-31"
     }
   }
 }
