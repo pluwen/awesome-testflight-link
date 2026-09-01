@@ -7858,6 +7858,14 @@
         "macos"
       ],
       "last_modify": "2026-08-31"
+    },
+    "VgpEmwmD": {
+      "app_name": "Azalea Pets",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-09-01"
     }
   }
 }

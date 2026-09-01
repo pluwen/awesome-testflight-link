@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (297 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (298 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 297 apps are currently accepting new testers! Click the links to join._
+_✅ These 298 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -47,6 +47,7 @@ _✅ These 297 apps are currently accepting new testers! Click the links to join
 | Auki | [https://testflight.apple.com/join/kNze5fKq](https://testflight.apple.com/join/kNze5fKq) | Y | 2026-06-04 |
 | auth. - 2FA Smart Sync | [https://testflight.apple.com/join/8XDBCC4Q](https://testflight.apple.com/join/8XDBCC4Q) | Y | 2026-08-21 |
 | Avec: Best way to write emails | [https://testflight.apple.com/join/3JR2HxjZ](https://testflight.apple.com/join/3JR2HxjZ) | Y | 2026-08-25 |
+| Azalea Pets | [https://testflight.apple.com/join/VgpEmwmD](https://testflight.apple.com/join/VgpEmwmD) | Y | 2026-09-01 |
 | Ballista | [https://testflight.apple.com/join/ctFQwm3w](https://testflight.apple.com/join/ctFQwm3w) | Y | 2026-08-24 |
 | BeReal | [https://testflight.apple.com/join/IM4jE5XY](https://testflight.apple.com/join/IM4jE5XY) | Y | 2025-12-22 |
 | BidBloom | [https://testflight.apple.com/join/wkgFgnUu](https://testflight.apple.com/join/wkgFgnUu) | Y | 2026-08-24 |
