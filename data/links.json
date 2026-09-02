@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-08-26"
+      "last_modify": "2026-09-02"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -2061,11 +2061,11 @@
     },
     "4x1P5Tnx": {
       "app_name": "MEGA",
-      "status": "F",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-28"
+      "last_modify": "2026-09-02"
     },
     "Qusn9Bkt": {
       "app_name": "MFC Deck",
@@ -3959,11 +3959,11 @@
     },
     "ZdC5U0fR": {
       "app_name": "VFeed",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-01"
+      "last_modify": "2026-09-02"
     },
     "ihYruvVN": {
       "app_name": "ViciniT",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-01"
+      "last_modify": "2026-09-02"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4759,11 +4759,11 @@
     },
     "fzDLkIVK": {
       "app_name": "1Password - Password Manager beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-01"
+      "last_modify": "2026-09-02"
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-27"
+      "last_modify": "2026-09-02"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19"
+      "last_modify": "2026-09-02"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -6678,11 +6678,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-17"
+      "last_modify": "2026-09-02"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-30"
+      "last_modify": "2026-09-02"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7198,11 +7198,11 @@
     },
     "anD9vU5M": {
       "app_name": "ShadowVPN - Fast Proxy",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-10"
+      "last_modify": "2026-09-02"
     },
     "93p77fVF": {
       "app_name": "Chronicle",
