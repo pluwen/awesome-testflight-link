@@ -7874,6 +7874,14 @@
         "ios"
       ],
       "last_modify": "2026-09-02"
+    },
+    "D2t2SGg9": {
+      "app_name": "AutoMounter",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-09-04"
     }
   }
 }
