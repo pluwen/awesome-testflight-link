@@ -2109,11 +2109,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-03"
+      "last_modify": "2026-09-04"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2157,11 +2157,11 @@
     },
     "lsd9mugy": {
       "app_name": "Mixing Station",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-17"
+      "last_modify": "2026-09-04"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -3631,11 +3631,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-03"
+      "last_modify": "2026-09-04"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -4463,11 +4463,11 @@
     },
     "8BOPXsGz": {
       "app_name": "Steam iOS beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-03"
+      "last_modify": "2026-09-04"
     },
     "sY14cetk": {
       "app_name": "Trackpet",
@@ -4599,11 +4599,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-29"
+      "last_modify": "2026-09-04"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -5065,11 +5065,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-03"
+      "last_modify": "2026-09-04"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-22"
+      "last_modify": "2026-09-04"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-03"
+      "last_modify": "2026-09-04"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6275,11 +6275,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-15"
+      "last_modify": "2026-09-04"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-02-02"
+      "last_modify": "2026-09-04"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -6945,11 +6945,11 @@
     },
     "XkGKTA71": {
       "app_name": "小红书 – 世界杯直播",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28"
+      "last_modify": "2026-09-04"
     },
     "wAYQpuS6": {
       "app_name": "唱吧",
