@@ -2109,11 +2109,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-04"
+      "last_modify": "2026-09-05"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2157,11 +2157,11 @@
     },
     "lsd9mugy": {
       "app_name": "Mixing Station",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-04"
+      "last_modify": "2026-09-05"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -3326,11 +3326,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-23"
+      "last_modify": "2026-09-05"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-26"
+      "last_modify": "2026-09-05"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-04"
+      "last_modify": "2026-09-05"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6275,11 +6275,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-04"
+      "last_modify": "2026-09-05"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-03"
+      "last_modify": "2026-09-05"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7649,11 +7649,11 @@
     },
     "wYsSXUB5": {
       "app_name": "DuckRead: AI Focus Reader",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28"
+      "last_modify": "2026-09-05"
     },
     "zjj57upc": {
       "app_name": "Lupora",
@@ -7793,11 +7793,11 @@
     },
     "9GTuC9Ri": {
       "app_name": "微博",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-27"
+      "last_modify": "2026-09-05"
     },
     "47XmGuKU": {
       "app_name": "Theta Wellness",
