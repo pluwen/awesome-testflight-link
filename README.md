@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (304 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (305 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 304 apps are currently accepting new testers! Click the links to join._
+_✅ These 305 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -154,6 +154,7 @@ _✅ These 304 apps are currently accepting new testers! Click the links to join
 | Life360: Find Friends & Family beta | [https://testflight.apple.com/join/syX6IOJF](https://testflight.apple.com/join/syX6IOJF) | Y | 2026-04-22 |
 | LifeOS Beta | [https://testflight.apple.com/join/nundd6bS](https://testflight.apple.com/join/nundd6bS) | Y | 2026-08-24 |
 | LIFX | [https://testflight.apple.com/join/TYoQEz4T](https://testflight.apple.com/join/TYoQEz4T) | Y | 2025-12-22 |
+| Loopily: ADHD Routine Timer | [https://testflight.apple.com/join/mcMmeWBb](https://testflight.apple.com/join/mcMmeWBb) | Y | 2026-09-14 |
 | Lupora | [https://testflight.apple.com/join/zjj57upc](https://testflight.apple.com/join/zjj57upc) | Y | 2026-08-24 |
 | MailWit | [https://testflight.apple.com/join/DqRRncN7](https://testflight.apple.com/join/DqRRncN7) | Y | 2026-08-24 |
 | Mandala Garden | [https://testflight.apple.com/join/BBV2Cdfc](https://testflight.apple.com/join/BBV2Cdfc) | Y | 2026-08-24 |
