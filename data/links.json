@@ -1101,11 +1101,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-11"
+      "last_modify": "2026-09-15"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1437,11 +1437,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-09-15"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -2117,11 +2117,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-14"
+      "last_modify": "2026-09-15"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-10"
+      "last_modify": "2026-09-15"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-12"
+      "last_modify": "2026-09-15"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4663,11 +4663,11 @@
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-14"
+      "last_modify": "2026-09-15"
     },
     "KxmTfa2j": {
       "app_name": "HappySteps",
@@ -4903,11 +4903,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-11"
+      "last_modify": "2026-09-15"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5521,11 +5521,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-14"
+      "last_modify": "2026-09-15"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-14"
+      "last_modify": "2026-09-15"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6520,11 +6520,11 @@
     },
     "SKef9a7B": {
       "app_name": "Skeypr App",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-09-15"
     },
     "XvAUCdaW": {
       "app_name": "Blanc Note",
