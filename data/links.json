@@ -1029,11 +1029,11 @@
     },
     "SmfNOeJ2": {
       "app_name": "Eastwatch",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-12"
+      "last_modify": "2026-09-16"
     },
     "3ZTdq2Kv": {
       "app_name": "Emoji Stickers Pack",
@@ -1437,11 +1437,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-15"
+      "last_modify": "2026-09-16"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -2117,11 +2117,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-15"
+      "last_modify": "2026-09-16"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-30"
+      "last_modify": "2026-09-16"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -3214,11 +3214,11 @@
     },
     "8FHtd1Jq": {
       "app_name": "Signal - Private Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18"
+      "last_modify": "2026-09-16"
     },
     "Zm4lMILC": {
       "app_name": "SIMO : MATLAB programming app",
@@ -3623,19 +3623,19 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-09-15"
-    },
-    "MnuClabg": {
-      "app_name": "Termius – SSH client",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-07"
+      "last_modify": "2026-09-16"
+    },
+    "MnuClabg": {
+      "app_name": "Termius – SSH client",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-09-16"
     },
     "yo6Od7Pt": {
       "app_name": "Textulator iMessage",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-13"
+      "last_modify": "2026-09-16"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6670,11 +6670,11 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28"
+      "last_modify": "2026-09-16"
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
@@ -7617,11 +7617,11 @@
     },
     "9ChV5vXQ": {
       "app_name": "Databank Group",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-09-16"
     },
     "3JR2HxjZ": {
       "app_name": "Avec: Best way to write emails",
@@ -7681,11 +7681,11 @@
     },
     "QEGVeTvn": {
       "app_name": "Cerebri",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-09-16"
     },
     "52QAEXp5": {
       "app_name": "Ferry : RSS Reader",
