@@ -949,11 +949,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-21"
+      "last_modify": "2026-09-17"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1437,11 +1437,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-16"
+      "last_modify": "2026-09-17"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -1493,11 +1493,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-09-17"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
@@ -2109,19 +2109,19 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-09-13"
-    },
-    "a9Ef0N3g": {
-      "app_name": "Microsoft PowerPoint",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-16"
+      "last_modify": "2026-09-17"
+    },
+    "a9Ef0N3g": {
+      "app_name": "Microsoft PowerPoint",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-09-17"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-16"
+      "last_modify": "2026-09-17"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-15"
+      "last_modify": "2026-09-17"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3446,12 +3446,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-09-11"
+      "last_modify": "2026-09-17"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -4599,11 +4599,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-08"
+      "last_modify": "2026-09-17"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-05"
+      "last_modify": "2026-09-17"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-15"
+      "last_modify": "2026-09-17"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-16"
+      "last_modify": "2026-09-17"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6670,11 +6670,11 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-16"
+      "last_modify": "2026-09-17"
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
@@ -7721,11 +7721,11 @@
     },
     "bnBccGcx": {
       "app_name": "Otuli: Shared Baby Tracker",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-09-17"
     },
     "ctFQwm3w": {
       "app_name": "Ballista",
