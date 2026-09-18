@@ -949,11 +949,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-17"
+      "last_modify": "2026-09-18"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1733,11 +1733,11 @@
     },
     "Lgmzxy7Y": {
       "app_name": "IFTTT",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-09-18"
     },
     "Y9yo0X5t": {
       "app_name": "IMDb: Movies & TV Shows",
@@ -2109,11 +2109,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-17"
+      "last_modify": "2026-09-18"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-17"
+      "last_modify": "2026-09-18"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-16"
+      "last_modify": "2026-09-18"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-14"
+      "last_modify": "2026-09-18"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5689,11 +5689,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-08-29"
+      "last_modify": "2026-09-18"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-17"
+      "last_modify": "2026-09-18"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-17"
+      "last_modify": "2026-09-18"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6073,11 +6073,11 @@
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-09-18"
     },
     "sIj5iOoj": {
       "app_name": "网易爆米花",
@@ -6283,11 +6283,11 @@
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-20"
+      "last_modify": "2026-09-18"
     },
     "T1JruCw4": {
       "app_name": "SpotiCar",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-09-04"
+      "last_modify": "2026-09-18"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -7198,11 +7198,11 @@
     },
     "anD9vU5M": {
       "app_name": "ShadowVPN - Fast Proxy",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-03"
+      "last_modify": "2026-09-18"
     },
     "93p77fVF": {
       "app_name": "Chronicle",
