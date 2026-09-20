@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-09-20"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -1213,11 +1213,11 @@
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-22"
+      "last_modify": "2026-09-20"
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
@@ -2101,11 +2101,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-19"
+      "last_modify": "2026-09-20"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2125,11 +2125,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-19"
+      "last_modify": "2026-09-20"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-19"
+      "last_modify": "2026-09-20"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5409,11 +5409,11 @@
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-19"
+      "last_modify": "2026-09-20"
     },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
@@ -6283,11 +6283,11 @@
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-18"
+      "last_modify": "2026-09-20"
     },
     "T1JruCw4": {
       "app_name": "SpotiCar",
@@ -6379,12 +6379,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-08-21"
+      "last_modify": "2026-09-20"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
