@@ -1493,11 +1493,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-17"
+      "last_modify": "2026-09-21"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-19"
+      "last_modify": "2026-09-21"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-20"
+      "last_modify": "2026-09-21"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5777,11 +5777,11 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-23"
+      "last_modify": "2026-09-21"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-18"
+      "last_modify": "2026-09-21"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-09-19"
+      "last_modify": "2026-09-21"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -7139,12 +7139,12 @@
     },
     "tLcYLZJV": {
       "app_name": "Tailscale",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-09-19"
+      "last_modify": "2026-09-21"
     },
     "vrehhvsY": {
       "app_name": "WatchAmp for Plex",
@@ -7425,11 +7425,11 @@
     },
     "6B8r9tuU": {
       "app_name": "Offline Music Player:Offly",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-09-21"
     },
     "hdUaxTTc": {
       "app_name": "Sorven: Home Asset Inventory",
