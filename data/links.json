@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-17"
+      "last_modify": "2026-09-23"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -4479,11 +4479,11 @@
     },
     "tmKoQL3t": {
       "app_name": "iRime输入法-小鹤双拼五笔郑码输入法 beta",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-09-23"
     },
     "AzU6kAzX": {
       "app_name": "Egern beta",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-22"
+      "last_modify": "2026-09-23"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-22"
+      "last_modify": "2026-09-23"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6073,11 +6073,11 @@
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-18"
+      "last_modify": "2026-09-23"
     },
     "sIj5iOoj": {
       "app_name": "网易爆米花",
@@ -6388,11 +6388,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-08-23"
+      "last_modify": "2026-09-23"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-22"
+      "last_modify": "2026-09-23"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6561,12 +6561,12 @@
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-08-10"
+      "last_modify": "2026-09-23"
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
@@ -6678,11 +6678,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-09-23"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-22"
+      "last_modify": "2026-09-23"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
