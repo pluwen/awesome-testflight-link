@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-09-11"
+      "last_modify": "2026-09-24"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -133,11 +133,11 @@
     },
     "KjmVWFnT": {
       "app_name": "1Blocker",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-17"
+      "last_modify": "2026-09-24"
     },
     "flDiG5AU": {
       "app_name": "1Password - Password Manager",
@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-20"
+      "last_modify": "2026-09-24"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-23"
+      "last_modify": "2026-09-24"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-11"
+      "last_modify": "2026-09-24"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-23"
+      "last_modify": "2026-09-24"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6388,11 +6388,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-09-23"
+      "last_modify": "2026-09-24"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6561,12 +6561,12 @@
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-09-23"
+      "last_modify": "2026-09-24"
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
@@ -7561,11 +7561,11 @@
     },
     "S2gEF65P": {
       "app_name": "Inventury",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-14"
+      "last_modify": "2026-09-24"
     },
     "RXCX9hyK": {
       "app_name": "Grok Usage",
