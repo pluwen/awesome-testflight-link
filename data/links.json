@@ -949,11 +949,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-25"
+      "last_modify": "2026-09-26"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1085,11 +1085,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-07"
+      "last_modify": "2026-09-26"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-07"
+      "last_modify": "2026-09-26"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2101,19 +2101,19 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-25"
+      "last_modify": "2026-09-26"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-25"
+      "last_modify": "2026-09-26"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -4343,19 +4343,19 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot - Heart Rate Monitor",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-09-10"
-    },
-    "1SyedSId": {
-      "app_name": "Spotify - Music and Podcasts",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-25"
+      "last_modify": "2026-09-26"
+    },
+    "1SyedSId": {
+      "app_name": "Spotify - Music and Podcasts",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-09-26"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4847,19 +4847,19 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-11"
+      "last_modify": "2026-09-26"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-25"
+      "last_modify": "2026-09-26"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -5513,19 +5513,19 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10"
+      "last_modify": "2026-09-26"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-15"
+      "last_modify": "2026-09-26"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-24"
+      "last_modify": "2026-09-26"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-23"
+      "last_modify": "2026-09-26"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
