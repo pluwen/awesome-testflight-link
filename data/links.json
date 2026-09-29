@@ -4967,11 +4967,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-01"
+      "last_modify": "2026-09-29"
     },
     "1KDD1Gqr": {
       "app_name": "Peerlist",
@@ -5065,11 +5065,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-04"
+      "last_modify": "2026-09-29"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-27"
+      "last_modify": "2026-09-29"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-28"
+      "last_modify": "2026-09-29"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6121,11 +6121,11 @@
     },
     "iSTXkF4K": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-28"
+      "last_modify": "2026-09-29"
     },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
@@ -6275,11 +6275,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-28"
+      "last_modify": "2026-09-29"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6388,11 +6388,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-09-24"
+      "last_modify": "2026-09-29"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-28"
+      "last_modify": "2026-09-29"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6678,11 +6678,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-28"
+      "last_modify": "2026-09-29"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -6993,11 +6993,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28"
+      "last_modify": "2026-09-29"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
@@ -7829,11 +7829,11 @@
     },
     "YD6CKdCj": {
       "app_name": "Ralphy",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-25"
+      "last_modify": "2026-09-29"
     },
     "haKP2pHC": {
       "app_name": "Spring Beta for Twitter",
