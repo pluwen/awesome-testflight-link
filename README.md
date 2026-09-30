@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (316 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (317 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 316 apps are currently accepting new testers! Click the links to join._
+_✅ These 317 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -233,6 +233,7 @@ _✅ These 316 apps are currently accepting new testers! Click the links to join
 | S2G - Stay 2 Gether | [https://testflight.apple.com/join/n4RGc5gY](https://testflight.apple.com/join/n4RGc5gY) | Y | 2026-05-26 |
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
 | SayCard | [https://testflight.apple.com/join/uUT5BGem](https://testflight.apple.com/join/uUT5BGem) | Y | 2026-07-20 |
+| Scripture Gems | [https://testflight.apple.com/join/Hc6VXpGF](https://testflight.apple.com/join/Hc6VXpGF) | Y | 2026-09-30 |
 | Shadow PC beta | [https://testflight.apple.com/join/PxpSW79P](https://testflight.apple.com/join/PxpSW79P) | Y | 2026-01-30 |
 | SHARE NOW (car2go & DriveNow) | [https://testflight.apple.com/join/1SsBDNCj](https://testflight.apple.com/join/1SsBDNCj) | Y | 2025-12-22 |
 | ShoutLine! | [https://testflight.apple.com/join/5MqUeG59](https://testflight.apple.com/join/5MqUeG59) | Y | 2026-08-24 |
