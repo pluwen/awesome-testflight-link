@@ -8020,6 +8020,18 @@
         "ios"
       ],
       "last_modify": "2026-09-30"
+    },
+    "jTWDHuZE": {
+      "app_name": "Yattee",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos",
+        "tvos",
+        "visionos"
+      ],
+      "last_modify": "2026-09-30"
     }
   }
 }
