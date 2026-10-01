@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-19"
+      "last_modify": "2026-10-01"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-23"
+      "last_modify": "2026-10-01"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4663,11 +4663,11 @@
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-15"
+      "last_modify": "2026-10-01"
     },
     "KxmTfa2j": {
       "app_name": "HappySteps",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-30"
+      "last_modify": "2026-10-01"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-21"
+      "last_modify": "2026-10-01"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5409,11 +5409,11 @@
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-20"
+      "last_modify": "2026-10-01"
     },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
@@ -6331,11 +6331,11 @@
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-01"
+      "last_modify": "2026-10-01"
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-30"
+      "last_modify": "2026-10-01"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6993,11 +6993,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-29"
+      "last_modify": "2026-10-01"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
@@ -7139,12 +7139,12 @@
     },
     "tLcYLZJV": {
       "app_name": "Tailscale",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-09-22"
+      "last_modify": "2026-10-01"
     },
     "vrehhvsY": {
       "app_name": "WatchAmp for Plex",
@@ -7561,11 +7561,11 @@
     },
     "S2gEF65P": {
       "app_name": "Inventury",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-27"
+      "last_modify": "2026-10-01"
     },
     "RXCX9hyK": {
       "app_name": "Grok Usage",
