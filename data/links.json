@@ -109,11 +109,11 @@
     },
     "JTWaYdDX": {
       "app_name": "Odak - Menu Bar Timer",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-13"
+      "last_modify": "2026-10-02"
     },
     "CtKY8RYh": {
       "app_name": "WPS Office for PC",
@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-28"
+      "last_modify": "2026-10-02"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -1125,11 +1125,11 @@
     },
     "xsSlT2sX": {
       "app_name": "FE File Explorer Pro",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11"
+      "last_modify": "2026-10-02"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01"
+      "last_modify": "2026-10-02"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4599,11 +4599,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-30"
+      "last_modify": "2026-10-02"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -4663,11 +4663,11 @@
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01"
+      "last_modify": "2026-10-02"
     },
     "KxmTfa2j": {
       "app_name": "HappySteps",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01"
+      "last_modify": "2026-10-02"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5409,11 +5409,11 @@
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01"
+      "last_modify": "2026-10-02"
     },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
@@ -5513,11 +5513,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-27"
+      "last_modify": "2026-10-02"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
@@ -5689,11 +5689,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-09-18"
+      "last_modify": "2026-10-02"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-29"
+      "last_modify": "2026-10-02"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-09-22"
+      "last_modify": "2026-10-02"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-28"
+      "last_modify": "2026-10-02"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7139,12 +7139,12 @@
     },
     "tLcYLZJV": {
       "app_name": "Tailscale",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-10-01"
+      "last_modify": "2026-10-02"
     },
     "vrehhvsY": {
       "app_name": "WatchAmp for Plex",
