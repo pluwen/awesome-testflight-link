@@ -2117,11 +2117,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-17"
+      "last_modify": "2026-10-03"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-02"
+      "last_modify": "2026-10-03"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4159,11 +4159,11 @@
     },
     "8wa9T053": {
       "app_name": "World Clock Time Widget",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-10-03"
     },
     "cJbVQ4HE": {
       "app_name": "Wraldpyk’s Blackjack",
@@ -4599,11 +4599,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-02"
+      "last_modify": "2026-10-03"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -4903,11 +4903,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-22"
+      "last_modify": "2026-10-03"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5329,11 +5329,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-03"
+      "last_modify": "2026-10-03"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5513,19 +5513,19 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-10-02"
-    },
-    "3lIiz1eZ": {
-      "app_name": "Microsoft Excel",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-27"
+      "last_modify": "2026-10-03"
+    },
+    "3lIiz1eZ": {
+      "app_name": "Microsoft Excel",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-03"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -5777,11 +5777,11 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-22"
+      "last_modify": "2026-10-03"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-10-02"
+      "last_modify": "2026-10-03"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-02"
+      "last_modify": "2026-10-03"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
