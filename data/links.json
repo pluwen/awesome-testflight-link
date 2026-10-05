@@ -1125,11 +1125,11 @@
     },
     "xsSlT2sX": {
       "app_name": "FE File Explorer Pro",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-04"
+      "last_modify": "2026-10-05"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2101,11 +2101,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-26"
+      "last_modify": "2026-10-05"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-04"
+      "last_modify": "2026-10-05"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-03"
+      "last_modify": "2026-10-05"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01"
+      "last_modify": "2026-10-05"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4759,11 +4759,11 @@
     },
     "fzDLkIVK": {
       "app_name": "1Password - Password Manager beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-04"
+      "last_modify": "2026-10-05"
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-04"
+      "last_modify": "2026-10-05"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -6331,11 +6331,11 @@
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01"
+      "last_modify": "2026-10-05"
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
@@ -7351,12 +7351,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-04"
+      "last_modify": "2026-10-05"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
