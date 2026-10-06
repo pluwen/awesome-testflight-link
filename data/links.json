@@ -541,11 +541,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-28"
+      "last_modify": "2026-10-06"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-02"
+      "last_modify": "2026-10-06"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -1085,11 +1085,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-27"
+      "last_modify": "2026-10-06"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1101,11 +1101,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-15"
+      "last_modify": "2026-10-06"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-26"
+      "last_modify": "2026-10-06"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -5881,11 +5881,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19"
+      "last_modify": "2026-10-06"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-02"
+      "last_modify": "2026-10-06"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-10-03"
+      "last_modify": "2026-10-06"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -7820,12 +7820,12 @@
     },
     "Dtc4ZCFu": {
       "app_name": "Accretion: The Vein",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-08-25"
+      "last_modify": "2026-10-06"
     },
     "YD6CKdCj": {
       "app_name": "Ralphy",
