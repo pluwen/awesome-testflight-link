@@ -8058,6 +8058,16 @@
         "macos"
       ],
       "last_modify": "2026-10-06"
+    },
+    "rtB31QbP": {
+      "app_name": "Jigwell: Private Tools",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos"
+      ],
+      "last_modify": "2026-10-06"
     }
   }
 }

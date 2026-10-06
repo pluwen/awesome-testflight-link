@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (318 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (319 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 318 apps are currently accepting new testers! Click the links to join._
+_✅ These 319 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -142,6 +142,7 @@ _✅ These 318 apps are currently accepting new testers! Click the links to join
 | iSH ARM64 | [https://testflight.apple.com/join/ZtGfhNkH](https://testflight.apple.com/join/ZtGfhNkH) | Y | 2026-07-28 |
 | Iskrio: Cozy Walking Game | [https://testflight.apple.com/join/nk4W2HNE](https://testflight.apple.com/join/nk4W2HNE) | Y | 2026-09-02 |
 | IT之家 | [https://testflight.apple.com/join/eD9uChwY](https://testflight.apple.com/join/eD9uChwY) | Y | 2025-12-22 |
+| Jigwell: Private Tools | [https://testflight.apple.com/join/rtB31QbP](https://testflight.apple.com/join/rtB31QbP) | Y | 2026-10-06 |
 | Jira Cloud by Atlassian | [https://testflight.apple.com/join/2lm7vHBS](https://testflight.apple.com/join/2lm7vHBS) | Y | 2025-12-22 |
 | Jira Server by Atlassian | [https://testflight.apple.com/join/6JbjYbSY](https://testflight.apple.com/join/6JbjYbSY) | Y | 2026-05-12 |
 | Just Timers | [https://testflight.apple.com/join/pyzrz0oT](https://testflight.apple.com/join/pyzrz0oT) | Y | 2026-03-25 |
@@ -1030,9 +1031,9 @@ _⚠️ These 87 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (24 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (25 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 24 apps are currently accepting new testers! Click the links to join._
+_✅ These 25 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1048,6 +1049,7 @@ _✅ These 24 apps are currently accepting new testers! Click the links to join.
 | Home Assistant | [https://testflight.apple.com/join/1AlPbnLZ](https://testflight.apple.com/join/1AlPbnLZ) | Y | 2026-09-10 |
 | Home Floorplan | [https://testflight.apple.com/join/fqDXYaDV](https://testflight.apple.com/join/fqDXYaDV) | Y | 2026-07-07 |
 | Hopbit | [https://testflight.apple.com/join/wqnfUFwe](https://testflight.apple.com/join/wqnfUFwe) | Y | 2026-07-22 |
+| Jigwell: Private Tools | [https://testflight.apple.com/join/rtB31QbP](https://testflight.apple.com/join/rtB31QbP) | Y | 2026-10-06 |
 | Kitchen Agent for Chefs | [https://testflight.apple.com/join/nmkzuzVj](https://testflight.apple.com/join/nmkzuzVj) | Y | 2026-07-23 |
 | Meow - Smart VPN | [https://testflight.apple.com/join/HSptQN3h](https://testflight.apple.com/join/HSptQN3h) | Y | 2026-08-05 |
 | Moon FM - The Podcasts App | [https://testflight.apple.com/join/c6NtF2xP](https://testflight.apple.com/join/c6NtF2xP) | Y | 2026-09-27 |
@@ -1103,9 +1105,9 @@ _⚠️ These 3 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (23 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (24 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 23 apps are currently accepting new testers! Click the links to join._
+_✅ These 24 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1120,6 +1122,7 @@ _✅ These 23 apps are currently accepting new testers! Click the links to join.
 | Distill Player | [https://testflight.apple.com/join/TkBNQZP2](https://testflight.apple.com/join/TkBNQZP2) | Y | 2026-02-02 |
 | Dropover - Easier Drag &amp; Drop | [https://testflight.apple.com/join/vI2iTOSj](https://testflight.apple.com/join/vI2iTOSj) | Y | 2026-06-04 |
 | Home Assistant | [https://testflight.apple.com/join/1AlPbnLZ](https://testflight.apple.com/join/1AlPbnLZ) | Y | 2026-09-10 |
+| Jigwell: Private Tools | [https://testflight.apple.com/join/rtB31QbP](https://testflight.apple.com/join/rtB31QbP) | Y | 2026-10-06 |
 | Monal - XMPP Chatting | [https://testflight.apple.com/join/tGH2m5vf](https://testflight.apple.com/join/tGH2m5vf) | Y | 2025-12-22 |
 | NPMusic | [https://testflight.apple.com/join/BzeDCYX4](https://testflight.apple.com/join/BzeDCYX4) | Y | 2026-08-31 |
 | plsql2pgsql | [https://testflight.apple.com/join/UeJHZ2vQ](https://testflight.apple.com/join/UeJHZ2vQ) | Y | 2026-07-02 |
