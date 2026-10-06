@@ -8068,6 +8068,14 @@
         "macos"
       ],
       "last_modify": "2026-10-06"
+    },
+    "h4WuFNgG": {
+      "app_name": "Prover",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-06"
     }
   }
 }
