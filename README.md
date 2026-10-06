@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (316 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (317 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 316 apps are currently accepting new testers! Click the links to join._
+_✅ These 317 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -153,6 +153,7 @@ _✅ These 316 apps are currently accepting new testers! Click the links to join
 | Kodi Remote beta | [https://testflight.apple.com/join/VQkpfqDN](https://testflight.apple.com/join/VQkpfqDN) | Y | 2025-12-22 |
 | La Terminal: Mosh &amp; SSH Client | [https://testflight.apple.com/join/cpPS8YnX](https://testflight.apple.com/join/cpPS8YnX) | Y | 2026-08-24 |
 | Lenna - Video Library Player | [https://testflight.apple.com/join/bExxpaX1](https://testflight.apple.com/join/bExxpaX1) | Y | 2026-07-22 |
+| Life Metro | [https://testflight.apple.com/join/xcNYxzp1](https://testflight.apple.com/join/xcNYxzp1) | Y | 2026-10-06 |
 | Life360: Find Friends & Family beta | [https://testflight.apple.com/join/syX6IOJF](https://testflight.apple.com/join/syX6IOJF) | Y | 2026-04-22 |
 | LifeOS Beta | [https://testflight.apple.com/join/nundd6bS](https://testflight.apple.com/join/nundd6bS) | Y | 2026-08-24 |
 | LIFX | [https://testflight.apple.com/join/TYoQEz4T](https://testflight.apple.com/join/TYoQEz4T) | Y | 2025-12-22 |
