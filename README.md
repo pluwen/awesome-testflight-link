@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (315 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (316 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 315 apps are currently accepting new testers! Click the links to join._
+_✅ These 316 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -204,6 +204,7 @@ _✅ These 315 apps are currently accepting new testers! Click the links to join
 | OvenApp | [https://testflight.apple.com/join/uGKFF4cw](https://testflight.apple.com/join/uGKFF4cw) | Y | 2026-08-25 |
 | Overlay Expert | [https://testflight.apple.com/join/vNCttFNB](https://testflight.apple.com/join/vNCttFNB) | Y | 2026-08-24 |
 | ownCloud | [https://testflight.apple.com/join/Oktj0iKv](https://testflight.apple.com/join/Oktj0iKv) | Y | 2026-09-01 |
+| Oxbit | [https://testflight.apple.com/join/P2WqdUYS](https://testflight.apple.com/join/P2WqdUYS) | Y | 2026-10-06 |
 | Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | Y | 2025-12-22 |
 | PDF Viewer Pro by PSPDFKit | [https://testflight.apple.com/join/6IMUtZ8n](https://testflight.apple.com/join/6IMUtZ8n) | Y | 2026-05-06 |
 | Pingroom | [https://testflight.apple.com/join/UW186HBe](https://testflight.apple.com/join/UW186HBe) | Y | 2026-06-23 |
@@ -1027,9 +1028,9 @@ _⚠️ These 87 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (23 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (24 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 23 apps are currently accepting new testers! Click the links to join._
+_✅ These 24 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1050,6 +1051,7 @@ _✅ These 23 apps are currently accepting new testers! Click the links to join.
 | Moon FM - The Podcasts App | [https://testflight.apple.com/join/c6NtF2xP](https://testflight.apple.com/join/c6NtF2xP) | Y | 2026-09-27 |
 | My Vinyl+ Scanner for Discogs | [https://testflight.apple.com/join/BkXvMy3S](https://testflight.apple.com/join/BkXvMy3S) | Y | 2026-06-09 |
 | OpenDisplay | [https://testflight.apple.com/join/3NYaY11c](https://testflight.apple.com/join/3NYaY11c) | Y | 2026-07-08 |
+| Oxbit | [https://testflight.apple.com/join/P2WqdUYS](https://testflight.apple.com/join/P2WqdUYS) | Y | 2026-10-06 |
 | Starlight VPN | [https://testflight.apple.com/join/VfQwnC67](https://testflight.apple.com/join/VfQwnC67) | Y | 2026-08-03 |
 | Tessa - Jigsaw Photo Puzzles | [https://testflight.apple.com/join/KKadvzpd](https://testflight.apple.com/join/KKadvzpd) | Y | 2026-06-27 |
 | VeSync | [https://testflight.apple.com/join/fJBKUFNX](https://testflight.apple.com/join/fJBKUFNX) | Y | 2026-02-02 |

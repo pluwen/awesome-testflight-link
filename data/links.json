@@ -8032,6 +8032,15 @@
         "visionos"
       ],
       "last_modify": "2026-09-30"
+    },
+    "P2WqdUYS": {
+      "app_name": "Oxbit",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-06"
     }
   }
 }
