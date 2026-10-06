@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (317 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (318 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 317 apps are currently accepting new testers! Click the links to join._
+_✅ These 318 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -302,6 +302,7 @@ _✅ These 317 apps are currently accepting new testers! Click the links to join
 | YACReader | [https://testflight.apple.com/join/5zhB7sRP](https://testflight.apple.com/join/5zhB7sRP) | Y | 2026-04-16 |
 | Yattee | [https://testflight.apple.com/join/jTWDHuZE](https://testflight.apple.com/join/jTWDHuZE) | Y | 2026-09-30 |
 | Yumza | [https://testflight.apple.com/join/PT14FumC](https://testflight.apple.com/join/PT14FumC) | Y | 2026-09-24 |
+| ZenMark | [https://testflight.apple.com/join/ZCYJDb5z](https://testflight.apple.com/join/ZCYJDb5z) | Y | 2026-10-06 |
 | Zombies Endless | [https://testflight.apple.com/join/6Ya9E8jU](https://testflight.apple.com/join/6Ya9E8jU) | Y | 2025-12-22 |
 | Zoomie | [https://testflight.apple.com/join/hpcJFGFJ](https://testflight.apple.com/join/hpcJFGFJ) | Y | 2026-08-19 |
 | Ōree | [https://testflight.apple.com/join/v3zbr8YC](https://testflight.apple.com/join/v3zbr8YC) | Y | 2026-06-23 |
@@ -1102,9 +1103,9 @@ _⚠️ These 3 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (22 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (23 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 22 apps are currently accepting new testers! Click the links to join._
+_✅ These 23 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1130,6 +1131,7 @@ _✅ These 22 apps are currently accepting new testers! Click the links to join.
 | UTM Virtual Machines | [https://testflight.apple.com/join/Cg7UTrme](https://testflight.apple.com/join/Cg7UTrme) | Y | 2026-10-06 |
 | WPS Office for PC | [https://testflight.apple.com/join/CtKY8RYh](https://testflight.apple.com/join/CtKY8RYh) | Y | 2026-06-25 |
 | Yattee | [https://testflight.apple.com/join/jTWDHuZE](https://testflight.apple.com/join/jTWDHuZE) | Y | 2026-09-30 |
+| ZenMark | [https://testflight.apple.com/join/ZCYJDb5z](https://testflight.apple.com/join/ZCYJDb5z) | Y | 2026-10-06 |
 
 </details>
 

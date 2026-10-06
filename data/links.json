@@ -8049,6 +8049,15 @@
         "ios"
       ],
       "last_modify": "2026-10-06"
+    },
+    "ZCYJDb5z": {
+      "app_name": "ZenMark",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "macos"
+      ],
+      "last_modify": "2026-10-06"
     }
   }
 }
