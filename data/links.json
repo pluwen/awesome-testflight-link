@@ -541,11 +541,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-06"
+      "last_modify": "2026-10-07"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -1125,11 +1125,11 @@
     },
     "xsSlT2sX": {
       "app_name": "FE File Explorer Pro",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-05"
+      "last_modify": "2026-10-07"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-26"
+      "last_modify": "2026-10-07"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -4439,11 +4439,11 @@
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-07"
+      "last_modify": "2026-10-07"
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-05"
+      "last_modify": "2026-10-07"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-02"
+      "last_modify": "2026-10-07"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5881,11 +5881,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-06"
+      "last_modify": "2026-10-07"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-30"
+      "last_modify": "2026-10-07"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6161,11 +6161,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-08"
+      "last_modify": "2026-10-07"
     },
     "DdscKm1S": {
       "app_name": "酷狗概念版",
@@ -6227,19 +6227,19 @@
     },
     "fAcjDDUu": {
       "app_name": "Calendery - 极简农历天气日历",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-10-07"
     },
     "YYfh75TS": {
       "app_name": "书墨",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-27"
+      "last_modify": "2026-10-07"
     },
     "ckShCX1T": {
       "app_name": "酷我音乐-好音质用酷我",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-10-06"
+      "last_modify": "2026-10-07"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -6388,11 +6388,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-09-30"
+      "last_modify": "2026-10-07"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-13"
+      "last_modify": "2026-10-07"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-13"
+      "last_modify": "2026-10-07"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -7793,11 +7793,11 @@
     },
     "9GTuC9Ri": {
       "app_name": "微博",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-10"
+      "last_modify": "2026-10-07"
     },
     "47XmGuKU": {
       "app_name": "Theta Wellness",
