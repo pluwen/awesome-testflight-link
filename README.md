@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (325 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (326 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 325 apps are currently accepting new testers! Click the links to join._
+_✅ These 326 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -65,6 +65,7 @@ _✅ These 325 apps are currently accepting new testers! Click the links to join
 | CharMap | [https://testflight.apple.com/join/TL68k0Sp](https://testflight.apple.com/join/TL68k0Sp) | Y | 2026-02-09 |
 | Chronicle | [https://testflight.apple.com/join/93p77fVF](https://testflight.apple.com/join/93p77fVF) | Y | 2026-07-07 |
 | ClaimMate (bf2ca8) | [https://testflight.apple.com/join/3Fx8ytfh](https://testflight.apple.com/join/3Fx8ytfh) | Y | 2026-08-24 |
+| Clone Hero | [https://testflight.apple.com/join/XAAG82hb](https://testflight.apple.com/join/XAAG82hb) | Y | 2026-10-08 |
 | CodeAgents Mobile | [https://testflight.apple.com/join/eUpweBZV](https://testflight.apple.com/join/eUpweBZV) | Y | 2026-08-14 |
 | Collabora Office | [https://testflight.apple.com/join/TEnBWi68](https://testflight.apple.com/join/TEnBWi68) | Y | 2025-12-22 |
 | CoMaps | [https://testflight.apple.com/join/EGSsGRn7](https://testflight.apple.com/join/EGSsGRn7) | Y | 2026-07-20 |
