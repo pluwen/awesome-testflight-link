@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (321 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (322 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 321 apps are currently accepting new testers! Click the links to join._
+_✅ These 322 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -118,6 +118,7 @@ _✅ These 321 apps are currently accepting new testers! Click the links to join
 | GoalReminder | [https://testflight.apple.com/join/Pq142uZH](https://testflight.apple.com/join/Pq142uZH) | Y | 2026-08-24 |
 | Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) | Y | 2026-08-21 |
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | Y | 2025-12-22 |
+| Grid Bot Trader | [https://testflight.apple.com/join/CAtQ4vbE](https://testflight.apple.com/join/CAtQ4vbE) | Y | 2026-10-09 |
 | Grindr - Gay Dating & Chat | [https://testflight.apple.com/join/eO265vw7](https://testflight.apple.com/join/eO265vw7) | Y | 2026-10-08 |
 | Grippe: Speedrun | [https://testflight.apple.com/join/udVFMftV](https://testflight.apple.com/join/udVFMftV) | Y | 2026-07-30 |
 | Grok Usage | [https://testflight.apple.com/join/RXCX9hyK](https://testflight.apple.com/join/RXCX9hyK) | Y | 2026-08-24 |
