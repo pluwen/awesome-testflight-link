@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (320 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (321 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 320 apps are currently accepting new testers! Click the links to join._
+_✅ These 321 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -40,6 +40,7 @@ _✅ These 320 apps are currently accepting new testers! Click the links to join
 | AliExpress - Shopping App beta | [https://testflight.apple.com/join/TFhYeUyJ](https://testflight.apple.com/join/TFhYeUyJ) | Y | 2026-06-14 |
 | Allspark | [https://testflight.apple.com/join/29gE9tQ4](https://testflight.apple.com/join/29gE9tQ4) | Y | 2026-08-24 |
 | AmazFaces | [https://testflight.apple.com/join/4hBEKHHg](https://testflight.apple.com/join/4hBEKHHg) | Y | 2025-12-22 |
+| Anvil – Offline AI Assistant | [https://testflight.apple.com/join/5JGCZpxt](https://testflight.apple.com/join/5JGCZpxt) | Y | 2026-10-09 |
 | AnyList | [https://testflight.apple.com/join/xwvLPc6o](https://testflight.apple.com/join/xwvLPc6o) | Y | 2025-12-22 |
 | AppRaven 2.0 | [https://testflight.apple.com/join/8uVQrfHu](https://testflight.apple.com/join/8uVQrfHu) | Y | 2026-07-22 |
 | ArcBreaker: Ringfall Arena | [https://testflight.apple.com/join/3WThmhQu](https://testflight.apple.com/join/3WThmhQu) | Y | 2026-05-22 |
