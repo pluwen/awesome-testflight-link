@@ -1085,11 +1085,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-06"
+      "last_modify": "2026-10-12"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-10"
+      "last_modify": "2026-10-12"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1493,11 +1493,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-11"
+      "last_modify": "2026-10-12"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
@@ -3607,11 +3607,11 @@
     },
     "u6iogfd0": {
       "app_name": "Telegram Messenger",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-25"
+      "last_modify": "2026-10-12"
     },
     "LQ2GXZag": {
       "app_name": "TelePlus",
@@ -4007,11 +4007,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-27"
+      "last_modify": "2026-10-12"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4599,11 +4599,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-10"
+      "last_modify": "2026-10-12"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -4727,11 +4727,11 @@
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "F",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-11"
+      "last_modify": "2026-10-12"
     },
     "BScDI9fh": {
       "app_name": "Myphysique",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-11"
+      "last_modify": "2026-10-12"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5329,11 +5329,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-11"
+      "last_modify": "2026-10-12"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-06"
+      "last_modify": "2026-10-12"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6678,11 +6678,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-08"
+      "last_modify": "2026-10-12"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-08"
+      "last_modify": "2026-10-12"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7131,20 +7131,20 @@
     },
     "8XDBCC4Q": {
       "app_name": "auth. - 2FA Smart Sync",
-      "status": "F",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-12"
+      "last_modify": "2026-10-12"
     },
     "tLcYLZJV": {
       "app_name": "Tailscale",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-10-02"
+      "last_modify": "2026-10-12"
     },
     "vrehhvsY": {
       "app_name": "WatchAmp for Plex",
@@ -7231,12 +7231,12 @@
     },
     "EGSsGRn7": {
       "app_name": "CoMaps",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-09"
+      "last_modify": "2026-10-12"
     },
     "MJYg86PA": {
       "app_name": "WhoWhom",
