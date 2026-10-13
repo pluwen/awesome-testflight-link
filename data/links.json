@@ -8116,6 +8116,14 @@
         "ios"
       ],
       "last_modify": "2026-10-13"
+    },
+    "EnFsKYQ1": {
+      "app_name": "OpenCode",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-13"
     }
   }
 }
