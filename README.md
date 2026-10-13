@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (328 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (329 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 328 apps are currently accepting new testers! Click the links to join._
+_✅ These 329 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -131,6 +131,7 @@ _✅ These 328 apps are currently accepting new testers! Click the links to join
 | HankyDoodle | [https://testflight.apple.com/join/f3fgN8u4](https://testflight.apple.com/join/f3fgN8u4) | Y | 2026-05-13 |
 | Headroom: Self-Hosted Music | [https://testflight.apple.com/join/UH3Cfhds](https://testflight.apple.com/join/UH3Cfhds) | Y | 2026-08-24 |
 | Health Export | [https://testflight.apple.com/join/g5FcLFJQ](https://testflight.apple.com/join/g5FcLFJQ) | Y | 2025-12-22 |
+| HEATWAVE - The battle for cold | [https://testflight.apple.com/join/g86ZVmQN](https://testflight.apple.com/join/g86ZVmQN) | Y | 2026-10-13 |
 | Herald: Latest News | [https://testflight.apple.com/join/pkrdVu0n](https://testflight.apple.com/join/pkrdVu0n) | Y | 2026-04-13 |
 | HexT | [https://testflight.apple.com/join/ixTrfIgF](https://testflight.apple.com/join/ixTrfIgF) | Y | 2026-04-17 |
 | Hiddify Proxy &amp; VPN | [https://testflight.apple.com/join/dsNjHxjb](https://testflight.apple.com/join/dsNjHxjb) | Y | 2026-10-09 |
