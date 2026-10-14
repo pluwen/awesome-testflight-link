@@ -8141,6 +8141,15 @@
         "macos"
       ],
       "last_modify": "2026-10-14"
+    },
+    "vfgnaKC1": {
+      "app_name": "NetCheck Relay",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-14"
     }
   }
 }
