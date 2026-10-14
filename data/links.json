@@ -8133,6 +8133,14 @@
         "ipados"
       ],
       "last_modify": "2026-10-14"
+    },
+    "TAkQKJGs": {
+      "app_name": "NetCheck - Menu Bar Monitor",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-10-14"
     }
   }
 }
