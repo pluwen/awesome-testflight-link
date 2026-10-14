@@ -8124,6 +8124,15 @@
         "ios"
       ],
       "last_modify": "2026-10-13"
+    },
+    "TBxWaPBr": {
+      "app_name": "Spohad",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-14"
     }
   }
 }

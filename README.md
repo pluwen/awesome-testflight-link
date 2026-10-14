@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (329 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (330 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 329 apps are currently accepting new testers! Click the links to join._
+_✅ These 330 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -258,6 +258,7 @@ _✅ These 329 apps are currently accepting new testers! Click the links to join
 | Spark Mail - Email by Readdle | [https://testflight.apple.com/join/O2wj7i0x](https://testflight.apple.com/join/O2wj7i0x) | Y | 2025-12-22 |
 | Spektra IPTV Player | [https://testflight.apple.com/join/27Ers3Td](https://testflight.apple.com/join/27Ers3Td) | Y | 2026-08-24 |
 | Spendee Budget Money Tracker | [https://testflight.apple.com/join/qsfCtbEy](https://testflight.apple.com/join/qsfCtbEy) | Y | 2026-08-25 |
+| Spohad | [https://testflight.apple.com/join/TBxWaPBr](https://testflight.apple.com/join/TBxWaPBr) | Y | 2026-10-14 |
 | SpotiCar | [https://testflight.apple.com/join/T1JruCw4](https://testflight.apple.com/join/T1JruCw4) | Y | 2026-01-30 |
 | Spotify - Music and Podcasts | [https://testflight.apple.com/join/1SyedSId](https://testflight.apple.com/join/1SyedSId) | Y | 2026-10-13 |
 | Spring Beta for Twitter | [https://testflight.apple.com/join/haKP2pHC](https://testflight.apple.com/join/haKP2pHC) | Y | 2026-08-26 |
@@ -1038,9 +1039,9 @@ _⚠️ These 79 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (25 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (26 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 25 apps are currently accepting new testers! Click the links to join._
+_✅ These 26 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1063,6 +1064,7 @@ _✅ These 25 apps are currently accepting new testers! Click the links to join.
 | My Vinyl+ Scanner for Discogs | [https://testflight.apple.com/join/BkXvMy3S](https://testflight.apple.com/join/BkXvMy3S) | Y | 2026-06-09 |
 | OpenDisplay | [https://testflight.apple.com/join/3NYaY11c](https://testflight.apple.com/join/3NYaY11c) | Y | 2026-07-08 |
 | Oxbit | [https://testflight.apple.com/join/P2WqdUYS](https://testflight.apple.com/join/P2WqdUYS) | Y | 2026-10-06 |
+| Spohad | [https://testflight.apple.com/join/TBxWaPBr](https://testflight.apple.com/join/TBxWaPBr) | Y | 2026-10-14 |
 | Starlight VPN | [https://testflight.apple.com/join/VfQwnC67](https://testflight.apple.com/join/VfQwnC67) | Y | 2026-08-03 |
 | Tessa - Jigsaw Photo Puzzles | [https://testflight.apple.com/join/KKadvzpd](https://testflight.apple.com/join/KKadvzpd) | Y | 2026-06-27 |
 | VeSync | [https://testflight.apple.com/join/fJBKUFNX](https://testflight.apple.com/join/fJBKUFNX) | Y | 2026-02-02 |
