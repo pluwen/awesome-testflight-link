@@ -1101,11 +1101,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-06"
+      "last_modify": "2026-10-14"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-10-14"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -4183,11 +4183,11 @@
     },
     "dfUeaFHS": {
       "app_name": "Xbox",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-10-14"
     },
     "Yxf3M3Kf": {
       "app_name": "Xbuddy",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-10-14"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4463,11 +4463,11 @@
     },
     "8BOPXsGz": {
       "app_name": "Steam iOS beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-10-14"
     },
     "sY14cetk": {
       "app_name": "Trackpet",
@@ -4855,11 +4855,11 @@
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-26"
+      "last_modify": "2026-10-14"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-12"
+      "last_modify": "2026-10-14"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5881,11 +5881,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-07"
+      "last_modify": "2026-10-14"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-12"
+      "last_modify": "2026-10-14"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -7681,11 +7681,11 @@
     },
     "QEGVeTvn": {
       "app_name": "Cerebri",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-10-14"
     },
     "52QAEXp5": {
       "app_name": "Ferry : RSS Reader",
