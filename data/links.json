@@ -8150,6 +8150,14 @@
         "ipados"
       ],
       "last_modify": "2026-10-14"
+    },
+    "bKFMMNju": {
+      "app_name": "Sunwake: Sunrise Alarm Clock",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-15"
     }
   }
 }
