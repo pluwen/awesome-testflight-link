@@ -949,11 +949,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-26"
+      "last_modify": "2026-10-15"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1101,11 +1101,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-14"
+      "last_modify": "2026-10-15"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-14"
+      "last_modify": "2026-10-15"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -4855,11 +4855,11 @@
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-14"
+      "last_modify": "2026-10-15"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -5881,11 +5881,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-14"
+      "last_modify": "2026-10-15"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-09"
+      "last_modify": "2026-10-15"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-07"
+      "last_modify": "2026-10-15"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-07"
+      "last_modify": "2026-10-15"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
