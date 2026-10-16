@@ -2181,11 +2181,11 @@
     },
     "n5A7ceuK": {
       "app_name": "Möbius Sync - Syncthing iOS",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-10-16"
     },
     "AJlrDMao": {
       "app_name": "Mojo - Create Video Stories",
@@ -2805,11 +2805,11 @@
     },
     "NkF46PRd": {
       "app_name": "Potatso",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-10-16"
     },
     "hKI4xKRj": {
       "app_name": "Power 9 – Magic: The Gathering",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-10"
+      "last_modify": "2026-10-16"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-05"
+      "last_modify": "2026-10-16"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-09"
+      "last_modify": "2026-10-16"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
