@@ -949,11 +949,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-15"
+      "last_modify": "2026-10-17"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1085,11 +1085,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-10-17"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -2181,11 +2181,11 @@
     },
     "n5A7ceuK": {
       "app_name": "Möbius Sync - Syncthing iOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-16"
+      "last_modify": "2026-10-17"
     },
     "AJlrDMao": {
       "app_name": "Mojo - Create Video Stories",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-30"
+      "last_modify": "2026-10-17"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-16"
+      "last_modify": "2026-10-17"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-16"
+      "last_modify": "2026-10-17"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6881,11 +6881,11 @@
     },
     "XplPxabZ": {
       "app_name": "米兔手表-可以打电话的手表",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-14"
+      "last_modify": "2026-10-17"
     },
     "zfzepr74": {
       "app_name": "深蓝汽车",
@@ -7351,12 +7351,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-05"
+      "last_modify": "2026-10-17"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
@@ -8095,11 +8095,11 @@
     },
     "CAtQ4vbE": {
       "app_name": "Grid Bot Trader",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-09"
+      "last_modify": "2026-10-17"
     },
     "6Mmry4w4": {
       "app_name": "Loane – Coach de vie &amp; Journal",
