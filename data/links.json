@@ -8166,6 +8166,15 @@
         "ios"
       ],
       "last_modify": "2026-10-16"
+    },
+    "2EXRDF27": {
+      "app_name": "Terminus: Flashcard Maker",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-19"
     }
   }
 }
