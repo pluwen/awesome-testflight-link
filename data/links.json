@@ -8201,6 +8201,15 @@
         "ios"
       ],
       "last_modify": "2026-10-20"
+    },
+    "mWfCau5D": {
+      "app_name": "Larari",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-20"
     }
   }
 }
