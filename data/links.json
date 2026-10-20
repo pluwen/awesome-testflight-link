@@ -8184,6 +8184,15 @@
         "ipados"
       ],
       "last_modify": "2026-10-19"
+    },
+    "vkaCN44H": {
+      "app_name": "Horde Control",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-20"
     }
   }
 }
