@@ -8193,6 +8193,14 @@
         "ipados"
       ],
       "last_modify": "2026-10-20"
+    },
+    "uc2u5VXe": {
+      "app_name": "Yap: Dictation &amp; Voice to Text",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-20"
     }
   }
 }

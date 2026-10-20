@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (333 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (334 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 333 apps are currently accepting new testers! Click the links to join._
+_✅ These 334 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -316,6 +316,7 @@ _✅ These 333 apps are currently accepting new testers! Click the links to join
 | Workout Narrator: Rep Timer | [https://testflight.apple.com/join/aSybKA8y](https://testflight.apple.com/join/aSybKA8y) | Y | 2026-08-03 |
 | World Clock Time Widget | [https://testflight.apple.com/join/8wa9T053](https://testflight.apple.com/join/8wa9T053) | Y | 2026-10-03 |
 | YACReader | [https://testflight.apple.com/join/5zhB7sRP](https://testflight.apple.com/join/5zhB7sRP) | Y | 2026-04-16 |
+| Yap: Dictation &amp; Voice to Text | [https://testflight.apple.com/join/uc2u5VXe](https://testflight.apple.com/join/uc2u5VXe) | Y | 2026-10-20 |
 | Yattee | [https://testflight.apple.com/join/jTWDHuZE](https://testflight.apple.com/join/jTWDHuZE) | Y | 2026-09-30 |
 | Yumza | [https://testflight.apple.com/join/PT14FumC](https://testflight.apple.com/join/PT14FumC) | Y | 2026-09-24 |
 | ZenMark | [https://testflight.apple.com/join/ZCYJDb5z](https://testflight.apple.com/join/ZCYJDb5z) | Y | 2026-10-06 |
