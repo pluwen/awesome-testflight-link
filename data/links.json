@@ -413,11 +413,11 @@
     },
     "ICUaKS17": {
       "app_name": "BeSafe",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-10-20"
     },
     "avYAAwEt": {
       "app_name": "BestOf-Private Travelogue",
@@ -1085,11 +1085,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-17"
+      "last_modify": "2026-10-20"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -3326,11 +3326,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-06"
+      "last_modify": "2026-10-20"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -5401,11 +5401,11 @@
     },
     "JaRYx1fE": {
       "app_name": "FM Radio x Radddio App",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-10-20"
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-10"
+      "last_modify": "2026-10-20"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5961,11 +5961,11 @@
     },
     "mOxZm1dD": {
       "app_name": "我的世界-网易",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-18"
+      "last_modify": "2026-10-20"
     },
     "UIW76yDz": {
       "app_name": "枕边语pillowtalk-服务器监控工具",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-15"
+      "last_modify": "2026-10-20"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6654,11 +6654,11 @@
     },
     "URq96MVP": {
       "app_name": "EpisodePal - TV Show Tracker",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-25"
+      "last_modify": "2026-10-20"
     },
     "8XHKpTmj": {
       "app_name": "VPN BOX",
@@ -6945,11 +6945,11 @@
     },
     "XkGKTA71": {
       "app_name": "小红书 – 世界杯直播",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-04"
+      "last_modify": "2026-10-20"
     },
     "wAYQpuS6": {
       "app_name": "唱吧",
@@ -7231,12 +7231,12 @@
     },
     "EGSsGRn7": {
       "app_name": "CoMaps",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-10-20"
     },
     "MJYg86PA": {
       "app_name": "WhoWhom",
@@ -7681,11 +7681,11 @@
     },
     "QEGVeTvn": {
       "app_name": "Cerebri",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-14"
+      "last_modify": "2026-10-20"
     },
     "52QAEXp5": {
       "app_name": "Ferry : RSS Reader",
