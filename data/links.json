@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-18"
+      "last_modify": "2026-10-22"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -1781,11 +1781,11 @@
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-22"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
@@ -2157,11 +2157,11 @@
     },
     "lsd9mugy": {
       "app_name": "Mixing Station",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-22"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-22"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4847,19 +4847,19 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-09"
+      "last_modify": "2026-10-22"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-22"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-22"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-22"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6275,11 +6275,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-29"
+      "last_modify": "2026-10-22"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6379,12 +6379,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-22"
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
@@ -6412,12 +6412,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-09"
+      "last_modify": "2026-10-22"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6841,11 +6841,11 @@
     },
     "VNDGcHBB": {
       "app_name": "淘宝闪购-点外卖更优惠",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-03"
+      "last_modify": "2026-10-22"
     },
     "7tPfWALw": {
       "app_name": "腾讯自选股-在线炒股票证券交易",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-22"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-22"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
