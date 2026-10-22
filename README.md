@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (342 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (343 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 342 apps are currently accepting new testers! Click the links to join._
+_✅ These 343 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -113,6 +113,7 @@ _✅ These 342 apps are currently accepting new testers! Click the links to join
 | FRITZ!App Smart Home | [https://testflight.apple.com/join/kzVJhIg1](https://testflight.apple.com/join/kzVJhIg1) | Y | 2025-12-22 |
 | Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | Y | 2026-06-10 |
 | Gaming for Peace-GAP | [https://testflight.apple.com/join/tJu81Sch](https://testflight.apple.com/join/tJu81Sch) | Y | 2025-12-23 |
+| Generator Tracker: Run Hours | [https://testflight.apple.com/join/wZcGdJar](https://testflight.apple.com/join/wZcGdJar) | Y | 2026-10-22 |
 | Gintone | [https://testflight.apple.com/join/QBJGPYae](https://testflight.apple.com/join/QBJGPYae) | Y | 2026-08-24 |
 | GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | Y | 2026-09-17 |
 | Glimshelf | [https://testflight.apple.com/join/eCSAAcQF](https://testflight.apple.com/join/eCSAAcQF) | Y | 2026-09-09 |
@@ -1048,9 +1049,9 @@ _⚠️ These 78 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (32 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (33 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 32 apps are currently accepting new testers! Click the links to join._
+_✅ These 33 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1061,6 +1062,7 @@ _✅ These 32 apps are currently accepting new testers! Click the links to join.
 | Ellie - Daily Planner | [https://testflight.apple.com/join/mX1G5TQi](https://testflight.apple.com/join/mX1G5TQi) | Y | 2026-02-02 |
 | Emma’s Library | [https://testflight.apple.com/join/69PadvA5](https://testflight.apple.com/join/69PadvA5) | Y | 2026-07-23 |
 | FaithVoice | [https://testflight.apple.com/join/ypzb4Npw](https://testflight.apple.com/join/ypzb4Npw) | Y | 2026-08-14 |
+| Generator Tracker: Run Hours | [https://testflight.apple.com/join/wZcGdJar](https://testflight.apple.com/join/wZcGdJar) | Y | 2026-10-22 |
 | Glimshelf | [https://testflight.apple.com/join/eCSAAcQF](https://testflight.apple.com/join/eCSAAcQF) | Y | 2026-09-09 |
 | Helicon: PDF &amp; EPUB Reader | [https://testflight.apple.com/join/mejbZYrA](https://testflight.apple.com/join/mejbZYrA) | Y | 2026-10-19 |
 | Hiddify Proxy &amp; VPN | [https://testflight.apple.com/join/dsNjHxjb](https://testflight.apple.com/join/dsNjHxjb) | Y | 2026-10-09 |

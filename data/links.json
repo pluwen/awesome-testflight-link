@@ -8218,6 +8218,15 @@
         "ios"
       ],
       "last_modify": "2026-10-22"
+    },
+    "wZcGdJar": {
+      "app_name": "Generator Tracker: Run Hours",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-22"
     }
   }
 }
