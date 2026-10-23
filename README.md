@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (331 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (332 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 331 apps are currently accepting new testers! Click the links to join._
+_✅ These 332 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -75,6 +75,7 @@ _✅ These 331 apps are currently accepting new testers! Click the links to join
 | CubeRoots Ivy | [https://testflight.apple.com/join/bKeCDTcj](https://testflight.apple.com/join/bKeCDTcj) | Y | 2026-07-22 |
 | Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2026-09-19 |
 | Debit & Credit | [https://testflight.apple.com/join/FvufwHrV](https://testflight.apple.com/join/FvufwHrV) | Y | 2025-12-22 |
+| Deepheart: Idle Dwarf Mine | [https://testflight.apple.com/join/Q8edByvN](https://testflight.apple.com/join/Q8edByvN) | Y | 2026-10-23 |
 | Deezer | [https://testflight.apple.com/join/e7mCOEeg](https://testflight.apple.com/join/e7mCOEeg) | Y | 2026-02-19 |
 | Desperse | [https://testflight.apple.com/join/27uRZQ45](https://testflight.apple.com/join/27uRZQ45) | Y | 2026-05-08 |
 | Devastro | [https://testflight.apple.com/join/pFpVhzx6](https://testflight.apple.com/join/pFpVhzx6) | Y | 2026-09-28 |
@@ -1049,15 +1050,16 @@ _⚠️ These 90 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (31 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (32 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 31 apps are currently accepting new testers! Click the links to join._
+_✅ These 32 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | Burden: Purchase Check | [https://testflight.apple.com/join/ze5Bhrkc](https://testflight.apple.com/join/ze5Bhrkc) | Y | 2026-09-09 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
 | CubeRoots Ivy | [https://testflight.apple.com/join/bKeCDTcj](https://testflight.apple.com/join/bKeCDTcj) | Y | 2026-07-22 |
+| Deepheart: Idle Dwarf Mine | [https://testflight.apple.com/join/Q8edByvN](https://testflight.apple.com/join/Q8edByvN) | Y | 2026-10-23 |
 | Downcast | [https://testflight.apple.com/join/81Geh1jh](https://testflight.apple.com/join/81Geh1jh) | Y | 2026-05-10 |
 | Ellie - Daily Planner | [https://testflight.apple.com/join/mX1G5TQi](https://testflight.apple.com/join/mX1G5TQi) | Y | 2026-02-02 |
 | Emma’s Library | [https://testflight.apple.com/join/69PadvA5](https://testflight.apple.com/join/69PadvA5) | Y | 2026-07-23 |

@@ -8227,6 +8227,15 @@
         "ipados"
       ],
       "last_modify": "2026-10-22"
+    },
+    "Q8edByvN": {
+      "app_name": "Deepheart: Idle Dwarf Mine",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-23"
     }
   }
 }
