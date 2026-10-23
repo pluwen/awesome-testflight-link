@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (332 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (333 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 332 apps are currently accepting new testers! Click the links to join._
+_✅ These 333 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -321,6 +321,7 @@ _✅ These 332 apps are currently accepting new testers! Click the links to join
 | ZenMark | [https://testflight.apple.com/join/ZCYJDb5z](https://testflight.apple.com/join/ZCYJDb5z) | Y | 2026-10-06 |
 | Zombies Endless | [https://testflight.apple.com/join/6Ya9E8jU](https://testflight.apple.com/join/6Ya9E8jU) | Y | 2025-12-22 |
 | Zoomie | [https://testflight.apple.com/join/hpcJFGFJ](https://testflight.apple.com/join/hpcJFGFJ) | Y | 2026-08-19 |
+| スマートボール ホール | [https://testflight.apple.com/join/skdyH2ST](https://testflight.apple.com/join/skdyH2ST) | Y | 2026-10-23 |
 | 事线 - 串事成线 | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | Y | 2026-08-05 |
 | 云闪付-银行业统一移动支付App | [https://testflight.apple.com/join/KP16A3Nz](https://testflight.apple.com/join/KP16A3Nz) | Y | 2026-06-04 |
 | 优酷视频HD | [https://testflight.apple.com/join/RDuRYxRE](https://testflight.apple.com/join/RDuRYxRE) | Y | 2026-05-10 |

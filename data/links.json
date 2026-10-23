@@ -8236,6 +8236,14 @@
         "ipados"
       ],
       "last_modify": "2026-10-23"
+    },
+    "skdyH2ST": {
+      "app_name": "スマートボール ホール",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-23"
     }
   }
 }
