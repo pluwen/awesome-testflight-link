@@ -1493,11 +1493,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-18"
+      "last_modify": "2026-10-23"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
@@ -2109,11 +2109,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-26"
+      "last_modify": "2026-10-23"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -3326,11 +3326,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-20"
+      "last_modify": "2026-10-23"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3446,12 +3446,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-09-17"
+      "last_modify": "2026-10-23"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-10-23"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-14"
+      "last_modify": "2026-10-23"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-18"
+      "last_modify": "2026-10-23"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-10-23"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-08"
+      "last_modify": "2026-10-23"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-10-23"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5961,11 +5961,11 @@
     },
     "mOxZm1dD": {
       "app_name": "我的世界-网易",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-20"
+      "last_modify": "2026-10-23"
     },
     "UIW76yDz": {
       "app_name": "枕边语pillowtalk-服务器监控工具",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-14"
+      "last_modify": "2026-10-23"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6275,11 +6275,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-10-23"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
