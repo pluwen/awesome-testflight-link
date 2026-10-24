@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-09-28"
+      "last_modify": "2026-10-24"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-15"
+      "last_modify": "2026-10-24"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1493,11 +1493,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-24"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
@@ -2109,11 +2109,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-24"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2885,12 +2885,12 @@
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-05-08"
+      "last_modify": "2026-10-24"
     },
     "B4BYAvTy": {
       "app_name": "Quiz Viajero",
@@ -3446,12 +3446,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-24"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-24"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-24"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4647,11 +4647,11 @@
     },
     "vYqAc3Lf": {
       "app_name": "Plant Identifier & Care",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-10-24"
     },
     "2RQUId5L": {
       "app_name": "Companies – Search and Create",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-24"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-24"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-24"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-10-24"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-24"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-24"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -7231,12 +7231,12 @@
     },
     "EGSsGRn7": {
       "app_name": "CoMaps",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-21"
+      "last_modify": "2026-10-24"
     },
     "MJYg86PA": {
       "app_name": "WhoWhom",
