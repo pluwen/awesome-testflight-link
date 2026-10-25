@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-10-25"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1781,11 +1781,11 @@
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-10-25"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
@@ -2093,11 +2093,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-02"
+      "last_modify": "2026-10-25"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2125,11 +2125,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-04"
+      "last_modify": "2026-10-25"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -2885,12 +2885,12 @@
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-10-25"
     },
     "B4BYAvTy": {
       "app_name": "Quiz Viajero",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-10-25"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-10-25"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7017,11 +7017,11 @@
     },
     "rqvYCYOp": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-02"
+      "last_modify": "2026-10-25"
     },
     "xFzk8KQd": {
       "app_name": "网易爆米花-智能媒体库，全能云盘&amp;网盘播放器",
@@ -7231,12 +7231,12 @@
     },
     "EGSsGRn7": {
       "app_name": "CoMaps",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-10-25"
     },
     "MJYg86PA": {
       "app_name": "WhoWhom",
@@ -7820,12 +7820,12 @@
     },
     "Dtc4ZCFu": {
       "app_name": "Accretion: The Vein",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-06"
+      "last_modify": "2026-10-25"
     },
     "YD6CKdCj": {
       "app_name": "Ralphy",
