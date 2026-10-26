@@ -8261,6 +8261,15 @@
         "ios"
       ],
       "last_modify": "2026-10-26"
+    },
+    "kuynaC2U": {
+      "app_name": "What’s New",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-26"
     }
   }
 }
