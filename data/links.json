@@ -8253,6 +8253,14 @@
         "ipados"
       ],
       "last_modify": "2026-10-26"
+    },
+    "T57aC1KJ": {
+      "app_name": "Tortoise Forecast: Run Weather",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-26"
     }
   }
 }
