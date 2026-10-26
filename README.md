@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (339 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (340 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 339 apps are currently accepting new testers! Click the links to join._
+_✅ These 340 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -298,6 +298,7 @@ _✅ These 339 apps are currently accepting new testers! Click the links to join
 | Trello: Daily Task Tracker | [https://testflight.apple.com/join/cRWMcQsr](https://testflight.apple.com/join/cRWMcQsr) | Y | 2026-08-15 |
 | TubeCast | [https://testflight.apple.com/join/Pze9SjbP](https://testflight.apple.com/join/Pze9SjbP) | Y | 2026-06-29 |
 | Tunna - Xray/V2ray Proxy Utility | [https://testflight.apple.com/join/dqMoJObA](https://testflight.apple.com/join/dqMoJObA) | Y | 2026-06-02 |
+| Twinkle&#39;s Little Worlds | [https://testflight.apple.com/join/zNtCKHUs](https://testflight.apple.com/join/zNtCKHUs) | Y | 2026-10-26 |
 | Twitch Beta | [https://testflight.apple.com/join/8vRKFAiY](https://testflight.apple.com/join/8vRKFAiY) | Y | 2026-07-10 |
 | Typeback: AI Reply Keyboard | [https://testflight.apple.com/join/PdAqK4ss](https://testflight.apple.com/join/PdAqK4ss) | Y | 2026-10-26 |
 | UboPod | [https://testflight.apple.com/join/DDPbpKf3](https://testflight.apple.com/join/DDPbpKf3) | Y | 2026-08-24 |
