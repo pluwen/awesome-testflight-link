@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-10-26"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-25"
+      "last_modify": "2026-10-26"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1493,11 +1493,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-10-26"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
@@ -1781,11 +1781,11 @@
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-25"
+      "last_modify": "2026-10-26"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
@@ -2125,11 +2125,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-25"
+      "last_modify": "2026-10-26"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -2157,11 +2157,11 @@
     },
     "lsd9mugy": {
       "app_name": "Mixing Station",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-10-26"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -2181,11 +2181,11 @@
     },
     "n5A7ceuK": {
       "app_name": "Möbius Sync - Syncthing iOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-17"
+      "last_modify": "2026-10-26"
     },
     "AJlrDMao": {
       "app_name": "Mojo - Create Video Stories",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-18"
+      "last_modify": "2026-10-26"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -7231,12 +7231,12 @@
     },
     "EGSsGRn7": {
       "app_name": "CoMaps",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-25"
+      "last_modify": "2026-10-26"
     },
     "MJYg86PA": {
       "app_name": "WhoWhom",
@@ -7820,12 +7820,12 @@
     },
     "Dtc4ZCFu": {
       "app_name": "Accretion: The Vein",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-25"
+      "last_modify": "2026-10-26"
     },
     "YD6CKdCj": {
       "app_name": "Ralphy",
@@ -7919,11 +7919,11 @@
     },
     "5yWqNvbx": {
       "app_name": "HLSDownloader",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-10"
+      "last_modify": "2026-10-26"
     },
     "mcMmeWBb": {
       "app_name": "Loopily: ADHD Routine Timer",
