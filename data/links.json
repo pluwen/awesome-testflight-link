@@ -8244,6 +8244,15 @@
         "ios"
       ],
       "last_modify": "2026-10-23"
+    },
+    "cUyuGdb9": {
+      "app_name": "Bravo Ledger",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-26"
     }
   }
 }

@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (333 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (334 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 333 apps are currently accepting new testers! Click the links to join._
+_✅ These 334 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -53,6 +53,7 @@ _✅ These 333 apps are currently accepting new testers! Click the links to join
 | BidBloom | [https://testflight.apple.com/join/wkgFgnUu](https://testflight.apple.com/join/wkgFgnUu) | Y | 2026-08-24 |
 | Bloomwash - Watercolor Studio | [https://testflight.apple.com/join/kGZEmvMZ](https://testflight.apple.com/join/kGZEmvMZ) | Y | 2026-08-24 |
 | Booklook | [https://testflight.apple.com/join/PY8GMkKa](https://testflight.apple.com/join/PY8GMkKa) | Y | 2026-09-17 |
+| Bravo Ledger | [https://testflight.apple.com/join/cUyuGdb9](https://testflight.apple.com/join/cUyuGdb9) | Y | 2026-10-26 |
 | BreakMate | [https://testflight.apple.com/join/qbQBdvFW](https://testflight.apple.com/join/qbQBdvFW) | Y | 2026-08-24 |
 | Buffer: Social Media Manager | [https://testflight.apple.com/join/DOpMcusn](https://testflight.apple.com/join/DOpMcusn) | Y | 2025-12-22 |
 | Bulletide: Pantry overrun | [https://testflight.apple.com/join/EFmzFhWQ](https://testflight.apple.com/join/EFmzFhWQ) | Y | 2026-09-07 |
@@ -1051,13 +1052,14 @@ _⚠️ These 91 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (33 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (34 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 33 apps are currently accepting new testers! Click the links to join._
+_✅ These 34 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | Accretion: The Vein | [https://testflight.apple.com/join/Dtc4ZCFu](https://testflight.apple.com/join/Dtc4ZCFu) | Y | 2026-10-25 |
+| Bravo Ledger | [https://testflight.apple.com/join/cUyuGdb9](https://testflight.apple.com/join/cUyuGdb9) | Y | 2026-10-26 |
 | Burden: Purchase Check | [https://testflight.apple.com/join/ze5Bhrkc](https://testflight.apple.com/join/ze5Bhrkc) | Y | 2026-09-09 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
 | CubeRoots Ivy | [https://testflight.apple.com/join/bKeCDTcj](https://testflight.apple.com/join/bKeCDTcj) | Y | 2026-07-22 |
