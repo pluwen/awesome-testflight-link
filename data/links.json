@@ -8270,6 +8270,14 @@
         "ipados"
       ],
       "last_modify": "2026-10-26"
+    },
+    "yvqYQcWq": {
+      "app_name": "Plate: Food Diary",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-26"
     }
   }
 }
