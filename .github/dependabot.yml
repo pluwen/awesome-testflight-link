@@ -1,0 +1,11 @@
+version: 2
+updates:
+  # 自动跟进 GitHub Actions 版本更新（含安全修复）
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "ci"
+    labels:
+      - "dependencies"
