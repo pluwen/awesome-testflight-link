@@ -18,12 +18,15 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Install dependencies
-        run: python3 -m pip install httpx
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install "httpx==0.28.1"
       - name: Add TestFlight Link
+        env:
+          TF_LINK: ${{ github.event.inputs.testflight_link }}
+          INPUT_PLATFORMS: ${{ github.event.inputs.platforms }}
         run: |
           set -euo pipefail
-          TF_LINK="${{ github.event.inputs.testflight_link }}"
-          INPUT_PLATFORMS="${{ github.event.inputs.platforms }}"
 
           if [ "${INPUT_PLATFORMS}" = "auto" ]; then
             echo "[error] 'auto' platform detection is disabled. Please provide platforms in the 'platforms' input (e.g. ios,ipados)."

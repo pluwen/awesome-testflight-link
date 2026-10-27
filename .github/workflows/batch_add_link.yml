@@ -20,7 +20,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Install dependencies
-        run: python3 -m pip install httpx
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install "httpx==0.28.1"
 
       - name: Batch Add TestFlight Links
         env:
