@@ -14,7 +14,7 @@ jobs:
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
-          python3 -m pip install "httpx==0.28.1"
+          python3 -m pip install -r requirements.txt
       - name: Update TestFlight Link Status
         run: python3 scripts/update_status.py
 

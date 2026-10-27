@@ -1,0 +1,5 @@
+# Dependabot 扫描此清单并自动跟进安全更新
+httpx==0.28.1
+
+# CVE 修复底线：emSign 泄露 CA（Dependabot #18），2026.10.19+ 已移除受影响根证书
+certifi>=2026.10.19

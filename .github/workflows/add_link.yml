@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
-          python3 -m pip install "httpx==0.28.1"
+          python3 -m pip install -r requirements.txt
       - name: Add TestFlight Link
         env:
           TF_LINK: ${{ github.event.inputs.testflight_link }}
