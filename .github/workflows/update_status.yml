@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository == 'pluwen/awesome-testflight-link'
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository != 'pluwen/awesome-testflight-link'
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
