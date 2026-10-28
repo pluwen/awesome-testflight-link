@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (340 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (341 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 340 apps are currently accepting new testers! Click the links to join._
+_✅ These 341 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -203,6 +203,7 @@ _✅ These 340 apps are currently accepting new testers! Click the links to join
 | NS Travel Planner | [https://testflight.apple.com/join/ldBwapIg](https://testflight.apple.com/join/ldBwapIg) | Y | 2025-12-22 |
 | ntv Nachrichten | [https://testflight.apple.com/join/n65TDvGb](https://testflight.apple.com/join/n65TDvGb) | Y | 2025-12-22 |
 | Nubank | [https://testflight.apple.com/join/v3SGNpM5](https://testflight.apple.com/join/v3SGNpM5) | Y | 2025-12-22 |
+| NutriKit | [https://testflight.apple.com/join/wDvG9Myt](https://testflight.apple.com/join/wDvG9Myt) | Y | 2026-10-28 |
 | Olomir | [https://testflight.apple.com/join/Y12pVy6t](https://testflight.apple.com/join/Y12pVy6t) | Y | 2026-09-25 |
 | OpenCode | [https://testflight.apple.com/join/EnFsKYQ1](https://testflight.apple.com/join/EnFsKYQ1) | Y | 2026-10-13 |
 | OpenDisplay | [https://testflight.apple.com/join/3NYaY11c](https://testflight.apple.com/join/3NYaY11c) | Y | 2026-07-08 |
@@ -1057,9 +1058,9 @@ _⚠️ These 90 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (35 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (36 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 35 apps are currently accepting new testers! Click the links to join._
+_✅ These 36 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1086,6 +1087,7 @@ _✅ These 35 apps are currently accepting new testers! Click the links to join.
 | Moon FM - The Podcasts App | [https://testflight.apple.com/join/c6NtF2xP](https://testflight.apple.com/join/c6NtF2xP) | Y | 2026-09-27 |
 | My Vinyl+ Scanner for Discogs | [https://testflight.apple.com/join/BkXvMy3S](https://testflight.apple.com/join/BkXvMy3S) | Y | 2026-06-09 |
 | NetCheck Relay | [https://testflight.apple.com/join/vfgnaKC1](https://testflight.apple.com/join/vfgnaKC1) | Y | 2026-10-14 |
+| NutriKit | [https://testflight.apple.com/join/wDvG9Myt](https://testflight.apple.com/join/wDvG9Myt) | Y | 2026-10-28 |
 | OpenDisplay | [https://testflight.apple.com/join/3NYaY11c](https://testflight.apple.com/join/3NYaY11c) | Y | 2026-07-08 |
 | Oxbit | [https://testflight.apple.com/join/P2WqdUYS](https://testflight.apple.com/join/P2WqdUYS) | Y | 2026-10-06 |
 | PCalc | [https://testflight.apple.com/join/qCCdSLT1](https://testflight.apple.com/join/qCCdSLT1) | Y | 2026-10-27 |

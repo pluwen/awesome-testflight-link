@@ -8294,6 +8294,15 @@
         "ios"
       ],
       "last_modify": "2026-10-26"
+    },
+    "wDvG9Myt": {
+      "app_name": "NutriKit",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-28"
     }
   }
 }
