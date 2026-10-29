@@ -541,11 +541,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-28"
+      "last_modify": "2026-10-29"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -1125,11 +1125,11 @@
     },
     "xsSlT2sX": {
       "app_name": "FE File Explorer Pro",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-28"
+      "last_modify": "2026-10-29"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-28"
+      "last_modify": "2026-10-29"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2093,11 +2093,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-25"
+      "last_modify": "2026-10-29"
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
@@ -2109,11 +2109,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-10-29"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -3446,12 +3446,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-10-29"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -4503,11 +4503,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-28"
+      "last_modify": "2026-10-29"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-28"
+      "last_modify": "2026-10-29"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-28"
+      "last_modify": "2026-10-29"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-27"
+      "last_modify": "2026-10-29"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6945,11 +6945,11 @@
     },
     "XkGKTA71": {
       "app_name": "小红书 – 世界杯直播",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-27"
+      "last_modify": "2026-10-29"
     },
     "wAYQpuS6": {
       "app_name": "唱吧",
@@ -7017,11 +7017,11 @@
     },
     "rqvYCYOp": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-25"
+      "last_modify": "2026-10-29"
     },
     "xFzk8KQd": {
       "app_name": "网易爆米花-智能媒体库，全能云盘&amp;网盘播放器",
@@ -7198,11 +7198,11 @@
     },
     "anD9vU5M": {
       "app_name": "ShadowVPN - Fast Proxy",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-19"
+      "last_modify": "2026-10-29"
     },
     "93p77fVF": {
       "app_name": "Chronicle",
