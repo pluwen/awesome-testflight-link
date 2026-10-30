@@ -8303,6 +8303,15 @@
         "ios"
       ],
       "last_modify": "2026-10-30"
+    },
+    "urXcQG8n": {
+      "app_name": "Sudoku Mori: Daily Puzzles",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-30"
     }
   }
 }
