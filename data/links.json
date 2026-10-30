@@ -8286,6 +8286,14 @@
         "ipados"
       ],
       "last_modify": "2026-10-28"
+    },
+    "8xEYrMuC": {
+      "app_name": "Amelo — планер для блогеров",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-30"
     }
   }
 }
