@@ -8303,6 +8303,14 @@
         "ipados"
       ],
       "last_modify": "2026-10-30"
+    },
+    "Aqay7XH2": {
+      "app_name": "Vardum Private Messaging",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-10-30"
     }
   }
 }
