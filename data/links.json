@@ -8294,6 +8294,15 @@
         "ios"
       ],
       "last_modify": "2026-10-30"
+    },
+    "EddzMBp6": {
+      "app_name": "The Thorn Crown: Tower Defense",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-10-30"
     }
   }
 }

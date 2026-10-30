@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (346 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (347 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 346 apps are currently accepting new testers! Click the links to join._
+_✅ These 347 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -288,6 +288,7 @@ _✅ These 346 apps are currently accepting new testers! Click the links to join
 | Termius – SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | Y | 2026-09-16 |
 | Tessa - Jigsaw Photo Puzzles | [https://testflight.apple.com/join/KKadvzpd](https://testflight.apple.com/join/KKadvzpd) | Y | 2026-06-27 |
 | The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | Y | 2025-12-22 |
+| The Thorn Crown: Tower Defense | [https://testflight.apple.com/join/EddzMBp6](https://testflight.apple.com/join/EddzMBp6) | Y | 2026-10-30 |
 | Theta Wellness | [https://testflight.apple.com/join/47XmGuKU](https://testflight.apple.com/join/47XmGuKU) | Y | 2026-10-22 |
 | TikTok -Global Video Community | [https://testflight.apple.com/join/MnsYnB0s](https://testflight.apple.com/join/MnsYnB0s) | Y | 2026-10-30 |
 | TikTok -Global Video Community | [https://testflight.apple.com/join/K28iQVlZ](https://testflight.apple.com/join/K28iQVlZ) | Y | 2026-09-11 |
@@ -1058,9 +1059,9 @@ _⚠️ These 83 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (34 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (35 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 34 apps are currently accepting new testers! Click the links to join._
+_✅ These 35 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1093,6 +1094,7 @@ _✅ These 34 apps are currently accepting new testers! Click the links to join.
 | Starlight VPN | [https://testflight.apple.com/join/VfQwnC67](https://testflight.apple.com/join/VfQwnC67) | Y | 2026-08-03 |
 | Terminus: Flashcard Maker | [https://testflight.apple.com/join/2EXRDF27](https://testflight.apple.com/join/2EXRDF27) | Y | 2026-10-19 |
 | Tessa - Jigsaw Photo Puzzles | [https://testflight.apple.com/join/KKadvzpd](https://testflight.apple.com/join/KKadvzpd) | Y | 2026-06-27 |
+| The Thorn Crown: Tower Defense | [https://testflight.apple.com/join/EddzMBp6](https://testflight.apple.com/join/EddzMBp6) | Y | 2026-10-30 |
 | VeSync | [https://testflight.apple.com/join/fJBKUFNX](https://testflight.apple.com/join/fJBKUFNX) | Y | 2026-02-02 |
 | VLC media player | [https://testflight.apple.com/join/q6gm0qgr](https://testflight.apple.com/join/q6gm0qgr) | Y | 2026-03-17 |
 | What’s New | [https://testflight.apple.com/join/kuynaC2U](https://testflight.apple.com/join/kuynaC2U) | Y | 2026-10-26 |
