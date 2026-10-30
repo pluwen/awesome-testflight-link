@@ -3326,7 +3326,7 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -4007,7 +4007,7 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -4759,11 +4759,11 @@
     },
     "fzDLkIVK": {
       "app_name": "1Password - Password Manager beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-05"
+      "last_modify": "2026-10-30"
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
@@ -6275,11 +6275,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-30"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6453,7 +6453,7 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7231,12 +7231,12 @@
     },
     "EGSsGRn7": {
       "app_name": "CoMaps",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-27"
+      "last_modify": "2026-10-30"
     },
     "MJYg86PA": {
       "app_name": "WhoWhom",
