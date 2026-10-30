@@ -8142,15 +8142,6 @@
       ],
       "last_modify": "2026-10-30"
     },
-    "vfgnaKC1": {
-      "app_name": "NetCheck Relay",
-      "status": "D",
-      "tables": [
-        "ios",
-        "ipados"
-      ],
-      "last_modify": "2026-10-30"
-    },
     "bKFMMNju": {
       "app_name": "Sunwake: Sunrise Alarm Clock",
       "status": "Y",
