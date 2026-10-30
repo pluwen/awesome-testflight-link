@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-27"
+      "last_modify": "2026-10-30"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -2109,11 +2109,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-29"
+      "last_modify": "2026-10-30"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -3326,11 +3326,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23"
+      "last_modify": "2026-10-30"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3446,12 +3446,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-10-29"
+      "last_modify": "2026-10-30"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -4007,11 +4007,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-10-30"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-29"
+      "last_modify": "2026-10-30"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-10-30"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-10-30"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6945,11 +6945,11 @@
     },
     "XkGKTA71": {
       "app_name": "小红书 – 世界杯直播",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-29"
+      "last_modify": "2026-10-30"
     },
     "wAYQpuS6": {
       "app_name": "唱吧",
@@ -7561,11 +7561,11 @@
     },
     "S2gEF65P": {
       "app_name": "Inventury",
-      "status": "F",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-18"
+      "last_modify": "2026-10-30"
     },
     "RXCX9hyK": {
       "app_name": "Grok Usage",
@@ -8136,20 +8136,20 @@
     },
     "TAkQKJGs": {
       "app_name": "NetCheck - Menu Bar Monitor",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-10-14"
+      "last_modify": "2026-10-30"
     },
     "vfgnaKC1": {
       "app_name": "NetCheck Relay",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-14"
+      "last_modify": "2026-10-30"
     },
     "bKFMMNju": {
       "app_name": "Sunwake: Sunrise Alarm Clock",
