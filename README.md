@@ -1207,12 +1207,11 @@ _⚠️ These 5 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details >
-<summary><strong>Removed (4 apps)</strong> - Apps that have been removed from TestFlight</summary>
+<summary><strong>Removed (3 apps)</strong> - Apps that have been removed from TestFlight</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | Clash Rule based proxy utility | [https://testflight.apple.com/join/QJWrVrxT](https://testflight.apple.com/join/QJWrVrxT) | D | 2026-08-28 |
-| NetCheck - Menu Bar Monitor | [https://testflight.apple.com/join/TAkQKJGs](https://testflight.apple.com/join/TAkQKJGs) | D | 2026-10-30 |
 | Odak - Menu Bar Timer | [https://testflight.apple.com/join/JTWaYdDX](https://testflight.apple.com/join/JTWaYdDX) | D | 2026-10-02 |
 | WhatsApp Messenger | [https://testflight.apple.com/join/krUFQpyJ](https://testflight.apple.com/join/krUFQpyJ) | D | 2026-10-08 |
 
