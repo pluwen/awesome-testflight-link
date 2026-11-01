@@ -8320,6 +8320,15 @@
         "ios"
       ],
       "last_modify": "2026-11-01"
+    },
+    "6dAXtmt3": {
+      "app_name": "DocMate Suite",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-11-01"
     }
   }
 }

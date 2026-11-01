@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (339 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (340 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 339 apps are currently accepting new testers! Click the links to join._
+_✅ These 340 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -82,6 +82,7 @@ _✅ These 339 apps are currently accepting new testers! Click the links to join
 | Deezer | [https://testflight.apple.com/join/e7mCOEeg](https://testflight.apple.com/join/e7mCOEeg) | Y | 2026-02-19 |
 | Desperse | [https://testflight.apple.com/join/27uRZQ45](https://testflight.apple.com/join/27uRZQ45) | Y | 2026-05-08 |
 | Devastro | [https://testflight.apple.com/join/pFpVhzx6](https://testflight.apple.com/join/pFpVhzx6) | Y | 2026-09-28 |
+| DocMate Suite | [https://testflight.apple.com/join/6dAXtmt3](https://testflight.apple.com/join/6dAXtmt3) | Y | 2026-11-01 |
 | Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) | Y | 2025-12-22 |
 | Downcast | [https://testflight.apple.com/join/81Geh1jh](https://testflight.apple.com/join/81Geh1jh) | Y | 2026-05-10 |
 | drift - Offline Music Player | [https://testflight.apple.com/join/7YVCwq1M](https://testflight.apple.com/join/7YVCwq1M) | Y | 2026-08-25 |
@@ -1061,9 +1062,9 @@ _⚠️ These 93 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (38 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (39 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 38 apps are currently accepting new testers! Click the links to join._
+_✅ These 39 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1073,6 +1074,7 @@ _✅ These 38 apps are currently accepting new testers! Click the links to join.
 | CoMaps | [https://testflight.apple.com/join/EGSsGRn7](https://testflight.apple.com/join/EGSsGRn7) | Y | 2026-10-30 |
 | CubeRoots Ivy | [https://testflight.apple.com/join/bKeCDTcj](https://testflight.apple.com/join/bKeCDTcj) | Y | 2026-07-22 |
 | Deepheart: Idle Dwarf Mine | [https://testflight.apple.com/join/Q8edByvN](https://testflight.apple.com/join/Q8edByvN) | Y | 2026-10-23 |
+| DocMate Suite | [https://testflight.apple.com/join/6dAXtmt3](https://testflight.apple.com/join/6dAXtmt3) | Y | 2026-11-01 |
 | Downcast | [https://testflight.apple.com/join/81Geh1jh](https://testflight.apple.com/join/81Geh1jh) | Y | 2026-05-10 |
 | Ellie - Daily Planner | [https://testflight.apple.com/join/mX1G5TQi](https://testflight.apple.com/join/mX1G5TQi) | Y | 2026-02-02 |
 | Emma’s Library | [https://testflight.apple.com/join/69PadvA5](https://testflight.apple.com/join/69PadvA5) | Y | 2026-07-23 |
