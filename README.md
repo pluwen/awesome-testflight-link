@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (338 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (339 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 338 apps are currently accepting new testers! Click the links to join._
+_✅ These 339 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -368,6 +368,7 @@ _✅ These 338 apps are currently accepting new testers! Click the links to join
 | 酷狗音乐 | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | Y | 2026-08-21 |
 | 钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理 | [https://testflight.apple.com/join/gFZnVU2t](https://testflight.apple.com/join/gFZnVU2t) | Y | 2026-02-02 |
 | 闲鱼 | [https://testflight.apple.com/join/JfpY3pHe](https://testflight.apple.com/join/JfpY3pHe) | Y | 2025-12-22 |
+| 陀螺對戰 | [https://testflight.apple.com/join/CEW4P5cG](https://testflight.apple.com/join/CEW4P5cG) | Y | 2026-11-01 |
 | 香肠派对(先行服) | [https://testflight.apple.com/join/rEzEtRf2](https://testflight.apple.com/join/rEzEtRf2) | Y | 2026-09-07 |
 
 </details>

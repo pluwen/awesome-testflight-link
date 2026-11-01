@@ -8312,6 +8312,14 @@
         "ipados"
       ],
       "last_modify": "2026-10-30"
+    },
+    "CEW4P5cG": {
+      "app_name": "陀螺對戰",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-11-01"
     }
   }
 }
