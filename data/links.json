@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-31"
+      "last_modify": "2026-11-03"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2109,11 +2109,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-27"
+      "last_modify": "2026-11-03"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -4007,11 +4007,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4855,11 +4855,11 @@
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-01"
+      "last_modify": "2026-11-03"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -4991,11 +4991,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5521,11 +5521,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -6275,11 +6275,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-10-31"
+      "last_modify": "2026-11-03"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -6388,11 +6388,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -7351,12 +7351,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-03"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
@@ -7820,12 +7820,12 @@
     },
     "Dtc4ZCFu": {
       "app_name": "Accretion: The Vein",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-26"
+      "last_modify": "2026-11-03"
     },
     "YD6CKdCj": {
       "app_name": "Ralphy",
