@@ -8353,6 +8353,16 @@
         "ios"
       ],
       "last_modify": "2026-11-04"
+    },
+    "3zVoYTjL": {
+      "app_name": "Cuterdio - Internet Radio",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos"
+      ],
+      "last_modify": "2026-11-04"
     }
   }
 }

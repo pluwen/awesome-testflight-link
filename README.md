@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (351 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (352 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 351 apps are currently accepting new testers! Click the links to join._
+_✅ These 352 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -79,6 +79,7 @@ _✅ These 351 apps are currently accepting new testers! Click the links to join
 | Core Breach | [https://testflight.apple.com/join/VpxaqBp7](https://testflight.apple.com/join/VpxaqBp7) | Y | 2026-06-17 |
 | CROON | [https://testflight.apple.com/join/aSw3dJwx](https://testflight.apple.com/join/aSw3dJwx) | Y | 2026-09-25 |
 | CubeRoots Ivy | [https://testflight.apple.com/join/bKeCDTcj](https://testflight.apple.com/join/bKeCDTcj) | Y | 2026-07-22 |
+| Cuterdio - Internet Radio | [https://testflight.apple.com/join/3zVoYTjL](https://testflight.apple.com/join/3zVoYTjL) | Y | 2026-11-04 |
 | Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2026-09-19 |
 | Debit & Credit | [https://testflight.apple.com/join/FvufwHrV](https://testflight.apple.com/join/FvufwHrV) | Y | 2025-12-22 |
 | Deepheart: Idle Dwarf Mine | [https://testflight.apple.com/join/Q8edByvN](https://testflight.apple.com/join/Q8edByvN) | Y | 2026-10-23 |
@@ -1065,9 +1066,9 @@ _⚠️ These 84 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (40 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (41 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 40 apps are currently accepting new testers! Click the links to join._
+_✅ These 41 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1077,6 +1078,7 @@ _✅ These 40 apps are currently accepting new testers! Click the links to join.
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
 | CoMaps | [https://testflight.apple.com/join/EGSsGRn7](https://testflight.apple.com/join/EGSsGRn7) | Y | 2026-10-30 |
 | CubeRoots Ivy | [https://testflight.apple.com/join/bKeCDTcj](https://testflight.apple.com/join/bKeCDTcj) | Y | 2026-07-22 |
+| Cuterdio - Internet Radio | [https://testflight.apple.com/join/3zVoYTjL](https://testflight.apple.com/join/3zVoYTjL) | Y | 2026-11-04 |
 | Deepheart: Idle Dwarf Mine | [https://testflight.apple.com/join/Q8edByvN](https://testflight.apple.com/join/Q8edByvN) | Y | 2026-10-23 |
 | DocMate Suite | [https://testflight.apple.com/join/6dAXtmt3](https://testflight.apple.com/join/6dAXtmt3) | Y | 2026-11-01 |
 | Downcast | [https://testflight.apple.com/join/81Geh1jh](https://testflight.apple.com/join/81Geh1jh) | Y | 2026-05-10 |
@@ -1152,9 +1154,9 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (22 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (23 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 22 apps are currently accepting new testers! Click the links to join._
+_✅ These 23 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1164,6 +1166,7 @@ _✅ These 22 apps are currently accepting new testers! Click the links to join.
 | Batch Clipboard | [https://testflight.apple.com/join/epg3cusH](https://testflight.apple.com/join/epg3cusH) | Y | 2026-07-05 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
 | CaptainLocalAI | [https://testflight.apple.com/join/FVkFHKT6](https://testflight.apple.com/join/FVkFHKT6) | Y | 2026-06-18 |
+| Cuterdio - Internet Radio | [https://testflight.apple.com/join/3zVoYTjL](https://testflight.apple.com/join/3zVoYTjL) | Y | 2026-11-04 |
 | Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2026-09-19 |
 | Distill Player | [https://testflight.apple.com/join/TkBNQZP2](https://testflight.apple.com/join/TkBNQZP2) | Y | 2026-02-02 |
 | Dropover - Easier Drag &amp; Drop | [https://testflight.apple.com/join/vI2iTOSj](https://testflight.apple.com/join/vI2iTOSj) | Y | 2026-06-04 |
