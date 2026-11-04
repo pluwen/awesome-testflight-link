@@ -8345,6 +8345,14 @@
         "ios"
       ],
       "last_modify": "2026-11-04"
+    },
+    "1xQHgJcA": {
+      "app_name": "ESP32 Agent",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-11-04"
     }
   }
 }

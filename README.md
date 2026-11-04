@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (350 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (351 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 350 apps are currently accepting new testers! Click the links to join._
+_✅ These 351 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -99,6 +99,7 @@ _✅ These 350 apps are currently accepting new testers! Click the links to join
 | Elevate - Brain Training Games | [https://testflight.apple.com/join/IGNkcVTL](https://testflight.apple.com/join/IGNkcVTL) | Y | 2026-06-04 |
 | Ellie - Daily Planner | [https://testflight.apple.com/join/mX1G5TQi](https://testflight.apple.com/join/mX1G5TQi) | Y | 2026-02-02 |
 | Emma’s Library | [https://testflight.apple.com/join/69PadvA5](https://testflight.apple.com/join/69PadvA5) | Y | 2026-07-23 |
+| ESP32 Agent | [https://testflight.apple.com/join/1xQHgJcA](https://testflight.apple.com/join/1xQHgJcA) | Y | 2026-11-04 |
 | Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | Y | 2025-12-22 |
 | EVibes | [https://testflight.apple.com/join/H64JQUBc](https://testflight.apple.com/join/H64JQUBc) | Y | 2026-08-24 |
 | F1ATV | [https://testflight.apple.com/join/NRswe1IZ](https://testflight.apple.com/join/NRswe1IZ) | Y | 2026-06-13 |
