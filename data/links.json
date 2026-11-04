@@ -1085,11 +1085,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-20"
+      "last_modify": "2026-11-04"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-04"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-04"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3446,12 +3446,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-04"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -4847,19 +4847,19 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-04"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-04"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-04"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-28"
+      "last_modify": "2026-11-04"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-30"
+      "last_modify": "2026-11-04"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6841,11 +6841,11 @@
     },
     "VNDGcHBB": {
       "app_name": "淘宝闪购-点外卖更优惠",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-11-04"
     },
     "7tPfWALw": {
       "app_name": "腾讯自选股-在线炒股票证券交易",
@@ -7351,12 +7351,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-04"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
@@ -7793,11 +7793,11 @@
     },
     "9GTuC9Ri": {
       "app_name": "微博",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-31"
+      "last_modify": "2026-11-04"
     },
     "47XmGuKU": {
       "app_name": "Theta Wellness",
@@ -7820,12 +7820,12 @@
     },
     "Dtc4ZCFu": {
       "app_name": "Accretion: The Vein",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-04"
     },
     "YD6CKdCj": {
       "app_name": "Ralphy",
