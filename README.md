@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (355 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (357 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 355 apps are currently accepting new testers! Click the links to join._
+_✅ These 357 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -53,6 +53,7 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 | BidBloom | [https://testflight.apple.com/join/wkgFgnUu](https://testflight.apple.com/join/wkgFgnUu) | Y | 2026-08-24 |
 | Bloomwash - Watercolor Studio | [https://testflight.apple.com/join/kGZEmvMZ](https://testflight.apple.com/join/kGZEmvMZ) | Y | 2026-08-24 |
 | Booklook | [https://testflight.apple.com/join/PY8GMkKa](https://testflight.apple.com/join/PY8GMkKa) | Y | 2026-09-17 |
+| Brave | [https://testflight.apple.com/join/Trcbh1o3](https://testflight.apple.com/join/Trcbh1o3) | Y | 2026-11-05 |
 | Bravo Ledger | [https://testflight.apple.com/join/cUyuGdb9](https://testflight.apple.com/join/cUyuGdb9) | Y | 2026-10-26 |
 | BreakMate | [https://testflight.apple.com/join/qbQBdvFW](https://testflight.apple.com/join/qbQBdvFW) | Y | 2026-08-24 |
 | Buffer: Social Media Manager | [https://testflight.apple.com/join/DOpMcusn](https://testflight.apple.com/join/DOpMcusn) | Y | 2025-12-22 |
@@ -77,6 +78,7 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 | Comet Lanes: Beat Runner | [https://testflight.apple.com/join/jTgRr8DT](https://testflight.apple.com/join/jTgRr8DT) | Y | 2026-10-16 |
 | Core Breach | [https://testflight.apple.com/join/VpxaqBp7](https://testflight.apple.com/join/VpxaqBp7) | Y | 2026-06-17 |
 | CROON | [https://testflight.apple.com/join/aSw3dJwx](https://testflight.apple.com/join/aSw3dJwx) | Y | 2026-09-25 |
+| Cs Music Player | [https://testflight.apple.com/join/dU2r1pkq](https://testflight.apple.com/join/dU2r1pkq) | Y | 2026-11-05 |
 | CubeRoots Ivy | [https://testflight.apple.com/join/bKeCDTcj](https://testflight.apple.com/join/bKeCDTcj) | Y | 2026-07-22 |
 | Cuterdio - Internet Radio | [https://testflight.apple.com/join/3zVoYTjL](https://testflight.apple.com/join/3zVoYTjL) | Y | 2026-11-04 |
 | Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2026-09-19 |
@@ -103,7 +105,6 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 | Everlog | [https://testflight.apple.com/join/sOCDYE65](https://testflight.apple.com/join/sOCDYE65) | Y | 2025-12-22 |
 | EVibes | [https://testflight.apple.com/join/H64JQUBc](https://testflight.apple.com/join/H64JQUBc) | Y | 2026-08-24 |
 | F1ATV | [https://testflight.apple.com/join/NRswe1IZ](https://testflight.apple.com/join/NRswe1IZ) | Y | 2026-06-13 |
-| Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | Y | 2026-11-04 |
 | Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | Y | 2026-10-28 |
 | FaithVoice | [https://testflight.apple.com/join/ypzb4Npw](https://testflight.apple.com/join/ypzb4Npw) | Y | 2026-08-14 |
 | Fedicat | [https://testflight.apple.com/join/b6GatWTY](https://testflight.apple.com/join/b6GatWTY) | Y | 2025-12-22 |
@@ -113,6 +114,7 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 | FeltIQ: Bankroll Tracker | [https://testflight.apple.com/join/XzDHuAUb](https://testflight.apple.com/join/XzDHuAUb) | Y | 2026-06-23 |
 | Filmlog | [https://testflight.apple.com/join/ywiozhph](https://testflight.apple.com/join/ywiozhph) | Y | 2025-12-22 |
 | Finance Bay | [https://testflight.apple.com/join/y4etT8Ht](https://testflight.apple.com/join/y4etT8Ht) | Y | 2026-08-04 |
+| Firefox Beta | [https://testflight.apple.com/join/JdsubPZs](https://testflight.apple.com/join/JdsubPZs) | Y | 2026-11-05 |
 | Firewalla | [https://testflight.apple.com/join/qtUnSjJp](https://testflight.apple.com/join/qtUnSjJp) | Y | 2025-12-22 |
 | FlipTalk - Reverse Your Speech | [https://testflight.apple.com/join/TnB7zcye](https://testflight.apple.com/join/TnB7zcye) | Y | 2026-08-06 |
 | FM Radio x Radddio App | [https://testflight.apple.com/join/JaRYx1fE](https://testflight.apple.com/join/JaRYx1fE) | Y | 2026-10-20 |
@@ -120,6 +122,7 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 | FotMob Live Soccer Scores | [https://testflight.apple.com/join/zEAwGlrV](https://testflight.apple.com/join/zEAwGlrV) | Y | 2025-12-22 |
 | FRITZ!App Fon | [https://testflight.apple.com/join/SGGCxyRp](https://testflight.apple.com/join/SGGCxyRp) | Y | 2025-12-22 |
 | FRITZ!App Smart Home | [https://testflight.apple.com/join/kzVJhIg1](https://testflight.apple.com/join/kzVJhIg1) | Y | 2025-12-22 |
+| FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | Y | 2026-11-05 |
 | Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | Y | 2026-06-10 |
 | Gaming for Peace-GAP | [https://testflight.apple.com/join/tJu81Sch](https://testflight.apple.com/join/tJu81Sch) | Y | 2025-12-23 |
 | Generator Tracker: Run Hours | [https://testflight.apple.com/join/wZcGdJar](https://testflight.apple.com/join/wZcGdJar) | Y | 2026-10-22 |
@@ -218,7 +221,6 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 | OpenDisplay | [https://testflight.apple.com/join/3NYaY11c](https://testflight.apple.com/join/3NYaY11c) | Y | 2026-07-08 |
 | Opera GX | [https://testflight.apple.com/join/t3k1AVL3](https://testflight.apple.com/join/t3k1AVL3) | Y | 2025-12-22 |
 | Opera Touch web browser | [https://testflight.apple.com/join/ASrCFVHB](https://testflight.apple.com/join/ASrCFVHB) | Y | 2025-12-22 |
-| Orca IDE | [https://testflight.apple.com/join/YjeGMQBA](https://testflight.apple.com/join/YjeGMQBA) | Y | 2026-11-04 |
 | Oura | [https://testflight.apple.com/join/NPhd6XTF](https://testflight.apple.com/join/NPhd6XTF) | Y | 2025-12-22 |
 | OvenApp | [https://testflight.apple.com/join/uGKFF4cw](https://testflight.apple.com/join/uGKFF4cw) | Y | 2026-08-25 |
 | Overlay Expert | [https://testflight.apple.com/join/vNCttFNB](https://testflight.apple.com/join/vNCttFNB) | Y | 2026-08-24 |
@@ -297,7 +299,6 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 | The Thorn Crown: Tower Defense | [https://testflight.apple.com/join/EddzMBp6](https://testflight.apple.com/join/EddzMBp6) | Y | 2026-10-30 |
 | Theta Wellness | [https://testflight.apple.com/join/47XmGuKU](https://testflight.apple.com/join/47XmGuKU) | Y | 2026-10-22 |
 | Thirds Camera | [https://testflight.apple.com/join/wqqKdbRT](https://testflight.apple.com/join/wqqKdbRT) | Y | 2026-11-05 |
-| TikTok -Global Video Community | [https://testflight.apple.com/join/MnsYnB0s](https://testflight.apple.com/join/MnsYnB0s) | Y | 2026-11-04 |
 | TikTok -Global Video Community | [https://testflight.apple.com/join/K28iQVlZ](https://testflight.apple.com/join/K28iQVlZ) | Y | 2026-09-11 |
 | Todo清单 - 跨平台待办事项与番茄钟 | [https://testflight.apple.com/join/YyuuJcC6](https://testflight.apple.com/join/YyuuJcC6) | Y | 2026-06-04 |
 | Tortoise Forecast: Run Weather | [https://testflight.apple.com/join/T57aC1KJ](https://testflight.apple.com/join/T57aC1KJ) | Y | 2026-10-26 |
@@ -322,7 +323,6 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 | VLC media player | [https://testflight.apple.com/join/q6gm0qgr](https://testflight.apple.com/join/q6gm0qgr) | Y | 2026-03-17 |
 | VPN BOX | [https://testflight.apple.com/join/8XHKpTmj](https://testflight.apple.com/join/8XHKpTmj) | Y | 2026-04-23 |
 | WatchAmp for Plex | [https://testflight.apple.com/join/vrehhvsY](https://testflight.apple.com/join/vrehhvsY) | Y | 2026-07-07 |
-| Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | Y | 2026-11-04 |
 | What’s New | [https://testflight.apple.com/join/kuynaC2U](https://testflight.apple.com/join/kuynaC2U) | Y | 2026-10-26 |
 | Whelk: Private AI Platform | [https://testflight.apple.com/join/qGguG8u2](https://testflight.apple.com/join/qGguG8u2) | Y | 2026-08-24 |
 | WhoWhom | [https://testflight.apple.com/join/MJYg86PA](https://testflight.apple.com/join/MJYg86PA) | Y | 2026-07-20 |
@@ -361,13 +361,15 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 | 方太幸福家 | [https://testflight.apple.com/join/Kh2Dft7l](https://testflight.apple.com/join/Kh2Dft7l) | Y | 2026-06-04 |
 | 朴朴超市-30分钟快送 | [https://testflight.apple.com/join/KUFpjlUl](https://testflight.apple.com/join/KUFpjlUl) | Y | 2026-06-04 |
 | 比亚迪 | [https://testflight.apple.com/join/KRAhRAMX](https://testflight.apple.com/join/KRAhRAMX) | Y | 2026-06-04 |
-| 淘宝闪购-点外卖更优惠 | [https://testflight.apple.com/join/VNDGcHBB](https://testflight.apple.com/join/VNDGcHBB) | Y | 2026-11-04 |
 | 深蓝汽车 | [https://testflight.apple.com/join/zfzepr74](https://testflight.apple.com/join/zfzepr74) | Y | 2026-06-04 |
 | 滴答清单 TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | Y | 2025-12-22 |
 | 番茄小说 - 热门短剧全本小说电子书阅读器 | [https://testflight.apple.com/join/dTUO1uyt](https://testflight.apple.com/join/dTUO1uyt) | Y | 2026-04-20 |
 | 百度输入法 | [https://testflight.apple.com/join/tZIfgySI](https://testflight.apple.com/join/tZIfgySI) | Y | 2025-12-22 |
+| 米兔手表-可以打电话的手表 | [https://testflight.apple.com/join/XplPxabZ](https://testflight.apple.com/join/XplPxabZ) | Y | 2026-11-05 |
 | 网易爆米花 | [https://testflight.apple.com/join/sIj5iOoj](https://testflight.apple.com/join/sIj5iOoj) | Y | 2025-12-22 |
 | 翼支付 | [https://testflight.apple.com/join/nRiAaxNf](https://testflight.apple.com/join/nRiAaxNf) | Y | 2026-06-04 |
+| 腾讯地图-AI路线规划,导航公交打车地铁出行 | [https://testflight.apple.com/join/i6TcrR2L](https://testflight.apple.com/join/i6TcrR2L) | Y | 2026-11-05 |
+| 腾讯地图-AI路线规划,导航公交打车地铁出行 | [https://testflight.apple.com/join/N1MkckuA](https://testflight.apple.com/join/N1MkckuA) | Y | 2026-11-05 |
 | 腾讯自选股-在线炒股票证券交易 | [https://testflight.apple.com/join/7tPfWALw](https://testflight.apple.com/join/7tPfWALw) | Y | 2026-06-04 |
 | 西瓜视频 | [https://testflight.apple.com/join/ZkSx6V4m](https://testflight.apple.com/join/ZkSx6V4m) | Y | 2026-01-30 |
 | 记忆花园 | [https://testflight.apple.com/join/XSdkH7mP](https://testflight.apple.com/join/XSdkH7mP) | Y | 2026-05-08 |
@@ -390,16 +392,15 @@ _✅ These 355 apps are currently accepting new testers! Click the links to join
 </details>
 
 <details >
-<summary><strong>Full (83 apps)</strong> - Apps that have reached their tester limit</summary>
+<summary><strong>Full (82 apps)</strong> - Apps that have reached their tester limit</summary>
 
-_⚠️ These 83 apps have reached their tester limit. Try checking back later._
+_⚠️ These 82 apps have reached their tester limit. Try checking back later._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2026-09-25 |
 | 1Password - Password Manager beta | [https://testflight.apple.com/join/fzDLkIVK](https://testflight.apple.com/join/fzDLkIVK) | F | 2026-10-31 |
 | Accretion: The Vein | [https://testflight.apple.com/join/Dtc4ZCFu](https://testflight.apple.com/join/Dtc4ZCFu) | F | 2026-11-04 |
-| Brave | [https://testflight.apple.com/join/Trcbh1o3](https://testflight.apple.com/join/Trcbh1o3) | F | 2026-10-29 |
 | Cerebri | [https://testflight.apple.com/join/QEGVeTvn](https://testflight.apple.com/join/QEGVeTvn) | F | 2026-10-21 |
 | Damus | [https://testflight.apple.com/join/CLwjLxWl](https://testflight.apple.com/join/CLwjLxWl) | F | 2025-12-22 |
 | Discord | [https://testflight.apple.com/join/gdE4pRzI](https://testflight.apple.com/join/gdE4pRzI) | F | 2026-10-17 |
@@ -408,9 +409,8 @@ _⚠️ These 83 apps have reached their tester limit. Try checking back later._
 | Eastwatch | [https://testflight.apple.com/join/SmfNOeJ2](https://testflight.apple.com/join/SmfNOeJ2) | F | 2026-09-16 |
 | Egern beta | [https://testflight.apple.com/join/AzU6kAzX](https://testflight.apple.com/join/AzU6kAzX) | F | 2025-12-22 |
 | EpisodePal - TV Show Tracker | [https://testflight.apple.com/join/URq96MVP](https://testflight.apple.com/join/URq96MVP) | F | 2026-10-21 |
+| Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | F | 2026-11-05 |
 | FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | F | 2026-10-29 |
-| Firefox Beta | [https://testflight.apple.com/join/JdsubPZs](https://testflight.apple.com/join/JdsubPZs) | F | 2026-10-10 |
-| FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | F | 2026-11-04 |
 | GIFwrapped | [https://testflight.apple.com/join/mmJ9mS6M](https://testflight.apple.com/join/mmJ9mS6M) | F | 2026-09-11 |
 | Grid Bot Trader | [https://testflight.apple.com/join/CAtQ4vbE](https://testflight.apple.com/join/CAtQ4vbE) | F | 2026-10-17 |
 | Grindr - Gay Dating & Chat | [https://testflight.apple.com/join/eO265vw7](https://testflight.apple.com/join/eO265vw7) | F | 2026-10-29 |
@@ -441,6 +441,7 @@ _⚠️ These 83 apps have reached their tester limit. Try checking back later._
 | OldOS 17 | [https://testflight.apple.com/join/VNduyVTG](https://testflight.apple.com/join/VNduyVTG) | F | 2026-09-13 |
 | Onion Browser | [https://testflight.apple.com/join/iPWLRpZu](https://testflight.apple.com/join/iPWLRpZu) | F | 2026-10-08 |
 | Onion Browser | [https://testflight.apple.com/join/90DvGBOE](https://testflight.apple.com/join/90DvGBOE) | F | 2026-10-02 |
+| Orca IDE | [https://testflight.apple.com/join/YjeGMQBA](https://testflight.apple.com/join/YjeGMQBA) | F | 2026-11-05 |
 | Overcast beta | [https://testflight.apple.com/join/37azzGPG](https://testflight.apple.com/join/37azzGPG) | F | 2026-08-03 |
 | PCalc | [https://testflight.apple.com/join/qCCdSLT1](https://testflight.apple.com/join/qCCdSLT1) | F | 2026-10-28 |
 | Pedal - Your cycling companion | [https://testflight.apple.com/join/aaSgUXmq](https://testflight.apple.com/join/aaSgUXmq) | F | 2026-05-23 |
@@ -458,11 +459,13 @@ _⚠️ These 83 apps have reached their tester limit. Try checking back later._
 | Television Time | [https://testflight.apple.com/join/eP0BTwVi](https://testflight.apple.com/join/eP0BTwVi) | F | 2026-10-24 |
 | Thunderbird: Free Your Inbox | [https://testflight.apple.com/join/ER3hRBSz](https://testflight.apple.com/join/ER3hRBSz) | F | 2026-10-21 |
 | TikTok | [https://testflight.apple.com/join/pLmKZJKw](https://testflight.apple.com/join/pLmKZJKw) | F | 2026-09-30 |
+| TikTok -Global Video Community | [https://testflight.apple.com/join/MnsYnB0s](https://testflight.apple.com/join/MnsYnB0s) | F | 2026-11-05 |
 | TikTok -Global Video Community | [https://testflight.apple.com/join/iT3Y716Q](https://testflight.apple.com/join/iT3Y716Q) | F | 2026-10-01 |
 | TikTok -Global Video Community | [https://testflight.apple.com/join/TH2TrW13](https://testflight.apple.com/join/TH2TrW13) | F | 2026-10-31 |
 | TrackMyTour | [https://testflight.apple.com/join/tv9dt6po](https://testflight.apple.com/join/tv9dt6po) | F | 2026-09-12 |
 | VFeed | [https://testflight.apple.com/join/ZdC5U0fR](https://testflight.apple.com/join/ZdC5U0fR) | F | 2026-09-02 |
 | waipu.tv | [https://testflight.apple.com/join/l72L1OK3](https://testflight.apple.com/join/l72L1OK3) | F | 2026-11-03 |
+| Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | F | 2026-11-05 |
 | WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | F | 2026-07-25 |
 | Xbox | [https://testflight.apple.com/join/dfUeaFHS](https://testflight.apple.com/join/dfUeaFHS) | F | 2026-10-14 |
 | Xbox Family Settings beta | [https://testflight.apple.com/join/8oUnDzMQ](https://testflight.apple.com/join/8oUnDzMQ) | F | 2026-11-04 |
@@ -470,12 +473,10 @@ _⚠️ These 83 apps have reached their tester limit. Try checking back later._
 | 喵滴-强大Markdown编辑器、笔记本、日记、待办 | [https://testflight.apple.com/join/wA5dBeFr](https://testflight.apple.com/join/wA5dBeFr) | F | 2026-10-10 |
 | 小红书 – 世界杯直播 | [https://testflight.apple.com/join/XkGKTA71](https://testflight.apple.com/join/XkGKTA71) | F | 2026-10-31 |
 | 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) | F | 2026-10-04 |
+| 淘宝闪购-点外卖更优惠 | [https://testflight.apple.com/join/VNDGcHBB](https://testflight.apple.com/join/VNDGcHBB) | F | 2026-11-05 |
 | 百度贴吧 | [https://testflight.apple.com/join/GgBqXAqm](https://testflight.apple.com/join/GgBqXAqm) | F | 2026-05-21 |
 | 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | F | 2026-10-15 |
-| 米兔手表-可以打电话的手表 | [https://testflight.apple.com/join/XplPxabZ](https://testflight.apple.com/join/XplPxabZ) | F | 2026-10-17 |
 | 红果短剧 - 海量热门短剧随心看 | [https://testflight.apple.com/join/Rfr1mzqS](https://testflight.apple.com/join/Rfr1mzqS) | F | 2026-10-31 |
-| 腾讯地图-AI路线规划,导航公交打车地铁出行 | [https://testflight.apple.com/join/i6TcrR2L](https://testflight.apple.com/join/i6TcrR2L) | F | 2026-10-22 |
-| 腾讯地图-AI路线规划,导航公交打车地铁出行 | [https://testflight.apple.com/join/N1MkckuA](https://testflight.apple.com/join/N1MkckuA) | F | 2026-10-22 |
 | 腾讯视频HD | [https://testflight.apple.com/join/9JaSzwSN](https://testflight.apple.com/join/9JaSzwSN) | F | 2026-11-03 |
 | 豆包输入法 | [https://testflight.apple.com/join/wUz8czx3](https://testflight.apple.com/join/wUz8czx3) | F | 2026-11-03 |
 | 高德地图-高德打车,导航公交地铁出行 | [https://testflight.apple.com/join/C9b7GypS](https://testflight.apple.com/join/C9b7GypS) | F | 2026-10-28 |
@@ -483,7 +484,7 @@ _⚠️ These 83 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details >
-<summary><strong>No (541 apps)</strong> - Apps not currently accepting testers</summary>
+<summary><strong>No (540 apps)</strong> - Apps not currently accepting testers</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -583,7 +584,6 @@ _⚠️ These 83 apps have reached their tester limit. Try checking back later._
 | Countdown | [https://testflight.apple.com/join/PNtubmae](https://testflight.apple.com/join/PNtubmae) | N | 2026-08-13 |
 | Countdown Collection | [https://testflight.apple.com/join/SLukAeyA](https://testflight.apple.com/join/SLukAeyA) | N | 2026-08-13 |
 | Cover Screenshot | [https://testflight.apple.com/join/bKTfTrvV](https://testflight.apple.com/join/bKTfTrvV) | N | 2026-08-13 |
-| Cs Music Player | [https://testflight.apple.com/join/dU2r1pkq](https://testflight.apple.com/join/dU2r1pkq) | N | 2026-08-13 |
 | Custom Contacts 2 | [https://testflight.apple.com/join/uOLgKHRN](https://testflight.apple.com/join/uOLgKHRN) | N | 2026-08-13 |
 | Cypher-secret word game | [https://testflight.apple.com/join/jbtHPQBm](https://testflight.apple.com/join/jbtHPQBm) | N | 2026-08-13 |
 | DailyTown | [https://testflight.apple.com/join/Q37kksaC](https://testflight.apple.com/join/Q37kksaC) | N | 2026-08-13 |
@@ -1068,9 +1068,9 @@ _⚠️ These 83 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (41 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (40 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 41 apps are currently accepting new testers! Click the links to join._
+_✅ These 40 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1102,7 +1102,6 @@ _✅ These 41 apps are currently accepting new testers! Click the links to join.
 | My Vinyl+ Scanner for Discogs | [https://testflight.apple.com/join/BkXvMy3S](https://testflight.apple.com/join/BkXvMy3S) | Y | 2026-06-09 |
 | NutriKit | [https://testflight.apple.com/join/wDvG9Myt](https://testflight.apple.com/join/wDvG9Myt) | Y | 2026-10-28 |
 | OpenDisplay | [https://testflight.apple.com/join/3NYaY11c](https://testflight.apple.com/join/3NYaY11c) | Y | 2026-07-08 |
-| Orca IDE | [https://testflight.apple.com/join/YjeGMQBA](https://testflight.apple.com/join/YjeGMQBA) | Y | 2026-11-04 |
 | Oxbit | [https://testflight.apple.com/join/P2WqdUYS](https://testflight.apple.com/join/P2WqdUYS) | Y | 2026-10-06 |
 | Spohad | [https://testflight.apple.com/join/TBxWaPBr](https://testflight.apple.com/join/TBxWaPBr) | Y | 2026-10-14 |
 | Starlight VPN | [https://testflight.apple.com/join/VfQwnC67](https://testflight.apple.com/join/VfQwnC67) | Y | 2026-08-03 |
@@ -1119,13 +1118,14 @@ _✅ These 41 apps are currently accepting new testers! Click the links to join.
 </details>
 
 <details >
-<summary><strong>Full (2 apps)</strong> - Apps that have reached their tester limit</summary>
+<summary><strong>Full (3 apps)</strong> - Apps that have reached their tester limit</summary>
 
-_⚠️ These 2 apps have reached their tester limit. Try checking back later._
+_⚠️ These 3 apps have reached their tester limit. Try checking back later._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | Accretion: The Vein | [https://testflight.apple.com/join/Dtc4ZCFu](https://testflight.apple.com/join/Dtc4ZCFu) | F | 2026-11-04 |
+| Orca IDE | [https://testflight.apple.com/join/YjeGMQBA](https://testflight.apple.com/join/YjeGMQBA) | F | 2026-11-05 |
 | PCalc | [https://testflight.apple.com/join/qCCdSLT1](https://testflight.apple.com/join/qCCdSLT1) | F | 2026-10-28 |
 
 </details>
@@ -1156,9 +1156,9 @@ _⚠️ These 2 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (23 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (24 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 23 apps are currently accepting new testers! Click the links to join._
+_✅ These 24 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1182,6 +1182,7 @@ _✅ These 23 apps are currently accepting new testers! Click the links to join.
 | Starlight VPN | [https://testflight.apple.com/join/VfQwnC67](https://testflight.apple.com/join/VfQwnC67) | Y | 2026-08-03 |
 | Stash — Visual Bookmarks | [https://testflight.apple.com/join/StmCpgpn](https://testflight.apple.com/join/StmCpgpn) | Y | 2026-08-24 |
 | Talking Frog | [https://testflight.apple.com/join/S6tHHU5e](https://testflight.apple.com/join/S6tHHU5e) | Y | 2026-06-09 |
+| UTM Virtual Machines | [https://testflight.apple.com/join/Cg7UTrme](https://testflight.apple.com/join/Cg7UTrme) | Y | 2026-11-05 |
 | WPS Office for PC | [https://testflight.apple.com/join/CtKY8RYh](https://testflight.apple.com/join/CtKY8RYh) | Y | 2026-06-25 |
 | Yattee | [https://testflight.apple.com/join/jTWDHuZE](https://testflight.apple.com/join/jTWDHuZE) | Y | 2026-09-30 |
 | ZenMark | [https://testflight.apple.com/join/ZCYJDb5z](https://testflight.apple.com/join/ZCYJDb5z) | Y | 2026-10-06 |
@@ -1189,9 +1190,9 @@ _✅ These 23 apps are currently accepting new testers! Click the links to join.
 </details>
 
 <details >
-<summary><strong>Full (5 apps)</strong> - Apps that have reached their tester limit</summary>
+<summary><strong>Full (4 apps)</strong> - Apps that have reached their tester limit</summary>
 
-_⚠️ These 5 apps have reached their tester limit. Try checking back later._
+_⚠️ These 4 apps have reached their tester limit. Try checking back later._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1199,7 +1200,6 @@ _⚠️ These 5 apps have reached their tester limit. Try checking back later._
 | Caffeine Utility | [https://testflight.apple.com/join/WHIbsose](https://testflight.apple.com/join/WHIbsose) | F | 2026-10-24 |
 | iCost记账-快速简洁好用的记账理财助手&amp;记账软件 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | F | 2026-10-02 |
 | Nexus Shell | [https://testflight.apple.com/join/y1F6h3wR](https://testflight.apple.com/join/y1F6h3wR) | F | 2026-08-16 |
-| UTM Virtual Machines | [https://testflight.apple.com/join/Cg7UTrme](https://testflight.apple.com/join/Cg7UTrme) | F | 2026-11-03 |
 
 </details>
 

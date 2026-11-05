@@ -541,11 +541,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-29"
+      "last_modify": "2026-11-05"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -837,11 +837,11 @@
     },
     "dU2r1pkq": {
       "app_name": "Cs Music Player",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-11-05"
     },
     "uOLgKHRN": {
       "app_name": "Custom Contacts 2",
@@ -1085,11 +1085,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-05"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1213,11 +1213,11 @@
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-10"
+      "last_modify": "2026-11-05"
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-05"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-05"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-05"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-05"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6841,11 +6841,11 @@
     },
     "VNDGcHBB": {
       "app_name": "淘宝闪购-点外卖更优惠",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-05"
     },
     "7tPfWALw": {
       "app_name": "腾讯自选股-在线炒股票证券交易",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-11-05"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-22"
+      "last_modify": "2026-11-05"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -6881,11 +6881,11 @@
     },
     "XplPxabZ": {
       "app_name": "米兔手表-可以打电话的手表",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-17"
+      "last_modify": "2026-11-05"
     },
     "zfzepr74": {
       "app_name": "深蓝汽车",
@@ -7351,12 +7351,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-05"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
