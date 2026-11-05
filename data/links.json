@@ -8363,6 +8363,14 @@
         "macos"
       ],
       "last_modify": "2026-11-04"
+    },
+    "wqqKdbRT": {
+      "app_name": "Thirds Camera",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-11-05"
     }
   }
 }
