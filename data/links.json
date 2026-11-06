@@ -541,11 +541,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-05"
+      "last_modify": "2026-11-06"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-06"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -1213,11 +1213,11 @@
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-05"
+      "last_modify": "2026-11-06"
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
@@ -2101,11 +2101,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-05"
+      "last_modify": "2026-11-06"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-11-06"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-02"
+      "last_modify": "2026-11-06"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4503,11 +4503,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-29"
+      "last_modify": "2026-11-06"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-11-06"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4599,11 +4599,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-12"
+      "last_modify": "2026-11-06"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -4847,19 +4847,19 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-06"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-06"
     },
     "Sl7m9yyz": {
       "app_name": "1.1.1.1: Faster Internet beta",
@@ -5689,11 +5689,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-10-02"
+      "last_modify": "2026-11-06"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-31"
+      "last_modify": "2026-11-06"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6339,11 +6339,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-11-05"
+      "last_modify": "2026-11-06"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-05"
+      "last_modify": "2026-11-06"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-05"
+      "last_modify": "2026-11-06"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-05"
+      "last_modify": "2026-11-06"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -7001,11 +7001,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-31"
+      "last_modify": "2026-11-06"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7793,11 +7793,11 @@
     },
     "9GTuC9Ri": {
       "app_name": "微博",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-06"
     },
     "47XmGuKU": {
       "app_name": "Theta Wellness",
@@ -7919,11 +7919,11 @@
     },
     "5yWqNvbx": {
       "app_name": "HLSDownloader",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-26"
+      "last_modify": "2026-11-06"
     },
     "mcMmeWBb": {
       "app_name": "Loopily: ADHD Routine Timer",
