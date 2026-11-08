@@ -949,11 +949,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-08"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1493,11 +1493,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-26"
+      "last_modify": "2026-11-08"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
@@ -2109,19 +2109,19 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-11-03"
-    },
-    "a9Ef0N3g": {
-      "app_name": "Microsoft PowerPoint",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-08"
+    },
+    "a9Ef0N3g": {
+      "app_name": "Microsoft PowerPoint",
+      "status": "F",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-11-08"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-08"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-08"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4831,11 +4831,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-21"
+      "last_modify": "2026-11-08"
     },
     "NSeQo22d": {
       "app_name": "Readwise Reader beta",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-08"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5329,11 +5329,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN (Start)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-12"
+      "last_modify": "2026-11-08"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5521,11 +5521,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-08"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -6009,11 +6009,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-05"
+      "last_modify": "2026-11-08"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6331,11 +6331,11 @@
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-08"
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-08"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6841,11 +6841,11 @@
     },
     "VNDGcHBB": {
       "app_name": "淘宝闪购-点外卖更优惠",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-08"
     },
     "7tPfWALw": {
       "app_name": "腾讯自选股-在线炒股票证券交易",
@@ -7290,12 +7290,12 @@
     },
     "69PadvA5": {
       "app_name": "Emma’s Library",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-11-08"
     },
     "nmkzuzVj": {
       "app_name": "Kitchen Agent for Chefs",
@@ -7368,11 +7368,11 @@
     },
     "y1F6h3wR": {
       "app_name": "Nexus Shell",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-08-16"
+      "last_modify": "2026-11-08"
     },
     "JCFgBW83": {
       "app_name": "AudioRoo",
@@ -7777,11 +7777,11 @@
     },
     "kGZEmvMZ": {
       "app_name": "Bloomwash - Watercolor Studio",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-11-08"
     },
     "7YVCwq1M": {
       "app_name": "drift - Offline Music Player",
