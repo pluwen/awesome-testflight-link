@@ -1,6 +1,7 @@
 import json
 import datetime
 import asyncio
+import html as html_lib
 import re
 from pathlib import Path
 
@@ -21,7 +22,9 @@ TESTFLIGHT_USER_AGENT = (
 )
 
 FULL_PATTERN = re.compile(r"版本的测试员已满|This beta is full")
-NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn't accepting any new testers right now")
+# Apple 英文页的撇号在 HTML 里是转义形式（isn&#39;t），先 unescape 再匹配；
+# 字符类同时覆盖直引号和弯引号（' / ’），防止 Apple 换用 unicode 引号
+NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn['’]t accepting any new testers right now")
 APP_NAME_PATTERN = re.compile(r"Join the (.+) beta - TestFlight - Apple")
 APP_NAME_CH_PATTERN = re.compile(r'加入 Beta 版"(.+)" - TestFlight - Apple')
 MISSING_NAMES = {"", "None", "none", "Unknown"}
@@ -75,16 +78,30 @@ def extract_app_name(html: str) -> str:
 
 
 def detect_testflight_status(html: str, fallback_status: str = 'N') -> str:
-    if NO_PATTERN.search(html):
+    # 英文 "not accepting" 文案的撇号在源码里是 &#39;（已从 2026-08 存档确认），
+    # 直接对原始 HTML 用字面量 ' 匹配会永远失配 → N 状态检测静默失败。
+    text = html_lib.unescape(html)
+    if NO_PATTERN.search(text):
         return 'N'
-    if FULL_PATTERN.search(html):
+    if FULL_PATTERN.search(text):
         return 'F'
     # A genuine beta page always carries the app-specific title; only then is it
     # truly accepting. The generic interstitial/help page Apple serves under
     # rate-limiting contains "TestFlight" but no app name — it must NOT be 'Y'.
-    if APP_NAME_PATTERN.search(html) or APP_NAME_CH_PATTERN.search(html):
+    if APP_NAME_PATTERN.search(text) or APP_NAME_CH_PATTERN.search(text):
         return 'Y'
     return fallback_status
+
+
+def is_page_readable(html: str) -> bool:
+    """页面能被识别出任何状态（N/F/Y 标题）才算可读；反爬占位页不可读。"""
+    text = html_lib.unescape(html)
+    return bool(
+        NO_PATTERN.search(text)
+        or FULL_PATTERN.search(text)
+        or APP_NAME_PATTERN.search(text)
+        or APP_NAME_CH_PATTERN.search(text)
+    )
 
 
 async def check_testflight_status(
@@ -116,6 +133,11 @@ async def check_testflight_status(
             html_content = resp.text
             status = detect_testflight_status(html_content, current_status)
             fetched_name = extract_app_name(html_content)
+
+            if not is_page_readable(html_content):
+                # 不可读页（反爬占位页）会走 fallback 保留旧状态——这是故意设计，
+                # 但必须显式警告，否则旧状态会被无限静默延续（2026-11 Auki 事故）
+                print(f"[warn] {key} - unreadable page (anti-bot interstitial?), keeping status '{current_status}'")
 
             if (not resolved_name or resolved_name in MISSING_NAMES) and fetched_name:
                 resolved_name = fetched_name

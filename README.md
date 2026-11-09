@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (356 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (355 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 356 apps are currently accepting new testers! Click the links to join._
+_✅ These 355 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -45,7 +45,6 @@ _✅ These 356 apps are currently accepting new testers! Click the links to join
 | AnyList | [https://testflight.apple.com/join/xwvLPc6o](https://testflight.apple.com/join/xwvLPc6o) | Y | 2025-12-22 |
 | AppRaven 2.0 | [https://testflight.apple.com/join/8uVQrfHu](https://testflight.apple.com/join/8uVQrfHu) | Y | 2026-07-22 |
 | ArcBreaker: Ringfall Arena | [https://testflight.apple.com/join/3WThmhQu](https://testflight.apple.com/join/3WThmhQu) | Y | 2026-05-22 |
-| Auki | [https://testflight.apple.com/join/kNze5fKq](https://testflight.apple.com/join/kNze5fKq) | Y | 2026-06-04 |
 | Avec: Best way to write emails | [https://testflight.apple.com/join/3JR2HxjZ](https://testflight.apple.com/join/3JR2HxjZ) | Y | 2026-08-25 |
 | Azalea Pets | [https://testflight.apple.com/join/VgpEmwmD](https://testflight.apple.com/join/VgpEmwmD) | Y | 2026-09-01 |
 | Ballista | [https://testflight.apple.com/join/ctFQwm3w](https://testflight.apple.com/join/ctFQwm3w) | Y | 2026-08-24 |
@@ -486,7 +485,7 @@ _⚠️ These 85 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details >
-<summary><strong>No (539 apps)</strong> - Apps not currently accepting testers</summary>
+<summary><strong>No (540 apps)</strong> - Apps not currently accepting testers</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -518,6 +517,7 @@ _⚠️ These 85 apps have reached their tester limit. Try checking back later._
 | Artstudio Pro: Draw Paint Edit | [https://testflight.apple.com/join/Npva2kOl](https://testflight.apple.com/join/Npva2kOl) | N | 2026-08-13 |
 | AsK LaVOISiEr | [https://testflight.apple.com/join/7KV7rZ88](https://testflight.apple.com/join/7KV7rZ88) | N | 2026-08-13 |
 | Attrct-The Story Dating App | [https://testflight.apple.com/join/wLLhCLRz](https://testflight.apple.com/join/wLLhCLRz) | N | 2026-08-13 |
+| Auki | [https://testflight.apple.com/join/kNze5fKq](https://testflight.apple.com/join/kNze5fKq) | N | 2026-11-09 |
 | Axie infinity | [https://testflight.apple.com/join/5tEPyIU2](https://testflight.apple.com/join/5tEPyIU2) | N | 2026-08-13 |
 | Balance Ethereum Wallet | [https://testflight.apple.com/join/QXCgM6bu](https://testflight.apple.com/join/QXCgM6bu) | N | 2026-08-13 |
 | BalloonPopp-AR | [https://testflight.apple.com/join/h4FdKDMN](https://testflight.apple.com/join/h4FdKDMN) | N | 2026-08-13 |
