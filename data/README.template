@@ -13,7 +13,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 * **Y: Yes** - Apps currently accepting new testers
 * **F: Full** - Apps that have reached their tester limit  
 * **N: No** - Apps not currently accepting testers
-* **D: Deleted** - Apps that have been removed from TestFlight
+* **D: Deleted** - Apps that have been removed from TestFlight (auto-deleted from this list after 30 days)
 
 ## 🔍 How to Use This List
 1. **Browse by Platform**: Use the navigation links above to jump to your desired platform

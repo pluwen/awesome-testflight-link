@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import asyncio
 import httpx
+from cleanup_removed import cleanup_removed_links
 from utils import (
     BASE_URL,
     MAX_CONNECTIONS,
@@ -69,6 +70,9 @@ async def update_all_links(links_data):
 async def main():
     links_data = load_links()
     await update_all_links(links_data)
+
+    # 状态刷新后再清理：刚翻成 D 的条目 last_modify 是今天，不会被误删
+    cleanup_removed_links(links_data)
 
     save_links(links_data)
 
