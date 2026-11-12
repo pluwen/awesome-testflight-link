@@ -8248,6 +8248,15 @@
         "ios"
       ],
       "last_modify": "2026-11-09"
+    },
+    "QrKBvj5S": {
+      "app_name": "Mons: SSH &amp; Agent Terminal",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-11-12"
     }
   }
 }

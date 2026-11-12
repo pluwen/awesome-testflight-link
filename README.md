@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (296 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (297 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 296 apps are currently accepting new testers! Click the links to join._
+_✅ These 297 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -171,6 +171,7 @@ _✅ These 296 apps are currently accepting new testers! Click the links to join
 | Mochi Pack: Packing List | [https://testflight.apple.com/join/E5CPuP4X](https://testflight.apple.com/join/E5CPuP4X) | Y | 2026-11-09 |
 | Monal - XMPP Chat | [https://testflight.apple.com/join/lLLlgHpB](https://testflight.apple.com/join/lLLlgHpB) | Y | 2025-12-22 |
 | Monologue: Smart Dictation | [https://testflight.apple.com/join/a9r8MH2Y](https://testflight.apple.com/join/a9r8MH2Y) | Y | 2026-08-25 |
+| Mons: SSH &amp; Agent Terminal | [https://testflight.apple.com/join/QrKBvj5S](https://testflight.apple.com/join/QrKBvj5S) | Y | 2026-11-12 |
 | Monzo Bank - Mobile Banking | [https://testflight.apple.com/join/2NZLBFyb](https://testflight.apple.com/join/2NZLBFyb) | Y | 2025-12-22 |
 | Moon FM - The Podcasts App | [https://testflight.apple.com/join/c6NtF2xP](https://testflight.apple.com/join/c6NtF2xP) | Y | 2026-09-27 |
 | Moss Terminal | [https://testflight.apple.com/join/f7xjFGQb](https://testflight.apple.com/join/f7xjFGQb) | Y | 2026-09-22 |
@@ -1054,9 +1055,9 @@ _⚠️ These 77 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (32 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (33 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 32 apps are currently accepting new testers! Click the links to join._
+_✅ These 33 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1078,6 +1079,7 @@ _✅ These 32 apps are currently accepting new testers! Click the links to join.
 | Horde Control | [https://testflight.apple.com/join/vkaCN44H](https://testflight.apple.com/join/vkaCN44H) | Y | 2026-10-20 |
 | Larari | [https://testflight.apple.com/join/mWfCau5D](https://testflight.apple.com/join/mWfCau5D) | Y | 2026-10-20 |
 | Meow - Smart VPN | [https://testflight.apple.com/join/HSptQN3h](https://testflight.apple.com/join/HSptQN3h) | Y | 2026-08-05 |
+| Mons: SSH &amp; Agent Terminal | [https://testflight.apple.com/join/QrKBvj5S](https://testflight.apple.com/join/QrKBvj5S) | Y | 2026-11-12 |
 | Moon FM - The Podcasts App | [https://testflight.apple.com/join/c6NtF2xP](https://testflight.apple.com/join/c6NtF2xP) | Y | 2026-09-27 |
 | My Vinyl+ Scanner for Discogs | [https://testflight.apple.com/join/BkXvMy3S](https://testflight.apple.com/join/BkXvMy3S) | Y | 2026-06-09 |
 | NutriKit | [https://testflight.apple.com/join/wDvG9Myt](https://testflight.apple.com/join/wDvG9Myt) | Y | 2026-10-28 |
