@@ -61,11 +61,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-10-24"
+      "last_modify": "2026-11-12"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -181,11 +181,11 @@
     },
     "fZRiD1zt": {
       "app_name": "AdGuard VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-11-12"
     },
     "NXxMcB4Y": {
       "app_name": "Aerivo",
@@ -525,11 +525,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-12"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -645,11 +645,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-12"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -1445,11 +1445,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-21"
+      "last_modify": "2026-11-12"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -4645,14 +4645,6 @@
       ],
       "last_modify": "2026-08-13"
     },
-    "4qfWwXvP": {
-      "app_name": "Pockity",
-      "status": "D",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-10-12"
-    },
     "BScDI9fh": {
       "app_name": "Myphysique",
       "status": "N",
@@ -4767,11 +4759,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-08"
+      "last_modify": "2026-11-12"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4985,11 +4977,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-10"
+      "last_modify": "2026-11-12"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5201,11 +5193,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-12"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5609,11 +5601,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-12"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -6292,11 +6284,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-12"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6357,11 +6349,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-08"
+      "last_modify": "2026-11-12"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6474,13 +6466,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-11-09"
+      "last_modify": "2026-11-12"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
@@ -6579,14 +6571,6 @@
         "ios"
       ],
       "last_modify": "2026-10-18"
-    },
-    "cjHQ9k71": {
-      "app_name": "PowerNFC",
-      "status": "D",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-10-12"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -6905,11 +6889,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-12"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7025,14 +7009,6 @@
       ],
       "last_modify": "2026-06-23"
     },
-    "8XDBCC4Q": {
-      "app_name": "auth. - 2FA Smart Sync",
-      "status": "D",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-10-12"
-    },
     "tLcYLZJV": {
       "app_name": "Tailscale",
       "status": "F",
@@ -7127,12 +7103,12 @@
     },
     "EGSsGRn7": {
       "app_name": "CoMaps",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-30"
+      "last_modify": "2026-11-12"
     },
     "MJYg86PA": {
       "app_name": "WhoWhom",
@@ -7247,12 +7223,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-05"
+      "last_modify": "2026-11-12"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
