@@ -3935,11 +3935,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-13"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4519,11 +4519,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-06"
+      "last_modify": "2026-11-13"
     },
     "e7mCOEeg": {
       "app_name": "Deezer",
@@ -4759,11 +4759,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-13"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4977,11 +4977,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-13"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5225,11 +5225,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01"
+      "last_modify": "2026-11-13"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5601,11 +5601,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-13"
     },
     "ONuHkBRv": {
       "app_name": "Maxthon Cloud Web Browser",
@@ -5969,11 +5969,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-10"
+      "last_modify": "2026-11-13"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6349,11 +6349,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-13"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6466,13 +6466,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-13"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
@@ -6729,11 +6729,11 @@
     },
     "VNDGcHBB": {
       "app_name": "淘宝闪购-点外卖更优惠",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-08"
+      "last_modify": "2026-11-13"
     },
     "7tPfWALw": {
       "app_name": "腾讯自选股-在线炒股票证券交易",
@@ -6889,11 +6889,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-13"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7011,12 +7011,12 @@
     },
     "tLcYLZJV": {
       "app_name": "Tailscale",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-10-13"
+      "last_modify": "2026-11-13"
     },
     "vrehhvsY": {
       "app_name": "WatchAmp for Plex",
@@ -7223,12 +7223,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-13"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
@@ -7281,11 +7281,11 @@
     },
     "ZsFnfJeX": {
       "app_name": "Rukn ERM Risk Register",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19"
+      "last_modify": "2026-11-13"
     },
     "cpPS8YnX": {
       "app_name": "La Terminal: Mosh &amp; SSH Client",
@@ -7401,11 +7401,11 @@
     },
     "BBV2Cdfc": {
       "app_name": "Mandala Garden",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-11-13"
     },
     "H83AYG81": {
       "app_name": "Moves IRL",
@@ -7601,11 +7601,11 @@
     },
     "qbQBdvFW": {
       "app_name": "BreakMate",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-11-13"
     },
     "rTs3Uanc": {
       "app_name": "Inkpaper",
@@ -7641,11 +7641,11 @@
     },
     "9GTuC9Ri": {
       "app_name": "微博",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-13"
     },
     "47XmGuKU": {
       "app_name": "Theta Wellness",
