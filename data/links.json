@@ -8233,6 +8233,14 @@
         "ipados"
       ],
       "last_modify": "2026-11-12"
+    },
+    "PQxKkGn8": {
+      "app_name": "DuoPoint",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-11-13"
     }
   }
 }
