@@ -1013,11 +1013,11 @@
     },
     "SmfNOeJ2": {
       "app_name": "Eastwatch",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-16"
+      "last_modify": "2026-11-14"
     },
     "3ZTdq2Kv": {
       "app_name": "Emoji Stickers Pack",
@@ -3935,11 +3935,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13"
+      "last_modify": "2026-11-14"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4271,11 +4271,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot - Heart Rate Monitor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-09"
+      "last_modify": "2026-11-14"
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
@@ -4295,11 +4295,11 @@
     },
     "Lsk0kvr2": {
       "app_name": "OffScreen - Less Screen Time",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-11-14"
     },
     "KwboYTNt": {
       "app_name": "S1 Mufu",
@@ -5969,11 +5969,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13"
+      "last_modify": "2026-11-14"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6284,11 +6284,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-14"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6349,11 +6349,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13"
+      "last_modify": "2026-11-14"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6889,11 +6889,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13"
+      "last_modify": "2026-11-14"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7188,11 +7188,11 @@
     },
     "udVFMftV": {
       "app_name": "Grippe: Speedrun",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-30"
+      "last_modify": "2026-11-14"
     },
     "aSybKA8y": {
       "app_name": "Workout Narrator: Rep Timer",
