@@ -933,11 +933,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-08"
+      "last_modify": "2026-11-15"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1013,11 +1013,11 @@
     },
     "SmfNOeJ2": {
       "app_name": "Eastwatch",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-14"
+      "last_modify": "2026-11-15"
     },
     "3ZTdq2Kv": {
       "app_name": "Emoji Stickers Pack",
@@ -1477,11 +1477,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery-Smart Grocery List",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-08"
+      "last_modify": "2026-11-15"
     },
     "5k0dF9zs": {
       "app_name": "GROM - Get Rid of Minions",
@@ -2157,11 +2157,11 @@
     },
     "n5A7ceuK": {
       "app_name": "Möbius Sync - Syncthing iOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-27"
+      "last_modify": "2026-11-15"
     },
     "AJlrDMao": {
       "app_name": "Mojo - Create Video Stories",
@@ -4271,11 +4271,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot - Heart Rate Monitor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-14"
+      "last_modify": "2026-11-15"
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
@@ -4759,11 +4759,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13"
+      "last_modify": "2026-11-15"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5193,11 +5193,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-15"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5225,11 +5225,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13"
+      "last_modify": "2026-11-15"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -6284,11 +6284,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-14"
+      "last_modify": "2026-11-15"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6308,12 +6308,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-01"
+      "last_modify": "2026-11-15"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -7804,11 +7804,11 @@
     },
     "aSw3dJwx": {
       "app_name": "CROON",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-25"
+      "last_modify": "2026-11-15"
     },
     "pFpVhzx6": {
       "app_name": "Devastro",
