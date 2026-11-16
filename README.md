@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (290 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (291 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 290 apps are currently accepting new testers! Click the links to join._
+_✅ These 291 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -45,6 +45,7 @@ _✅ These 290 apps are currently accepting new testers! Click the links to join
 | Ballista | [https://testflight.apple.com/join/ctFQwm3w](https://testflight.apple.com/join/ctFQwm3w) | Y | 2026-08-24 |
 | BeReal | [https://testflight.apple.com/join/IM4jE5XY](https://testflight.apple.com/join/IM4jE5XY) | Y | 2025-12-22 |
 | BidBloom | [https://testflight.apple.com/join/wkgFgnUu](https://testflight.apple.com/join/wkgFgnUu) | Y | 2026-08-24 |
+| BITNA 빛나 | [https://testflight.apple.com/join/zgHcm9wz](https://testflight.apple.com/join/zgHcm9wz) | Y | 2026-11-16 |
 | Booklook | [https://testflight.apple.com/join/PY8GMkKa](https://testflight.apple.com/join/PY8GMkKa) | Y | 2026-09-17 |
 | Brave | [https://testflight.apple.com/join/Trcbh1o3](https://testflight.apple.com/join/Trcbh1o3) | Y | 2026-11-12 |
 | Bravo Ledger | [https://testflight.apple.com/join/cUyuGdb9](https://testflight.apple.com/join/cUyuGdb9) | Y | 2026-10-26 |
@@ -1054,12 +1055,13 @@ _⚠️ These 81 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (31 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (32 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 31 apps are currently accepting new testers! Click the links to join._
+_✅ These 32 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
+| BITNA 빛나 | [https://testflight.apple.com/join/zgHcm9wz](https://testflight.apple.com/join/zgHcm9wz) | Y | 2026-11-16 |
 | Bravo Ledger | [https://testflight.apple.com/join/cUyuGdb9](https://testflight.apple.com/join/cUyuGdb9) | Y | 2026-10-26 |
 | Burden: Purchase Check | [https://testflight.apple.com/join/ze5Bhrkc](https://testflight.apple.com/join/ze5Bhrkc) | Y | 2026-09-09 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
@@ -1134,14 +1136,15 @@ _⚠️ These 6 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (18 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (19 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 18 apps are currently accepting new testers! Click the links to join._
+_✅ These 19 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | AudioRoo | [https://testflight.apple.com/join/JCFgBW83](https://testflight.apple.com/join/JCFgBW83) | Y | 2026-08-12 |
 | AutoMounter | [https://testflight.apple.com/join/D2t2SGg9](https://testflight.apple.com/join/D2t2SGg9) | Y | 2026-09-04 |
+| BITNA 빛나 | [https://testflight.apple.com/join/zgHcm9wz](https://testflight.apple.com/join/zgHcm9wz) | Y | 2026-11-16 |
 | Caffeine Utility | [https://testflight.apple.com/join/WHIbsose](https://testflight.apple.com/join/WHIbsose) | Y | 2026-11-12 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
 | CaptainLocalAI | [https://testflight.apple.com/join/FVkFHKT6](https://testflight.apple.com/join/FVkFHKT6) | Y | 2026-06-18 |

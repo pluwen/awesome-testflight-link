@@ -8249,6 +8249,16 @@
         "ios"
       ],
       "last_modify": "2026-11-16"
+    },
+    "zgHcm9wz": {
+      "app_name": "BITNA 빛나",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos"
+      ],
+      "last_modify": "2026-11-16"
     }
   }
 }
