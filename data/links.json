@@ -645,11 +645,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-16"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -933,11 +933,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-15"
+      "last_modify": "2026-11-16"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1333,11 +1333,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-16"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2157,11 +2157,11 @@
     },
     "n5A7ceuK": {
       "app_name": "Möbius Sync - Syncthing iOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-15"
+      "last_modify": "2026-11-16"
     },
     "AJlrDMao": {
       "app_name": "Mojo - Create Video Stories",
@@ -5193,11 +5193,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-15"
+      "last_modify": "2026-11-16"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5225,11 +5225,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-15"
+      "last_modify": "2026-11-16"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5401,11 +5401,11 @@
     },
     "aaSgUXmq": {
       "app_name": "Pedal - Your cycling companion",
-      "status": "N",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-09"
+      "last_modify": "2026-11-16"
     },
     "dwXDCbv7": {
       "app_name": "Sonic Compass",
@@ -5433,11 +5433,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-08"
+      "last_modify": "2026-11-16"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -6284,11 +6284,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-15"
+      "last_modify": "2026-11-16"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6349,11 +6349,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-14"
+      "last_modify": "2026-11-16"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -7223,12 +7223,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-13"
+      "last_modify": "2026-11-16"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
@@ -7844,7 +7844,7 @@
     },
     "jTWDHuZE": {
       "app_name": "Yattee",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
@@ -7852,7 +7852,7 @@
         "tvos",
         "visionos"
       ],
-      "last_modify": "2026-09-30"
+      "last_modify": "2026-11-16"
     },
     "P2WqdUYS": {
       "app_name": "Oxbit",
@@ -8195,11 +8195,11 @@
     },
     "wqqKdbRT": {
       "app_name": "Thirds Camera",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-16"
     },
     "jUpDyvg8": {
       "app_name": "Ghost Runner: Race Yourself",
