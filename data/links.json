@@ -395,14 +395,6 @@
       ],
       "last_modify": "2026-08-13"
     },
-    "ICUaKS17": {
-      "app_name": "BeSafe",
-      "status": "D",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-10-20"
-    },
     "avYAAwEt": {
       "app_name": "BestOf-Private Travelogue",
       "status": "N",
@@ -933,11 +925,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-20"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1085,11 +1077,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-28"
+      "last_modify": "2026-11-20"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1333,11 +1325,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-20"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -1765,11 +1757,11 @@
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-26"
+      "last_modify": "2026-11-20"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
@@ -2862,11 +2854,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-20"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3134,11 +3126,11 @@
     },
     "a4CATJ0K": {
       "app_name": "Sheeping Around CCG",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-11-20"
     },
     "4nss4sdk": {
       "app_name": "Shu - Magic File Viewer beta",
@@ -4479,11 +4471,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-20"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4559,11 +4551,11 @@
     },
     "IM4jE5XY": {
       "app_name": "BeReal",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-11-20"
     },
     "vYqAc3Lf": {
       "app_name": "Plant Identifier & Care",
@@ -4759,11 +4751,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-18"
+      "last_modify": "2026-11-20"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5193,11 +5185,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-20"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5689,11 +5681,11 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-04"
+      "last_modify": "2026-11-20"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -6171,11 +6163,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-20"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6227,19 +6219,19 @@
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-20"
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-11-10"
+      "last_modify": "2026-11-20"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -6308,12 +6300,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-20"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6466,13 +6458,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-11-13"
+      "last_modify": "2026-11-20"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
@@ -6833,11 +6825,11 @@
     },
     "XkGKTA71": {
       "app_name": "小红书 – 世界杯直播",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-31"
+      "last_modify": "2026-11-20"
     },
     "wAYQpuS6": {
       "app_name": "唱吧",
@@ -7481,11 +7473,11 @@
     },
     "29gE9tQ4": {
       "app_name": "Allspark",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-11-20"
     },
     "uGKFF4cw": {
       "app_name": "OvenApp",
@@ -8270,11 +8262,11 @@
     },
     "Eh5fY7uB": {
       "app_name": "twoyi",
-      "status": "F",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-20"
     },
     "75k7dhRt": {
       "app_name": "Lanewall: Merge Tower Defense",
