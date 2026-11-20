@@ -8291,6 +8291,14 @@
         "ios"
       ],
       "last_modify": "2026-11-20"
+    },
+    "vkFytBaz": {
+      "app_name": "Lily Money",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-11-20"
     }
   }
 }

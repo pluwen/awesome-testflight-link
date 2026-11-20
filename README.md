@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (289 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (290 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 289 apps are currently accepting new testers! Click the links to join._
+_✅ These 290 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -145,6 +145,7 @@ _✅ These 289 apps are currently accepting new testers! Click the links to join
 | Life360: Find Friends & Family beta | [https://testflight.apple.com/join/syX6IOJF](https://testflight.apple.com/join/syX6IOJF) | Y | 2026-04-22 |
 | LifeOS Beta | [https://testflight.apple.com/join/nundd6bS](https://testflight.apple.com/join/nundd6bS) | Y | 2026-08-24 |
 | LIFX | [https://testflight.apple.com/join/TYoQEz4T](https://testflight.apple.com/join/TYoQEz4T) | Y | 2025-12-22 |
+| Lily Money | [https://testflight.apple.com/join/vkFytBaz](https://testflight.apple.com/join/vkFytBaz) | Y | 2026-11-20 |
 | Loane – Coach de vie &amp; Journal | [https://testflight.apple.com/join/6Mmry4w4](https://testflight.apple.com/join/6Mmry4w4) | Y | 2026-10-12 |
 | Loopalette | [https://testflight.apple.com/join/8Du8Jr5r](https://testflight.apple.com/join/8Du8Jr5r) | Y | 2026-09-22 |
 | Lupora | [https://testflight.apple.com/join/zjj57upc](https://testflight.apple.com/join/zjj57upc) | Y | 2026-08-24 |
