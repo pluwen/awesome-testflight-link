@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (287 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (288 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 287 apps are currently accepting new testers! Click the links to join._
+_✅ These 288 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -137,6 +137,7 @@ _✅ These 287 apps are currently accepting new testers! Click the links to join
 | Kintoun for Cloudflare | [https://testflight.apple.com/join/vHkRCZEy](https://testflight.apple.com/join/vHkRCZEy) | Y | 2026-04-15 |
 | Kodi Remote beta | [https://testflight.apple.com/join/VQkpfqDN](https://testflight.apple.com/join/VQkpfqDN) | Y | 2025-12-22 |
 | La Terminal: Mosh &amp; SSH Client | [https://testflight.apple.com/join/cpPS8YnX](https://testflight.apple.com/join/cpPS8YnX) | Y | 2026-08-24 |
+| Lanewall: Merge Tower Defense | [https://testflight.apple.com/join/75k7dhRt](https://testflight.apple.com/join/75k7dhRt) | Y | 2026-11-20 |
 | Larari | [https://testflight.apple.com/join/mWfCau5D](https://testflight.apple.com/join/mWfCau5D) | Y | 2026-10-20 |
 | Lenna - Video Library Player | [https://testflight.apple.com/join/bExxpaX1](https://testflight.apple.com/join/bExxpaX1) | Y | 2026-07-22 |
 | Life Metro | [https://testflight.apple.com/join/xcNYxzp1](https://testflight.apple.com/join/xcNYxzp1) | Y | 2026-10-06 |
