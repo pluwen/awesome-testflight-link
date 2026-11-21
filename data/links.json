@@ -925,11 +925,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-20"
+      "last_modify": "2026-11-21"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1437,11 +1437,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-21"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2093,11 +2093,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-26"
+      "last_modify": "2026-11-21"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -3543,11 +3543,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-18"
+      "last_modify": "2026-11-21"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4415,11 +4415,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07"
+      "last_modify": "2026-11-21"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -5041,11 +5041,11 @@
     },
     "P5UOcDLa": {
       "app_name": "QR File Transfer",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-11-21"
     },
     "syX6IOJF": {
       "app_name": "Life360: Find Friends & Family beta",
@@ -5305,11 +5305,11 @@
     },
     "JaRYx1fE": {
       "app_name": "FM Radio x Radddio App",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-20"
+      "last_modify": "2026-11-21"
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
@@ -5777,11 +5777,11 @@
     },
     "GgBqXAqm": {
       "app_name": "百度贴吧",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-21"
+      "last_modify": "2026-11-21"
     },
     "TX83Mn7J": {
       "app_name": "知乎",
@@ -5913,11 +5913,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-09"
+      "last_modify": "2026-11-21"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -6227,11 +6227,11 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-11-20"
+      "last_modify": "2026-11-21"
     },
     "2xC6J4zN": {
       "app_name": "TP-Link Deco",
@@ -7329,11 +7329,11 @@
     },
     "VNduyVTG": {
       "app_name": "OldOS 17",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-13"
+      "last_modify": "2026-11-21"
     },
     "yYr8c38A": {
       "app_name": "Merixa",
