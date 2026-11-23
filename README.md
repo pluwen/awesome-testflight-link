@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (292 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (293 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 292 apps are currently accepting new testers! Click the links to join._
+_✅ These 293 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -216,6 +216,7 @@ _✅ These 292 apps are currently accepting new testers! Click the links to join
 | RocketChat | [https://testflight.apple.com/join/3gcYeoMr](https://testflight.apple.com/join/3gcYeoMr) | Y | 2025-12-22 |
 | Ruuvi Station | [https://testflight.apple.com/join/loHFrEV1](https://testflight.apple.com/join/loHFrEV1) | Y | 2025-12-22 |
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
+| Scoreboard Pickleball: Netola | [https://testflight.apple.com/join/qYCvQqRz](https://testflight.apple.com/join/qYCvQqRz) | Y | 2026-11-23 |
 | Scripture Gems | [https://testflight.apple.com/join/Hc6VXpGF](https://testflight.apple.com/join/Hc6VXpGF) | Y | 2026-09-30 |
 | Shadow PC beta | [https://testflight.apple.com/join/PxpSW79P](https://testflight.apple.com/join/PxpSW79P) | Y | 2026-11-10 |
 | SHARE NOW (car2go & DriveNow) | [https://testflight.apple.com/join/1SsBDNCj](https://testflight.apple.com/join/1SsBDNCj) | Y | 2025-12-22 |
