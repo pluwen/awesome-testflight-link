@@ -117,11 +117,11 @@
     },
     "KjmVWFnT": {
       "app_name": "1Blocker",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-25"
+      "last_modify": "2026-11-23"
     },
     "flDiG5AU": {
       "app_name": "1Password - Password Manager",
@@ -2093,11 +2093,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-22"
+      "last_modify": "2026-11-23"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -2357,11 +2357,11 @@
     },
     "i4g2QrrG": {
       "app_name": "NOS",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-25"
+      "last_modify": "2026-11-23"
     },
     "DGHcr3A1": {
       "app_name": "NoSeen for Facebook Messenger",
@@ -2829,12 +2829,12 @@
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-11-22"
+      "last_modify": "2026-11-23"
     },
     "B4BYAvTy": {
       "app_name": "Quiz Viajero",
@@ -2854,11 +2854,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-20"
+      "last_modify": "2026-11-23"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -2902,11 +2902,11 @@
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-09"
+      "last_modify": "2026-11-23"
     },
     "iow1BtFD": {
       "app_name": "REAL Shuffle Player PRO",
@@ -3366,12 +3366,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-11-04"
+      "last_modify": "2026-11-23"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -4271,11 +4271,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-06"
+      "last_modify": "2026-11-23"
     },
     "X28MEDeC": {
       "app_name": "Hashtag: Tags For Instagram",
@@ -4969,11 +4969,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-22"
+      "last_modify": "2026-11-23"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5185,11 +5185,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-22"
+      "last_modify": "2026-11-23"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -6276,11 +6276,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-22"
+      "last_modify": "2026-11-23"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6341,11 +6341,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-23"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6458,13 +6458,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-11-20"
+      "last_modify": "2026-11-23"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
