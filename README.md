@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (289 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (290 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 289 apps are currently accepting new testers! Click the links to join._
+_✅ These 290 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -191,6 +191,7 @@ _✅ These 289 apps are currently accepting new testers! Click the links to join
 | PDF Viewer Pro by PSPDFKit | [https://testflight.apple.com/join/6IMUtZ8n](https://testflight.apple.com/join/6IMUtZ8n) | Y | 2026-05-06 |
 | Pigeon | [https://testflight.apple.com/join/fQQrtZMS](https://testflight.apple.com/join/fQQrtZMS) | Y | 2026-10-11 |
 | Pingroom | [https://testflight.apple.com/join/UW186HBe](https://testflight.apple.com/join/UW186HBe) | Y | 2026-06-23 |
+| Pladomus | [https://testflight.apple.com/join/rWyGT7nt](https://testflight.apple.com/join/rWyGT7nt) | Y | 2026-11-23 |
 | Plant Identifier & Care | [https://testflight.apple.com/join/vYqAc3Lf](https://testflight.apple.com/join/vYqAc3Lf) | Y | 2026-10-24 |
 | Plate: Food Diary | [https://testflight.apple.com/join/yvqYQcWq](https://testflight.apple.com/join/yvqYQcWq) | Y | 2026-10-26 |
 | Potatso | [https://testflight.apple.com/join/NkF46PRd](https://testflight.apple.com/join/NkF46PRd) | Y | 2026-10-16 |
