@@ -1141,9 +1141,9 @@ _⚠️ These 4 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (21 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (22 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 21 apps are currently accepting new testers! Click the links to join._
+_✅ These 22 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1153,6 +1153,7 @@ _✅ These 21 apps are currently accepting new testers! Click the links to join.
 | Caffeine Utility | [https://testflight.apple.com/join/WHIbsose](https://testflight.apple.com/join/WHIbsose) | Y | 2026-11-12 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
 | CaptainLocalAI | [https://testflight.apple.com/join/FVkFHKT6](https://testflight.apple.com/join/FVkFHKT6) | Y | 2026-06-18 |
+| Conduit | [https://testflight.apple.com/join/eyB4vE8p](https://testflight.apple.com/join/eyB4vE8p) | Y | 2026-11-23 |
 | Cuterdio - Internet Radio | [https://testflight.apple.com/join/3zVoYTjL](https://testflight.apple.com/join/3zVoYTjL) | Y | 2026-11-04 |
 | Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2026-09-19 |
 | Distill Player | [https://testflight.apple.com/join/TkBNQZP2](https://testflight.apple.com/join/TkBNQZP2) | Y | 2026-02-02 |

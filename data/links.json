@@ -8307,6 +8307,14 @@
         "ios"
       ],
       "last_modify": "2026-11-23"
+    },
+    "eyB4vE8p": {
+      "app_name": "Conduit",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-11-23"
     }
   }
 }
