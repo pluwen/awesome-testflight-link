@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (290 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (291 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 290 apps are currently accepting new testers! Click the links to join._
+_✅ These 291 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -145,6 +145,7 @@ _✅ These 290 apps are currently accepting new testers! Click the links to join
 | Loane – Coach de vie &amp; Journal | [https://testflight.apple.com/join/6Mmry4w4](https://testflight.apple.com/join/6Mmry4w4) | Y | 2026-10-12 |
 | Loopalette | [https://testflight.apple.com/join/8Du8Jr5r](https://testflight.apple.com/join/8Du8Jr5r) | Y | 2026-09-22 |
 | Lupora | [https://testflight.apple.com/join/zjj57upc](https://testflight.apple.com/join/zjj57upc) | Y | 2026-08-24 |
+| MacroDaily: Calories &amp; Macros | [https://testflight.apple.com/join/KpMbapsP](https://testflight.apple.com/join/KpMbapsP) | Y | 2026-11-23 |
 | Mastodon | [https://testflight.apple.com/join/ebSjPU84](https://testflight.apple.com/join/ebSjPU84) | Y | 2025-12-22 |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2025-12-22 |
 | Me@Walmart | [https://testflight.apple.com/join/bqo4smK7](https://testflight.apple.com/join/bqo4smK7) | Y | 2025-12-22 |
