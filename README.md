@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (293 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (294 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 293 apps are currently accepting new testers! Click the links to join._
+_✅ These 294 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -77,6 +77,7 @@ _✅ These 293 apps are currently accepting new testers! Click the links to join
 | Drippi: Liquid Timer | [https://testflight.apple.com/join/k4JX7jYx](https://testflight.apple.com/join/k4JX7jYx) | Y | 2026-01-30 |
 | Dropbox | [https://testflight.apple.com/join/LBZaRq4I](https://testflight.apple.com/join/LBZaRq4I) | Y | 2026-02-28 |
 | DS Music - Synology群晖NAS音乐播放器 | [https://testflight.apple.com/join/A4iGyH2H](https://testflight.apple.com/join/A4iGyH2H) | Y | 2026-06-04 |
+| DuetFlow: Tasks for Two | [https://testflight.apple.com/join/DFBEKGJH](https://testflight.apple.com/join/DFBEKGJH) | Y | 2026-11-23 |
 | DuoPoint | [https://testflight.apple.com/join/PQxKkGn8](https://testflight.apple.com/join/PQxKkGn8) | Y | 2026-11-13 |
 | Easy List Plan | [https://testflight.apple.com/join/7qcqzkuD](https://testflight.apple.com/join/7qcqzkuD) | Y | 2026-06-03 |
 | EchoDrop | [https://testflight.apple.com/join/42j8T4ns](https://testflight.apple.com/join/42j8T4ns) | Y | 2026-08-24 |
@@ -1063,9 +1064,9 @@ _⚠️ These 79 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (35 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (36 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 35 apps are currently accepting new testers! Click the links to join._
+_✅ These 36 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1079,6 +1080,7 @@ _✅ These 35 apps are currently accepting new testers! Click the links to join.
 | Deepheart: Idle Dwarf Mine | [https://testflight.apple.com/join/Q8edByvN](https://testflight.apple.com/join/Q8edByvN) | Y | 2026-10-23 |
 | DocMate Suite | [https://testflight.apple.com/join/6dAXtmt3](https://testflight.apple.com/join/6dAXtmt3) | Y | 2026-11-01 |
 | Downcast | [https://testflight.apple.com/join/81Geh1jh](https://testflight.apple.com/join/81Geh1jh) | Y | 2026-05-10 |
+| DuetFlow: Tasks for Two | [https://testflight.apple.com/join/DFBEKGJH](https://testflight.apple.com/join/DFBEKGJH) | Y | 2026-11-23 |
 | Ellie - Daily Planner | [https://testflight.apple.com/join/mX1G5TQi](https://testflight.apple.com/join/mX1G5TQi) | Y | 2026-02-02 |
 | FaithVoice | [https://testflight.apple.com/join/ypzb4Npw](https://testflight.apple.com/join/ypzb4Npw) | Y | 2026-08-14 |
 | Generator Tracker: Run Hours | [https://testflight.apple.com/join/wZcGdJar](https://testflight.apple.com/join/wZcGdJar) | Y | 2026-10-22 |
@@ -1145,9 +1147,9 @@ _⚠️ These 4 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (23 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (24 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 23 apps are currently accepting new testers! Click the links to join._
+_✅ These 24 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1162,6 +1164,7 @@ _✅ These 23 apps are currently accepting new testers! Click the links to join.
 | Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | Y | 2026-09-19 |
 | Distill Player | [https://testflight.apple.com/join/TkBNQZP2](https://testflight.apple.com/join/TkBNQZP2) | Y | 2026-02-02 |
 | Dropover - Easier Drag &amp; Drop | [https://testflight.apple.com/join/vI2iTOSj](https://testflight.apple.com/join/vI2iTOSj) | Y | 2026-06-04 |
+| DuetFlow: Tasks for Two | [https://testflight.apple.com/join/DFBEKGJH](https://testflight.apple.com/join/DFBEKGJH) | Y | 2026-11-23 |
 | Headphone Control – ANC &amp; EQ | [https://testflight.apple.com/join/e7S1TqA1](https://testflight.apple.com/join/e7S1TqA1) | Y | 2026-11-16 |
 | Home Assistant | [https://testflight.apple.com/join/1AlPbnLZ](https://testflight.apple.com/join/1AlPbnLZ) | Y | 2026-11-20 |
 | Monal - XMPP Chatting | [https://testflight.apple.com/join/tGH2m5vf](https://testflight.apple.com/join/tGH2m5vf) | Y | 2025-12-22 |

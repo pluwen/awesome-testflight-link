@@ -8341,6 +8341,16 @@
         "ios"
       ],
       "last_modify": "2026-11-23"
+    },
+    "DFBEKGJH": {
+      "app_name": "DuetFlow: Tasks for Two",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos"
+      ],
+      "last_modify": "2026-11-23"
     }
   }
 }
