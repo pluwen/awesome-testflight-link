@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (291 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (292 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 291 apps are currently accepting new testers! Click the links to join._
+_✅ These 292 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -190,6 +190,7 @@ _✅ These 291 apps are currently accepting new testers! Click the links to join
 | Parcel - Delivery Tracking | [https://testflight.apple.com/join/fMeg6C4A](https://testflight.apple.com/join/fMeg6C4A) | Y | 2025-12-22 |
 | PCalc | [https://testflight.apple.com/join/qCCdSLT1](https://testflight.apple.com/join/qCCdSLT1) | Y | 2026-11-10 |
 | PDF Viewer Pro by PSPDFKit | [https://testflight.apple.com/join/6IMUtZ8n](https://testflight.apple.com/join/6IMUtZ8n) | Y | 2026-05-06 |
+| Phaneia | [https://testflight.apple.com/join/HD9pr6eH](https://testflight.apple.com/join/HD9pr6eH) | Y | 2026-11-23 |
 | Pigeon | [https://testflight.apple.com/join/fQQrtZMS](https://testflight.apple.com/join/fQQrtZMS) | Y | 2026-10-11 |
 | Pingroom | [https://testflight.apple.com/join/UW186HBe](https://testflight.apple.com/join/UW186HBe) | Y | 2026-06-23 |
 | Pladomus | [https://testflight.apple.com/join/rWyGT7nt](https://testflight.apple.com/join/rWyGT7nt) | Y | 2026-11-23 |
@@ -1061,9 +1062,9 @@ _⚠️ These 79 apps have reached their tester limit. Try checking back later._
 ## iPadOS App List
 
 <details open>
-<summary><strong>Available (34 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (35 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 34 apps are currently accepting new testers! Click the links to join._
+_✅ These 35 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1092,6 +1093,7 @@ _✅ These 34 apps are currently accepting new testers! Click the links to join.
 | NutriKit | [https://testflight.apple.com/join/wDvG9Myt](https://testflight.apple.com/join/wDvG9Myt) | Y | 2026-10-28 |
 | Oxbit | [https://testflight.apple.com/join/P2WqdUYS](https://testflight.apple.com/join/P2WqdUYS) | Y | 2026-10-06 |
 | PCalc | [https://testflight.apple.com/join/qCCdSLT1](https://testflight.apple.com/join/qCCdSLT1) | Y | 2026-11-10 |
+| Phaneia | [https://testflight.apple.com/join/HD9pr6eH](https://testflight.apple.com/join/HD9pr6eH) | Y | 2026-11-23 |
 | Spohad | [https://testflight.apple.com/join/TBxWaPBr](https://testflight.apple.com/join/TBxWaPBr) | Y | 2026-10-14 |
 | Starlight VPN | [https://testflight.apple.com/join/VfQwnC67](https://testflight.apple.com/join/VfQwnC67) | Y | 2026-08-03 |
 | Sudoku Mori: Daily Puzzles | [https://testflight.apple.com/join/urXcQG8n](https://testflight.apple.com/join/urXcQG8n) | Y | 2026-10-30 |
@@ -1142,9 +1144,9 @@ _⚠️ These 4 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (22 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (23 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 22 apps are currently accepting new testers! Click the links to join._
+_✅ These 23 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -1164,6 +1166,7 @@ _✅ These 22 apps are currently accepting new testers! Click the links to join.
 | Monal - XMPP Chatting | [https://testflight.apple.com/join/tGH2m5vf](https://testflight.apple.com/join/tGH2m5vf) | Y | 2025-12-22 |
 | Nexus Shell | [https://testflight.apple.com/join/y1F6h3wR](https://testflight.apple.com/join/y1F6h3wR) | Y | 2026-11-08 |
 | NPMusic | [https://testflight.apple.com/join/BzeDCYX4](https://testflight.apple.com/join/BzeDCYX4) | Y | 2026-08-31 |
+| Phaneia | [https://testflight.apple.com/join/HD9pr6eH](https://testflight.apple.com/join/HD9pr6eH) | Y | 2026-11-23 |
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
 | Screen Mirror and Control | [https://testflight.apple.com/join/zlnbGVKx](https://testflight.apple.com/join/zlnbGVKx) | Y | 2026-04-02 |
 | Starlight VPN | [https://testflight.apple.com/join/VfQwnC67](https://testflight.apple.com/join/VfQwnC67) | Y | 2026-08-03 |

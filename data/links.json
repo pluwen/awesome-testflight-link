@@ -8323,6 +8323,16 @@
         "ios"
       ],
       "last_modify": "2026-11-23"
+    },
+    "HD9pr6eH": {
+      "app_name": "Phaneia",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados",
+        "macos"
+      ],
+      "last_modify": "2026-11-23"
     }
   }
 }
