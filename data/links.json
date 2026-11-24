@@ -117,11 +117,11 @@
     },
     "KjmVWFnT": {
       "app_name": "1Blocker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-23"
+      "last_modify": "2026-11-24"
     },
     "flDiG5AU": {
       "app_name": "1Password - Password Manager",
@@ -1077,11 +1077,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-20"
+      "last_modify": "2026-11-24"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1749,11 +1749,11 @@
     },
     "In6e3GcJ": {
       "app_name": "infltr - Infinite Filters",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-09"
+      "last_modify": "2026-11-24"
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
@@ -2902,11 +2902,11 @@
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-23"
+      "last_modify": "2026-11-24"
     },
     "iow1BtFD": {
       "app_name": "REAL Shuffle Player PRO",
@@ -3150,11 +3150,11 @@
     },
     "8FHtd1Jq": {
       "app_name": "Signal - Private Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-24"
     },
     "Zm4lMILC": {
       "app_name": "SIMO : MATLAB programming app",
@@ -4807,11 +4807,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-24"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -4895,11 +4895,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-24"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -5185,11 +5185,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-23"
+      "last_modify": "2026-11-24"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5217,11 +5217,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-24"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -5409,11 +5409,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-24"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -5913,11 +5913,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl. beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-21"
+      "last_modify": "2026-11-24"
     },
     "R5FNGUl3": {
       "app_name": "QQ beta",
@@ -5937,11 +5937,11 @@
     },
     "IOgbaxds": {
       "app_name": "酷狗概念版",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-01"
+      "last_modify": "2026-11-24"
     },
     "Ioh7cC6o": {
       "app_name": "flomo浮墨",
@@ -6057,11 +6057,11 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23"
+      "last_modify": "2026-11-24"
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
