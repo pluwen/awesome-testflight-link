@@ -8351,6 +8351,14 @@
         "macos"
       ],
       "last_modify": "2026-11-23"
+    },
+    "6jNjRJ9e": {
+      "app_name": "Ampena",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-11-25"
     }
   }
 }
