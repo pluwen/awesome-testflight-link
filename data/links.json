@@ -1077,11 +1077,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-24"
+      "last_modify": "2026-11-25"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1357,11 +1357,11 @@
     },
     "tJu81Sch": {
       "app_name": "Gaming for Peace-GAP",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-23"
+      "last_modify": "2026-11-25"
     },
     "fdJQnYQ2": {
       "app_name": "Garadget 2",
@@ -2854,11 +2854,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-23"
+      "last_modify": "2026-11-25"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -4895,11 +4895,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-24"
+      "last_modify": "2026-11-25"
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
@@ -4969,11 +4969,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-23"
+      "last_modify": "2026-11-25"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5185,11 +5185,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-24"
+      "last_modify": "2026-11-25"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5217,11 +5217,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-24"
+      "last_modify": "2026-11-25"
     },
     "lCeTuDKM": {
       "app_name": "Element Messenger",
@@ -6458,13 +6458,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-11-23"
+      "last_modify": "2026-11-25"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
@@ -6825,11 +6825,11 @@
     },
     "XkGKTA71": {
       "app_name": "小红书 – 世界杯直播",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-20"
+      "last_modify": "2026-11-25"
     },
     "wAYQpuS6": {
       "app_name": "唱吧",
@@ -6881,11 +6881,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-25"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7207,12 +7207,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-25"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
@@ -7337,11 +7337,11 @@
     },
     "yYr8c38A": {
       "app_name": "Merixa",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-11-25"
     },
     "5MqUeG59": {
       "app_name": "ShoutLine!",
@@ -7521,11 +7521,11 @@
     },
     "QEGVeTvn": {
       "app_name": "Cerebri",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11"
+      "last_modify": "2026-11-25"
     },
     "52QAEXp5": {
       "app_name": "Ferry : RSS Reader",
@@ -7857,12 +7857,12 @@
     },
     "ZCYJDb5z": {
       "app_name": "ZenMark",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios",
         "macos"
       ],
-      "last_modify": "2026-10-06"
+      "last_modify": "2026-11-25"
     },
     "rtB31QbP": {
       "app_name": "Jigwell: Private Tools",
