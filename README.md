@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (298 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (299 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 298 apps are currently accepting new testers! Click the links to join._
+_✅ These 299 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -217,6 +217,7 @@ _✅ These 298 apps are currently accepting new testers! Click the links to join
 | RepLytics | [https://testflight.apple.com/join/ReeDUsGp](https://testflight.apple.com/join/ReeDUsGp) | Y | 2026-04-21 |
 | Revolut - Radically Better | [https://testflight.apple.com/join/oqrinjQB](https://testflight.apple.com/join/oqrinjQB) | Y | 2025-12-22 |
 | Reword Game | [https://testflight.apple.com/join/7B6CMRnZ](https://testflight.apple.com/join/7B6CMRnZ) | Y | 2026-08-24 |
+| RingMeAwake | [https://testflight.apple.com/join/yhx87DFX](https://testflight.apple.com/join/yhx87DFX) | Y | 2026-11-25 |
 | RocketChat | [https://testflight.apple.com/join/3gcYeoMr](https://testflight.apple.com/join/3gcYeoMr) | Y | 2025-12-22 |
 | Ruuvi Station | [https://testflight.apple.com/join/loHFrEV1](https://testflight.apple.com/join/loHFrEV1) | Y | 2025-12-22 |
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
