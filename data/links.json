@@ -1077,11 +1077,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-25"
+      "last_modify": "2026-11-26"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1357,11 +1357,11 @@
     },
     "tJu81Sch": {
       "app_name": "Gaming for Peace-GAP",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-25"
+      "last_modify": "2026-11-26"
     },
     "fdJQnYQ2": {
       "app_name": "Garadget 2",
@@ -1781,11 +1781,11 @@
     },
     "6JbjYbSY": {
       "app_name": "Jira Server by Atlassian",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-12"
+      "last_modify": "2026-11-26"
     },
     "Lw2oQr4I": {
       "app_name": "Jobamax",
@@ -4969,11 +4969,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-25"
+      "last_modify": "2026-11-26"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5953,11 +5953,11 @@
     },
     "ZILJgZhU": {
       "app_name": "抖音",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-26"
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
@@ -6049,11 +6049,11 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-26"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -6341,11 +6341,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-23"
+      "last_modify": "2026-11-26"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6458,13 +6458,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-11-25"
+      "last_modify": "2026-11-26"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
@@ -6558,11 +6558,11 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-18"
+      "last_modify": "2026-11-26"
     },
     "m2kxP5cw": {
       "app_name": "Notion AI",
@@ -6801,11 +6801,11 @@
     },
     "sx61JrRC": {
       "app_name": "抖音",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-26"
     },
     "e86oEq6r": {
       "app_name": "微泰动态",
@@ -6881,11 +6881,11 @@
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-25"
+      "last_modify": "2026-11-26"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7079,11 +7079,11 @@
     },
     "zBH718yX": {
       "app_name": "Airtxt",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-13"
+      "last_modify": "2026-11-26"
     },
     "EGSsGRn7": {
       "app_name": "CoMaps",
@@ -7207,12 +7207,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-25"
+      "last_modify": "2026-11-26"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
