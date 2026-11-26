@@ -1149,15 +1149,16 @@ _⚠️ These 3 apps have reached their tester limit. Try checking back later._
 ## macOS App List
 
 <details open>
-<summary><strong>Available (23 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (24 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 23 apps are currently accepting new testers! Click the links to join._
+_✅ These 24 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
 | AudioRoo | [https://testflight.apple.com/join/JCFgBW83](https://testflight.apple.com/join/JCFgBW83) | Y | 2026-08-12 |
 | AutoMounter | [https://testflight.apple.com/join/D2t2SGg9](https://testflight.apple.com/join/D2t2SGg9) | Y | 2026-09-04 |
 | BITNA 빛나 | [https://testflight.apple.com/join/zgHcm9wz](https://testflight.apple.com/join/zgHcm9wz) | Y | 2026-11-16 |
+| Blackbird Text | [https://testflight.apple.com/join/Wm7SvvG9](https://testflight.apple.com/join/Wm7SvvG9) | Y | 2026-11-26 |
 | Caffeine Utility | [https://testflight.apple.com/join/WHIbsose](https://testflight.apple.com/join/WHIbsose) | Y | 2026-11-12 |
 | Cali Pages | [https://testflight.apple.com/join/fV1dvwAq](https://testflight.apple.com/join/fV1dvwAq) | Y | 2026-06-03 |
 | CaptainLocalAI | [https://testflight.apple.com/join/FVkFHKT6](https://testflight.apple.com/join/FVkFHKT6) | Y | 2026-06-18 |

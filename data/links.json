@@ -8367,6 +8367,14 @@
         "ios"
       ],
       "last_modify": "2026-11-25"
+    },
+    "Wm7SvvG9": {
+      "app_name": "Blackbird Text",
+      "status": "Y",
+      "tables": [
+        "macos"
+      ],
+      "last_modify": "2026-11-26"
     }
   }
 }
