@@ -1077,11 +1077,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-26"
+      "last_modify": "2026-11-27"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -3927,11 +3927,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-14"
+      "last_modify": "2026-11-27"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -6057,11 +6057,11 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-24"
+      "last_modify": "2026-11-27"
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
@@ -6211,11 +6211,11 @@
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-11-27"
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
@@ -6424,12 +6424,12 @@
     },
     "81Geh1jh": {
       "app_name": "Downcast",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-10"
+      "last_modify": "2026-11-27"
     },
     "xZR12ufn": {
       "app_name": "Overdue: another to-do app",
@@ -6865,11 +6865,11 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-11"
+      "last_modify": "2026-11-27"
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
@@ -7207,12 +7207,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-26"
+      "last_modify": "2026-11-27"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
@@ -7417,11 +7417,11 @@
     },
     "RXCX9hyK": {
       "app_name": "Grok Usage",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-11-27"
     },
     "DQJN8q27": {
       "app_name": "Grove: Run &amp; Walk",
@@ -7706,12 +7706,12 @@
     },
     "eCSAAcQF": {
       "app_name": "Glimshelf",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-11-27"
     },
     "ze5Bhrkc": {
       "app_name": "Burden: Purchase Check",
