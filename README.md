@@ -25,9 +25,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (293 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (294 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 293 apps are currently accepting new testers! Click the links to join._
+_✅ These 294 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -42,6 +42,7 @@ _✅ These 293 apps are currently accepting new testers! Click the links to join
 | Anvil – Offline AI Assistant | [https://testflight.apple.com/join/5JGCZpxt](https://testflight.apple.com/join/5JGCZpxt) | Y | 2026-10-09 |
 | AnyList | [https://testflight.apple.com/join/xwvLPc6o](https://testflight.apple.com/join/xwvLPc6o) | Y | 2025-12-22 |
 | AtlasTracker Beta | [https://testflight.apple.com/join/aqwYxxbt](https://testflight.apple.com/join/aqwYxxbt) | Y | 2026-11-20 |
+| AURIGA: Chariot Racing | [https://testflight.apple.com/join/2vZxD2HX](https://testflight.apple.com/join/2vZxD2HX) | Y | 2026-11-27 |
 | Avec: Best way to write emails | [https://testflight.apple.com/join/3JR2HxjZ](https://testflight.apple.com/join/3JR2HxjZ) | Y | 2026-08-25 |
 | Ballista | [https://testflight.apple.com/join/ctFQwm3w](https://testflight.apple.com/join/ctFQwm3w) | Y | 2026-08-24 |
 | BidBloom | [https://testflight.apple.com/join/wkgFgnUu](https://testflight.apple.com/join/wkgFgnUu) | Y | 2026-08-24 |
