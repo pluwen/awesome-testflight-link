@@ -181,11 +181,11 @@
     },
     "fZRiD1zt": {
       "app_name": "AdGuard VPN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19"
+      "last_modify": "2026-11-28"
     },
     "NXxMcB4Y": {
       "app_name": "Aerivo",
@@ -1189,11 +1189,11 @@
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-06"
+      "last_modify": "2026-11-28"
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
@@ -3366,12 +3366,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-11-23"
+      "last_modify": "2026-11-28"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -3927,11 +3927,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-27"
+      "last_modify": "2026-11-28"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -4271,11 +4271,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-23"
+      "last_modify": "2026-11-28"
     },
     "X28MEDeC": {
       "app_name": "Hashtag: Tags For Instagram",
@@ -4303,11 +4303,11 @@
     },
     "7sus3M6q": {
       "app_name": "Newsbite",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-09"
+      "last_modify": "2026-11-28"
     },
     "ruyYHU5E": {
       "app_name": "Flipabit",
@@ -4751,11 +4751,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-20"
+      "last_modify": "2026-11-28"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -5057,11 +5057,11 @@
     },
     "PxpSW79P": {
       "app_name": "Shadow PC beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-10"
+      "last_modify": "2026-11-28"
     },
     "TFhYeUyJ": {
       "app_name": "AliExpress - Shopping App beta",
@@ -6049,19 +6049,19 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-26"
+      "last_modify": "2026-11-28"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-27"
+      "last_modify": "2026-11-28"
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
@@ -6341,11 +6341,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-26"
+      "last_modify": "2026-11-28"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -7207,12 +7207,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-27"
+      "last_modify": "2026-11-28"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
@@ -7828,7 +7828,7 @@
     },
     "jTWDHuZE": {
       "app_name": "Yattee",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
@@ -7836,7 +7836,7 @@
         "tvos",
         "visionos"
       ],
-      "last_modify": "2026-11-22"
+      "last_modify": "2026-11-28"
     },
     "P2WqdUYS": {
       "app_name": "Oxbit",
